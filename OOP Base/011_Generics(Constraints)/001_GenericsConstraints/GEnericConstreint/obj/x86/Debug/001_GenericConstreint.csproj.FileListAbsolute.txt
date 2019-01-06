@@ -1,0 +1,2 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.pdb

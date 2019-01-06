@@ -1,0 +1,51 @@
+D:\Events\TimerEvents\bin\Debug\TimerEvents.exe
+D:\Events\TimerEvents\bin\Debug\TimerEvents.pdb
+D:\Events\TimerEvents\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Events\TimerEvents\obj\x86\Debug\TimerEvents.Form1.resources
+D:\Events\TimerEvents\obj\x86\Debug\TimerEvents.Properties.Resources.resources
+D:\Events\TimerEvents\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Events\TimerEvents\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Events\TimerEvents\obj\x86\Debug\TimerEvents.exe
+D:\Events\TimerEvents\obj\x86\Debug\TimerEvents.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Form1.resources
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Properties.Resources.resources
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\002_Events\TimerEvents\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Form1.resources
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Properties.Resources.resources
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\002_Events\TimerEvents\obj\x86\Debug\002_Timer.csproj.GenerateResource.Cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Form1.resources
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Properties.Resources.resources
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\002_Events\TimerEvents\obj\x86\Debug\002_Timer.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Form1.resources
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Properties.Resources.resources
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\002_Timer.csproj.GenerateResource.Cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\bin\Debug\TimerEvents.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Form1.resources
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.Properties.Resources.resources
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\002_Timer.csproj.GenerateResource.Cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\TimerEvents.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\002_Events\TimerEvents\obj\x86\Debug\002_Timer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\007_Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\007_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.pdb

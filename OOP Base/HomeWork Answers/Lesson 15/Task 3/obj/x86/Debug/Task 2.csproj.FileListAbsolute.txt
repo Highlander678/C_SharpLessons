@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 2\bin\Debug\Task 2.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 2\obj\x86\Debug\Task 2.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 2\obj\x86\Debug\Task 2.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Task 2\obj\x86\Debug\Task 2.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Task 2\obj\x86\Debug\Task 2.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Task 2\bin\Debug\Task 2.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 16\Task 2\obj\x86\Debug\Task 2.pdb

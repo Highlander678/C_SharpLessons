@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads3\bin\Release\Threads3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads3\bin\Release\Threads3.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads3\obj\x86\Release\Threads3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads3\obj\x86\Release\Threads3.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads3\bin\Release\Threads3.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads3\bin\Release\Threads3.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads3\obj\x86\Release\003_Threads.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads3\obj\x86\Release\Threads3.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads3\obj\x86\Release\Threads3.pdb

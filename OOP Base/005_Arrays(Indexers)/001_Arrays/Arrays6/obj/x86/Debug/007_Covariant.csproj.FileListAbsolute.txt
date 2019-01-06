@@ -1,0 +1,24 @@
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\007_Covariant.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\005_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\005_Arrays(Indexers)\001_Arrays\Arrays6\bin\Debug\Arrays.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\005_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\007_Covariant.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\005_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\007_Covariant.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\005_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\005_Arrays(Indexers)\001_Arrays\Arrays6\obj\x86\Debug\Arrays.pdb

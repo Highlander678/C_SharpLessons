@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection2\bin\Release\CriticalSection2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection2\bin\Release\CriticalSection2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection2\obj\x86\Release\CriticalSection2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection2\obj\x86\Release\CriticalSection2.pdb

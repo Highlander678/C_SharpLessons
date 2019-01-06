@@ -1,0 +1,9 @@
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericConstreint\bin\Debug\GEnericConstreint.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericConstreint\bin\Debug\GEnericConstreint.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericConstreint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericConstreint\obj\x86\Debug\GEnericConstreint.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericConstreint\obj\x86\Debug\GEnericConstreint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\011_GEnericNew To PROFESSIONAL\GEnericConstreint\obj\x86\Debug\GEnericConstreint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\011_GEnericNew To PROFESSIONAL\GEnericConstreint\obj\x86\Debug\GEnericConstreint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.pdb

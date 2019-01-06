@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\bin\Release\Structure2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\bin\Release\Structure2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\obj\x86\Release\Structure2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\obj\x86\Release\Structure2.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\bin\Release\Structure2.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\bin\Release\Structure2.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\obj\x86\Release\Structure2.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure2\obj\x86\Release\Structure2.pdb

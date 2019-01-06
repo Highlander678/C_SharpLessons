@@ -1,0 +1,32 @@
+D:\InterIEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 5\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\LESSONS STEP 1 GROUP\LESSON 5\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 5\InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\LESSONS STEP 1 GROUP\LESSON 5\InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 5\InterIEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 005\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\LESSONS STEP 1 GROUP\LESSON 005\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 005\InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\LESSONS STEP 1 GROUP\LESSON 005\InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 005\InterIEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\DEVELOP\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\DEVELOP\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\DEVELOP\InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\DEVELOP\InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\DEVELOP\InterIEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\UserCollections\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\UserCollections\InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_InterIEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_InterIEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_InterIEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_IEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\LESSONS STEP 1 GROUP\LESSON 027\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb

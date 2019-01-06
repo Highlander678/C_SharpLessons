@@ -1,0 +1,22 @@
+D:\IEYield\Yield4\bin\Debug\Yield4.exe
+D:\IEYield\Yield4\bin\Debug\Yield4.pdb
+D:\IEYield\Yield4\obj\Debug\ResolveAssemblyReference.cache
+D:\IEYield\Yield4\obj\Debug\Yield4.exe
+D:\IEYield\Yield4\obj\Debug\Yield4.pdb
+C:\Users\Student\Desktop\Download\IEYield\Yield4\obj\Debug\Yield4.exe
+C:\Users\Student\Desktop\Download\IEYield\Yield4\obj\Debug\Yield4.pdb
+C:\Users\Student\Desktop\Download\IEYield\Yield4\bin\Debug\Yield4.exe
+C:\Users\Student\Desktop\Download\IEYield\Yield4\bin\Debug\Yield4.pdb
+C:\Users\Student\Desktop\Download\IEYield\Yield4\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield4\obj\Debug\Yield4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield4\obj\Debug\Yield4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield4\bin\Debug\Yield4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield4\bin\Debug\Yield4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield4\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield4\obj\Debug\Yield4.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield4\obj\Debug\Yield4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield4\bin\Debug\Yield4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield4\bin\Debug\Yield4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield4\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield4\obj\Debug\Yield4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield4\obj\Debug\Yield4.pdb

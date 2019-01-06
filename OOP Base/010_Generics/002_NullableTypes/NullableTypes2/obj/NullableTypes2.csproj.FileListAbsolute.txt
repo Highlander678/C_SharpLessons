@@ -1,0 +1,5 @@
+D:\NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.exe
+D:\NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.pdb
+D:\NullableTypes\NullableTypes2\obj\Debug\ResolveAssemblyReference.cache
+D:\NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.exe
+D:\NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.pdb

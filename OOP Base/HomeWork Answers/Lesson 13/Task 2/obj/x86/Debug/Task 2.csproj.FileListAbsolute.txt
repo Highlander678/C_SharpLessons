@@ -1,0 +1,26 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 14\Task 2\bin\Debug\Task 2.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 14\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 14\Task 2\obj\x86\Debug\Task 2.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 14\Task 2\obj\x86\Debug\Task 2.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 14\Task 2\bin\Debug\Task 2.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 14\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 14\Task 2\obj\x86\Debug\Task 2.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 14\Task 2\obj\x86\Debug\Task 2.pdb
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 14\Task 2\obj\x86\Debug\Task 2.exe
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 14\Task 2\obj\x86\Debug\Task 2.pdb
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 14\Task 2\bin\Debug\Task 2.exe
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 14\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 14\Task 2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rab Stol\Новая папка\Lesson 14\Task 2\obj\x86\Debug\Task 2.exe
+D:\Rab Stol\Новая папка\Lesson 14\Task 2\obj\x86\Debug\Task 2.pdb
+D:\Rab Stol\Новая папка\Lesson 14\Task 2\bin\Debug\Task 2.exe
+D:\Rab Stol\Новая папка\Lesson 14\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Task 2\obj\x86\Debug\Task 2.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Task 2\bin\Debug\Task 2.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Task 2\obj\x86\Debug\Task 2.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 13\Task 2\obj\x86\Debug\Task 2.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 13\Task 2\obj\x86\Debug\Task 2.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 13\Task 2\bin\Debug\Task 2.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 13\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 13\Task 2\obj\x86\Debug\Task 2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+D:\Static\Static7\bin\Debug\Static7.exe
+D:\Static\Static7\bin\Debug\Static7.pdb
+D:\Static\Static7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Static\Static7\obj\x86\Debug\Static7.exe
+D:\Static\Static7\obj\x86\Debug\Static7.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Static\001_StaticMembers\Static7\obj\x86\Debug\Static7.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Static\001_StaticMembers\Static7\obj\x86\Debug\Static7.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\001_StaticMembers\Static7\obj\x86\Debug\Static7.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\001_StaticMembers\Static7\obj\x86\Debug\Static7.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\001_StaticMembers\Static7\bin\Debug\Static7.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\001_StaticMembers\Static7\bin\Debug\Static7.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\001_StaticMembers\Static7\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static7\obj\x86\Debug\Static7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static7\obj\x86\Debug\Static7.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static7\bin\Debug\Static7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static7\bin\Debug\Static7.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static7\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\001_StaticMembers\Static7\bin\Debug\Static7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\001_StaticMembers\Static7\bin\Debug\Static7.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Debug\Static7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Debug\Static7.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Debug\Static7.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Debug\Static7.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Debug\Static7.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Debug\Static7.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Debug\Static7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Debug\Static7.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Debug\Static7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Debug\Static7.pdb

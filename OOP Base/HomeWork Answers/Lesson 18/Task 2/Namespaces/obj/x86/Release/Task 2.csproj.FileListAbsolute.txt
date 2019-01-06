@@ -1,0 +1,7 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\obj\x86\Release\Task 2.csprojResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\bin\Release\Namespaces.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\bin\Release\Namespaces.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\bin\Release\Library1.dll
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\bin\Release\Library1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\obj\x86\Release\Namespaces.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\obj\x86\Release\Namespaces.pdb

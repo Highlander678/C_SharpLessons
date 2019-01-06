@@ -1,0 +1,33 @@
+D:\ClassObject\ClassObject\bin\Debug\ClassObject.exe
+D:\ClassObject\ClassObject\bin\Debug\ClassObject.pdb
+D:\ClassObject\ClassObject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ClassObject\ClassObject\obj\x86\Debug\ClassObject.exe
+D:\ClassObject\ClassObject\obj\x86\Debug\ClassObject.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\001_Object\ClassObject\bin\Debug\ClassObject.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\001_Object\ClassObject\bin\Debug\ClassObject.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\001_Object\ClassObject\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\001_Object\ClassObject\bin\Debug\ClassObject.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\001_Object\ClassObject\bin\Debug\ClassObject.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\001_Object\ClassObject\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\001_Object\ClassObject\bin\Debug\ClassObject.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\001_Object\ClassObject\bin\Debug\ClassObject.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\001_Object\ClassObject\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\001_Object\ClassObject\bin\Debug\ClassObject.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\001_Object\ClassObject\bin\Debug\ClassObject.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject\bin\Debug\ClassObject.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject\bin\Debug\ClassObject.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject\obj\x86\Debug\ClassObject.pdb

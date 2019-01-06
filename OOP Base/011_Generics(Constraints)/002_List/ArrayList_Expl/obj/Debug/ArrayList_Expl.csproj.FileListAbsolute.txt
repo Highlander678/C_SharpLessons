@@ -1,0 +1,17 @@
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\ArrayList_List_1\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\ArrayList_List_1\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\005_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\005_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\005_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\005_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\005_ArrayList_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\005_ArrayList_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\005_ArrayList_List\ArrayList_Expl\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\006_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\006_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\008_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\008_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\008_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\008_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\007_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\007_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb

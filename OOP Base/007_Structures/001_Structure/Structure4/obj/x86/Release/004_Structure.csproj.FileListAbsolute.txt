@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\bin\Release\Structure4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\bin\Release\Structure4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\obj\x86\Release\Structure4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\obj\x86\Release\Structure4.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\bin\Release\Structure4.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\bin\Release\Structure4.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\obj\x86\Release\Structure4.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure4\obj\x86\Release\Structure4.pdb

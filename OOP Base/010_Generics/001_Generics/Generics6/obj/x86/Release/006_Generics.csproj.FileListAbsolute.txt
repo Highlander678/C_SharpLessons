@@ -1,0 +1,15 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics6\bin\Release\Generics6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics6\bin\Release\Generics6.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics6\obj\x86\Release\Generics6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics6\obj\x86\Release\Generics6.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics6\obj\x86\Release\Generics6.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics6\bin\Release\Generics6.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics6\bin\Release\Generics6.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics6\obj\x86\Release\006_Generics.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics6\obj\x86\Release\Generics6.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics6\bin\Release\Generics6.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics6\bin\Release\Generics6.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics6\obj\x86\Release\006_Generics.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics6\obj\x86\Release\006_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics6\obj\x86\Release\Generics6.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics6\obj\x86\Release\Generics6.pdb

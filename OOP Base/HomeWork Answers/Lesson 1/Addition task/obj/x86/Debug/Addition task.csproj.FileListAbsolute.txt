@@ -1,0 +1,26 @@
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 1\bin\Debug\Lessons 1.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 1\bin\Debug\Lessons 1.pdb
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 1\obj\x86\Debug\Lessons 1.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 1\obj\x86\Debug\Lessons 1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Addition task\bin\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Addition task\bin\Debug\Addition task.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Addition task\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Addition task\obj\x86\Debug\Addition task.pdb
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Addition task\obj\x86\Debug\Addition task.exe
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Addition task\obj\x86\Debug\Addition task.pdb
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Addition task\obj\x86\Debug\Addition task.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Addition task\bin\Debug\Addition task.exe
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Addition task\bin\Debug\Addition task.pdb
+C:\Users\Alex CBS\Desktop\Lesson 1\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\Lesson 1\Addition task\obj\x86\Debug\Addition task.pdb
+H:\Lesson 1\Addition task\obj\x86\Debug\Addition task.exe
+H:\Lesson 1\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Юлия\Desktop\Новая папка\Lesson 1\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Юлия\Desktop\Новая папка\Lesson 1\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 1\Lesson 1\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 1\Lesson 1\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 1\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Alexandr\Desktop\Lesson 1\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 1\Addition task\obj\x86\Debug\Addition task.pdb

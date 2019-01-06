@@ -1,0 +1,5 @@
+D:\Structure\Structure6\bin\Debug\Structure6.exe
+D:\Structure\Structure6\bin\Debug\Structure6.pdb
+D:\Structure\Structure6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Structure\Structure6\obj\x86\Debug\Structure6.exe
+D:\Structure\Structure6\obj\x86\Debug\Structure6.pdb

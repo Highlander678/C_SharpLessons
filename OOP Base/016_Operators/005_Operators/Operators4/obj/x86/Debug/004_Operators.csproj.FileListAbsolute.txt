@@ -1,0 +1,28 @@
+D:\Operators\Operators4\bin\Debug\Operators4.exe
+D:\Operators\Operators4\bin\Debug\Operators4.pdb
+D:\Operators\Operators4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Operators\Operators4\obj\x86\Debug\Operators4.exe
+D:\Operators\Operators4\obj\x86\Debug\Operators4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\004_Operators\Operators4\bin\Debug\Operators4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\004_Operators\Operators4\bin\Debug\Operators4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\004_Operators\Operators4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\004_Operators\Operators4\bin\Debug\Operators4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\004_Operators\Operators4\bin\Debug\Operators4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\004_Operators\Operators4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\004_Operators\Operators4\bin\Debug\Operators4.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\004_Operators\Operators4\bin\Debug\Operators4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\004_Operators\Operators4\obj\x86\Debug\004_Operators.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\004_Operators\Operators4\obj\x86\Debug\Operators4.exe

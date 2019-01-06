@@ -1,0 +1,31 @@
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\obj\Debug\Prototype.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\bin\Debug\Prototype.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\obj\Debug\Prototype.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\bin\Debug\Prototype.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\004_Prototype\001_Prototype\Prototype\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\002_Prototype\Prototype\bin\Debug\Prototype.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\002_Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\002_Prototype\Prototype\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\002_Prototype\Prototype\obj\Debug\Prototype.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\002_Prototype\Prototype\obj\Debug\Prototype.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\002_Prototype\Prototype\bin\Debug\Prototype.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\002_Prototype\Prototype\bin\Debug\Prototype.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\002_Prototype\Prototype\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\002_Prototype\Prototype\obj\Debug\Prototype.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\002_Prototype\Prototype\obj\Debug\Prototype.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\002_Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\002_Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\002_Prototype\Prototype\obj\Debug\Prototype.pdb

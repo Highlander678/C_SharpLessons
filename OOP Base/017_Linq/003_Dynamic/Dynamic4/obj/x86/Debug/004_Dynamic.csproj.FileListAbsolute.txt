@@ -1,0 +1,24 @@
+D:\Dynamic\Dynamic4\bin\Debug\Dynamic4.exe
+D:\Dynamic\Dynamic4\bin\Debug\Dynamic4.pdb
+D:\Dynamic\Dynamic4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.exe
+D:\Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic4\bin\Debug\Dynamic4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic4\bin\Debug\Dynamic4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic4\bin\Debug\Dynamic4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic4\bin\Debug\Dynamic4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic4\bin\Debug\Dynamic4.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic4\bin\Debug\Dynamic4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\004_Dynamic.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic4\obj\x86\Debug\Dynamic4.exe

@@ -1,0 +1,8 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 1\bin\Release\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 1\bin\Release\Task 1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 1\obj\x86\Release\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 1\obj\x86\Release\Task 1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Task 1\bin\Release\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Task 1\bin\Release\Task 1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Task 1\obj\x86\Release\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Task 1\obj\x86\Release\Task 1.pdb

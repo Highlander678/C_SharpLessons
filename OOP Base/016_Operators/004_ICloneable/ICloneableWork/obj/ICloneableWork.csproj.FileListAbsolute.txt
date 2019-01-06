@@ -1,0 +1,17 @@
+D:\ICloneableWork\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache
+D:\ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.exe
+D:\ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 6\ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\LESSONS STEP 1 GROUP\LESSON 6\ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 006\ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\LESSONS STEP 1 GROUP\LESSON 006\ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 006\ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.exe
+D:\LESSONS STEP 1 GROUP\LESSON 006\ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 006\ICloneableWork\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 006\003_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\LESSONS STEP 1 GROUP\LESSON 006\003_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 006\003_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.exe
+D:\LESSONS STEP 1 GROUP\LESSON 006\003_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 006\003_ICloneableWork\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache

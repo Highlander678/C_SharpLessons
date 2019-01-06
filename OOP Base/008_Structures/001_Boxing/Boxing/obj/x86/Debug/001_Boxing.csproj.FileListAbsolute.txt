@@ -1,0 +1,36 @@
+D:\Boxing\Boxing\bin\Debug\Boxing.exe
+D:\Boxing\Boxing\bin\Debug\Boxing.pdb
+D:\Boxing\Boxing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Boxing\Boxing\obj\x86\Debug\Boxing.exe
+D:\Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\004_Boxing\Boxing\obj\x86\Debug\Boxing.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\004_Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing\obj\x86\Debug\Boxing.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing\bin\Debug\Boxing.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing\bin\Debug\Boxing.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\004_Boxing\Boxing\obj\x86\Debug\Boxing.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\004_Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing\bin\Debug\Boxing.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing\bin\Debug\Boxing.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\bin\Debug\Boxing.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\bin\Debug\Boxing.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\bin\Debug\Boxing.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing\bin\Debug\Boxing.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\001_Boxing\Boxing\bin\Debug\Boxing.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\001_Boxing\Boxing\bin\Debug\Boxing.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\001_Boxing\Boxing\obj\x86\Debug\001_Boxing.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\001_Boxing\Boxing\obj\x86\Debug\001_Boxing.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\001_Boxing\Boxing\obj\x86\Debug\Boxing.pdb

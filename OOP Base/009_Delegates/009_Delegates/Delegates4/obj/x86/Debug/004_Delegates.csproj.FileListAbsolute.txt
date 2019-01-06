@@ -1,0 +1,36 @@
+D:\Delegates\Delegates4\bin\Debug\Delegates4.exe
+D:\Delegates\Delegates4\bin\Debug\Delegates4.pdb
+D:\Delegates\Delegates4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Delegates\Delegates4\obj\x86\Debug\Delegates4.exe
+D:\Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates4\bin\Debug\Delegates4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates4\bin\Debug\Delegates4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates4\bin\Debug\Delegates4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates4\bin\Debug\Delegates4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\bin\Debug\Delegates4.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\bin\Debug\Delegates4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\bin\Debug\Delegates4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\bin\Debug\Delegates4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\009_Delegates\009_Delegates\Delegates4\obj\x86\Debug\004_Delegates.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\009_Delegates\009_Delegates\Delegates4\obj\x86\Debug\004_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\009_Delegates\009_Delegates\Delegates4\obj\x86\Debug\Delegates4.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\009_Delegates\009_Delegates\Delegates4\bin\Debug\Delegates4.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\009_Delegates\009_Delegates\Delegates4\bin\Debug\Delegates4.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\009_Delegates\009_Delegates\Delegates4\obj\x86\Debug\Delegates4.exe

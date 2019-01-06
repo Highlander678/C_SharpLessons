@@ -1,0 +1,9 @@
+D:\Events\Events\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Events\Events\obj\x86\Debug\Events.Form1.resources
+D:\Events\Events\obj\x86\Debug\Events.Properties.Resources.resources
+D:\Events\Events\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Events\Events\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Events\Events\bin\Debug\Events.exe
+D:\Events\Events\bin\Debug\Events.pdb
+D:\Events\Events\obj\x86\Debug\Events.exe
+D:\Events\Events\obj\x86\Debug\Events.pdb

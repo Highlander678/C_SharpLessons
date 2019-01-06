@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\bin\Release\Structure6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\bin\Release\Structure6.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\obj\x86\Release\Structure6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\obj\x86\Release\Structure6.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\bin\Release\Structure6.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\bin\Release\Structure6.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\obj\x86\Release\Structure6.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure6\obj\x86\Release\Structure6.pdb

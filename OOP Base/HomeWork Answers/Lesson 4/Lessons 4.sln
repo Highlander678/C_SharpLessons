@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition task", "Addition task\Addition task.csproj", "{4EBAF7B7-63DC-433E-AED8-E90B05686770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Task 2\Task 2.csproj", "{B8B8485D-2A42-40B2-B9CE-227090B885CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3", "Task 3\Task 3.csproj", "{27C5152E-D8D3-4B94-B0CB-28712F7D5E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBAF7B7-63DC-433E-AED8-E90B05686770}.Debug|x86.ActiveCfg = Debug|x86
+		{4EBAF7B7-63DC-433E-AED8-E90B05686770}.Debug|x86.Build.0 = Debug|x86
+		{4EBAF7B7-63DC-433E-AED8-E90B05686770}.Release|x86.ActiveCfg = Release|x86
+		{4EBAF7B7-63DC-433E-AED8-E90B05686770}.Release|x86.Build.0 = Release|x86
+		{B8B8485D-2A42-40B2-B9CE-227090B885CA}.Debug|x86.ActiveCfg = Debug|x86
+		{B8B8485D-2A42-40B2-B9CE-227090B885CA}.Debug|x86.Build.0 = Debug|x86
+		{B8B8485D-2A42-40B2-B9CE-227090B885CA}.Release|x86.ActiveCfg = Release|x86
+		{B8B8485D-2A42-40B2-B9CE-227090B885CA}.Release|x86.Build.0 = Release|x86
+		{27C5152E-D8D3-4B94-B0CB-28712F7D5E9C}.Debug|x86.ActiveCfg = Debug|x86
+		{27C5152E-D8D3-4B94-B0CB-28712F7D5E9C}.Debug|x86.Build.0 = Debug|x86
+		{27C5152E-D8D3-4B94-B0CB-28712F7D5E9C}.Release|x86.ActiveCfg = Release|x86
+		{27C5152E-D8D3-4B94-B0CB-28712F7D5E9C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\ClassObject\ClassObject5\bin\Debug\ClassObject5.exe
+D:\ClassObject\ClassObject5\bin\Debug\ClassObject5.pdb
+D:\ClassObject\ClassObject5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ClassObject\ClassObject5\obj\x86\Debug\ClassObject5.exe
+D:\ClassObject\ClassObject5\obj\x86\Debug\ClassObject5.pdb

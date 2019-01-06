@@ -1,0 +1,4 @@
+D:\Home Work\Lesson 9\Task 3\bin\Release\Task 3.exe
+D:\Home Work\Lesson 9\Task 3\bin\Release\Task 3.pdb
+D:\Home Work\Lesson 9\Task 3\obj\x86\Release\Task 3.exe
+D:\Home Work\Lesson 9\Task 3\obj\x86\Release\Task 3.pdb

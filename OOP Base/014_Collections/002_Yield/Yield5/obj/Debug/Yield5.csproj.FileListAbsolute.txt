@@ -1,0 +1,12 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield5\bin\Debug\Yield5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield5\bin\Debug\Yield5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield5\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield5\obj\Debug\Yield5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield5\obj\Debug\Yield5.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield5\obj\Debug\Yield5.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\Yield5\obj\Debug\Yield5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield5\bin\Debug\Yield5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield5\bin\Debug\Yield5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield5\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield5\obj\Debug\Yield5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\Yield5\obj\Debug\Yield5.pdb

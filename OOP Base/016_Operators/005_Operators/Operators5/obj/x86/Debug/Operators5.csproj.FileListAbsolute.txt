@@ -1,0 +1,5 @@
+D:\Operators\Operators5\bin\Debug\Operators5.exe
+D:\Operators\Operators5\bin\Debug\Operators5.pdb
+D:\Operators\Operators5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Operators\Operators5\obj\x86\Debug\Operators5.exe
+D:\Operators\Operators5\obj\x86\Debug\Operators5.pdb

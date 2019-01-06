@@ -1,0 +1,5 @@
+D:\Namespaces\Namespaces8\bin\Debug\Namespaces8.exe
+D:\Namespaces\Namespaces8\bin\Debug\Namespaces8.pdb
+D:\Namespaces\Namespaces8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Namespaces\Namespaces8\obj\x86\Debug\Namespaces8.exe
+D:\Namespaces\Namespaces8\obj\x86\Debug\Namespaces8.pdb

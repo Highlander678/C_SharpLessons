@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\bin\Release\Structure3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\bin\Release\Structure3.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\obj\x86\Release\Structure3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\obj\x86\Release\Structure3.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\bin\Release\Structure3.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\bin\Release\Structure3.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\obj\x86\Release\Structure3.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure3\obj\x86\Release\Structure3.pdb

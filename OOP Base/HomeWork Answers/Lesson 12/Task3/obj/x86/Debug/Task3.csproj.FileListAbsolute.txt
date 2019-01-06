@@ -1,0 +1,2 @@
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.pdb

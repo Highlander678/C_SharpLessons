@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension\bin\Release\Extension.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension\bin\Release\Extension.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension\obj\x86\Release\Extension.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension\obj\x86\Release\Extension.pdb

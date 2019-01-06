@@ -1,0 +1,22 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Task 3\bin\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Task 3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 1\Task 3\obj\x86\Debug\Task 3.pdb
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Task 3\bin\Debug\Task 3.exe
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Task 3\bin\Debug\Task 3.pdb
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Task 3\obj\x86\Debug\Task 3.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Task 3\obj\x86\Debug\Task 3.exe
+D:\COURSES\CS\CS_Essential_RU\HomeWork Answers\Lesson 1\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 3\obj\x86\Debug\Task 3.csprojResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 3\bin\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 3\obj\x86\Debug\Task 3.pdb
+H:\Lesson 1\Task 3\obj\x86\Debug\Task 3.exe
+H:\Lesson 1\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Юлия\Desktop\Новая папка\Lesson 1\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Юлия\Desktop\Новая папка\Lesson 1\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 1\Lesson 1\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 1\Lesson 1\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 1\Task 3\obj\x86\Debug\Task 3.pdb

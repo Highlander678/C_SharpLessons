@@ -1,0 +1,7 @@
+D:\CODEWORK\Directive\ConsoleApplication5\bin\Release\ConsoleApplication5.exe
+D:\CODEWORK\Directive\ConsoleApplication5\bin\Release\ConsoleApplication5.pdb
+D:\CODEWORK\Directive\ConsoleApplication5\obj\Release\ResolveAssemblyReference.cache
+D:\CODEWORK\Directive\ConsoleApplication5\obj\Release\ConsoleApplication5.exe
+D:\CODEWORK\Directive\ConsoleApplication5\obj\Release\ConsoleApplication5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK3\007_Directive\ConsoleApplication5\obj\Release\ConsoleApplication5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK3\007_Directive\ConsoleApplication5\obj\Release\ConsoleApplication5.pdb

@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 17\bin\Debug\Lessons 17.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 17\bin\Debug\Lessons 17.pdb
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 17\obj\x86\Debug\Lessons 17.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 17\obj\x86\Debug\Lessons 17.pdb

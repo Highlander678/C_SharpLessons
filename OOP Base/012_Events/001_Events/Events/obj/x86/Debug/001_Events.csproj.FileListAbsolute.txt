@@ -1,0 +1,39 @@
+D:\Events\Events\bin\Debug\Events.exe
+D:\Events\Events\bin\Debug\Events.pdb
+D:\Events\Events\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Events\Events\obj\x86\Debug\Events.exe
+D:\Events\Events\obj\x86\Debug\Events.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events\obj\x86\Debug\Events.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events\obj\x86\Debug\Events.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events\bin\Debug\Events.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events\bin\Debug\Events.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events\bin\Debug\Events.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events\bin\Debug\Events.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events\obj\x86\Debug\Events.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events\obj\x86\Debug\Events.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events\obj\x86\Debug\Events.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events\obj\x86\Debug\Events.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\001_Events\Events\obj\x86\Debug\Events.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\001_Events\Events\obj\x86\Debug\Events.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\001_Events\Events\bin\Debug\Events.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\001_Events\Events\bin\Debug\Events.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events\obj\x86\Debug\Events.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events\obj\x86\Debug\Events.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events\bin\Debug\Events.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events\bin\Debug\Events.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\obj\x86\Debug\Events.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\obj\x86\Debug\Events.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\bin\Debug\Events.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\bin\Debug\Events.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events\obj\x86\Debug\Events.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events\obj\x86\Debug\Events.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events\bin\Debug\Events.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events\bin\Debug\Events.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\obj\x86\Debug\Events.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\bin\Debug\Events.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\bin\Debug\Events.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\obj\x86\Debug\001_Events.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events\obj\x86\Debug\Events.exe

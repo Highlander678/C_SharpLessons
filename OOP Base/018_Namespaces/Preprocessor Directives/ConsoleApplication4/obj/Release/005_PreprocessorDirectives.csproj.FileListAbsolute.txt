@@ -1,0 +1,16 @@
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication4\bin\Release\ConsoleApplication4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication4\bin\Release\ConsoleApplication4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ConsoleApplication4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ConsoleApplication4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\Preprocessor Directives\ConsoleApplication4\bin\Release\ConsoleApplication4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\Preprocessor Directives\ConsoleApplication4\bin\Release\ConsoleApplication4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ConsoleApplication4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ConsoleApplication4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ConsoleApplication4.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ConsoleApplication4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\Preprocessor Directives\ConsoleApplication4\bin\Release\ConsoleApplication4.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\Preprocessor Directives\ConsoleApplication4\bin\Release\ConsoleApplication4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\Preprocessor Directives\ConsoleApplication4\obj\Release\ConsoleApplication4.pdb

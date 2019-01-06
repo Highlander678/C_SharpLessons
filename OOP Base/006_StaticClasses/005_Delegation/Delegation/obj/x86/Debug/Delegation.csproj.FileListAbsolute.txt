@@ -1,0 +1,18 @@
+D:\Delegation\Delegation\bin\Debug\Delegation.exe
+D:\Delegation\Delegation\bin\Debug\Delegation.pdb
+D:\Delegation\Delegation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Delegation\Delegation\obj\x86\Debug\Delegation.exe
+D:\Delegation\Delegation\obj\x86\Debug\Delegation.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\Delegation.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\Delegation.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\Delegation.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\Delegation.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\005_Delegation\Delegation\bin\Debug\Delegation.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\005_Delegation\Delegation\bin\Debug\Delegation.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\Delegation.pdb
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\Delegation.pdb
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\005_Delegation\Delegation\bin\Debug\Delegation.exe
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\005_Delegation\Delegation\bin\Debug\Delegation.pdb
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\Delegation.csprojResolveAssemblyReference.cache
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\005_Delegation\Delegation\obj\x86\Debug\Delegation.exe

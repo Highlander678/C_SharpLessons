@@ -1,0 +1,14 @@
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\bin\Debug\Lessons 4.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\bin\Debug\Lessons 4.pdb
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\obj\x86\Debug\Lessons 4.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\obj\x86\Debug\Lessons 4.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 4\Addition task\bin\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 4\Addition task\bin\Debug\Addition task.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 4\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 4\Addition task\obj\x86\Debug\Addition task.pdb
+G:\write\Lesson 4\Addition task\obj\x86\Debug\Addition task.exe
+G:\write\Lesson 4\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Alexandr\Desktop\Home work\Lesson 4\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 4\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 4\Addition task\obj\x86\Debug\Addition task.pdb

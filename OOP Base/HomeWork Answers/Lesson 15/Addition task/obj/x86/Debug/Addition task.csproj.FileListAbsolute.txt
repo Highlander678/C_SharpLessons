@@ -1,0 +1,14 @@
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 16\bin\Debug\Lessons 16.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 16\bin\Debug\Lessons 16.pdb
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 16\obj\x86\Debug\Lessons 16.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 16\obj\x86\Debug\Lessons 16.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Addition task\bin\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Addition task\bin\Debug\Addition task.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Addition task\bin\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Addition task\bin\Debug\Addition task.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 16\Addition task\obj\x86\Debug\Addition task.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 15\Addition task\obj\x86\Debug\Addition task.pdb

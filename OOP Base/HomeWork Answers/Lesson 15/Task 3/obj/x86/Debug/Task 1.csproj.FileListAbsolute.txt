@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 1\bin\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Task 1\obj\x86\Debug\Task 1.pdb

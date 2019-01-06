@@ -1,0 +1,29 @@
+D:\Indexers\Indexers5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Indexers\Indexers5\bin\Debug\Indexers5.exe
+D:\Indexers\Indexers5\bin\Debug\Indexers5.pdb
+D:\Indexers\Indexers5\obj\x86\Debug\Indexers5.exe
+D:\Indexers\Indexers5\obj\x86\Debug\Indexers5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\002_Indexers\Indexers5\bin\Debug\Indexers5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\002_Indexers\Indexers5\bin\Debug\Indexers5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\002_Indexers\Indexers5\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\bin\Debug\Indexers5.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\bin\Debug\Indexers5.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\bin\Debug\Indexers5.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\bin\Debug\Indexers5.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\bin\Debug\Indexers5.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\bin\Debug\Indexers5.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\005_Indexers.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers5\obj\x86\Debug\Indexers5.exe

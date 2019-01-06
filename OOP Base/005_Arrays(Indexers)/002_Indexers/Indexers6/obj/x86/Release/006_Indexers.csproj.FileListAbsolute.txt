@@ -1,0 +1,5 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers6\bin\Release\Indexers6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers6\bin\Release\Indexers6.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers6\obj\x86\Release\Indexers6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers6\obj\x86\Release\Indexers6.pdb

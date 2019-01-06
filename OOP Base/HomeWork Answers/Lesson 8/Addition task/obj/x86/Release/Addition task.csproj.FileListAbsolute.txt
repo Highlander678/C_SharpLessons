@@ -1,0 +1,4 @@
+D:\Home Work\Lesson 9\Addition task\bin\Release\Addition task.exe
+D:\Home Work\Lesson 9\Addition task\bin\Release\Addition task.pdb
+D:\Home Work\Lesson 9\Addition task\obj\x86\Release\Addition task.exe
+D:\Home Work\Lesson 9\Addition task\obj\x86\Release\Addition task.pdb

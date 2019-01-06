@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\bin\Release\Structure9.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\bin\Release\Structure9.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\obj\x86\Release\Structure9.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\obj\x86\Release\Structure9.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\bin\Release\Structure9.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\bin\Release\Structure9.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\obj\x86\Release\Structure9.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure9\obj\x86\Release\Structure9.pdb

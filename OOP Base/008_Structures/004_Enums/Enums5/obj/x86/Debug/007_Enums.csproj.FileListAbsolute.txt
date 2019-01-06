@@ -1,0 +1,2 @@
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums5\obj\x86\Debug\Enums5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums5\obj\x86\Debug\Enums5.pdb

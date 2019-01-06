@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Library1\bin\Debug\Library1.dll
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Library1\bin\Debug\Library1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Library1\obj\Debug\Library1.dll
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Library1\obj\Debug\Library1.pdb

@@ -1,0 +1,43 @@
+D:\CBS LESSONS\CBS_CS_Essential\017\002_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\CBS LESSONS\CBS_CS_Essential\017\002_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\CBS LESSONS\CBS_CS_Essential\017\002_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.exe
+D:\CBS LESSONS\CBS_CS_Essential\017\002_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\CBS LESSONS\CBS_CS_Essential\017\002_ICloneableWork\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Essential\017_OVERLOADED\002_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS_Essential\017_OVERLOADED\002_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\017_OVERLOADED\002_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS_Essential\017_OVERLOADED\002_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\017_OVERLOADED\002_ICloneableWork\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\003_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\003_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\003_ICloneableWork\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\003_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\003_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\017_OVERLOADED\003_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\017_OVERLOADED\003_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneableWork\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneableWork\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneableWork\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\003_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\003_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\003_ICloneable\ICloneableWork\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb

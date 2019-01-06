@@ -1,0 +1,32 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\006_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\006_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\005_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\005_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\005_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\005_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\005_Dictionary\DictionaryWork\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\005_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\005_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\005_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\005_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\005_Dictionary\DictionaryWork\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\005_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\005_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\005_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\005_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\005_Dictionary\DictionaryWork\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\012_Generics(Constraints)\003_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\012_Generics(Constraints)\003_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\bin\Debug\DictionaryWork.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\003_Dictionary\DictionaryWork\obj\Debug\DictionaryWork.exe

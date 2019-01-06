@@ -1,0 +1,18 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static8\bin\Release\Static8.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static8\bin\Release\Static8.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\Static8.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\Static8.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\Static8.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static8\bin\Release\Static8.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static8\bin\Release\Static8.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\Static8.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\Static8.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\Static8.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static8\bin\Release\Static8.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static8\bin\Release\Static8.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\008_AbstractClass.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static8\bin\Release\Static8.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static8\bin\Release\Static8.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\008_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\Static8.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static8\obj\x86\Release\Static8.pdb

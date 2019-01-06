@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics8\bin\Release\Generics8.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics8\bin\Release\Generics8.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics8\obj\x86\Release\Generics8.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics8\obj\x86\Release\Generics8.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics8\obj\x86\Release\Generics8.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics8\bin\Release\Generics8.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics8\bin\Release\Generics8.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics8\obj\x86\Release\009_Generics.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics8\obj\x86\Release\Generics8.exe

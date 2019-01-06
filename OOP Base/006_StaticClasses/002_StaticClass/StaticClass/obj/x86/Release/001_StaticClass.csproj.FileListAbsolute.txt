@@ -1,0 +1,5 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\StaticClass\bin\Release\StaticClass.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\StaticClass\bin\Release\StaticClass.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\StaticClass\obj\x86\Release\001_StaticClass.csprojResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\StaticClass\obj\x86\Release\StaticClass.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\StaticClass\obj\x86\Release\StaticClass.pdb

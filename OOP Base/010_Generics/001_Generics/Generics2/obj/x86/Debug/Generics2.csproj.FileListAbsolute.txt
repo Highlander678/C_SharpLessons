@@ -1,0 +1,5 @@
+D:\Generics\Generics2\bin\Debug\Generics2.exe
+D:\Generics\Generics2\bin\Debug\Generics2.pdb
+D:\Generics\Generics2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Generics\Generics2\obj\x86\Debug\Generics2.exe
+D:\Generics\Generics2\obj\x86\Debug\Generics2.pdb

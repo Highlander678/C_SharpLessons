@@ -1,0 +1,41 @@
+D:\Events\Events3\bin\Debug\Events3.exe
+D:\Events\Events3\bin\Debug\Events3.pdb
+D:\Events\Events3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Events\Events3\obj\x86\Debug\Events3.exe
+D:\Events\Events3\obj\x86\Debug\Events3.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events3\obj\x86\Debug\Events3.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events3\obj\x86\Debug\Events3.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events3\bin\Debug\Events3.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events3\bin\Debug\Events3.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\001_Events\Events3\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events3\obj\x86\Debug\Events3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events3\obj\x86\Debug\Events3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events3\bin\Debug\Events3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events3\bin\Debug\Events3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events3\obj\x86\Debug\Events3.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Events\001_Events\Events3\obj\x86\Debug\Events3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\001_Events\Events3\obj\x86\Debug\Events3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\001_Events\Events3\obj\x86\Debug\Events3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\001_Events\Events3\bin\Debug\Events3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\001_Events\Events3\bin\Debug\Events3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events3\obj\x86\Debug\Events3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events3\obj\x86\Debug\Events3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events3\bin\Debug\Events3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events3\bin\Debug\Events3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\001_Events\Events3\obj\x86\Debug\003_Events.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\Events3.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\Events3.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\bin\Debug\Events3.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\bin\Debug\Events3.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events3\bin\Debug\Events3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events3\bin\Debug\Events3.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\003_Events.csprojResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\Events3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\Events3.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\Events3.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\bin\Debug\Events3.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\bin\Debug\Events3.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\003_Events.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Debug\Events3.exe

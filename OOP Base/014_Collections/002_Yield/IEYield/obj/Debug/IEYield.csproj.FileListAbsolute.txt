@@ -1,0 +1,5 @@
+D:\IEYield\IEYield\bin\Debug\IEYield.exe
+D:\IEYield\IEYield\bin\Debug\IEYield.pdb
+D:\IEYield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+D:\IEYield\IEYield\obj\Debug\IEYield.exe
+D:\IEYield\IEYield\obj\Debug\IEYield.pdb

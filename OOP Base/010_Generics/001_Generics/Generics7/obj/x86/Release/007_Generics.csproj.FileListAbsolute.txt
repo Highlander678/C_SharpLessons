@@ -1,0 +1,8 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics7\bin\Release\Generics7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics7\bin\Release\Generics7.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Release\Generics7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Release\Generics7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Release\Generics7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics7\bin\Release\Generics7.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics7\bin\Release\Generics7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Release\Generics7.exe

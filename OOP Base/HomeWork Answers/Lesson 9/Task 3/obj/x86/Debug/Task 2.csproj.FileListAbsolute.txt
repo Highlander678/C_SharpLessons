@@ -1,0 +1,14 @@
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\bin\Debug\Task 3.exe
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Desktop\Desktop\Lesson 10\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Desktop\Desktop\Lesson 10\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Desktop\Desktop\Lesson 10\Task 2\obj\x86\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Desktop\Desktop\Lesson 10\Task 2\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Desktop\Desktop\Lesson 10\Task 2\bin\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Desktop\Desktop\Lesson 10\Task 2\bin\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Lesson 10\Task 2\obj\x86\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Lesson 10\Task 2\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 2\obj\x86\Debug\Task 3.pdb

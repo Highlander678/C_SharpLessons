@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers4\bin\Release\Indexers4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers4\bin\Release\Indexers4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers4\obj\x86\Release\Indexers4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\006_Arrays(Indexers)\002_Indexers\Indexers4\obj\x86\Release\Indexers4.pdb

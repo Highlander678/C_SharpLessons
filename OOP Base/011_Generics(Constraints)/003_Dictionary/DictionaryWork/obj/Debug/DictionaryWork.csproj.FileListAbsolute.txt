@@ -1,0 +1,26 @@
+D:\CBS LESSONS\CBS_CS_Essential\019\DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS LESSONS\CBS_CS_Essential\019\DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.exe
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.pdb
+D:\CBS LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\018_GENERICS\004_DictionaryWork\DictionaryWork\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\005_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\005_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\007_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\007_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\007_DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\007_DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\007_DictionaryWork\DictionaryWork\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\007_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\007_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\006_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\006_DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\006_DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\006_DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\006_DictionaryWork\DictionaryWork\obj\Debug\ResolveAssemblyReference.cache

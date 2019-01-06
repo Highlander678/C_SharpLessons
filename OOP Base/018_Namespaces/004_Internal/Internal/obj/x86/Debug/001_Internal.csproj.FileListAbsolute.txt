@@ -1,0 +1,26 @@
+D:\Internal\Internal\bin\Debug\Internal.exe
+D:\Internal\Internal\bin\Debug\Internal.pdb
+D:\Internal\Internal\bin\Debug\LibraryA.dll
+D:\Internal\Internal\bin\Debug\LibraryA.pdb
+D:\Internal\Internal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Internal\Internal\obj\x86\Debug\Internal.exe
+D:\Internal\Internal\obj\x86\Debug\Internal.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\Internal\obj\x86\Debug\Internal.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\Internal\obj\x86\Debug\Internal.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\Internal\bin\Debug\Internal.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\Internal\bin\Debug\Internal.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\Internal\bin\Debug\LibraryA.dll
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\Internal\bin\Debug\LibraryA.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\Internal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\004_Internal\Internal\obj\x86\Debug\Internal.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\004_Internal\Internal\obj\x86\Debug\Internal.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\004_Internal\Internal\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\004_Internal\Internal\obj\x86\Debug\Internal.pdb

@@ -1,0 +1,9 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\006_Enums\Enums5\bin\Debug\Enums5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\006_Enums\Enums5\bin\Debug\Enums5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\006_Enums\Enums5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\006_Enums\Enums5\obj\x86\Debug\Enums5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\006_Enums\Enums5\obj\x86\Debug\Enums5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums5\obj\x86\Debug\Enums5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums5\obj\x86\Debug\Enums5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums5\obj\x86\Debug\Enums5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums5\obj\x86\Debug\Enums5.pdb

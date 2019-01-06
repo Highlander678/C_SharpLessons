@@ -1,0 +1,36 @@
+D:\CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe
+D:\CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb
+D:\CriticalSection\CriticalSection\bin\Debug\CriticalSection.exe
+D:\CriticalSection\CriticalSection\bin\Debug\CriticalSection.pdb
+D:\CriticalSection\CriticalSection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\bin\Debug\CriticalSection.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\001_CriticalSection.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe

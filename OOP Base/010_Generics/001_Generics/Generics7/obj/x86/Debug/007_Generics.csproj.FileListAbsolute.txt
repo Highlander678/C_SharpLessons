@@ -1,0 +1,28 @@
+D:\Generics\Generics7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Generics\Generics7\bin\Debug\Generics7.exe
+D:\Generics\Generics7\bin\Debug\Generics7.pdb
+D:\Generics\Generics7\obj\x86\Debug\Generics7.exe
+D:\Generics\Generics7\obj\x86\Debug\Generics7.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics7\bin\Debug\Generics7.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics7\bin\Debug\Generics7.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\001_Generics\Generics7\bin\Debug\Generics7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\001_Generics\Generics7\bin\Debug\Generics7.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\001_Generics\Generics7\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\001_Generics\Generics7\bin\Debug\Generics7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\001_Generics\Generics7\bin\Debug\Generics7.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics7\bin\Debug\Generics7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics7\bin\Debug\Generics7.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics7\obj\x86\Debug\Generics7.pdb

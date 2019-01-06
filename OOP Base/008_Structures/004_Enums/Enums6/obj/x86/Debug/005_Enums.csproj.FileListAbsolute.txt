@@ -1,0 +1,41 @@
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums7\bin\Debug\Enums5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums7\bin\Debug\Enums5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums7\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums7\obj\x86\Debug\Enums5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_Enums\Enums7\obj\x86\Debug\Enums5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\007_Enums\Enums7\obj\x86\Debug\Enums5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\007_Enums\Enums7\obj\x86\Debug\Enums5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\007_Enums\Enums7\obj\x86\Debug\Enums5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\007_Enums\Enums7\obj\x86\Debug\Enums5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\007_Enums\Enums7\bin\Debug\Enums5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\007_Enums\Enums7\bin\Debug\Enums5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\007_Enums\Enums7\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\007_Enums\Enums7\bin\Debug\Enums5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\007_Enums\Enums7\bin\Debug\Enums5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\007_Enums\Enums7\obj\x86\Debug\Enums5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\007_Enums\Enums7\obj\x86\Debug\Enums5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\004_Enums\Enums6\bin\Debug\Enums.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\004_Enums\Enums6\bin\Debug\Enums.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Debug\Enums.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Debug\Enums.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Debug\Enums.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Debug\Enums.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Debug\Enums.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Debug\Enums.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\004_Enums\Enums6\bin\Debug\Enums.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\004_Enums\Enums6\bin\Debug\Enums.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\004_Enums\Enums6\obj\x86\Debug\005_Enums.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\004_Enums\Enums6\obj\x86\Debug\005_Enums.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\004_Enums\Enums6\obj\x86\Debug\Enums.pdb

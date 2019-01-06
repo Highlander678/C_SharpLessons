@@ -1,0 +1,26 @@
+D:\CBS LESSONS\CBS_CS_Essential\020\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\CBS LESSONS\CBS_CS_Essential\020\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\CBS LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\CBS LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\CBS LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\CBS LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\CBS LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\CBS_LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\CBS_LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IINUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IENUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IENUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IENUMERABLE\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IENUMERABLE\001_IEnumerable\InterIEnumerable\bin\Debug\InterIEnumerable.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\020_IENUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\020_IENUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\020_IENUMERABLE\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\001_IEnumerable\InterIEnumerable\obj\Debug\InterIEnumerable.pdb

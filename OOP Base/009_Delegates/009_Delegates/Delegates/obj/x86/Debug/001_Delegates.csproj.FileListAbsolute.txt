@@ -1,0 +1,39 @@
+D:\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\Delegates\Delegates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Delegates\Delegates\obj\x86\Debug\Delegates.exe
+D:\Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Delegates\001_Delegates\Delegates\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\012_Delegates\001_Delegates\Delegates\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\001_Delegates.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\010_Delegates\001_Delegates\Delegates\obj\x86\Debug\Delegates.exe

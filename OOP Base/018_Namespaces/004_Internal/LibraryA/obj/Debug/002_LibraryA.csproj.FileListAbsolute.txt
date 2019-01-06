@@ -1,0 +1,5 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\LibraryA\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\LibraryA\obj\Debug\LibraryA.dll
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\LibraryA\obj\Debug\LibraryA.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\LibraryA\bin\Debug\LibraryA.dll
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_OOD\003_Internal\LibraryA\bin\Debug\LibraryA.pdb

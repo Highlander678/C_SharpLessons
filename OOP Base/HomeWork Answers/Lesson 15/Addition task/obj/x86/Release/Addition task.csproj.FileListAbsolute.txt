@@ -1,0 +1,8 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Addition task\bin\Release\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Addition task\bin\Release\Addition task.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Addition task\obj\x86\Release\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 16\Addition task\obj\x86\Release\Addition task.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Addition task\bin\Release\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Addition task\bin\Release\Addition task.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Addition task\obj\x86\Release\Addition task.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lesson 16\Addition task\obj\x86\Release\Addition task.pdb

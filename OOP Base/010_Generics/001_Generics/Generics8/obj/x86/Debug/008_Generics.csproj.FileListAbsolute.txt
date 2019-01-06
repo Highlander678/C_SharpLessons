@@ -1,0 +1,10 @@
+D:\Generics\Generics8\bin\Debug\Generics8.exe
+D:\Generics\Generics8\bin\Debug\Generics8.pdb
+D:\Generics\Generics8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Generics\Generics8\obj\x86\Debug\Generics8.exe
+D:\Generics\Generics8\obj\x86\Debug\Generics8.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics8\bin\Debug\Generics8.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics8\bin\Debug\Generics8.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics8\obj\x86\Debug\Generics8.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics8\obj\x86\Debug\Generics8.pdb

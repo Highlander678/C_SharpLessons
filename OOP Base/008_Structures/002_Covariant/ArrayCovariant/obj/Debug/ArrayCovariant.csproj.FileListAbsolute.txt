@@ -1,0 +1,27 @@
+D:\ArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+D:\ArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+D:\ArrayCovariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+D:\ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LES 009 ARRAY\004_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LES 009 ARRAY\004_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\MY BOOKS\NAU\003_ARRAYS\004_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\MY BOOKS\NAU\003_ARRAYS\004_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\010_CLASS_INTERFACE\009_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS_Essential\010_CLASS_INTERFACE\009_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\010_CLASS_INTERFACE\009_ArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS_Essential\010_CLASS_INTERFACE\009_ArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\010_CLASS_INTERFACE\009_ArrayCovariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\010_CLASS_INTERFACE\010_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\010_CLASS_INTERFACE\010_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\010_CLASS_INTERFACE\010_ArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\010_CLASS_INTERFACE\010_ArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\010_CLASS_INTERFACE\010_ArrayCovariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\010_CLASS_INTERFACE\010_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\010_CLASS_INTERFACE\010_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\010_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\010_ArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\010_ArrayCovariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\010_ArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\010_ArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\023_SructArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe

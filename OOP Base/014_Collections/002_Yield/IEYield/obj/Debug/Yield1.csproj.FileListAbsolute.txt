@@ -1,0 +1,23 @@
+D:\IEYield\IEYield\obj\Debug\IEYield.exe
+D:\IEYield\IEYield\obj\Debug\IEYield.pdb
+D:\IEYield\IEYield\bin\Debug\IEYield.exe
+D:\IEYield\IEYield\bin\Debug\IEYield.pdb
+D:\IEYield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Download\IEYield\IEYield\obj\Debug\IEYield.exe
+C:\Users\Student\Desktop\Download\IEYield\IEYield\obj\Debug\IEYield.pdb
+C:\Users\Student\Desktop\Download\IEYield\IEYield\bin\Debug\IEYield.exe
+C:\Users\Student\Desktop\Download\IEYield\IEYield\bin\Debug\IEYield.pdb
+C:\Users\Student\Desktop\Download\IEYield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+D:\ITERATORS\IEYield\IEYield\obj\Debug\IEYield.exe
+D:\ITERATORS\IEYield\IEYield\obj\Debug\IEYield.pdb
+D:\CODEWORK\ITERATORS\IEYield\IEYield\obj\Debug\IEYield.exe
+D:\CODEWORK\ITERATORS\IEYield\IEYield\obj\Debug\IEYield.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\IEYield\obj\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\IEYield\obj\Debug\IEYield.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\IEYield\bin\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\IEYield\bin\Debug\IEYield.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\IEYield\obj\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\002_COLLECTIONS\002_IEYield\IEYield\obj\Debug\IEYield.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\IEYield\obj\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\IEYield\obj\Debug\IEYield.pdb

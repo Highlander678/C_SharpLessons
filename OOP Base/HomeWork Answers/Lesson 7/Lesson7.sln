@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition task", "Addition Task\Addition task.csproj", "{060DF42C-F392-4B4D-95AB-B7B02208CA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{2E4C3E80-F068-4F90-8C75-D5568EC02259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{DC2B7D41-BABA-40CD-887B-E33D5AD9901F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060DF42C-F392-4B4D-95AB-B7B02208CA53}.Debug|x86.ActiveCfg = Debug|x86
+		{060DF42C-F392-4B4D-95AB-B7B02208CA53}.Debug|x86.Build.0 = Debug|x86
+		{060DF42C-F392-4B4D-95AB-B7B02208CA53}.Release|x86.ActiveCfg = Release|x86
+		{060DF42C-F392-4B4D-95AB-B7B02208CA53}.Release|x86.Build.0 = Release|x86
+		{2E4C3E80-F068-4F90-8C75-D5568EC02259}.Debug|x86.ActiveCfg = Debug|x86
+		{2E4C3E80-F068-4F90-8C75-D5568EC02259}.Debug|x86.Build.0 = Debug|x86
+		{2E4C3E80-F068-4F90-8C75-D5568EC02259}.Release|x86.ActiveCfg = Release|x86
+		{2E4C3E80-F068-4F90-8C75-D5568EC02259}.Release|x86.Build.0 = Release|x86
+		{DC2B7D41-BABA-40CD-887B-E33D5AD9901F}.Debug|x86.ActiveCfg = Debug|x86
+		{DC2B7D41-BABA-40CD-887B-E33D5AD9901F}.Debug|x86.Build.0 = Debug|x86
+		{DC2B7D41-BABA-40CD-887B-E33D5AD9901F}.Release|x86.ActiveCfg = Release|x86
+		{DC2B7D41-BABA-40CD-887B-E33D5AD9901F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

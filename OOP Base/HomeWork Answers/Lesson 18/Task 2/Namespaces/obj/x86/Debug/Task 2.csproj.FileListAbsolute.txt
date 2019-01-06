@@ -1,0 +1,11 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\bin\Debug\Library1.dll
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\bin\Debug\Library1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\obj\x86\Debug\Task 2.csprojResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\obj\x86\Debug\Namespaces.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 19\Task 2\Namespaces\obj\x86\Debug\Namespaces.pdb
+C:\Users\Alex\Desktop\PracticC#Esential\Lesson 19\Task 2\Namespaces\obj\x86\Debug\Namespaces.exe
+C:\Users\Alex\Desktop\PracticC#Esential\Lesson 19\Task 2\Namespaces\obj\x86\Debug\Namespaces.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 19\Task 2\Namespaces\obj\x86\Debug\Namespaces.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 18\Task 2\Namespaces\obj\x86\Debug\Namespaces.pdb

@@ -1,0 +1,3 @@
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 6\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 6\Task 2\obj\x86\Debug\Task 1.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 5\Task 2\obj\x86\Debug\Task 1.pdb

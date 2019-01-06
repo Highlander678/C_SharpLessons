@@ -1,0 +1,29 @@
+D:\LINQ\LINQ14\bin\Debug\LINQ14.exe
+D:\LINQ\LINQ14\bin\Debug\LINQ14.pdb
+D:\LINQ\LINQ14\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LINQ\LINQ14\obj\x86\Debug\LINQ14.exe
+D:\LINQ\LINQ14\obj\x86\Debug\LINQ14.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\bin\Debug\LINQ14.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\002_LINQ\LINQ14\obj\x86\Debug\LINQ14.exe

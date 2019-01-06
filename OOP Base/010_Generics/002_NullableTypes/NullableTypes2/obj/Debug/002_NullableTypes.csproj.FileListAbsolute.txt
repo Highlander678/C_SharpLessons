@@ -1,0 +1,28 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\002_NullableTypes\NullableTypes2\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\002_NullableTypes\NullableTypes2\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\002_NullableTypes\NullableTypes2\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\002_NullableTypes.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\002_NullableTypes\NullableTypes2\bin\Debug\NullableTypes2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\002_NullableTypes.csprojResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\002_NullableTypes\NullableTypes2\obj\Debug\NullableTypes2.pdb

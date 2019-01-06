@@ -1,0 +1,5 @@
+D:\CriticalSection\CriticalSection\bin\Debug\CriticalSection.exe
+D:\CriticalSection\CriticalSection\bin\Debug\CriticalSection.pdb
+D:\CriticalSection\CriticalSection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.exe
+D:\CriticalSection\CriticalSection\obj\x86\Debug\CriticalSection.pdb

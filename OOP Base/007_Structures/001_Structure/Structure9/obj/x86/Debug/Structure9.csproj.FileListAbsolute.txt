@@ -1,0 +1,5 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure9\bin\Debug\Structure9.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure9\bin\Debug\Structure9.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure9\obj\x86\Debug\Structure9.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure9\obj\x86\Debug\Structure9.pdb

@@ -1,0 +1,34 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\023_SructArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\023_SructArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\023_SructArrayCovariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\023_SructArrayCovariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\023_SructArrayCovariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\005_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\005_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\005_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\005_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\005_Covariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\005_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\005_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\005_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\005_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\005_Covariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\005_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\005_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\bin\Debug\ArrayCovariant.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\002_Covariant\ArrayCovariant\obj\Debug\ArrayCovariant.pdb

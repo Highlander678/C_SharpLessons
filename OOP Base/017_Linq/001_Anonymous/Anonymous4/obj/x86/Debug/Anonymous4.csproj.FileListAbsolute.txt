@@ -1,0 +1,5 @@
+D:\Anonymous\Anonymous4\bin\Debug\Anonymous4.exe
+D:\Anonymous\Anonymous4\bin\Debug\Anonymous4.pdb
+D:\Anonymous\Anonymous4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Anonymous\Anonymous4\obj\x86\Debug\Anonymous4.exe
+D:\Anonymous\Anonymous4\obj\x86\Debug\Anonymous4.pdb

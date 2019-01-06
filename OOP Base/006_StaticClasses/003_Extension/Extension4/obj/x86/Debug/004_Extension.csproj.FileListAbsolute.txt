@@ -1,0 +1,29 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\003_Extension\Extension4\obj\x86\Debug\Extension4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\003_Extension\Extension4\obj\x86\Debug\Extension4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\003_Extension\Extension4\obj\x86\Debug\Extension4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\003_Extension\Extension4\obj\x86\Debug\Extension4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\003_Extension\Extension4\bin\Debug\Extension4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\003_Extension\Extension4\bin\Debug\Extension4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\003_Extension\Extension4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\003_Extension\Extension4\bin\Debug\Extension4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\003_Extension\Extension4\bin\Debug\Extension4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension4\bin\Debug\Extension4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension4\bin\Debug\Extension4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\003_Extension\Extension4\bin\Debug\Extension4.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\003_Extension\Extension4\bin\Debug\Extension4.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\003_Extension\Extension4\bin\Debug\Extension4.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\003_Extension\Extension4\bin\Debug\Extension4.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\003_Extension\Extension4\obj\x86\Debug\004_Extension.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\003_Extension\Extension4\obj\x86\Debug\Extension4.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\003_Extension\Extension4\obj\x86\Debug\004_Extension.csprojAssemblyReference.cache

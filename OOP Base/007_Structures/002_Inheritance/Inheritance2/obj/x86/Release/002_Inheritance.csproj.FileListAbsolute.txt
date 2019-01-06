@@ -1,0 +1,14 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\bin\Release\Inheritance2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\bin\Release\Inheritance2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\obj\x86\Release\Inheritance2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\obj\x86\Release\Inheritance2.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\bin\Release\Inheritance2.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\bin\Release\Inheritance2.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\obj\x86\Release\Inheritance2.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\obj\x86\Release\Inheritance2.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\obj\x86\Release\Inheritance2.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\obj\x86\Release\002_Inheritance.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\bin\Release\Inheritance2.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\bin\Release\Inheritance2.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance2\obj\x86\Release\Inheritance2.exe

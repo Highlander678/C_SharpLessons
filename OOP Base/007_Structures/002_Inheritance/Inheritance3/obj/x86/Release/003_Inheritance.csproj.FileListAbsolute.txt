@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\bin\Release\Inheritance3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\bin\Release\Inheritance3.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\obj\x86\Release\Inheritance3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\obj\x86\Release\Inheritance3.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\obj\x86\Release\Inheritance3.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\obj\x86\Release\Inheritance3.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\obj\x86\Release\003_Inheritance.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance3\obj\x86\Release\Inheritance3.pdb

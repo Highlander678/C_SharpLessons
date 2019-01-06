@@ -1,0 +1,4 @@
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Addition task\bin\Release\Addition task.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Addition task\bin\Release\Addition task.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Addition task\obj\x86\Release\Addition task.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Addition task\obj\x86\Release\Addition task.pdb

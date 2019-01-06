@@ -1,0 +1,8 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\bin\Release\Nested.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\bin\Release\Nested.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Release\Nested.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Release\Nested.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Release\Nested.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Release\Nested.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Release\Nested.pdb

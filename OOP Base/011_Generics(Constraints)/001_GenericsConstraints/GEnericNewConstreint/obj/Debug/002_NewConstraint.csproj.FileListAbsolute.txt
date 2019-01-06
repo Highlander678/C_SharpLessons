@@ -1,0 +1,11 @@
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\002_NewConstraint.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe

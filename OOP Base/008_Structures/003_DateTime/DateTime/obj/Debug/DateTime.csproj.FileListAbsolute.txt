@@ -1,0 +1,72 @@
+D:\DateTime\DateTime\bin\Debug\DateTime.exe
+D:\DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+D:\DateTime\DateTime\obj\Debug\DateTime.exe
+D:\DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\CODEWORK\DateTime\DateTime\obj\Debug\DateTime.exe
+D:\CODEWORK\DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\obj\Debug\DateTime.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\bin\Debug\DateTime.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\obj\Debug\DateTime.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\bin\Debug\DateTime.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\006_LOGIC_MATH\002_DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\ARCHIVE\003_DateTime\DateTime\obj\Debug\DateTime.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\ARCHIVE\003_DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\ARCHIVE\003_DateTime\DateTime\bin\Debug\DateTime.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\ARCHIVE\003_DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\ARCHIVE\003_DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\FOR TEACHER\003_DateTime\DateTime\obj\Debug\DateTime.exe
+D:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\FOR TEACHER\003_DateTime\DateTime\obj\Debug\DateTime.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\FOR TEACHER\003_DateTime\DateTime\bin\Debug\DateTime.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\FOR TEACHER\003_DateTime\DateTime\bin\Debug\DateTime.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\FOR TEACHER\003_DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\obj\Debug\DateTime.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\obj\Debug\DateTime.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\bin\Debug\DateTime.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\bin\Debug\DateTime.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\bin\Debug\DateTime.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\006_DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\006_DateTime\DateTime\obj\Debug\DateTime.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\006_DateTime\DateTime\obj\Debug\DateTime.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\003_DateTime\DateTime\bin\Debug\DateTime.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\003_DateTime\DateTime\bin\Debug\DateTime.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\bin\Debug\DateTime.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\003_DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\003_DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\bin\Debug\DateTime.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\003_DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Vitalii\Documents\CD\C# Essential\C# Essential Source\008_Structures\003_DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Vitalii\Documents\CD\C# Essential\C# Essential Source\008_Structures\003_DateTime\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Vitalii\Documents\CD\C# Essential\C# Essential Source\008_Structures\003_DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Vitalii\Documents\CD\C# Essential\C# Essential Source\008_Structures\003_DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Vitalii\Documents\CD\C# Essential\C# Essential Source\008_Structures\003_DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\003_DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\003_DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\003_DateTime\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\003_DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\003_DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\008_Structures\003_DateTime\DateTime\obj\Debug\DateTime.pdb

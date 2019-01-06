@@ -1,0 +1,32 @@
+D:\Threads\Threads4\bin\Debug\Threads4.exe
+D:\Threads\Threads4\bin\Debug\Threads4.pdb
+D:\Threads\Threads4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Threads\Threads4\obj\x86\Debug\Threads4.exe
+D:\Threads\Threads4\obj\x86\Debug\Threads4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\001_Threads\Threads4\bin\Debug\Threads4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\001_Threads\Threads4\bin\Debug\Threads4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_Threads\001_Threads\Threads4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\001_Threads\Threads4\bin\Debug\Threads4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\001_Threads\Threads4\bin\Debug\Threads4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\015_Threads\001_Threads\Threads4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\001_Threads\Threads4\bin\Debug\Threads4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\001_Threads\Threads4\bin\Debug\Threads4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\015_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads4\bin\Debug\Threads4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads4\bin\Debug\Threads4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads4\bin\Debug\Threads4.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads4\bin\Debug\Threads4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads4\obj\x86\Debug\004_Threads.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads4\obj\x86\Debug\Threads4.exe

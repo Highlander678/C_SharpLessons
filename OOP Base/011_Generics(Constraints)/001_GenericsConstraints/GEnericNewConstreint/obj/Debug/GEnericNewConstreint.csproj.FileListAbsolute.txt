@@ -1,0 +1,17 @@
+D:\GEnericNewConstreint\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.exe
+D:\GEnericNewConstreint\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.pdb
+D:\GEnericNewConstreint\GEnericNewConstreint\obj\Debug\ResolveAssemblyReference.cache
+D:\GEnericNewConstreint\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+D:\GEnericNewConstreint\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+D:\CODEWORK\NEW_GEnericNewConstreint\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+D:\CODEWORK\NEW_GEnericNewConstreint\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+D:\CODEWORK\NEW_GEnericNewConstreint\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.exe
+D:\CODEWORK\NEW_GEnericNewConstreint\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.pdb
+D:\CODEWORK\NEW_GEnericNewConstreint\GEnericNewConstreint\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericNewConstreint\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\018_GENERICS\006_GEnericNew\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb

@@ -1,0 +1,5 @@
+D:\Namespaces\Library2\bin\Debug\Library2.dll
+D:\Namespaces\Library2\bin\Debug\Library2.pdb
+D:\Namespaces\Library2\obj\Debug\ResolveAssemblyReference.cache
+D:\Namespaces\Library2\obj\Debug\Library2.dll
+D:\Namespaces\Library2\obj\Debug\Library2.pdb

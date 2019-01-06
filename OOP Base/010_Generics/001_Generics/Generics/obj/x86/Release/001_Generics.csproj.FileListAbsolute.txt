@@ -1,0 +1,10 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics\bin\Release\Generics.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics\bin\Release\Generics.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics\obj\x86\Release\Generics.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\011_Generics\001_Generics\Generics\obj\x86\Release\Generics.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\001_Generics\Generics\obj\x86\Release\Generics.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics\bin\Release\Generics.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics\bin\Release\Generics.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics\obj\x86\Release\001_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics\obj\x86\Release\Generics.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\010_Generics\001_Generics\Generics\obj\x86\Release\Generics.pdb

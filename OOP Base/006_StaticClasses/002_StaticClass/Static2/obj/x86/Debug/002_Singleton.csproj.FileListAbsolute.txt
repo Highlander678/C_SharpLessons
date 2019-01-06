@@ -1,0 +1,32 @@
+D:\StaticClass\Static2\bin\Debug\Static2.exe
+D:\StaticClass\Static2\bin\Debug\Static2.pdb
+D:\StaticClass\Static2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\StaticClass\Static2\obj\x86\Debug\Static2.exe
+D:\StaticClass\Static2\obj\x86\Debug\Static2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\002_StaticClass\Static2\obj\x86\Debug\Static2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\002_StaticClass\Static2\obj\x86\Debug\Static2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\002_StaticClass\Static2\obj\x86\Debug\Static2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\002_StaticClass\Static2\obj\x86\Debug\Static2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\002_StaticClass\Static2\bin\Debug\Static2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\002_StaticClass\Static2\bin\Debug\Static2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\002_StaticClass\Static2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\bin\Debug\Static2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\bin\Debug\Static2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.pdb
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.pdb
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\002_StaticClass\Static2\bin\Debug\Static2.exe
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\002_StaticClass\Static2\bin\Debug\Static2.pdb
+c:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\002_StaticClass\Static2\bin\Debug\Static2.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\002_StaticClass\Static2\bin\Debug\Static2.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\002_Singleton.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\002_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\002_StaticClass\Static2\obj\x86\Debug\Static2.pdb

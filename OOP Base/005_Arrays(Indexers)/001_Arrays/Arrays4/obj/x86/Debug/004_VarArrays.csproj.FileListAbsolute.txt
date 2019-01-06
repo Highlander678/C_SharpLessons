@@ -1,0 +1,4 @@
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\001_Arrays\Arrays17\obj\x86\Debug\Arrays17.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\001_Arrays\Arrays17\obj\x86\Debug\Arrays17.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\001_Arrays\Arrays4\obj\x86\Debug\Arrays17.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\006_Arrays(Indexers)\001_Arrays\Arrays4\obj\x86\Debug\Arrays17.pdb

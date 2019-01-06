@@ -1,0 +1,19 @@
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\bin\Debug\MVP_StopWatch.exe
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\bin\Debug\MVP_StopWatch.pdb
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.exe
+D:\Documents\Visual Studio 2010\Projects\HomeTasks\Essential\Lesson13\MVPCalculate\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.pdb
+D:\Rab Stol\Новая папка\Lesson 13\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.exe
+D:\Rab Stol\Новая папка\Lesson 13\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\bin\Debug\MVP_StopWatch.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\bin\Debug\MVP_StopWatch.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.Form1.resources
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.Properties.Resources.resources
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.csproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\13_3\MVP_StopWatch\obj\x86\Debug\MVP_StopWatch.exe

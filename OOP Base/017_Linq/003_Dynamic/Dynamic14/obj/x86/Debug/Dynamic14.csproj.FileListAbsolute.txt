@@ -1,0 +1,5 @@
+D:\Dynamic\Dynamic14\bin\Debug\Dynamic14.exe
+D:\Dynamic\Dynamic14\bin\Debug\Dynamic14.pdb
+D:\Dynamic\Dynamic14\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.exe
+D:\Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.pdb

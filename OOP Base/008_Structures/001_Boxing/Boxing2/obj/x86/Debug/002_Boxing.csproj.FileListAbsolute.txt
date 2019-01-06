@@ -1,0 +1,32 @@
+D:\Boxing\Boxing2\bin\Debug\Boxing2.exe
+D:\Boxing\Boxing2\bin\Debug\Boxing2.pdb
+D:\Boxing\Boxing2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Boxing\Boxing2\obj\x86\Debug\Boxing2.exe
+D:\Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\004_Boxing\Boxing2\obj\x86\Debug\Boxing2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\004_Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing2\obj\x86\Debug\Boxing2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing2\bin\Debug\Boxing2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing2\bin\Debug\Boxing2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\004_Boxing\Boxing2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\004_Boxing\Boxing2\obj\x86\Debug\Boxing2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\011_Structures\004_Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing2\bin\Debug\Boxing2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing2\bin\Debug\Boxing2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\002_Boxing.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\bin\Debug\Boxing2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\bin\Debug\Boxing2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\bin\Debug\Boxing2.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\bin\Debug\Boxing2.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\002_Boxing.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\009_Structures\001_Boxing\Boxing2\obj\x86\Debug\Boxing2.pdb

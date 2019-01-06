@@ -1,0 +1,8 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads6\bin\Release\Threads6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads6\bin\Release\Threads6.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads6\obj\x86\Release\Threads6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\014_Threads\001_Threads\Threads6\obj\x86\Release\Threads6.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads6\bin\Release\Threads6.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads6\bin\Release\Threads6.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads6\obj\x86\Release\Threads6.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads6\obj\x86\Release\Threads6.pdb

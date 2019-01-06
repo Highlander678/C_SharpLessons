@@ -1,0 +1,31 @@
+D:\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Inheritance\Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+D:\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\002_Inheritance\Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\002_Inheritance\Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\002_Inheritance\Inheritance\bin\Debug\Inheritance.pdb

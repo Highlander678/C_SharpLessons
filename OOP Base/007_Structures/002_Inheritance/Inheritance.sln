@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Inheritance", "Inheritance\001_Inheritance.csproj", "{575C31EC-611F-4DB7-986D-E8C947A3585E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Inheritance", "Inheritance2\002_Inheritance.csproj", "{D687FB57-AB6D-4CFE-808E-9A5C756D3131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Inheritance", "Inheritance3\003_Inheritance.csproj", "{8A051227-A3B6-443E-836D-2F4DCFCE5A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575C31EC-611F-4DB7-986D-E8C947A3585E}.Debug|x86.ActiveCfg = Debug|x86
+		{575C31EC-611F-4DB7-986D-E8C947A3585E}.Debug|x86.Build.0 = Debug|x86
+		{575C31EC-611F-4DB7-986D-E8C947A3585E}.Release|x86.ActiveCfg = Release|x86
+		{575C31EC-611F-4DB7-986D-E8C947A3585E}.Release|x86.Build.0 = Release|x86
+		{D687FB57-AB6D-4CFE-808E-9A5C756D3131}.Debug|x86.ActiveCfg = Debug|x86
+		{D687FB57-AB6D-4CFE-808E-9A5C756D3131}.Debug|x86.Build.0 = Debug|x86
+		{D687FB57-AB6D-4CFE-808E-9A5C756D3131}.Release|x86.ActiveCfg = Release|x86
+		{D687FB57-AB6D-4CFE-808E-9A5C756D3131}.Release|x86.Build.0 = Release|x86
+		{8A051227-A3B6-443E-836D-2F4DCFCE5A93}.Debug|x86.ActiveCfg = Debug|x86
+		{8A051227-A3B6-443E-836D-2F4DCFCE5A93}.Debug|x86.Build.0 = Debug|x86
+		{8A051227-A3B6-443E-836D-2F4DCFCE5A93}.Release|x86.ActiveCfg = Release|x86
+		{8A051227-A3B6-443E-836D-2F4DCFCE5A93}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

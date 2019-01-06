@@ -1,0 +1,40 @@
+D:\Structure\Structure5\bin\Debug\Structure5.exe
+D:\Structure\Structure5\bin\Debug\Structure5.pdb
+D:\Structure\Structure5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Structure\Structure5\obj\x86\Debug\Structure5.exe
+D:\Structure\Structure5\obj\x86\Debug\Structure5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure5\bin\Debug\Structure5.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure5\bin\Debug\Structure5.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure5\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure5\bin\Debug\Structure5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure5\bin\Debug\Structure5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure5\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\001_Structure\Structure5\bin\Debug\Structure5.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\001_Structure\Structure5\bin\Debug\Structure5.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure5\bin\Debug\Structure5.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure5\bin\Debug\Structure5.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\bin\Debug\Structure5.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\bin\Debug\Structure5.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\bin\Debug\Structure5.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\bin\Debug\Structure5.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\005_Structure.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure5\bin\Debug\Structure5.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure5\bin\Debug\Structure5.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure5\obj\x86\Debug\005_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure5\obj\x86\Debug\Structure5.pdb

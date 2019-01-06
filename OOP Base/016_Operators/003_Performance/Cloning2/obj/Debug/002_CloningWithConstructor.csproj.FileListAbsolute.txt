@@ -1,0 +1,25 @@
+D:\Cloning\Cloning2\bin\Debug\Cloning2.exe.config
+D:\Cloning\Cloning2\obj\Debug\Cloning2.exe
+D:\Cloning\Cloning2\obj\Debug\Cloning2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning2\bin\Debug\Cloning2.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning2\obj\Debug\Cloning2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning2\obj\Debug\Cloning2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning2\bin\Debug\Cloning2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning2\bin\Debug\Cloning2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning2\bin\Debug\Cloning2.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning2\obj\Debug\Cloning2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning2\obj\Debug\Cloning2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning2\bin\Debug\Cloning2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning2\bin\Debug\Cloning2.pdb
+C:\Users\Oleg\Desktop\004_Prototype\003_Performance\Cloning2\bin\Debug\Cloning2.exe.config
+C:\Users\Oleg\Desktop\004_Prototype\003_Performance\Cloning2\obj\Debug\Cloning2.exe
+C:\Users\Oleg\Desktop\004_Prototype\003_Performance\Cloning2\obj\Debug\Cloning2.pdb
+C:\Users\Oleg\Desktop\004_Prototype\003_Performance\Cloning2\bin\Debug\Cloning2.exe
+C:\Users\Oleg\Desktop\004_Prototype\003_Performance\Cloning2\bin\Debug\Cloning2.pdb
+C:\Users\Oleg\Desktop\004_Prototype\003_Performance\Cloning2\obj\Debug\002_CloningWithConstructor.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\bin\Debug\Cloning2.exe.config
+C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\obj\Debug\Cloning2.exe
+C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\obj\Debug\Cloning2.pdb
+C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\bin\Debug\Cloning2.exe
+C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\bin\Debug\Cloning2.pdb
+C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\obj\Debug\002_CloningWithConstructor.csprojResolveAssemblyReference.cache

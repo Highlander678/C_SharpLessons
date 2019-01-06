@@ -1,0 +1,17 @@
+D:\Namespaces\Namespaces16\bin\Debug\Namespaces16.exe
+D:\Namespaces\Namespaces16\bin\Debug\Namespaces16.pdb
+D:\Namespaces\Namespaces16\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.exe
+D:\Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\001_Namespaces\Namespaces16\bin\Debug\Namespaces16.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\001_Namespaces\Namespaces16\bin\Debug\Namespaces16.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\020_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\019_Namespaces\001_Namespaces\Namespaces16\obj\x86\Debug\Namespaces16.pdb

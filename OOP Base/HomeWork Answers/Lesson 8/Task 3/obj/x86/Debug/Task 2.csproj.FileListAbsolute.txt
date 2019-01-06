@@ -1,0 +1,7 @@
+D:\Home Work\Lesson 9\Task 3\obj\x86\Debug\Task 3.exe
+D:\Home Work\Lesson 9\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 9\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 9\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 9\Task 3\bin\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 9\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 9\Task 3\obj\x86\Debug\Task 3.pdb

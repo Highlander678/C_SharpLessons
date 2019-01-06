@@ -1,0 +1,10 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\020_Namespaces\Preprocessor Directives\ConsoleApplication6\obj\Debug\ResolveAssemblyReference.cache

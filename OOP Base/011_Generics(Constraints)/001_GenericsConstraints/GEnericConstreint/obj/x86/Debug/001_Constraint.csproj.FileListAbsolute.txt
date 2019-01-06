@@ -1,0 +1,7 @@
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericConstreint\bin\Debug\GEnericConstreint.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericConstreint\bin\Debug\GEnericConstreint.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericConstreint\obj\x86\Debug\GEnericConstreint.pdb

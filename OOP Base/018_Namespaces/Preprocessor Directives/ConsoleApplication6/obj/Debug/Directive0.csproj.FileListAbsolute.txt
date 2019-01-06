@@ -1,0 +1,14 @@
+D:\CODEWORK\Directive\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\CODEWORK\Directive\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\CODEWORK\Directive\ConsoleApplication6\obj\Debug\ResolveAssemblyReference.cache
+D:\CODEWORK\Directive\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\CODEWORK\Directive\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK3\007_Directive\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK3\007_Directive\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK3\007_Directive\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK3\007_Directive\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK3\007_Directive\ConsoleApplication6\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK_3_4\007_Directive\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\019_FRAMEWORK_3_4\007_Directive\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\030_Directive\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\020_Namespaces\030_Directive\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

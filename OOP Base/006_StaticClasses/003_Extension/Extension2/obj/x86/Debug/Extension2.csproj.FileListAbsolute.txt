@@ -1,0 +1,5 @@
+D:\Extension\Extension2\bin\Debug\Extension2.exe
+D:\Extension\Extension2\bin\Debug\Extension2.pdb
+D:\Extension\Extension2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Extension\Extension2\obj\x86\Debug\Extension2.exe
+D:\Extension\Extension2\obj\x86\Debug\Extension2.pdb

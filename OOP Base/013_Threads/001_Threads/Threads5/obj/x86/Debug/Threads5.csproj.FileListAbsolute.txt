@@ -1,0 +1,5 @@
+D:\Threads\Threads5\bin\Debug\Threads5.exe
+D:\Threads\Threads5\bin\Debug\Threads5.pdb
+D:\Threads\Threads5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Threads\Threads5\obj\x86\Debug\Threads5.exe
+D:\Threads\Threads5\obj\x86\Debug\Threads5.pdb

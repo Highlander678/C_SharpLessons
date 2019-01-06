@@ -1,0 +1,66 @@
+D:\MVP\MVP\bin\Debug\MVP.exe
+D:\MVP\MVP\bin\Debug\MVP.pdb
+D:\MVP\MVP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MVP\MVP\obj\x86\Debug\MainWindow.baml
+D:\MVP\MVP\obj\x86\Debug\MainWindow.g.cs
+D:\MVP\MVP\obj\x86\Debug\App.g.cs
+D:\MVP\MVP\obj\x86\Debug\MVP_MarkupCompile.cache
+D:\MVP\MVP\obj\x86\Debug\MVP.g.resources
+D:\MVP\MVP\obj\x86\Debug\MVP.Properties.Resources.resources
+D:\MVP\MVP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MVP\MVP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MVP\MVP\obj\x86\Debug\MVP.exe
+D:\MVP\MVP\obj\x86\Debug\MVP.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\bin\Debug\MVP.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\bin\Debug\MVP.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\MainWindow.baml
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\MainWindow.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\App.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\MVP_MarkupCompile.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.g.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\013_Events\003_MVP\MVP\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\003_MVP\MVP\obj\x86\Debug\MVP.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\014_Events\003_MVP\MVP\obj\x86\Debug\MVP.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\003_MVP\MVP\obj\x86\Debug\MVP.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\014_Events\003_MVP\MVP\obj\x86\Debug\MVP.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\bin\Debug\MVP.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\bin\Debug\MVP.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\MainWindow.baml
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\MainWindow.g.cs
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\App.g.cs
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\MVP_MarkupCompile.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.g.resources
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.Properties.Resources.resources
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\bin\Debug\MVP.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\bin\Debug\MVP.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MainWindow.baml
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MainWindow.g.cs
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\App.g.cs
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP_MarkupCompile.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.g.resources
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.Properties.Resources.resources
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\bin\Debug\MVP.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\bin\Debug\MVP.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\App.g.cs
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP_MarkupCompile.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.g.resources
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.Properties.Resources.resources
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.csproj.GenerateResource.Cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\003_MVP\MVP\obj\x86\Debug\MVP.pdb

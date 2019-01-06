@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 18\bin\Release\Lessons 18.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 18\bin\Release\Lessons 18.pdb
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 18\obj\x86\Release\Lessons 18.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 18\obj\x86\Release\Lessons 18.pdb

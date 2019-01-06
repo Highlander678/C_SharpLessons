@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Release\Enums.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Release\Enums.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Release\Enums.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Release\Enums.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Release\Enums.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\bin\Release\Enums.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Release\Enums.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\004_Enums\Enums6\obj\x86\Release\Enums.pdb

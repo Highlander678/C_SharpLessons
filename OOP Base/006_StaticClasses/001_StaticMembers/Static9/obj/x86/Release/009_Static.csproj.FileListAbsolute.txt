@@ -1,0 +1,15 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\bin\Release\Static9.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\bin\Release\Static9.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\009_Static.csprojResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\Static9.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\Static9.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\Static9.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\009_Static.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\bin\Release\Static9.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\bin\Release\Static9.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\Static9.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static9\bin\Release\Static9.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static9\bin\Release\Static9.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\009_Static.csprojResolveAssemblyReference.cache
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\Static9.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static9\obj\x86\Release\Static9.pdb

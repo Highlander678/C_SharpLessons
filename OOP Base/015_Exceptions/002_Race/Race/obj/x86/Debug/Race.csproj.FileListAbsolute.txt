@@ -1,0 +1,27 @@
+D:\Race\Race\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Race\Race\bin\Debug\Race.exe
+D:\Race\Race\bin\Debug\Race.pdb
+D:\Race\Race\obj\x86\Debug\Race.exe
+D:\Race\Race\obj\x86\Debug\Race.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Exceptions\002_Race\Race\bin\Debug\Race.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Exceptions\002_Race\Race\bin\Debug\Race.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Exceptions\002_Race\Race\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\017_Exceptions\002_Race\Race\obj\x86\Debug\Race.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\017_Exceptions\002_Race\Race\obj\x86\Debug\Race.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\002_Race\Race\bin\Debug\Race.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\002_Race\Race\bin\Debug\Race.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\bin\Debug\Race.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\bin\Debug\Race.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\bin\Debug\Race.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\bin\Debug\Race.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.exe

@@ -1,0 +1,26 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\007_ArrayList_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\007_ArrayList_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\007_ArrayList_List\ArrayList_Expl\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\007_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\007_ArrayList_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\004_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\004_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\004_List\ArrayList_Expl\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\004_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\004_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\004_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\004_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\004_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\004_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\004_List\ArrayList_Expl\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\004_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\004_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\012_Generics(Constraints)\002_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\012_Generics(Constraints)\002_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\002_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\002_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\002_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\002_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\002_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\002_List\ArrayList_Expl\bin\Debug\ArrayList_Expl.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\002_List\ArrayList_Expl\obj\Debug\ArrayList_Expl.pdb

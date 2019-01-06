@@ -1,0 +1,34 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\IEYield\bin\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\IEYield\bin\Debug\IEYield.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\IEYield\obj\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\014_COLLECTION\002_Yield\IEYield\obj\Debug\IEYield.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\015_Collections\002_Yield\IEYield\bin\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\015_Collections\002_Yield\IEYield\bin\Debug\IEYield.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\015_Collections\002_Yield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Collections\002_Yield\IEYield\obj\Debug\IEYield.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\016_Collections\002_Yield\IEYield\obj\Debug\IEYield.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\016_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\016_Collections\002_Yield\IEYield\bin\Debug\IEYield.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\016_Collections\002_Yield\IEYield\bin\Debug\IEYield.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\016_Collections\002_Yield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\016_Collections\002_Yield\IEYield\obj\Debug\IEYield.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\016_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\016_Collections\002_Yield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\016_Collections\002_Yield\IEYield\bin\Debug\IEYield.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\016_Collections\002_Yield\IEYield\bin\Debug\IEYield.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\015_Collections\002_Yield\IEYield\bin\Debug\IEYield.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\015_Collections\002_Yield\IEYield\bin\Debug\IEYield.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\015_Collections\002_Yield\IEYield\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\IEYield\bin\Debug\IEYield.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\IEYield\bin\Debug\IEYield.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb

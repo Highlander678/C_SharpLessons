@@ -1,0 +1,4 @@
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MVP.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MVP.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\Lesson12\AddTasks1\obj\x86\Debug\MVP.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\Lesson12\AddTasks1\obj\x86\Debug\MVP.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\bin\Release\Structure10.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\bin\Release\Structure10.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\obj\x86\Release\Structure10.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\obj\x86\Release\Structure10.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\bin\Release\Structure10.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\bin\Release\Structure10.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\obj\x86\Release\010_Structure.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\obj\x86\Release\Structure10.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure10\obj\x86\Release\Structure10.pdb

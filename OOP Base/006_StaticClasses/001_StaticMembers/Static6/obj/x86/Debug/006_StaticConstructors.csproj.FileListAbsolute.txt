@@ -1,0 +1,5 @@
+D:\Static\Static6\bin\Debug\Static6.exe
+D:\Static\Static6\bin\Debug\Static6.pdb
+D:\Static\Static6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Static\Static6\obj\x86\Debug\Static6.exe
+D:\Static\Static6\obj\x86\Debug\Static6.pdb

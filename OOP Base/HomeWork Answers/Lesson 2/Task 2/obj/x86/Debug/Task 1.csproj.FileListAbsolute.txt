@@ -1,0 +1,11 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 2\Task 1\bin\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 2\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 2\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 2\Task 1\obj\x86\Debug\Task 1.pdb
+G:\Lesson 2\Task 1\obj\x86\Debug\Task 1.exe
+G:\Lesson 2\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Юлия\Desktop\Новая папка\Lesson 2\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Юлия\Desktop\Новая папка\Lesson 2\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 2\Lesson 2\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\Новая папка\Rewiev\Lesson 2\Lesson 2\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Alexandr\Desktop\Home work\Lesson 2\Task 1\obj\x86\Debug\Task 1.pdb

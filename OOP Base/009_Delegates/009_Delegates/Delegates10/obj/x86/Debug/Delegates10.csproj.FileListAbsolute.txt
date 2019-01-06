@@ -1,0 +1,5 @@
+D:\Delegates\Delegates10\bin\Debug\Delegates10.exe
+D:\Delegates\Delegates10\bin\Debug\Delegates10.pdb
+D:\Delegates\Delegates10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Delegates\Delegates10\obj\x86\Debug\Delegates10.exe
+D:\Delegates\Delegates10\obj\x86\Debug\Delegates10.pdb

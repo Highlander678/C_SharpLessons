@@ -1,0 +1,20 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Release\Static.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Release\Static.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Release\Static.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Release\Static.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static\bin\Release\Static.exe
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static\bin\Release\Static.pdb
+C:\Users\Fox\Documents\Fox\CyberBionic\C#\C# Essential\3.0\C# Essential Source\C# Essential Source\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\001_Static.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static\bin\Release\Static.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static\bin\Release\Static.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\001_Static.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.pdb

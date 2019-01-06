@@ -1,0 +1,20 @@
+D:\Anonymous\Anonymous2\bin\Debug\Anonymous2.exe
+D:\Anonymous\Anonymous2\bin\Debug\Anonymous2.pdb
+D:\Anonymous\Anonymous2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.exe
+D:\Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\001_Anonymous\Anonymous2\bin\Debug\Anonymous2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\001_Anonymous\Anonymous2\bin\Debug\Anonymous2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\001_Anonymous\Anonymous2\bin\Debug\Anonymous2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\001_Anonymous\Anonymous2\bin\Debug\Anonymous2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb

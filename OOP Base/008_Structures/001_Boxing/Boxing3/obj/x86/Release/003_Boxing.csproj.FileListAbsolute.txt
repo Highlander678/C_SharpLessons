@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\bin\Release\Boxing3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\bin\Release\Boxing3.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\obj\x86\Release\Boxing3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\obj\x86\Release\Boxing3.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\bin\Release\Boxing3.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\bin\Release\Boxing3.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\obj\x86\Release\Boxing3.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\009_Structures\001_Boxing\Boxing3\obj\x86\Release\Boxing3.pdb

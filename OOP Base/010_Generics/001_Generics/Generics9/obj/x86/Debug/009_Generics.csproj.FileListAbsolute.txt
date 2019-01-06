@@ -1,0 +1,10 @@
+D:\Generics\Generics9\bin\Debug\Generics9.exe
+D:\Generics\Generics9\bin\Debug\Generics9.pdb
+D:\Generics\Generics9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Generics\Generics9\obj\x86\Debug\Generics9.exe
+D:\Generics\Generics9\obj\x86\Debug\Generics9.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics9\obj\x86\Debug\Generics9.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics9\obj\x86\Debug\Generics9.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics9\bin\Debug\Generics9.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics9\bin\Debug\Generics9.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\001_Generics\Generics9\obj\x86\Debug\ResolveAssemblyReference.cache

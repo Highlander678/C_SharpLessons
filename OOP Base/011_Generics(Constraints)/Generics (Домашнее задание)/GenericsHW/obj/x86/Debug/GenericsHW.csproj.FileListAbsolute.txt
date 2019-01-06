@@ -1,0 +1,16 @@
+D:\-=Study=-\Andrey\GenericsHW\GenericsHW\bin\Debug\GenericsHW.exe
+D:\-=Study=-\Andrey\GenericsHW\GenericsHW\bin\Debug\GenericsHW.pdb
+D:\-=Study=-\Andrey\GenericsHW\GenericsHW\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=Study=-\Andrey\GenericsHW\GenericsHW\obj\x86\Debug\GenericsHW.exe
+D:\-=Study=-\Andrey\GenericsHW\GenericsHW\obj\x86\Debug\GenericsHW.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\GenericsHW\GenericsHW\obj\x86\Debug\GenericsHW.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\011_Generics\GenericsHW\GenericsHW\obj\x86\Debug\GenericsHW.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\GenericsHW\GenericsHW\obj\x86\Debug\GenericsHW.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\GenericsHW\GenericsHW\obj\x86\Debug\GenericsHW.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\Generics (Домашнее задание)\GenericsHW\obj\x86\Debug\GenericsHW.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\011_Generics\Generics (Домашнее задание)\GenericsHW\obj\x86\Debug\GenericsHW.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\Generics (Домашнее задание)\GenericsHW\obj\x86\Debug\GenericsHW.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\Generics (Домашнее задание)\GenericsHW\obj\x86\Debug\GenericsHW.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\Generics (Домашнее задание)\GenericsHW\obj\x86\Debug\GenericsHW.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\012_Generics(Constraints)\Generics (Домашнее задание)\GenericsHW\obj\x86\Debug\GenericsHW.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\Generics (Домашнее задание)\GenericsHW\obj\x86\Debug\GenericsHW.pdb

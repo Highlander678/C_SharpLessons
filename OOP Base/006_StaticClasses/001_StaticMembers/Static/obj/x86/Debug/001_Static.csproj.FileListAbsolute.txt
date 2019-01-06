@@ -1,0 +1,22 @@
+D:\Static\Static\obj\x86\Debug\Static.exe
+D:\Static\Static\obj\x86\Debug\Static.pdb
+D:\Static\Static\bin\Debug\Static.exe
+D:\Static\Static\bin\Debug\Static.pdb
+D:\Static\Static\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\001_StaticMembers\Static\obj\x86\Debug\Static.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\009_Classes\001_StaticMembers\Static\obj\x86\Debug\Static.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static\obj\x86\Debug\Static.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static\obj\x86\Debug\Static.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static\bin\Debug\Static.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static\bin\Debug\Static.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\010_Classes\001_StaticMembers\Static\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\001_StaticMembers\Static\obj\x86\Debug\Static.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\001_StaticMembers\Static\obj\x86\Debug\Static.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\001_StaticMembers\Static\bin\Debug\Static.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\007_StaticClasses\001_StaticMembers\Static\bin\Debug\Static.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Debug\Static.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Debug\Static.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Debug\Static.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Debug\Static.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Debug\Static.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Debug\Static.pdb

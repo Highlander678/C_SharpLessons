@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Boxing", "Boxing\001_Boxing.csproj", "{24A84E5B-87B0-43CE-9099-793FE3F39B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Boxing", "Boxing2\002_Boxing.csproj", "{6AAE0324-27E3-47C6-B5DC-1AF78F51E048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Boxing", "Boxing3\003_Boxing.csproj", "{F8D666F6-AC22-450A-BD40-45656529EE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A84E5B-87B0-43CE-9099-793FE3F39B49}.Debug|x86.ActiveCfg = Debug|x86
+		{24A84E5B-87B0-43CE-9099-793FE3F39B49}.Debug|x86.Build.0 = Debug|x86
+		{24A84E5B-87B0-43CE-9099-793FE3F39B49}.Release|x86.ActiveCfg = Release|x86
+		{24A84E5B-87B0-43CE-9099-793FE3F39B49}.Release|x86.Build.0 = Release|x86
+		{6AAE0324-27E3-47C6-B5DC-1AF78F51E048}.Debug|x86.ActiveCfg = Debug|x86
+		{6AAE0324-27E3-47C6-B5DC-1AF78F51E048}.Debug|x86.Build.0 = Debug|x86
+		{6AAE0324-27E3-47C6-B5DC-1AF78F51E048}.Release|x86.ActiveCfg = Release|x86
+		{6AAE0324-27E3-47C6-B5DC-1AF78F51E048}.Release|x86.Build.0 = Release|x86
+		{F8D666F6-AC22-450A-BD40-45656529EE9E}.Debug|x86.ActiveCfg = Debug|x86
+		{F8D666F6-AC22-450A-BD40-45656529EE9E}.Debug|x86.Build.0 = Debug|x86
+		{F8D666F6-AC22-450A-BD40-45656529EE9E}.Release|x86.ActiveCfg = Release|x86
+		{F8D666F6-AC22-450A-BD40-45656529EE9E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

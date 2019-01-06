@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 2\bin\Release\Task 2.exe
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 2\bin\Release\Task 2.pdb
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 2\obj\x86\Release\Task 2.exe
+C:\Users\Alex CBS\Desktop\Lesson 1\Task 2\obj\x86\Release\Task 2.pdb

@@ -1,0 +1,12 @@
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 15\Task 1\bin\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 15\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 15\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\PracticC#Esential\Lessons 15\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 15\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 15\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 15\Task 1\bin\Debug\Task 1.exe
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 15\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Юлия\Desktop\PracticC#Esential\Lesson 15\Task 1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rab Stol\Новая папка\Lesson 15\Task 1\obj\x86\Debug\Task 1.exe
+D:\Rab Stol\Новая папка\Lesson 15\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 15\Task 1\obj\x86\Debug\Task 1.pdb

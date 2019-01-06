@@ -1,0 +1,25 @@
+D:\Dynamic\Dynamic15\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dynamic\Dynamic15\bin\Debug\Dynamic15.exe
+D:\Dynamic\Dynamic15\bin\Debug\Dynamic15.pdb
+D:\Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.exe
+D:\Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Namespaces\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Namespaces\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic15\bin\Debug\Dynamic15.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic15\bin\Debug\Dynamic15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic15\bin\Debug\Dynamic15.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic15\bin\Debug\Dynamic15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\019_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic15\bin\Debug\Dynamic15.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic15\bin\Debug\Dynamic15.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\003_Dynamic\Dynamic15\obj\x86\Debug\Dynamic15.exe

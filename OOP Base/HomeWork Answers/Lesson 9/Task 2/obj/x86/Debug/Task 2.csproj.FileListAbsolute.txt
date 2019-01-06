@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 1\bin\Debug\Task 1.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 2\obj\x86\Debug\Task 1.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 2\obj\x86\Debug\Task 1.pdb
+C:\Users\ROMA\Desktop\Courses\C# Essential\CS_Essential_RU\HomeWork Answers\Lesson 9\Task 2\obj\x86\Debug\Task 1.exe
+C:\Users\ROMA\Desktop\Courses\C# Essential\CS_Essential_RU\HomeWork Answers\Lesson 9\Task 2\obj\x86\Debug\Task 1.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers1\Lesson 9\Task 2\obj\x86\Debug\Task 1.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers1\Lesson 9\Task 2\obj\x86\Debug\Task 1.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 9\Task 2\obj\x86\Debug\Task 1.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 9\Task 2\obj\x86\Debug\Task 1.pdb

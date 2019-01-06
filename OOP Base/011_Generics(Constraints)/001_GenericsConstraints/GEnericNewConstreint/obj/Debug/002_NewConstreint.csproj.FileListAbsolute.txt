@@ -1,0 +1,19 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\012_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\003_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\003_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\013_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\003_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\003_GenericsConstraints\GEnericNewConstreint\bin\Debug\GEnericNewConstreint.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\013_Generics\003_GenericsConstraints\GEnericNewConstreint\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\012_Generics(Constraints)\001_GenericsConstraints\GEnericNewConstreint\obj\Debug\GEnericNewConstreint.pdb

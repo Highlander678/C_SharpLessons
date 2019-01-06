@@ -1,0 +1,4 @@
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Task 1\bin\Release\Task 1.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Task 1\bin\Release\Task 1.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Task 1\obj\x86\Release\Task 1.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 14\Task 1\obj\x86\Release\Task 1.pdb

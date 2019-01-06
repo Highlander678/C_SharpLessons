@@ -1,0 +1,17 @@
+D:\ExImplicit\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ExImplicit\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\ExImplicit\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ExImplicit\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ExImplicit\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\005_ExImplicit\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\005_ExImplicit\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\005_ExImplicit\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\005_ExImplicit\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\017_OVERLOADED\005_ExImplicit\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\017_OVERLOADED\005_ExImplicit\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\017_OVERLOADED\005_ExImplicit\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache

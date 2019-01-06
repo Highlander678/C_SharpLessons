@@ -1,0 +1,35 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure8\bin\Debug\Structure8.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure8\bin\Debug\Structure8.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure8\bin\Debug\Structure8.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure8\bin\Debug\Structure8.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure8\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\001_Structure\Structure8\bin\Debug\Structure8.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\001_Structure\Structure8\bin\Debug\Structure8.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure8\bin\Debug\Structure8.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure8\bin\Debug\Structure8.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\bin\Debug\Structure8.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\bin\Debug\Structure8.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\bin\Debug\Structure8.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\bin\Debug\Structure8.pdb
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.exe
+C:\Users\Alex\Desktop\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure8\bin\Debug\Structure8.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure8\bin\Debug\Structure8.pdb
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure8\obj\x86\Debug\008_Structure.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure8\obj\x86\Debug\008_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.exe
+C:\Users\Adm\Documents\C++\Lessons\OOP Base\007_Structures\001_Structure\Structure8\obj\x86\Debug\Structure8.pdb

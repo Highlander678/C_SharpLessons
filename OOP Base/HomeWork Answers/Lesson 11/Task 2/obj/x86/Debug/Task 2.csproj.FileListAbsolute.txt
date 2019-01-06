@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 12\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 12\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 12\Task 2\obj\x86\Debug\Task 1.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 12\Task 2\obj\x86\Debug\Task 1.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 11\Task 2\obj\x86\Debug\Task 1.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 11\Task 2\obj\x86\Debug\Task 1.pdb

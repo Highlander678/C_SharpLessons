@@ -1,0 +1,2 @@
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 4\Task 2\obj\x86\Debug\Task 2.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 4\Task 3\obj\x86\Debug\Task 2.pdb

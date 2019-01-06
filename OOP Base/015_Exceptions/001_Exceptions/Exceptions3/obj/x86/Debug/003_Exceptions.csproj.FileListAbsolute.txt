@@ -1,0 +1,26 @@
+D:\Exceptions\Exceptions3\bin\Debug\Exceptions3.exe
+D:\Exceptions\Exceptions3\bin\Debug\Exceptions3.pdb
+D:\Exceptions\Exceptions3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.exe
+D:\Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\017_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\017_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\017_Exceptions\001_Exceptions\Exceptions3\bin\Debug\Exceptions3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\017_Exceptions\001_Exceptions\Exceptions3\bin\Debug\Exceptions3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\017_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\017_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\017_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\017_Exceptions\001_Exceptions\Exceptions3\bin\Debug\Exceptions3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\017_Exceptions\001_Exceptions\Exceptions3\bin\Debug\Exceptions3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\017_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\001_Exceptions\Exceptions3\bin\Debug\Exceptions3.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\001_Exceptions\Exceptions3\bin\Debug\Exceptions3.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions3\obj\x86\Debug\Exceptions3.pdb

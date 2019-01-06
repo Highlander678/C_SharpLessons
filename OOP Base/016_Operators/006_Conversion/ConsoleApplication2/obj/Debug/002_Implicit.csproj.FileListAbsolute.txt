@@ -1,0 +1,23 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\018_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\018_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

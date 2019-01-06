@@ -1,0 +1,24 @@
+D:\Nested\Nested\bin\Debug\Nested.exe
+D:\Nested\Nested\bin\Debug\Nested.pdb
+D:\Nested\Nested\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nested\Nested\obj\x86\Debug\Nested.exe
+D:\Nested\Nested\obj\x86\Debug\Nested.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\003_Nested\Nested\obj\x86\Debug\Nested.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\003_Nested\Nested\obj\x86\Debug\Nested.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\003_Nested\Nested\bin\Debug\Nested.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\003_Nested\Nested\bin\Debug\Nested.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\010_Structures\003_Nested\Nested\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\003_Nested\Nested\obj\x86\Debug\Nested.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\003_Nested\Nested\obj\x86\Debug\Nested.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\003_Nested\Nested\bin\Debug\Nested.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\003_Nested\Nested\bin\Debug\Nested.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\011_Structures\003_Nested\Nested\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\003_Nested\Nested\obj\x86\Debug\Nested.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\008_Structures\003_Nested\Nested\obj\x86\Debug\Nested.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Debug\Nested.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Debug\Nested.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\003_Nested\Nested\bin\Debug\Nested.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\003_Nested\Nested\bin\Debug\Nested.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Debug\Nested.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\008_Structures\003_Nested\Nested\obj\x86\Debug\Nested.pdb

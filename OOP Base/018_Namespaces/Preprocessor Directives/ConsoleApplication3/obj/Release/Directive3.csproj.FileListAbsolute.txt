@@ -1,0 +1,5 @@
+D:\CODEWORK\Directive\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+D:\CODEWORK\Directive\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+D:\CODEWORK\Directive\ConsoleApplication3\obj\Release\ResolveAssemblyReference.cache
+D:\CODEWORK\Directive\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+D:\CODEWORK\Directive\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb

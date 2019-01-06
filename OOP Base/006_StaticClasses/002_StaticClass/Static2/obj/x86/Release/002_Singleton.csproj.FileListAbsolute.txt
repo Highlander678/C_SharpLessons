@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\bin\Release\Static2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\bin\Release\Static2.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\obj\x86\Release\Static2.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\002_StaticClass\Static2\obj\x86\Release\Static2.pdb

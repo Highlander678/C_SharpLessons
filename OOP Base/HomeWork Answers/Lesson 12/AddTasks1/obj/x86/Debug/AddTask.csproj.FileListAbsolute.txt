@@ -1,0 +1,12 @@
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\bin\Debug\MVP.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\bin\Debug\MVP.pdb
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\AddTask.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MainWindow.baml
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\App.g.cs
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MVP_MarkupCompile.cache
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MVP.g.resources
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MVP.Properties.Resources.resources
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\AddTask.csproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MVP.exe
+C:\Users\Влад\Desktop\C# Essential Student\HomeWork Answers\Lesson 12\13_0\003_MVP\MVP\obj\x86\Debug\MVP.pdb

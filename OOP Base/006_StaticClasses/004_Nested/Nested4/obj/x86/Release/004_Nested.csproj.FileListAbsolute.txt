@@ -1,0 +1,5 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\004_Nested\Nested4\bin\Release\Nested4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\004_Nested\Nested4\bin\Release\Nested4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\004_Nested\Nested4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\004_Nested\Nested4\obj\x86\Release\Nested4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\004_Nested\Nested4\obj\x86\Release\Nested4.pdb
