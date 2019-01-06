@@ -1,0 +1,4 @@
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 5\Task 2\bin\Debug\Task 3.exe
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 5\Task 2\bin\Debug\Task 3.pdb
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 5\Task 2\obj\x86\Debug\Task 3.exe
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 5\Task 2\obj\x86\Debug\Task 3.pdb

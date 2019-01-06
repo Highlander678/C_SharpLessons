@@ -1,0 +1,4 @@
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\009_Arrays\001_Arrays\Arrays12\obj\x86\Debug\Arrays12.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\009_Arrays\001_Arrays\Arrays12\obj\x86\Debug\Arrays12.pdb
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\009_Arrays\001_Arrays\Arrays12\obj\x86\Debug\Arrays12.exe
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\009_Arrays\001_Arrays\Arrays12\obj\x86\Debug\Arrays12.pdb

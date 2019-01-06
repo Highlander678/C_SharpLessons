@@ -1,0 +1,9 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays20\obj\x86\Debug\Arrays20.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays20\obj\x86\Debug\Arrays20.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays20\bin\Debug\Arrays20.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays20\bin\Debug\Arrays20.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays20\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\009_Arrays\001_Arrays\Arrays20\obj\x86\Debug\Arrays20.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\009_Arrays\001_Arrays\Arrays20\obj\x86\Debug\Arrays20.pdb
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\009_Arrays\001_Arrays\Arrays20\obj\x86\Debug\Arrays20.exe
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\009_Arrays\001_Arrays\Arrays20\obj\x86\Debug\Arrays20.pdb

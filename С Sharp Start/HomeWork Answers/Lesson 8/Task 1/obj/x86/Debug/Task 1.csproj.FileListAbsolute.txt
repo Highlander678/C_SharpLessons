@@ -1,0 +1,21 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 1\bin\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 1\obj\x86\Debug\Task 1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 1\obj\x86\Debug\Task 1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 1\obj\x86\Debug\Task 1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 1\bin\Debug\Task 1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 1\bin\Debug\Task 1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.pdb
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.exe
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 8\Task 1\bin\Debug\Task 1.exe
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 8\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.csprojResolveAssemblyReference.cache
+C:\Users\Fox\Downloads\CD Download\HomeWorks\C# Starter Source\C# Starter Source\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Fox\Downloads\CD Download\HomeWorks\C# Starter Source\C# Starter Source\HomeWork Answers\Lesson 8\Task 1\obj\x86\Debug\Task 1.pdb

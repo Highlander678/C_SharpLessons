@@ -1,0 +1,24 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\Additional task\bin\Debug\Additional task.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\Additional task\bin\Debug\Additional task.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\Additional task\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\Additional task\obj\x86\Debug\Additional task.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\Additional task\obj\x86\Debug\Additional task.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\Additional task\obj\x86\Debug\Additional task.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\Additional task\obj\x86\Debug\Additional task.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\Additional task\bin\Debug\Additional task.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\Additional task\bin\Debug\Additional task.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\Additional task\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 3\Additional task\bin\Debug\Additional task.exe
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 3\Additional task\bin\Debug\Additional task.pdb
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.exe
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.pdb
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.exe
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.pdb
+C:\Users\Student\Downloads\C# Starter Student\C# Starter Student\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.exe
+C:\Users\Student\Downloads\C# Starter Student\C# Starter Student\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.pdb
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.exe
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.pdb
+C:\Users\Fox\Downloads\CD Download\HomeWorks\C# Starter Source\C# Starter Source\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.exe
+C:\Users\Fox\Downloads\CD Download\HomeWorks\C# Starter Source\C# Starter Source\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.pdb
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.exe
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 3\Additional task\obj\x86\Debug\Additional task.pdb

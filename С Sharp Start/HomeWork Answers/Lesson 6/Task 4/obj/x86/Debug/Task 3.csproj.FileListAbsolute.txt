@@ -1,0 +1,33 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 4\bin\Debug\Task 4.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 4\bin\Debug\Task 4.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 4\obj\x86\Debug\Task 4.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 4\obj\x86\Debug\Task 4.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 4\obj\x86\Debug\Task 4.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 4\obj\x86\Debug\Task 4.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 4\bin\Debug\Task 4.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 4\bin\Debug\Task 4.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 6 _доделать\Task 4\obj\x86\Debug\Task 4.exe
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 6 _доделать\Task 4\obj\x86\Debug\Task 4.pdb
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 6 _доделать\Task 4\bin\Debug\Task 4.exe
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 6 _доделать\Task 4\bin\Debug\Task 4.pdb
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 6 _доделать\Task 4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.exe
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.pdb
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 4\bin\Debug\Task 4.exe
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 4\bin\Debug\Task 4.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 4\bin\Debug\Task 4.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 4\bin\Debug\Task 4.pdb
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.exe
+G:\Пример оформления материалов\C# Starter\C# Starter Student (В архиве zip)\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.pdb
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.exe
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.pdb
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 6\Task 4\bin\Debug\Task 4.exe
+C:\Users\Влад\Desktop\C# Starter Student(06-25-2015)\C# Starter Student(06-25-2015)\C# Starter Student\HomeWork Answers\Lesson 6\Task 4\bin\Debug\Task 4.pdb
+C:\Users\Fox\Downloads\CD Download\HomeWorks\C# Starter Source\C# Starter Source\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.exe
+C:\Users\Fox\Downloads\CD Download\HomeWorks\C# Starter Source\C# Starter Source\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.pdb
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.exe
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 6\Task 4\obj\x86\Debug\Task 4.pdb

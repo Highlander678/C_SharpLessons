@@ -1,0 +1,26 @@
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\bin\Debug\MyWPFApp.exe.config
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\bin\Debug\MyWPFApp.exe
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\bin\Debug\MyWPFApp.pdb
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MyWPFApp.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MyWPFApp_MarkupCompile.cache
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MyWPFApp.g.resources
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MyWPFApp.Properties.Resources.resources
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MyWPFApp.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MyWPFApp.exe
+C:\Users\Student\Desktop\MyWPFApp\MyWPFApp\obj\Debug\MyWPFApp.pdb
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\bin\Debug\MyWPFApp.exe.config
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MyWPFApp.exe
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MyWPFApp.pdb
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\bin\Debug\MyWPFApp.exe
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\bin\Debug\MyWPFApp.pdb
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MyWPFApp.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MainWindow.baml
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\App.g.cs
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MyWPFApp_MarkupCompile.cache
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MyWPFApp.g.resources
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MyWPFApp.Properties.Resources.resources
+C:\Users\Student\Downloads\C# Starter HomeWork Answers\Lesson 1\MyWPFApp\obj\Debug\MyWPFApp.csproj.GenerateResource.Cache
