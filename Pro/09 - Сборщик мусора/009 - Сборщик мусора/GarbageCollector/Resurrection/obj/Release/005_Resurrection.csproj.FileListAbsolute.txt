@@ -1,0 +1,4 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\Resurrection\bin\Release\Resurrection.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\Resurrection\bin\Release\Resurrection.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\Resurrection\obj\Release\Resurrection.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\Resurrection\obj\Release\Resurrection.pdb

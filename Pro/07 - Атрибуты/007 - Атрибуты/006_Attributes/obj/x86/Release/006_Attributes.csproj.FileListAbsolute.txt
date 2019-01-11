@@ -1,0 +1,10 @@
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\006_Attributes\bin\Release\006_Attributes.exe
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\006_Attributes\bin\Release\006_Attributes.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\006_Attributes\obj\x86\Release\006_Attributes.exe
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\006_Attributes\obj\x86\Release\006_Attributes.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\006_Attributes\obj\x86\Release\006_Attributes.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\006_Attributes\obj\x86\Release\006_Attributes.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\006_Attributes\bin\Release\006_Attributes.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\006_Attributes\bin\Release\006_Attributes.pdb
+D:\CSProVideo\007 - Атрибуты\007 - Атрибуты\006_Attributes\obj\x86\Release\006_Attributes.exe
+D:\CSProVideo\007 - Атрибуты\007 - Атрибуты\006_Attributes\obj\x86\Release\006_Attributes.pdb

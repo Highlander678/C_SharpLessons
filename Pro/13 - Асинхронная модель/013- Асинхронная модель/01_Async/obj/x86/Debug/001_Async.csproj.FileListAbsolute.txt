@@ -1,0 +1,5 @@
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\01_Async\obj\x86\Debug\01_Async.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\01_Async\obj\x86\Debug\01_Async.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\01_Async\bin\Debug\01_Async.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\01_Async\bin\Debug\01_Async.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\01_Async\obj\x86\Debug\001_Async.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\WaitHandle\obj\Debug\WaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\WaitHandle\obj\Debug\WaitHandle.pdb

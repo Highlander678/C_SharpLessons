@@ -1,0 +1,5 @@
+D:\CSProVideo\016_Domains and NT Services\001_Domains\004_DomainsConfig\Domains\bin\Debug\Domains.exe
+D:\CSProVideo\016_Domains and NT Services\001_Domains\004_DomainsConfig\Domains\bin\Debug\Domains.pdb
+D:\CSProVideo\016_Domains and NT Services\001_Domains\004_DomainsConfig\Domains\obj\x86\Debug\Domains.exe
+D:\CSProVideo\016_Domains and NT Services\001_Domains\004_DomainsConfig\Domains\obj\x86\Debug\Domains.pdb
+D:\CSProVideo\016_Domains and NT Services\001_Domains\004_DomainsConfig\Domains\obj\x86\Debug\001_Domains.csprojResolveAssemblyReference.cache

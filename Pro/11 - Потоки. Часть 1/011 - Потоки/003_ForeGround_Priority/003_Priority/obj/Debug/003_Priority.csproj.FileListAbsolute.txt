@@ -1,0 +1,5 @@
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\003_Priority\bin\Debug\003_Priority.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\003_Priority\bin\Debug\003_Priority.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\003_Priority\obj\Debug\003_Priority.csprojResolveAssemblyReference.cache
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\003_Priority\obj\Debug\003_Priority.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\003_Priority\obj\Debug\003_Priority.pdb

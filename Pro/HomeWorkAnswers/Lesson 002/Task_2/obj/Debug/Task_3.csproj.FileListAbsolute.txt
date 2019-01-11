@@ -1,0 +1,8 @@
+d:\Course\C# Professional2\C# Professional2\Home Work C# Professional\Home Work\Lesson 002\Task_2\obj\Debug\Task_2.exe
+d:\Course\C# Professional2\C# Professional2\Home Work C# Professional\Home Work\Lesson 002\Task_2\obj\Debug\Task_2.pdb
+C:\Users\Dmitriy\Desktop\Lesson 002\Task_2\obj\Debug\Task_2.exe
+C:\Users\Dmitriy\Desktop\Lesson 002\Task_2\obj\Debug\Task_2.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 002\Task_2\obj\Debug\Task_2.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 002\Task_2\obj\Debug\Task_2.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 002\Task_2\obj\Debug\Task_2.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 002\Task_2\obj\Debug\Task_2.pdb

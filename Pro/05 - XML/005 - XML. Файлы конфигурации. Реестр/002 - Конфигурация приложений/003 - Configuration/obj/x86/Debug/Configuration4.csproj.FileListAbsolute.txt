@@ -1,0 +1,6 @@
+D:\SettingsConfigurations\Configuration4\bin\Debug\Configuration4.exe.config
+D:\SettingsConfigurations\Configuration4\bin\Debug\Configuration4.exe
+D:\SettingsConfigurations\Configuration4\bin\Debug\Configuration4.pdb
+D:\SettingsConfigurations\Configuration4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SettingsConfigurations\Configuration4\obj\x86\Debug\Configuration4.exe
+D:\SettingsConfigurations\Configuration4\obj\x86\Debug\Configuration4.pdb

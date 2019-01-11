@@ -1,0 +1,5 @@
+D:\GenericsCollections\DictionaryGen\bin\Debug\DictionaryGen.exe
+D:\GenericsCollections\DictionaryGen\bin\Debug\DictionaryGen.pdb
+D:\GenericsCollections\DictionaryGen\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GenericsCollections\DictionaryGen\obj\x86\Debug\DictionaryGen.exe
+D:\GenericsCollections\DictionaryGen\obj\x86\Debug\DictionaryGen.pdb

@@ -1,0 +1,5 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL17\obj\x86\Debug\TPL17.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL17\obj\x86\Debug\TPL17.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL17\bin\Debug\TPL17.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL17\bin\Debug\TPL17.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL17\obj\x86\Debug\005_Parallel.ForEach.csprojResolveAssemblyReference.cache

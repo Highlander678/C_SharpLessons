@@ -1,0 +1,4 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb

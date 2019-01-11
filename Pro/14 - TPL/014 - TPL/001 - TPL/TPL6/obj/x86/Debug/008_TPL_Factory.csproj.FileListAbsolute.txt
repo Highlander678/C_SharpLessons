@@ -1,0 +1,2 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL6\obj\x86\Debug\TPL6.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL6\obj\x86\Debug\TPL6.pdb

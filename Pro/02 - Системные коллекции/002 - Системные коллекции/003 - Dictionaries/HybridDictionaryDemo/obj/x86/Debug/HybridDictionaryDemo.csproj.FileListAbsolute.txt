@@ -1,0 +1,5 @@
+D:\Dictionary\HybridDictionaryDemo\bin\Debug\HybridDictionaryDemo.exe
+D:\Dictionary\HybridDictionaryDemo\bin\Debug\HybridDictionaryDemo.pdb
+D:\Dictionary\HybridDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dictionary\HybridDictionaryDemo\obj\x86\Debug\HybridDictionaryDemo.exe
+D:\Dictionary\HybridDictionaryDemo\obj\x86\Debug\HybridDictionaryDemo.pdb

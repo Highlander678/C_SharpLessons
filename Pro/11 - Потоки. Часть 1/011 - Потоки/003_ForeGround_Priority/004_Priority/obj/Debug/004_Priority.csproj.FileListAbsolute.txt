@@ -1,0 +1,4 @@
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\004_Priority\bin\Debug\004_Priority.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\004_Priority\bin\Debug\004_Priority.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\004_Priority\obj\Debug\004_Priority.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\003_ForeGround_Priority\004_Priority\obj\Debug\004_Priority.pdb

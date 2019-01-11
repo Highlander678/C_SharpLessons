@@ -1,0 +1,11 @@
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\obj\Debug\ConsoleApplication2.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\obj\Debug\ConsoleApplication2.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\obj\Debug\ConsoleApplication2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\obj\Debug\ConsoleApplication2.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\bin\Debug\ConsoleApplication2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\bin\Debug\ConsoleApplication2.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\obj\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\obj\Debug\ConsoleApplication2.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\obj\Debug\ConsoleApplication2.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\bin\Debug\ConsoleApplication2.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Semaphore\bin\Debug\ConsoleApplication2.pdb

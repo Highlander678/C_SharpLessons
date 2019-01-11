@@ -1,0 +1,4 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\bin\Release\FinalizationPattern.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\bin\Release\FinalizationPattern.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\obj\Release\FinalizationPattern.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\obj\Release\FinalizationPattern.pdb

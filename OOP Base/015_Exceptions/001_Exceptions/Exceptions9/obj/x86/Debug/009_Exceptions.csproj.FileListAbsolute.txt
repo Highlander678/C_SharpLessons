@@ -31,3 +31,8 @@ D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exce
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions9\bin\Debug\Exceptions9.exe
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions9\bin\Debug\Exceptions9.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions9\obj\x86\Debug\Exceptions9.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions9\bin\Debug\Exceptions9.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions9\bin\Debug\Exceptions9.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions9\obj\x86\Debug\009_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions9\obj\x86\Debug\Exceptions9.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions9\obj\x86\Debug\Exceptions9.pdb

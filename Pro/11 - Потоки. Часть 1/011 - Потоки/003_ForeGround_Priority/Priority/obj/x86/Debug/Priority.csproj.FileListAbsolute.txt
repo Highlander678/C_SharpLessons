@@ -1,0 +1,17 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround\Priority\bin\Debug\Priority.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround\Priority\bin\Debug\Priority.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround\Priority\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround\Priority\obj\x86\Debug\Priority.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround\Priority\obj\x86\Debug\Priority.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround_Priority\Priority\obj\x86\Debug\Priority.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround_Priority\Priority\obj\x86\Debug\Priority.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround_Priority\Priority\bin\Debug\Priority.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround_Priority\Priority\bin\Debug\Priority.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\004_ForeGround_Priority\Priority\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\004_ForeGround_Priority\Priority\obj\x86\Debug\Priority.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\004_ForeGround_Priority\Priority\obj\x86\Debug\Priority.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\004_ForeGround_Priority\Priority\bin\Debug\Priority.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\004_ForeGround_Priority\Priority\bin\Debug\Priority.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\004_ForeGround_Priority\Priority\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\004_ForeGround_Priority\Priority\obj\x86\Debug\Priority.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\004_ForeGround_Priority\Priority\obj\x86\Debug\Priority.pdb

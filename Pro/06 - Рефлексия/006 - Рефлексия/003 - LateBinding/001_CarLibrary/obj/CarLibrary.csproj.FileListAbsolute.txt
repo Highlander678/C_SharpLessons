@@ -1,0 +1,20 @@
+D:\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+D:\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+D:\CarLibrary\CarLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+D:\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
+D:\CarLibrary\CarLibrary\bin\Release\CarLibrary.dll
+D:\CarLibrary\CarLibrary\bin\Release\CarLibrary.pdb
+D:\CarLibrary\CarLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\CarLibrary\CarLibrary\obj\Release\CarLibrary.dll
+D:\CarLibrary\CarLibrary\obj\Release\CarLibrary.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\bin\Release\CarLibrary.dll
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\bin\Release\CarLibrary.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\obj\Release\CarLibrary.dll
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\obj\Release\CarLibrary.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb

@@ -1,0 +1,6 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Debug\SimpleLock.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Debug\SimpleLock.pdb
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\bin\Debug\SimpleLock.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\bin\Debug\SimpleLock.pdb
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Debug\SimpleLock.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Debug\SimpleLock.pdb

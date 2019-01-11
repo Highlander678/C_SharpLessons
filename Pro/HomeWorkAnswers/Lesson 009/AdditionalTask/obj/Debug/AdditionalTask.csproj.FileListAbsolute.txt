@@ -1,0 +1,13 @@
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionalTask\bin\Debug\AdditionalTask.exe.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\Lesson 009\AdditionalTask\bin\Debug\AdditionalTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\Lesson 009\AdditionalTask\bin\Debug\AdditionalTask.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\Lesson 009\AdditionalTask\obj\Debug\AdditionalTask.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\Lesson 009\AdditionalTask\obj\Debug\AdditionalTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\Lesson 009\AdditionalTask\obj\Debug\AdditionalTask.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 009\AdditionalTask\obj\Debug\AdditionalTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 009\AdditionalTask\obj\Debug\AdditionalTask.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 009\AdditionalTask\obj\Debug\AdditionalTask.exe
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 009\AdditionalTask\obj\Debug\AdditionalTask.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 009\AdditionalTask\bin\Debug\AdditionalTask.exe
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 009\AdditionalTask\bin\Debug\AdditionalTask.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 009\AdditionalTask\obj\Debug\AdditionalTask.csprojResolveAssemblyReference.cache

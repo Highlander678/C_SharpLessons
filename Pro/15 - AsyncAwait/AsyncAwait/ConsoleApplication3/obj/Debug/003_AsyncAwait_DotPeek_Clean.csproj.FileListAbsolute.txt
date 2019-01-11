@@ -1,0 +1,12 @@
+D:\002_AsyncAwaitSml\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\002_AsyncAwaitSml\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\002_AsyncAwaitSml\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\002_AsyncAwaitSml\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\002_AsyncAwaitSml\ConsoleApplication3\obj\Debug\003_AsyncAwait_DotPeek_Clean.csprojResolveAssemblyReference.cache
+D:\AsyncAwait\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\AsyncAwait\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\AsyncAwait\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\AsyncAwait\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\AsyncAwait\ConsoleApplication3\obj\Debug\003_AsyncAwait_DotPeek_Clean.csprojResolveAssemblyReference.cache
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

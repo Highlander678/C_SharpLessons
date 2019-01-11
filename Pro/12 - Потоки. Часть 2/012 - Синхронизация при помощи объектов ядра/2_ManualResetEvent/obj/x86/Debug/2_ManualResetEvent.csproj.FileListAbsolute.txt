@@ -1,0 +1,7 @@
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\2_ManualResetEvent\bin\Debug\2_ManualResetEvent.exe
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\2_ManualResetEvent\bin\Debug\2_ManualResetEvent.pdb
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\2_ManualResetEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\2_ManualResetEvent\obj\x86\Debug\2_ManualResetEvent.exe
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\2_ManualResetEvent\obj\x86\Debug\2_ManualResetEvent.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\01_Events\2_ManualResetEvent\obj\x86\Debug\2_ManualResetEvent.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\01_Events\2_ManualResetEvent\obj\x86\Debug\2_ManualResetEvent.pdb

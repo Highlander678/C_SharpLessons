@@ -1,0 +1,17 @@
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\books.xml
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\XML8.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\XML8.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\obj\x86\Debug\XML8.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\obj\x86\Debug\XML8.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\obj\x86\Debug\XML8.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\obj\x86\Debug\XML8.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\books.xml
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\XML8.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\XML8.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\obj\x86\Debug\006_XML.csprojResolveAssemblyReference.cache
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\obj\x86\Debug\XML8.exe
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\obj\x86\Debug\XML8.pdb
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\books.xml
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\XML8.exe
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\bin\Debug\XML8.pdb
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML8\obj\x86\Debug\006_XML.csprojResolveAssemblyReference.cache

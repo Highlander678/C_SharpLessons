@@ -1,0 +1,10 @@
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\008_Encoding\bin\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\008_Encoding\bin\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\008_Encoding\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\008_Encoding\obj\x86\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\008_Encoding\obj\x86\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\008_Encoding\bin\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\008_Encoding\bin\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\008_Encoding\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\008_Encoding\obj\x86\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\008_Encoding\obj\x86\Debug\008_Encoding.pdb

@@ -27,3 +27,9 @@ C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\004_Operators\Operators\
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\004_Operators\Operators\obj\x86\Debug\Operators.exe
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\004_Operators\Operators\obj\x86\Debug\Operators.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\004_Operators\Operators\obj\x86\Debug\Operators.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\005_Operators\Operators\bin\Debug\Operators.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\005_Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\005_Operators\Operators\obj\x86\Debug\001_Operators.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\005_Operators\Operators\obj\x86\Debug\001_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\005_Operators\Operators\obj\x86\Debug\Operators.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\005_Operators\Operators\obj\x86\Debug\Operators.pdb

@@ -1,0 +1,17 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\bin\Debug\BufferedStreamDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\bin\Debug\BufferedStreamDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\bin\Debug\BufferedStreamDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\bin\Debug\BufferedStreamDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\bin\Debug\BufferedStreamDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\bin\Debug\BufferedStreamDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BufferedStreamDemo\obj\x86\Debug\BufferedStreamDemo.pdb

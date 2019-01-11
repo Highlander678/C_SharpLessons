@@ -1,0 +1,14 @@
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\bin\Debug\Task_3.exe.config
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\bin\Debug\Task_3.exe
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\bin\Debug\Task_3.pdb
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\MainWindow.baml
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\MainWindow.g.cs
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\App.g.cs
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\Task_3_MarkupCompile.cache
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\Task_3.g.resources
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\Task_3.csproj.GenerateResource.Cache
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\Task_3.exe
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_3\obj\Debug\Task_3.pdb

@@ -7,3 +7,9 @@ D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads2\b
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads2\obj\x86\Release\002_Threads.csprojResolveAssemblyReference.cache
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads2\obj\x86\Release\Threads2.exe
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads2\obj\x86\Release\Threads2.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads2\bin\Release\Threads2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads2\bin\Release\Threads2.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads2\obj\x86\Release\002_Threads.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads2\obj\x86\Release\002_Threads.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads2\obj\x86\Release\Threads2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads2\obj\x86\Release\Threads2.pdb

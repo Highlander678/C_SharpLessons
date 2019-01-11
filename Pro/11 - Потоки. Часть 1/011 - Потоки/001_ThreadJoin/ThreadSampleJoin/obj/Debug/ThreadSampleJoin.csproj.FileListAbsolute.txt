@@ -1,0 +1,28 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011_Threads\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011_Threads\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ResolveAssemblyReference.cache

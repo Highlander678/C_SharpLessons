@@ -9,7 +9,12 @@ namespace Yield
     {
         public static IEnumerable Power()
         {
-            yield return "Hello world!";
+            for (int i = 0; i < 5; i++)
+            {
+                yield return "Hello world! "+i;
+            }
+            
+            
         }
     }
 }

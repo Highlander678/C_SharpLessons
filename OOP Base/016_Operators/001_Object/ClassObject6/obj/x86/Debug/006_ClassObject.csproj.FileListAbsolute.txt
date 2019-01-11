@@ -28,3 +28,8 @@ C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject6\
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject6\obj\x86\Debug\ClassObject6.exe
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject6\obj\x86\Debug\ClassObject6.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject6\obj\x86\Debug\ClassObject6.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject6\bin\Debug\ClassObject6.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject6\bin\Debug\ClassObject6.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject6\obj\x86\Debug\006_ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject6\obj\x86\Debug\ClassObject6.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject6\obj\x86\Debug\ClassObject6.pdb

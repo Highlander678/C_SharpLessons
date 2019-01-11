@@ -1,0 +1,4 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\IDisposableFinalization\bin\Release\IDisposableFinalization.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\IDisposableFinalization\bin\Release\IDisposableFinalization.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\IDisposableFinalization\obj\Release\IDisposableFinalization.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\IDisposableFinalization\obj\Release\IDisposableFinalization.pdb

@@ -1,0 +1,18 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_2\bin\Debug\Task_2.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 005\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.exe
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\bin\Debug\Task_2.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\bin\Debug\Task_2.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\bin\Debug\Task_2.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\bin\Debug\Task_2.exe.config
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.exe
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 005\Task_2\obj\Debug\Task_2.pdb

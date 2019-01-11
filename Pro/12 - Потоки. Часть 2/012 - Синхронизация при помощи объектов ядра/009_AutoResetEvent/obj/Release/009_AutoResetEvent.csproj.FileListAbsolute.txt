@@ -1,0 +1,4 @@
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\009_AutoResetEvent\bin\Release\009_AutoResetEvent.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\009_AutoResetEvent\bin\Release\009_AutoResetEvent.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\009_AutoResetEvent\obj\Release\009_AutoResetEvent.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\009_AutoResetEvent\obj\Release\009_AutoResetEvent.pdb

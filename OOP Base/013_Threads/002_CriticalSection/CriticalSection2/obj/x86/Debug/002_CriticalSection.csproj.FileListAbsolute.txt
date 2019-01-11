@@ -34,3 +34,9 @@ D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\Cr
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection2\bin\Debug\CriticalSection2.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection2\obj\x86\Debug\002_CriticalSection.csprojResolveAssemblyReference.cache
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\002_CriticalSection\CriticalSection2\obj\x86\Debug\CriticalSection2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\002_CriticalSection\CriticalSection2\bin\Debug\CriticalSection2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\002_CriticalSection\CriticalSection2\bin\Debug\CriticalSection2.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\002_CriticalSection\CriticalSection2\obj\x86\Debug\002_CriticalSection.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\002_CriticalSection\CriticalSection2\obj\x86\Debug\002_CriticalSection.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\002_CriticalSection\CriticalSection2\obj\x86\Debug\CriticalSection2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\002_CriticalSection\CriticalSection2\obj\x86\Debug\CriticalSection2.pdb

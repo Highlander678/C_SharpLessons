@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\016_XMLDeserialize\bin\Debug\016_XMLDeserialize.exe.config
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\016_XMLDeserialize\bin\Debug\016_XMLDeserialize.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\016_XMLDeserialize\bin\Debug\016_XMLDeserialize.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\016_XMLDeserialize\obj\Debug\016_XMLDeserialize.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\016_XMLDeserialize\obj\Debug\016_XMLDeserialize.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\016_XMLDeserialize\obj\Debug\016_XMLDeserialize.csprojResolveAssemblyReference.cache

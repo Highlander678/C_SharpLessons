@@ -21,9 +21,10 @@ namespace Cloning
             Thread.Sleep(1000);
             b = new Random().Next(1, 100);
         }
-
+        
         public object Clone()
         {
+            
             return this.MemberwiseClone();
         }
     }

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_LoadAssembly", "003_LoadAssembly\003_LoadAssembly.csproj", "{978D18CE-C5C7-4D89-9F6C-7C8E936A5343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_CarLibrary", "001_CarLibrary\001_CarLibrary.csproj", "{B9DB030A-D431-46A8-AD5D-5C6C90EDA07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_CSharpCarClient", "002_CSharpCarClient\002_CSharpCarClient.csproj", "{398D5BE3-060F-4B25-A841-96B755BF79CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978D18CE-C5C7-4D89-9F6C-7C8E936A5343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978D18CE-C5C7-4D89-9F6C-7C8E936A5343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978D18CE-C5C7-4D89-9F6C-7C8E936A5343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978D18CE-C5C7-4D89-9F6C-7C8E936A5343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DB030A-D431-46A8-AD5D-5C6C90EDA07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DB030A-D431-46A8-AD5D-5C6C90EDA07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DB030A-D431-46A8-AD5D-5C6C90EDA07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DB030A-D431-46A8-AD5D-5C6C90EDA07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398D5BE3-060F-4B25-A841-96B755BF79CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398D5BE3-060F-4B25-A841-96B755BF79CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398D5BE3-060F-4B25-A841-96B755BF79CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398D5BE3-060F-4B25-A841-96B755BF79CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

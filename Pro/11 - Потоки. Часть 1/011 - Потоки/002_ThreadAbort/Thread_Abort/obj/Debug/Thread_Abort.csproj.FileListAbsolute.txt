@@ -1,0 +1,69 @@
+D:\Thread_Abort\Thread_Abort\obj\Debug\ResolveAssemblyReference.cache
+D:\Thread_Abort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\Thread_Abort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\Thread_Abort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\Thread_Abort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\010_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\010_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\010_THREADS\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\010_THREADS\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\010_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\003_ThreadAbort\Thread_Abort\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\003_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.csprojResolveAssemblyReference.cache
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\Thread_Abort.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\Thread_Abort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\bin\Debug\GCBigObjects.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\bin\Debug\GCBigObjects.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\obj\Debug\003_GCBigObjects.csprojResolveAssemblyReference.cache
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\obj\Debug\GCBigObjects.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\obj\Debug\GCBigObjects.pdb

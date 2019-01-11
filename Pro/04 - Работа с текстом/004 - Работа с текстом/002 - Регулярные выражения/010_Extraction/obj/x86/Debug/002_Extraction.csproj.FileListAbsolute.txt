@@ -1,0 +1,18 @@
+D:\RegularExpressions\Extraction\bin\Debug\Extraction.exe
+D:\RegularExpressions\Extraction\bin\Debug\Extraction.pdb
+D:\RegularExpressions\Extraction\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RegularExpressions\Extraction\obj\x86\Debug\Extraction.exe
+D:\RegularExpressions\Extraction\obj\x86\Debug\Extraction.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\Extraction.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\Extraction.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\bin\Debug\Extraction.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\bin\Debug\Extraction.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\Extraction.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\Extraction.pdb
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\Extraction.exe
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\Extraction.pdb
+D:\hDocuments\C# Courses\[C#]\002 - C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\Extraction.exe
+D:\hDocuments\C# Courses\[C#]\002 - C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Extraction\obj\x86\Debug\Extraction.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_Extraction\obj\x86\Debug\Extraction.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_Extraction\obj\x86\Debug\Extraction.pdb

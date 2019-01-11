@@ -1,0 +1,12 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 004\Task_3\bin\Debug\Task_3.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 004\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 004\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 004\Task_3\obj\Debug\Task_3.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 004\Task_3\obj\Debug\Task_3.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 004\Task_3\obj\Debug\Task_3.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 004\Task_3\obj\Debug\Task_3.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 004\Task_3\bin\Debug\Task_3.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 004\Task_3\bin\Debug\Task_3.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 004\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 004\Task_3\obj\Debug\Task_3.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 004\Task_3\obj\Debug\Task_3.pdb

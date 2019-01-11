@@ -1,0 +1,59 @@
+D:\ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+D:\ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+D:\ArrayList\ArrayListSort\bin\Debug\ArrayListSort.exe
+D:\ArrayList\ArrayListSort\bin\Debug\ArrayListSort.pdb
+D:\ArrayList\ArrayListSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\bin\Debug\ArrayListSort.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\bin\Debug\ArrayListSort.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\bin\Debug\ArrayListSort.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\bin\Debug\ArrayListSort.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\bin\Debug\ArrayListSort.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\bin\Debug\ArrayListSort.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\003_ArrayListSort.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\003_ArrayListSort.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\003_ArrayListSort.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\003_ArrayListSort.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\ArrayListSort.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\bin\Debug\ArrayListSort.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListSort\obj\x86\Debug\003_ArrayListSort.csprojResolveAssemblyReference.cache

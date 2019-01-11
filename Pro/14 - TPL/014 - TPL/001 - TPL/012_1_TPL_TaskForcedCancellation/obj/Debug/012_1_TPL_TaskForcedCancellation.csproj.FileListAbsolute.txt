@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\012_1_TPL_TaskForcedCancellation\bin\Debug\012_1_TPL_TaskForcedCancellation.exe.config
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\012_1_TPL_TaskForcedCancellation\bin\Debug\012_1_TPL_TaskForcedCancellation.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\012_1_TPL_TaskForcedCancellation\bin\Debug\012_1_TPL_TaskForcedCancellation.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\012_1_TPL_TaskForcedCancellation\obj\Debug\012_1_TPL_TaskForcedCancellation.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\012_1_TPL_TaskForcedCancellation\obj\Debug\012_1_TPL_TaskForcedCancellation.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\012_1_TPL_TaskForcedCancellation\obj\Debug\012_1_TPL_TaskForcedCancellation.pdb

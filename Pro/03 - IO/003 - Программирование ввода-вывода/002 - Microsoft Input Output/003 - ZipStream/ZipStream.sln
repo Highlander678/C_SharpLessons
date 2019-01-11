@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_ZIP_Compression", "ZIP\000_ZIP_Compression.csproj", "{22BB2C3A-3E9F-4702-A705-E4975A690092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_DEFLATE_Compression", "DEFLATE_Compression\001_DEFLATE_Compression.csproj", "{B153EBC2-DFDC-454F-A2B4-D8E72E33AF35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_ZIP_DeCompression", "ZIP_DeCompression\003_ZIP_DeCompression.csproj", "{575675A9-0840-4288-B886-3DD9899D209E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_DEFLATE_DeCompression", "DEFLATE_DeCompression\004_DEFLATE_DeCompression.csproj", "{00BA9212-6C9B-4E35-AD47-AAAF186275CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22BB2C3A-3E9F-4702-A705-E4975A690092}.Debug|x86.ActiveCfg = Debug|x86
+		{22BB2C3A-3E9F-4702-A705-E4975A690092}.Debug|x86.Build.0 = Debug|x86
+		{22BB2C3A-3E9F-4702-A705-E4975A690092}.Release|x86.ActiveCfg = Release|x86
+		{22BB2C3A-3E9F-4702-A705-E4975A690092}.Release|x86.Build.0 = Release|x86
+		{B153EBC2-DFDC-454F-A2B4-D8E72E33AF35}.Debug|x86.ActiveCfg = Debug|x86
+		{B153EBC2-DFDC-454F-A2B4-D8E72E33AF35}.Debug|x86.Build.0 = Debug|x86
+		{B153EBC2-DFDC-454F-A2B4-D8E72E33AF35}.Release|x86.ActiveCfg = Release|x86
+		{B153EBC2-DFDC-454F-A2B4-D8E72E33AF35}.Release|x86.Build.0 = Release|x86
+		{575675A9-0840-4288-B886-3DD9899D209E}.Debug|x86.ActiveCfg = Debug|x86
+		{575675A9-0840-4288-B886-3DD9899D209E}.Debug|x86.Build.0 = Debug|x86
+		{575675A9-0840-4288-B886-3DD9899D209E}.Release|x86.ActiveCfg = Release|x86
+		{575675A9-0840-4288-B886-3DD9899D209E}.Release|x86.Build.0 = Release|x86
+		{00BA9212-6C9B-4E35-AD47-AAAF186275CC}.Debug|x86.ActiveCfg = Debug|x86
+		{00BA9212-6C9B-4E35-AD47-AAAF186275CC}.Debug|x86.Build.0 = Debug|x86
+		{00BA9212-6C9B-4E35-AD47-AAAF186275CC}.Release|x86.ActiveCfg = Release|x86
+		{00BA9212-6C9B-4E35-AD47-AAAF186275CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\bin\Debug\BinaryWriterDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\bin\Debug\BinaryWriterDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\bin\Debug\BinaryWriterDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\bin\Debug\BinaryWriterDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\bin\Debug\BinaryWriterDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\bin\Debug\BinaryWriterDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\007_BinaryWriter.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\BinaryWriterDemo\obj\x86\Debug\BinaryWriterDemo.pdb

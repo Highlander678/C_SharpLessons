@@ -1,0 +1,24 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe.config
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe.config
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\001_Configuration.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe.config
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\001_Configuration.csprojResolveAssemblyReference.cache
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe.config
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.exe
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.pdb
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.pdb
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\001_Configuration.csprojResolveAssemblyReference.cache

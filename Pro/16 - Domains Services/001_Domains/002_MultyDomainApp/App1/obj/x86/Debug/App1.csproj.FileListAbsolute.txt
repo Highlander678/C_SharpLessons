@@ -1,0 +1,5 @@
+D:\CSProVideo\016_Domains and NT Services\001_Domains\002_MultyDomainApp\MultyDomainApp\bin\Debug\App1.exe
+D:\CSProVideo\016_Domains and NT Services\001_Domains\002_MultyDomainApp\MultyDomainApp\bin\Debug\App1.pdb
+D:\CSProVideo\016_Domains and NT Services\001_Domains\002_MultyDomainApp\App1\obj\x86\Debug\App1.exe
+D:\CSProVideo\016_Domains and NT Services\001_Domains\002_MultyDomainApp\App1\obj\x86\Debug\App1.pdb
+D:\CSProVideo\016_Domains and NT Services\001_Domains\002_MultyDomainApp\App1\obj\x86\Debug\App1.csprojResolveAssemblyReference.cache

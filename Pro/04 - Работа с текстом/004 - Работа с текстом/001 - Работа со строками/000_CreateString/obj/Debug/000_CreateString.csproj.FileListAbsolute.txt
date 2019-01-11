@@ -1,0 +1,13 @@
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\bin\Debug\000_CreateString.exe.config
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\bin\Debug\000_CreateString.exe.config
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\bin\Debug\000_CreateString.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\bin\Debug\000_CreateString.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\obj\Debug\000_CreateString.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\obj\Debug\000_CreateString.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\obj\Debug\000_CreateString.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\bin\Debug\000_CreateString.exe.config
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\obj\Debug\000_CreateString.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\obj\Debug\000_CreateString.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\bin\Debug\000_CreateString.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\bin\Debug\000_CreateString.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\obj\Debug\000_CreateString.csprojResolveAssemblyReference.cache

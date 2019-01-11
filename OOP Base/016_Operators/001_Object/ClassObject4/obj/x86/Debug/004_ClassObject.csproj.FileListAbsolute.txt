@@ -32,3 +32,9 @@ D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObje
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject4\bin\Debug\ClassObject4.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject4\obj\x86\Debug\004_ClassObject.csprojResolveAssemblyReference.cache
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject4\obj\x86\Debug\ClassObject4.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject4\bin\Debug\ClassObject4.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject4\bin\Debug\ClassObject4.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject4\obj\x86\Debug\004_ClassObject.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject4\obj\x86\Debug\004_ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject4\obj\x86\Debug\ClassObject4.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject4\obj\x86\Debug\ClassObject4.pdb

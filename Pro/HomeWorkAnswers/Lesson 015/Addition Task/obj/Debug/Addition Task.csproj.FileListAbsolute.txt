@@ -1,0 +1,6 @@
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 015\Addition Task\bin\Debug\Addition Task.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 015\Addition Task\bin\Debug\Addition Task.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 015\Addition Task\bin\Debug\Addition Task.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 015\Addition Task\obj\Debug\Addition Task.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 015\Addition Task\obj\Debug\Addition Task.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 015\Addition Task\obj\Debug\Addition Task.pdb

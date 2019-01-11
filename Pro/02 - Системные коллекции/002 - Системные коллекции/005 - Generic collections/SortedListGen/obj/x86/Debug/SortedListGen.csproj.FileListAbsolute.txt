@@ -1,0 +1,5 @@
+D:\GenericsCollections\SortedListGen\bin\Debug\SortedListGen.exe
+D:\GenericsCollections\SortedListGen\bin\Debug\SortedListGen.pdb
+D:\GenericsCollections\SortedListGen\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GenericsCollections\SortedListGen\obj\x86\Debug\SortedListGen.exe
+D:\GenericsCollections\SortedListGen\obj\x86\Debug\SortedListGen.pdb

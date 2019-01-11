@@ -1,0 +1,32 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006_Reflection\001_TypeTest\001_TypeTest\bin\Debug\001_TypeTest.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006_Reflection\001_TypeTest\001_TypeTest\bin\Debug\001_TypeTest.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006_Reflection\001_TypeTest\001_TypeTest\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006_Reflection\001_TypeTest\001_TypeTest\obj\x86\Debug\001_TypeTest.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006_Reflection\001_TypeTest\001_TypeTest\obj\x86\Debug\001_TypeTest.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.exe
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.pdb
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.exe
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.pdb
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.csprojResolveAssemblyReference.cache
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.exe
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.pdb
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.exe
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\bin\Debug\001_TypeTest.pdb
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\001_TypeTest\obj\x86\Debug\001_TypeTest.csprojResolveAssemblyReference.cache

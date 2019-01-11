@@ -1,0 +1,2 @@
+D:\GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+D:\GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb

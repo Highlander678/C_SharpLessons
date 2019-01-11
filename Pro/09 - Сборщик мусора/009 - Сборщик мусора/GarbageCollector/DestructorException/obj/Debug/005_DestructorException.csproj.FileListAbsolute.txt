@@ -1,0 +1,5 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorException\bin\Debug\DestructorException.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorException\bin\Debug\DestructorException.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorException\obj\Debug\005_DestructorException.csprojResolveAssemblyReference.cache
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorException\obj\Debug\DestructorException.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorException\obj\Debug\DestructorException.pdb

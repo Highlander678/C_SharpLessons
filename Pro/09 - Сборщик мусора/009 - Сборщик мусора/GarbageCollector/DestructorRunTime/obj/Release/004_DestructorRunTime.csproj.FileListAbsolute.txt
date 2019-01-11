@@ -1,0 +1,5 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorRunTime\bin\Release\DestructorRunTime.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorRunTime\bin\Release\DestructorRunTime.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorRunTime\obj\Release\004_DestructorRunTime.csprojResolveAssemblyReference.cache
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorRunTime\obj\Release\DestructorRunTime.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorRunTime\obj\Release\DestructorRunTime.pdb

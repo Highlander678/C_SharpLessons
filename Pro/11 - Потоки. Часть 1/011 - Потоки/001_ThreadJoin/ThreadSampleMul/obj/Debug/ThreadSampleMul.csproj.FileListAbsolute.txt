@@ -1,0 +1,34 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\009_THREADS\001_ThreadJoin\ThreadSampleMul\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\011_Threads\001_ThreadJoin\ThreadSampleMul\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011_Threads\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011_Threads\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleMul\bin\Debug\ThreadSampleMul.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleMul\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\bin\Debug\004_Event.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\bin\Debug\004_Event.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\004_Event.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\004_Event.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\004_Event.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\004_Event.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\bin\Debug\004_Event.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\bin\Debug\004_Event.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\004_Event.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\004_Event.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\bin\Debug\004_Event.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\bin\Debug\004_Event.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\004_Event\obj\x86\Debug\ResolveAssemblyReference.cache

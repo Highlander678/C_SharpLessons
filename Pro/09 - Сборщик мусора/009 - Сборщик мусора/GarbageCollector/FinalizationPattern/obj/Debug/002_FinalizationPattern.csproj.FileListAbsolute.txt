@@ -1,0 +1,5 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\bin\Debug\FinalizationPattern.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\bin\Debug\FinalizationPattern.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\obj\Debug\002_FinalizationPattern.csprojResolveAssemblyReference.cache
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\obj\Debug\FinalizationPattern.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\FinalizationPattern\obj\Debug\FinalizationPattern.pdb

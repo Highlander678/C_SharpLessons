@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_IsoStorFile", "IsolatedStorageFileDemo\001_IsoStorFile.csproj", "{DE8D5512-8891-415D-9B8B-A47BEB9322B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_IsoStorFile", "IsolatedStorageFileDemo2\002_IsoStorFile.csproj", "{A27E80C9-3744-4304-AFF0-B1A847840B4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_CreateDirectory", "CreateDirectory\003_CreateDirectory.csproj", "{0B928153-7C38-4EBF-8FF9-47907EAF9508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8D5512-8891-415D-9B8B-A47BEB9322B4}.Debug|x86.ActiveCfg = Debug|x86
+		{DE8D5512-8891-415D-9B8B-A47BEB9322B4}.Debug|x86.Build.0 = Debug|x86
+		{DE8D5512-8891-415D-9B8B-A47BEB9322B4}.Release|x86.ActiveCfg = Release|x86
+		{DE8D5512-8891-415D-9B8B-A47BEB9322B4}.Release|x86.Build.0 = Release|x86
+		{A27E80C9-3744-4304-AFF0-B1A847840B4B}.Debug|x86.ActiveCfg = Debug|x86
+		{A27E80C9-3744-4304-AFF0-B1A847840B4B}.Debug|x86.Build.0 = Debug|x86
+		{A27E80C9-3744-4304-AFF0-B1A847840B4B}.Release|x86.ActiveCfg = Release|x86
+		{A27E80C9-3744-4304-AFF0-B1A847840B4B}.Release|x86.Build.0 = Release|x86
+		{0B928153-7C38-4EBF-8FF9-47907EAF9508}.Debug|x86.ActiveCfg = Debug|x86
+		{0B928153-7C38-4EBF-8FF9-47907EAF9508}.Debug|x86.Build.0 = Debug|x86
+		{0B928153-7C38-4EBF-8FF9-47907EAF9508}.Release|x86.ActiveCfg = Release|x86
+		{0B928153-7C38-4EBF-8FF9-47907EAF9508}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

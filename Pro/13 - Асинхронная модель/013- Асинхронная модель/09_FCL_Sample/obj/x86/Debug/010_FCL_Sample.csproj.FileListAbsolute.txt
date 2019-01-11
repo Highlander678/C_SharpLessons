@@ -1,0 +1,5 @@
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\obj\x86\Debug\09_FCL_Sample.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\obj\x86\Debug\09_FCL_Sample.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\bin\Debug\09_FCL_Sample.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\bin\Debug\09_FCL_Sample.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\obj\x86\Debug\010_FCL_Sample.csprojResolveAssemblyReference.cache

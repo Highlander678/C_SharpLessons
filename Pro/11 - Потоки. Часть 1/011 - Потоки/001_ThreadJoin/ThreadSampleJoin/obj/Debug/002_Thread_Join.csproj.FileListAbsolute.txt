@@ -1,0 +1,30 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\002_Thread_Join.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\002_Thread_Join.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\002_Thread_Join.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\002_Thread_Join.csprojResolveAssemblyReference.cache
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\ThreadSampleJoin.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\bin\Debug\ThreadSampleJoin.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\001_ThreadJoin\ThreadSampleJoin\obj\Debug\002_Thread_Join.csprojResolveAssemblyReference.cache

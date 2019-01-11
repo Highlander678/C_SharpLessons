@@ -1,0 +1,5 @@
+D:\BitArrayDemo\NameValueCollectionDemo2\bin\Debug\NameValueCollectionDemo2.exe
+D:\BitArrayDemo\NameValueCollectionDemo2\bin\Debug\NameValueCollectionDemo2.pdb
+D:\BitArrayDemo\NameValueCollectionDemo2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BitArrayDemo\NameValueCollectionDemo2\obj\x86\Debug\NameValueCollectionDemo2.exe
+D:\BitArrayDemo\NameValueCollectionDemo2\obj\x86\Debug\NameValueCollectionDemo2.pdb

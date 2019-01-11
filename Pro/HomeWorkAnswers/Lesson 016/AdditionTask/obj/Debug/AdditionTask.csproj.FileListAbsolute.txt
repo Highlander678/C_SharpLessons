@@ -1,0 +1,27 @@
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\bin\Debug\AdditionTask.exe.config
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\bin\Debug\AdditionTask.exe
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\bin\Debug\AdditionTask.pdb
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\obj\Debug\AdditionTask.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\obj\Debug\AdditionTask.Form1.resources
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\obj\Debug\AdditionTask.Properties.Resources.resources
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\obj\Debug\AdditionTask.csproj.GenerateResource.Cache
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\obj\Debug\AdditionTask.exe
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\obj\Debug\AdditionTask.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\bin\Debug\AdditionTask.exe.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\bin\Debug\AdditionTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\bin\Debug\AdditionTask.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.Form1.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.Properties.Resources.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.csproj.GenerateResource.Cache
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\bin\Debug\AdditionTask.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.Form1.resources
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.Properties.Resources.resources
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\obj\Debug\AdditionTask.csproj.GenerateResource.Cache
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\bin\Debug\AdditionTask.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017\AdditionTask\bin\Debug\AdditionTask.pdb

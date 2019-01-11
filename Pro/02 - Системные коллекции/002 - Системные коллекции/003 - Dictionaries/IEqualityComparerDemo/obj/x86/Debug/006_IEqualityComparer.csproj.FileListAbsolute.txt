@@ -1,0 +1,56 @@
+D:\Dictionary\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+D:\Dictionary\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+D:\Dictionary\IEqualityComparerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+D:\Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\006_IEqualityComparer.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\006_IEqualityComparer.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\006_IEqualityComparer.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\006_IEqualityComparer.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\IEqualityComparerDemo\obj\x86\Debug\IEqualityComparerDemo.pdb

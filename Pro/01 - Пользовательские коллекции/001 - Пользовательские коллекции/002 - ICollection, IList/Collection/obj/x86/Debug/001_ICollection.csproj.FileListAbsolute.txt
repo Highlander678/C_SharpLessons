@@ -1,0 +1,59 @@
+D:\Collection\Collection\obj\x86\Debug\Collection.exe
+D:\Collection\Collection\obj\x86\Debug\Collection.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\002_Collection\Collection\obj\x86\Debug\Collection.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\002_Collection\Collection\obj\x86\Debug\Collection.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\obj\x86\Debug\Collection.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\obj\x86\Debug\Collection.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\bin\Debug\Collection.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\bin\Debug\Collection.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\obj\x86\Debug\Collection.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\obj\x86\Debug\Collection.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\bin\Debug\Collection.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\bin\Debug\Collection.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002_Collection\Collection\obj\x86\Debug\Collection.exe
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002_Collection\Collection\obj\x86\Debug\Collection.pdb
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002_Collection\Collection\bin\Debug\Collection.exe
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002_Collection\Collection\bin\Debug\Collection.pdb
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002_Collection\Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\001_ICollection.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - ICollection, IList\Collection\bin\Debug\Collection.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - ICollection, IList\Collection\bin\Debug\Collection.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - ICollection, IList\Collection\obj\x86\Debug\001_ICollection.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.exe.CodeAnalysisLog.xml
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.exe.lastcodeanalysissucceeded
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.exe
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.pdb
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\001_ICollection.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\bin\Debug\Collection.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\001_ICollection.csprojResolveAssemblyReference.cache
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.exe
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - ICollection, IList\Collection\obj\x86\Debug\Collection.pdb

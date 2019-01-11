@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<myDataSet>
+  <table1>
+    <thing>Thing 0</thing>
+  </table1>
+  <table1>
+    <thing>Thing 1</thing>
+  </table1>
+  <table1>
+    <thing>Thing 2</thing>
+  </table1>
+  <table1>
+    <thing>Thing 3</thing>
+  </table1>
+  <table1>
+    <thing>Thing 4</thing>
+  </table1>
+  <table1>
+    <thing>Thing 5</thing>
+  </table1>
+  <table1>
+    <thing>Thing 6</thing>
+  </table1>
+  <table1>
+    <thing>Thing 7</thing>
+  </table1>
+  <table1>
+    <thing>Thing 8</thing>
+  </table1>
+  <table1>
+    <thing>Thing 9</thing>
+  </table1>
+</myDataSet>

@@ -1,0 +1,69 @@
+D:\Collection\Collection4\bin\Debug\Collection4.exe
+D:\Collection\Collection4\bin\Debug\Collection4.pdb
+D:\Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Collection\Collection4\obj\x86\Debug\Collection4.exe
+D:\Collection\Collection4\obj\x86\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\Collection4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\001_Collection\Collection4\bin\Debug\Collection4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\001_Collection\Collection4\bin\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\Collection4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\bin\Debug\Collection4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\bin\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\Collection4.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\Collection4.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\bin\Debug\Collection4.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\bin\Debug\Collection4.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\Collection4.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\Collection4.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\bin\Debug\Collection4.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\001_Collection\Collection4\bin\Debug\Collection4.pdb
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001_Collection\Collection4\bin\Debug\Collection4.exe
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001_Collection\Collection4\bin\Debug\Collection4.pdb
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001_Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001_Collection\Collection4\obj\x86\Debug\Collection4.exe
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001_Collection\Collection4\obj\x86\Debug\Collection4.pdb
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\004_Collection.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\002 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\004_Collection.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.exe
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.pdb
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\004_Collection.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\004_Collection.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.exe
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\Collection4.pdb
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.exe
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\bin\Debug\Collection4.pdb
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection4\obj\x86\Debug\004_Collection.csprojResolveAssemblyReference.cache

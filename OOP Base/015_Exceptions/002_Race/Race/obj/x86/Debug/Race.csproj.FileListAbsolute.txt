@@ -25,3 +25,9 @@ D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\bin\D
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\bin\Debug\Race.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.csprojResolveAssemblyReference.cache
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\002_Race\Race\obj\x86\Debug\Race.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\002_Race\Race\bin\Debug\Race.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\002_Race\Race\bin\Debug\Race.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\002_Race\Race\obj\x86\Debug\Race.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\002_Race\Race\obj\x86\Debug\Race.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\002_Race\Race\obj\x86\Debug\Race.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\002_Race\Race\obj\x86\Debug\Race.pdb

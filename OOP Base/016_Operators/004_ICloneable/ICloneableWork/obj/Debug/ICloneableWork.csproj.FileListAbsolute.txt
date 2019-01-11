@@ -41,3 +41,9 @@ C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWor
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.exe
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\003_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\004_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\004_ICloneable\ICloneableWork\bin\Debug\ICloneableWork.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\004_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\004_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\004_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\004_ICloneable\ICloneableWork\obj\Debug\ICloneableWork.pdb

@@ -1,0 +1,4 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\bin\Release\GarbageCollector.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\bin\Release\GarbageCollector.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\obj\Release\GarbageCollector.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\obj\Release\GarbageCollector.pdb

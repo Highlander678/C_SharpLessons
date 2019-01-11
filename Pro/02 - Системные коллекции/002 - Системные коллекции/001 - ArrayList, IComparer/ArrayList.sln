@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_ArrayList", "ArrayListDemo\001_ArrayList.csproj", "{28A97360-E877-40D7-8979-AE330C931AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_ArrayList", "ArrayList2\002_ArrayList.csproj", "{C3DF3887-B5D9-4892-959B-9FF4EB0C7E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_ArrayListSort", "ArrayListSort\003_ArrayListSort.csproj", "{12A42BA3-FB90-4FF7-B8FF-3F52BFA1871A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_IComparer", "IComparerDemo\004_IComparer.csproj", "{7229432E-1F65-4ABB-85DC-B89AC7593052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A97360-E877-40D7-8979-AE330C931AB0}.Debug|x86.ActiveCfg = Debug|x86
+		{28A97360-E877-40D7-8979-AE330C931AB0}.Debug|x86.Build.0 = Debug|x86
+		{28A97360-E877-40D7-8979-AE330C931AB0}.Release|x86.ActiveCfg = Release|x86
+		{28A97360-E877-40D7-8979-AE330C931AB0}.Release|x86.Build.0 = Release|x86
+		{C3DF3887-B5D9-4892-959B-9FF4EB0C7E88}.Debug|x86.ActiveCfg = Debug|x86
+		{C3DF3887-B5D9-4892-959B-9FF4EB0C7E88}.Debug|x86.Build.0 = Debug|x86
+		{C3DF3887-B5D9-4892-959B-9FF4EB0C7E88}.Release|x86.ActiveCfg = Release|x86
+		{C3DF3887-B5D9-4892-959B-9FF4EB0C7E88}.Release|x86.Build.0 = Release|x86
+		{12A42BA3-FB90-4FF7-B8FF-3F52BFA1871A}.Debug|x86.ActiveCfg = Debug|x86
+		{12A42BA3-FB90-4FF7-B8FF-3F52BFA1871A}.Debug|x86.Build.0 = Debug|x86
+		{12A42BA3-FB90-4FF7-B8FF-3F52BFA1871A}.Release|x86.ActiveCfg = Release|x86
+		{12A42BA3-FB90-4FF7-B8FF-3F52BFA1871A}.Release|x86.Build.0 = Release|x86
+		{7229432E-1F65-4ABB-85DC-B89AC7593052}.Debug|x86.ActiveCfg = Debug|x86
+		{7229432E-1F65-4ABB-85DC-B89AC7593052}.Debug|x86.Build.0 = Debug|x86
+		{7229432E-1F65-4ABB-85DC-B89AC7593052}.Release|x86.ActiveCfg = Release|x86
+		{7229432E-1F65-4ABB-85DC-B89AC7593052}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

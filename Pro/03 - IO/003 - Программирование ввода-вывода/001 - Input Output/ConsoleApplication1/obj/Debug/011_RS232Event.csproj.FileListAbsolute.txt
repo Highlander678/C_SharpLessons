@@ -1,0 +1,3 @@
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

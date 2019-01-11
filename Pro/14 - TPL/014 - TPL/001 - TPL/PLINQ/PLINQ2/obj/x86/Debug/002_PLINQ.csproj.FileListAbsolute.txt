@@ -1,0 +1,49 @@
+D:\PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+D:\PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+D:\PLINQ\PLINQ2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+D:\PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\002_PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\002_PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\002_PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\002_PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\002_PLINQ\PLINQ2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - TPL\017 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - TPL\015 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - TPL\015 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\002_PLINQ.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - TPL\015 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\002_PLINQ.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\002_PLINQ.csprojResolveAssemblyReference.cache
+D:\CSProVideo\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+D:\CSProVideo\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+D:\CSProVideo\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\002 - PLINQ\PLINQ2\obj\x86\Debug\002_PLINQ.csprojResolveAssemblyReference.cache
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\PLINQ\PLINQ2\obj\x86\Debug\PLINQ2.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\PLINQ\PLINQ2\bin\Debug\PLINQ2.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\PLINQ\PLINQ2\bin\Debug\PLINQ2.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\PLINQ\PLINQ2\obj\x86\Debug\002_PLINQ.csprojResolveAssemblyReference.cache

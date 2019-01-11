@@ -1,0 +1,9 @@
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\SortedListGen.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\SortedListGen.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\SortedListGen.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\SortedListGen.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\bin\Debug\SortedListGen.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\bin\Debug\SortedListGen.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\004_SortedListGen.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\SortedListGen.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\SortedListGen.pdb

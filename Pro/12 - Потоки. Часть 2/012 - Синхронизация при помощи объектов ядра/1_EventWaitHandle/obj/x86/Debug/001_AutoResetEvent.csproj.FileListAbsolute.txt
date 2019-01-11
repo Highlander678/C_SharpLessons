@@ -1,0 +1,16 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\bin\Debug\1_EventWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\bin\Debug\1_EventWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\bin\Debug\1_EventWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\bin\Debug\1_EventWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\bin\Debug\1_EventWaitHandle.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\bin\Debug\1_EventWaitHandle.pdb
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.pdb

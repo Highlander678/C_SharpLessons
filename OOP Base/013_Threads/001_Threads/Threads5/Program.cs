@@ -17,10 +17,11 @@ namespace Threads
 
             Thread.Sleep(100);
             Console.WriteLine("2. counter = {0}", counter);
+            object test = (object)counter;
 
             // ParameterizedThreadStart
             thread = new Thread((object argument) => { Console.WriteLine("3. counter = {0}", (int)argument); });
-            thread.Start(counter);
+            thread.Start(test);
 
             // Delay.
             Console.ReadKey();

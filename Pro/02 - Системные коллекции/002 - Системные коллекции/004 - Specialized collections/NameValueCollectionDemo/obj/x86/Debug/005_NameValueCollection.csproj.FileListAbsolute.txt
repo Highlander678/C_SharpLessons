@@ -1,0 +1,15 @@
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\bin\Debug\NameValueCollectionDemo.exe.config
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\obj\x86\Debug\NameValueCollectionDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\obj\x86\Debug\NameValueCollectionDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\bin\Debug\NameValueCollectionDemo.exe.config
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\obj\x86\Debug\NameValueCollectionDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\obj\x86\Debug\NameValueCollectionDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\bin\Debug\NameValueCollectionDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\bin\Debug\NameValueCollectionDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\obj\x86\Debug\005_NameValueCollection.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\bin\Debug\NameValueCollectionDemo.exe.config
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\obj\x86\Debug\NameValueCollectionDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\obj\x86\Debug\NameValueCollectionDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\bin\Debug\NameValueCollectionDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\bin\Debug\NameValueCollectionDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\NameValueCollectionDemo\obj\x86\Debug\005_NameValueCollection.csprojResolveAssemblyReference.cache

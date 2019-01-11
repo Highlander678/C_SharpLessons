@@ -1,0 +1,5 @@
+D:\GenericsCollections\QueueAndStack\bin\Debug\QueueAndStack.exe
+D:\GenericsCollections\QueueAndStack\bin\Debug\QueueAndStack.pdb
+D:\GenericsCollections\QueueAndStack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+D:\GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb

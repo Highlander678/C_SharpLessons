@@ -1,0 +1,25 @@
+C:\Users\Oleksii\AppData\Local\Temporary Projects\AdditionTask\bin\Debug\AdditionTask.exe.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\AdditionTask\bin\Debug\AdditionTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\AdditionTask\bin\Debug\AdditionTask.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\AdditionTask\obj\Debug\AdditionTask.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\AdditionTask\obj\Debug\AdditionTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\AdditionTask\obj\Debug\AdditionTask.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.exe
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\AdditionTask\bin\Debug\AdditionTask.exe
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\AdditionTask\bin\Debug\AdditionTask.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\bin\Debug\AdditionTask.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\bin\Debug\AdditionTask.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.csprojResolveAssemblyReference.cache
+G:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.exe
+G:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.pdb
+G:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\bin\Debug\AdditionTask.exe
+G:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\bin\Debug\AdditionTask.pdb
+G:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.csprojResolveAssemblyReference.cache
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.exe
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 011\AdditionTask\obj\Debug\AdditionTask.pdb

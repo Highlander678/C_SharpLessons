@@ -1,0 +1,5 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL3\obj\x86\Debug\TPL3.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL3\obj\x86\Debug\TPL3.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL3\bin\Debug\TPL3.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL3\bin\Debug\TPL3.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL3\obj\x86\Debug\002_TPL_Id.csprojResolveAssemblyReference.cache

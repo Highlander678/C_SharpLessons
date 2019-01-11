@@ -1,0 +1,26 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\bin\Debug\WindowsFormsApplication2.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\bin\Debug\WindowsFormsApplication2.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\009_WindowsAutorun.csproj.GenerateResource.Cache
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\009_WindowsAutorun.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\bin\Debug\WindowsFormsApplication2.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\bin\Debug\WindowsFormsApplication2.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\009_WindowsAutorun.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\009_WindowsAutorun.csproj.GenerateResource.Cache
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.exe
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.pdb
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\bin\Debug\WindowsFormsApplication2.exe
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\bin\Debug\WindowsFormsApplication2.pdb
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\009_WindowsAutorun.csprojResolveAssemblyReference.cache
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\CSProVideo\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\WindowsAutorun\obj\Debug\009_WindowsAutorun.csproj.GenerateResource.Cache

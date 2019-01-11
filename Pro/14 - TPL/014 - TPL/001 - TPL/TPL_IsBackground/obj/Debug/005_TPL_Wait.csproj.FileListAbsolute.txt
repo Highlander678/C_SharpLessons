@@ -1,0 +1,5 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL_IsBackground\bin\Debug\TPL_IsBackground.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL_IsBackground\bin\Debug\TPL_IsBackground.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL_IsBackground\obj\Debug\005_TPL_Wait.csprojResolveAssemblyReference.cache
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL_IsBackground\obj\Debug\TPL_IsBackground.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL_IsBackground\obj\Debug\TPL_IsBackground.pdb

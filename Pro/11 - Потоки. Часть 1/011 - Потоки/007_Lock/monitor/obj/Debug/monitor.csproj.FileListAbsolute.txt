@@ -1,0 +1,44 @@
+D:\monitor\monitor\bin\Debug\monitor.exe
+D:\monitor\monitor\bin\Debug\monitor.pdb
+D:\monitor\monitor\obj\Debug\ResolveAssemblyReference.cache
+D:\monitor\monitor\obj\Debug\monitor.exe
+D:\monitor\monitor\obj\Debug\monitor.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\010_THREADS\002_Lock\monitor\obj\Debug\monitor.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\010_THREADS\002_Lock\monitor\obj\Debug\monitor.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\010_THREADS\002_Lock\monitor\bin\Debug\monitor.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\010_THREADS\002_Lock\monitor\bin\Debug\monitor.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\010_THREADS\002_Lock\monitor\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\010_THREADS\002_Lock\monitor\obj\Debug\monitor.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\010_THREADS\002_Lock\monitor\obj\Debug\monitor.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\010_THREADS\002_Lock\monitor\obj\Debug\monitor.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\012_Threads\002_Lock\monitor\obj\Debug\monitor.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\012_Threads\002_Lock\monitor\obj\Debug\monitor.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\008_Lock\monitor\obj\Debug\monitor.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\011_Threads\008_Lock\monitor\obj\Debug\monitor.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\008_Lock\monitor\bin\Debug\monitor.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\008_Lock\monitor\bin\Debug\monitor.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\012 - Потоки\012 - Потоки\008_Lock\monitor\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\012 - Потоки\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\bin\Debug\monitor.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\bin\Debug\monitor.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.exe
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.pdb
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\bin\Debug\monitor.exe
+C:\Cources\C# Professional\012 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\bin\Debug\monitor.pdb
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.exe
+C:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\008_Lock\monitor\obj\Debug\monitor.pdb
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\007_Lock\monitor\obj\Debug\monitor.exe
+D:\Cources\C# Professional\011 - Потоки. Часть 1\012 - Потоки\007_Lock\monitor\obj\Debug\monitor.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\007_Lock\monitor\obj\Debug\monitor.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\011 - Потоки. Часть 1\011 - Потоки\007_Lock\monitor\obj\Debug\monitor.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\007_Lock\monitor\obj\Debug\monitor.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\007_Lock\monitor\obj\Debug\monitor.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\007_Lock\monitor\bin\Debug\monitor.exe
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\007_Lock\monitor\bin\Debug\monitor.pdb
+D:\CSProVideo\011 - Потоки. Часть 1\011 - Потоки\007_Lock\monitor\obj\Debug\monitor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\AsyncAwait\ConsoleApplication5\obj\Debug\005_AsyncAwait_DotPeek_Clean.csprojResolveAssemblyReference.cache
+D:\AsyncAwait\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\AsyncAwait\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\AsyncAwait\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\AsyncAwait\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication5\obj\Debug\005_AsyncAwait_DotPeek_Clean.csprojResolveAssemblyReference.cache

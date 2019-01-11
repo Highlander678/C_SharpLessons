@@ -1,0 +1,1 @@
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\bin\Debug\08_1_AsyncCallBack.exe.config

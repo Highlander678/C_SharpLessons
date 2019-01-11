@@ -1,0 +1,15 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL8\bin\Release\TPL8.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL8\bin\Release\TPL8.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL8\obj\x86\Release\TPL8.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL8\obj\x86\Release\TPL8.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL8\obj\x86\Release\008_TPL.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL8\bin\Release\TPL8.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL8\bin\Release\TPL8.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL8\obj\x86\Release\008_TPL.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL8\obj\x86\Release\TPL8.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL8\obj\x86\Release\TPL8.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL8\obj\x86\Release\TPL8.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL8\obj\x86\Release\TPL8.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL8\bin\Release\TPL8.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL8\bin\Release\TPL8.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL8\obj\x86\Release\008_TPL.csprojResolveAssemblyReference.cache

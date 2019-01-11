@@ -1,0 +1,26 @@
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 010\TextView\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\LESSONS STEP 1 GROUP\LESSON 010\TextView\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TextView\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\TextView\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TextView\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\TextView\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\TextView\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\TextView\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\TextView\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\TextView\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\LESSONS STEP 1 GROUP\LESSON 15\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\LESSONS STEP 1 GROUP\LESSON 15\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 15\REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\LESSONS STEP 1 GROUP\LESSON 15\REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 15\REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 15\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\LESSONS STEP 1 GROUP\LESSON 15\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\LESSONS STEP 1 GROUP\LESSON 15\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache

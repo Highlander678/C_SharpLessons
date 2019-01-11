@@ -1,0 +1,19 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\bin\Debug\IsolateStorageSmpl.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\bin\Debug\IsolateStorageSmpl.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.frmDSSample.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.Properties.Resources.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\bin\Debug\IsolateStorageSmpl.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\bin\Debug\IsolateStorageSmpl.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\004_SelfPlacingWindow.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.frmDSSample.resources
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.Properties.Resources.resources
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\004_SelfPlacingWindow.csproj.GenerateResource.Cache
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\SelfPlacingWindow\obj\x86\Debug\IsolateStorageSmpl.pdb

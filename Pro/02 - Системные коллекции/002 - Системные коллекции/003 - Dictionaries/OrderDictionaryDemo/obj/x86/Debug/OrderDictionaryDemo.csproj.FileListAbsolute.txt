@@ -1,0 +1,5 @@
+D:\Dictionary\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+D:\Dictionary\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+D:\Dictionary\OrderDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb

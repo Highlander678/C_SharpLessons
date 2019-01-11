@@ -1,0 +1,25 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\002_IsoStorFile.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\002_IsoStorFile.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\002_IsoStorFile.csprojResolveAssemblyReference.cache
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\IsolatedStorageFileDemo2.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\bin\Debug\IsolatedStorageFileDemo2.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\IsolatedStorageFileDemo2\obj\x86\Debug\002_IsoStorFile.csprojResolveAssemblyReference.cache

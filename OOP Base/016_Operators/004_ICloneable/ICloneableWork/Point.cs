@@ -16,11 +16,13 @@ namespace ICloneableWork
         {
             this.x = x;
             this.y = y;
+            
         }
-
+        
         // Реализация метода интерфейса ICloneable.
         public object Clone()
         {
+            
             return new Point(this.x, this.y) as object;
         }
 

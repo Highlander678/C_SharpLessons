@@ -1,0 +1,23 @@
+D:\CarLibrary\CSharpCarClient\obj\Debug\ResolveAssemblyReference.cache
+D:\CarLibrary\CSharpCarClient\obj\Release\ResolveAssemblyReference.cache
+D:\CarLibrary\CSharpCarClient\bin\Release\CSharpCarClient.exe
+D:\CarLibrary\CSharpCarClient\bin\Release\CSharpCarClient.pdb
+D:\CarLibrary\CSharpCarClient\bin\Release\CarLibrary.dll
+D:\CarLibrary\CSharpCarClient\bin\Release\CarLibrary.pdb
+D:\CarLibrary\CSharpCarClient\obj\Release\CSharpCarClient.exe
+D:\CarLibrary\CSharpCarClient\obj\Release\CSharpCarClient.pdb
+D:\CarLibrary\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+D:\CarLibrary\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+D:\CarLibrary\CSharpCarClient\bin\Debug\CarLibrary.dll
+D:\CarLibrary\CSharpCarClient\bin\Debug\CarLibrary.pdb
+D:\CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\obj\Release\CSharpCarClient.exe
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\obj\Release\CSharpCarClient.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\bin\Debug\CarLibrary.dll
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\bin\Debug\CarLibrary.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\001_CarLibrary\CSharpCarClient\obj\Debug\ResolveAssemblyReference.cache

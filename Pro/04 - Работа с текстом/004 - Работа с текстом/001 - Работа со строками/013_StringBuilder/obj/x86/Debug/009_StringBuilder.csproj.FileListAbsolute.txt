@@ -1,0 +1,10 @@
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\009_StringBuilder\bin\Debug\009_StringBuilder.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\009_StringBuilder\bin\Debug\009_StringBuilder.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\009_StringBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\009_StringBuilder\obj\x86\Debug\009_StringBuilder.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\009_StringBuilder\obj\x86\Debug\009_StringBuilder.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\009_StringBuilder\bin\Debug\009_StringBuilder.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\009_StringBuilder\bin\Debug\009_StringBuilder.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\009_StringBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\009_StringBuilder\obj\x86\Debug\009_StringBuilder.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\009_StringBuilder\obj\x86\Debug\009_StringBuilder.pdb

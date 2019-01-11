@@ -1,0 +1,4 @@
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_GlobalEvent\obj\x86\Release\004_GlobalEvent.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_GlobalEvent\obj\x86\Release\004_GlobalEvent.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_GlobalEvent\bin\Release\004_GlobalEvent.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_GlobalEvent\bin\Release\004_GlobalEvent.pdb

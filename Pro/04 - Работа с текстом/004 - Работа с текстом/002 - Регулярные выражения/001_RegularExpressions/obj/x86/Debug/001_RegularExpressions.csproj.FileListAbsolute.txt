@@ -1,0 +1,50 @@
+D:\RegularExpressions\RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+D:\RegularExpressions\RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+D:\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+D:\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+D:\RegularExpressions\RegularExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\001_RegularExpressions\RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\001_RegularExpressions\RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+D:\hDocuments\C# Courses\C# Professional\004_Text\001_RegularExpressions\RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+D:\hDocuments\C# Courses\C# Professional\004_Text\001_RegularExpressions\RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+D:\hDocuments\C# Courses\C# Professional\004_Text\001_RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+D:\hDocuments\C# Courses\C# Professional\004_Text\001_RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+D:\hDocuments\C# Courses\C# Professional\004_Text\001_RegularExpressions\RegularExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\[C#]\002 - C# Professional\004_Text\001_RegularExpressions\RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+D:\hDocuments\C# Courses\[C#]\002 - C# Professional\004_Text\001_RegularExpressions\RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\001_RegularExpressions.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+D:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\001_RegularExpressions.csprojResolveAssemblyReference.cache
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\RegularExpressions.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\bin\Debug\RegularExpressions.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\001_RegularExpressions\obj\x86\Debug\001_RegularExpressions.csprojResolveAssemblyReference.cache

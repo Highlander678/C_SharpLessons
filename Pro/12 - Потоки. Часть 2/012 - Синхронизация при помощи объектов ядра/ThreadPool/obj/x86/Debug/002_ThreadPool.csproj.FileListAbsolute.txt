@@ -1,0 +1,2 @@
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\ThreadPool\obj\x86\Debug\ThreadPool.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\ThreadPool\obj\x86\Debug\ThreadPool.pdb

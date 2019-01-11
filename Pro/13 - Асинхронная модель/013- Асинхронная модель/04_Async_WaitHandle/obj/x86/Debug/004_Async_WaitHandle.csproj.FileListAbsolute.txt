@@ -1,0 +1,4 @@
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb

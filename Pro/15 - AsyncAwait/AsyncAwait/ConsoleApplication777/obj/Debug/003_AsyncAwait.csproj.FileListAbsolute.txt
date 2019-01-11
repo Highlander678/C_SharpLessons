@@ -1,0 +1,4 @@
+D:\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.exe
+D:\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.pdb
+D:\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.exe
+D:\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.pdb

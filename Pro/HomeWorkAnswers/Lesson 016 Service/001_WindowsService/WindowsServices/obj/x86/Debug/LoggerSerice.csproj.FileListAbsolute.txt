@@ -1,0 +1,15 @@
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.config
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.pdb
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.MyService.resources
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\LoggerSerice.csproj.GenerateResource.Cache
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.exe
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\LoggerSerice.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.MyService.resources
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\LoggerSerice.csproj.GenerateResource.Cache
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.exe
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.pdb

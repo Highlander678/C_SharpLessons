@@ -1,0 +1,10 @@
+D:\Type_test\Type_test\bin\Debug\Type_test.exe
+D:\Type_test\Type_test\bin\Debug\Type_test.pdb
+D:\Type_test\Type_test\obj\Debug\ResolveAssemblyReference.cache
+D:\Type_test\Type_test\obj\Debug\Type_test.exe
+D:\Type_test\Type_test\obj\Debug\Type_test.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\002_Type_test\Type_test\obj\Debug\Type_test.exe
+D:\LESSONS STEP 1 GROUP\LESSON 14\002_Type_test\Type_test\obj\Debug\Type_test.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\002_Type_test\Type_test\bin\Debug\Type_test.exe
+D:\LESSONS STEP 1 GROUP\LESSON 14\002_Type_test\Type_test\bin\Debug\Type_test.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\002_Type_test\Type_test\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\bin\Debug\ServiceIU.exe
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\bin\Debug\ServiceIU.pdb
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\obj\x86\Debug\ServiceIU.Properties.Resources.resources
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\obj\x86\Debug\ServiceIU.exe
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\obj\x86\Debug\ServiceIU.pdb
+D:\hDocuments\C# Courses\C# Professional\!Hausaufgabe\[ServiceInstallUtility]\ServiceIU\ServiceIU\obj\x86\Debug\ServiceIU.Form1.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ServiceIU.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ServiceIU.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\bin\Debug\ServiceIU.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\bin\Debug\ServiceIU.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ServiceIU.Form1.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ServiceIU.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ServiceIU.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ServiceIU.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\bin\Debug\ServiceIU.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\bin\Debug\ServiceIU.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ServiceIU.Form1.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\ServiceIU.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\Instal_ NT_Service_IU\ServiceIU\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\obj\x86\Debug\ServiceIU.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\obj\x86\Debug\ServiceIU.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\bin\Debug\ServiceIU.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\bin\Debug\ServiceIU.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\obj\x86\Debug\ServiceIU.Form1.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\obj\x86\Debug\ServiceIU.Properties.Resources.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\NT Service Installer\ServiceIU\obj\x86\Debug\GenerateResource.write.1.tlog

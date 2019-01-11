@@ -31,3 +31,8 @@ C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject12
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject12\obj\x86\Debug\ClassObject12.exe
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject12\obj\x86\Debug\ClassObject12.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject12\obj\x86\Debug\ClassObject12.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject12\bin\Debug\ClassObject12.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject12\bin\Debug\ClassObject12.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject12\obj\x86\Debug\012_ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject12\obj\x86\Debug\ClassObject12.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject12\obj\x86\Debug\ClassObject12.pdb

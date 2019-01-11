@@ -1,0 +1,6 @@
+D:\SettingsConfigurations\Configuration3\bin\Debug\Configuration3.exe.config
+D:\SettingsConfigurations\Configuration3\bin\Debug\Configuration3.exe
+D:\SettingsConfigurations\Configuration3\bin\Debug\Configuration3.pdb
+D:\SettingsConfigurations\Configuration3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SettingsConfigurations\Configuration3\obj\x86\Debug\Configuration3.exe
+D:\SettingsConfigurations\Configuration3\obj\x86\Debug\Configuration3.pdb

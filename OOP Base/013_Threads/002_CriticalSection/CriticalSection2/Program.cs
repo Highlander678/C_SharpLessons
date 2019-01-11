@@ -17,7 +17,7 @@ namespace CriticalSection
         {
             int hash = Thread.CurrentThread.GetHashCode();
 
-            Monitor.Enter(block); // Закомментировать.
+            //Monitor.Enter(block); // Закомментировать.
 
             for (int counter = 0; counter < 10; counter++)
             {
@@ -26,7 +26,7 @@ namespace CriticalSection
             }
             Console.WriteLine(new string('-', 20));
 
-            Monitor.Exit(block);  // Закомментировать.
+           // Monitor.Exit(block);  // Закомментировать.
         }
     }
 

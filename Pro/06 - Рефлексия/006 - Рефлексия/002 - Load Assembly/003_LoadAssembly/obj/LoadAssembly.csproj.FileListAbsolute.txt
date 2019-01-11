@@ -1,0 +1,13 @@
+D:\LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.exe
+D:\LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.pdb
+D:\LoadAssembly\LoadAssembly\obj\Debug\ResolveAssemblyReference.cache
+D:\LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+D:\LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+D:\LoadAssembly\LoadAssembly\bin\Debug\CarLibrary.dll
+D:\LoadAssembly\LoadAssembly\bin\Debug\CarLibrary.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\003_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+D:\LESSONS STEP 1 GROUP\LESSON 14\003_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\003_LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.exe
+D:\LESSONS STEP 1 GROUP\LESSON 14\003_LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\003_LoadAssembly\LoadAssembly\bin\Debug\CarLibrary.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 14\003_LoadAssembly\LoadAssembly\obj\Debug\ResolveAssemblyReference.cache

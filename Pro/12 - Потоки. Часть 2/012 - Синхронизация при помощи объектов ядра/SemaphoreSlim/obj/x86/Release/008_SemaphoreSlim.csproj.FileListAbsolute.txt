@@ -1,0 +1,22 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\008_SemaphoreSlim.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.pdb

@@ -1,0 +1,8 @@
+D:\AsyncAwait\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+D:\AsyncAwait\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+D:\AsyncAwait\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+D:\AsyncAwait\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb

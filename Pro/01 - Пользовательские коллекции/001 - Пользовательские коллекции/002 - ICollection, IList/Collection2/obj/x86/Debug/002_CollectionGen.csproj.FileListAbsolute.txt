@@ -1,0 +1,5 @@
+D:\Collection\Collection2\bin\Debug\Collection2.exe
+D:\Collection\Collection2\bin\Debug\Collection2.pdb
+D:\Collection\Collection2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Collection\Collection2\obj\x86\Debug\Collection2.exe
+D:\Collection\Collection2\obj\x86\Debug\Collection2.pdb

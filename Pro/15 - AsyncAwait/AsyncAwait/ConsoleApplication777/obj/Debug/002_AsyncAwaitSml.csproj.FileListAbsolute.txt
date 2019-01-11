@@ -1,0 +1,19 @@
+D:\ConsoleApplication1\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.exe
+D:\ConsoleApplication1\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.pdb
+D:\ConsoleApplication1\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.exe
+D:\ConsoleApplication1\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.pdb
+D:\C# Prof Lesson AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.exe
+D:\C# Prof Lesson AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.pdb
+D:\C# Prof Lesson AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.exe
+D:\C# Prof Lesson AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.pdb
+D:\C# Prof Lesson AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\015 - AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\015 - AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\015 - AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\015 - AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\015 - AsyncAwait\001_AsyncAwait\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.csprojResolveAssemblyReference.cache
+D:\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.exe
+D:\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.pdb
+D:\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.csprojResolveAssemblyReference.cache
+D:\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.exe
+D:\002_AsyncAwaitSml\bin\Debug\002_AsyncAwaitSml.pdb

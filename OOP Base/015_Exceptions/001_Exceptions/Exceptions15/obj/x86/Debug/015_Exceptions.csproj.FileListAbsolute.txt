@@ -23,3 +23,8 @@ D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\
 C:\Users\Alex CBS\Desktop\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions15\obj\x86\Debug\Exceptions15.exe
 C:\Users\Alex CBS\Desktop\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions15\obj\x86\Debug\Exceptions15.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions15\obj\x86\Debug\Exceptions15.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions15\bin\Debug\Exceptions15.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions15\bin\Debug\Exceptions15.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions15\obj\x86\Debug\015_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions15\obj\x86\Debug\Exceptions15.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions15\obj\x86\Debug\Exceptions15.pdb

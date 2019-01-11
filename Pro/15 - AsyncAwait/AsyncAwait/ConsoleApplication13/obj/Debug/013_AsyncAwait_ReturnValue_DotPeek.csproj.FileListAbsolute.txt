@@ -1,0 +1,7 @@
+D:\AsyncAwait\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+D:\AsyncAwait\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+D:\AsyncAwait\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+D:\AsyncAwait\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+D:\AsyncAwait\ConsoleApplication13\obj\Debug\013_AsyncAwait_ReturnValue_DotPeek.csprojResolveAssemblyReference.cache
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

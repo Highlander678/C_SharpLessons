@@ -1,0 +1,39 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\010_Versioning\obj\x86\Debug\010_Versioning.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\010_Versioning\obj\x86\Debug\010_Versioning.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\010_Versioning\bin\Debug\010_Versioning.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\010_Versioning\bin\Debug\010_Versioning.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\010_Versioning\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.pdb
+C:\Cources\C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.exe
+C:\Cources\C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.pdb
+C:\Cources\C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.exe
+C:\Cources\C# Professional\011 - Версионность\011 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.pdb
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.exe
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.pdb
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.exe
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.pdb
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\009_Versioning.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\009_Versioning.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.pdb
+D:\CSProVideo\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.exe
+D:\CSProVideo\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\010_Versioning.pdb
+D:\CSProVideo\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.exe
+D:\CSProVideo\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\bin\Debug\010_Versioning.pdb
+D:\CSProVideo\010 - Версионность\010 - Версионность\001 - Versioning\009_Versioning\obj\x86\Debug\009_Versioning.csprojResolveAssemblyReference.cache

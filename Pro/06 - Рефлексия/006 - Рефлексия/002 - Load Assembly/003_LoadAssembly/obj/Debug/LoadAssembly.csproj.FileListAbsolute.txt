@@ -1,0 +1,25 @@
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\002_LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\002_LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\006_Reflection\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\006_Reflection\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\002_LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.exe
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\002_LoadAssembly\LoadAssembly\bin\Debug\LoadAssembly.pdb
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\002_LoadAssembly\LoadAssembly\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\002_LoadAssembly\LoadAssembly\obj\Debug\LoadAssembly.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\002_LoadAssembly\003_LoadAssembly\obj\Debug\LoadAssembly.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\002_LoadAssembly\003_LoadAssembly\obj\Debug\LoadAssembly.pdb

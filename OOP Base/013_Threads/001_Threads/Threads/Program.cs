@@ -18,8 +18,12 @@ namespace Threads
 
         static void Main()
         {
-            ThreadStart writeSecond = new ThreadStart(WriteSecond);
+            //ThreadStart writeSecond = new ThreadStart(WriteSecond);
+            ThreadStart writeSecond = WriteSecond;
+
             Thread thread = new Thread(writeSecond);
+            thread.IsBackground=true;
+
             thread.Start();
 
             while (true)

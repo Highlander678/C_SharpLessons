@@ -1,0 +1,5 @@
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\006_CustomFormatter_002\bin\Debug\006_CustomFormatter_002.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\006_CustomFormatter_002\bin\Debug\006_CustomFormatter_002.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\006_CustomFormatter_002\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\006_CustomFormatter_002\obj\x86\Debug\006_CustomFormatter_002.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками\StringBasics\006_CustomFormatter_002\obj\x86\Debug\006_CustomFormatter_002.pdb

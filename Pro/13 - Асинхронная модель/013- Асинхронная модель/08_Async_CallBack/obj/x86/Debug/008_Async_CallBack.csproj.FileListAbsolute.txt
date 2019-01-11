@@ -1,0 +1,4 @@
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\08_Async_CallBack\obj\x86\Debug\08_Async_CallBack.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\08_Async_CallBack\obj\x86\Debug\08_Async_CallBack.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\08_Async_CallBack\bin\Debug\08_Async_CallBack.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\08_Async_CallBack\bin\Debug\08_Async_CallBack.pdb

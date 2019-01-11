@@ -1,0 +1,85 @@
+D:\LESSONS STEP 1 GROUP\LESSON 015\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\LESSONS STEP 1 GROUP\LESSON 015\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 015\REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\LESSONS STEP 1 GROUP\LESSON 015\REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 015\REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 015\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\LESSONS STEP 1 GROUP\LESSON 015\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\LESSONS STEP 1 GROUP\LESSON 015\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\004_REFLECTOR\WindowsApplication1\obj\Debug\ResGen.write.1.tlog
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\ResGen.read.1.tlog
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\004_REFLECTOR\WindowsApplication1\obj\Debug\ResGen.write.1.tlog
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\ResGen.read.1.tlog
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\004_REFLECTOR\WindowsApplication1\obj\Debug\ResGen.write.1.tlog

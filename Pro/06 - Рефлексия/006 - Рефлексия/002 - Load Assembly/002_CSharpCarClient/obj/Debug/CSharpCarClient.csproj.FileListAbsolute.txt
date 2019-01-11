@@ -1,0 +1,26 @@
+D:\LESSONS STEP 1 GROUP\LESSON 014\001_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\LESSONS STEP 1 GROUP\LESSON 014\001_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CSharpCarClient\bin\Debug\CarLibrary.dll
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CSharpCarClient\bin\Debug\CarLibrary.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\bin\Debug\CarLibrary.dll
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\bin\Debug\CarLibrary.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\006_Reflection\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\006_Reflection\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\006_Reflection\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\006_Reflection\000_CarLibrary\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\002_LoadAssembly\002_CSharpCarClient\obj\Debug\CSharpCarClient.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006 - Рефлексия\002_LoadAssembly\002_CSharpCarClient\obj\Debug\CSharpCarClient.pdb

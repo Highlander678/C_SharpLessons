@@ -1,0 +1,4 @@
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.pdb

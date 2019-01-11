@@ -1,0 +1,51 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\bin\Debug\SerialDataBase.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\bin\Debug\SerialDataBase.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\SerialDataBase.Form1.resources
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\SerialDataBase.Form2.resources
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\SerialDataBase.Properties.Resources.resources
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\SerialDataBase.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\SerialDataBase.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\SerialDataBase.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\005 - DB Сериализация\obj\Debug\SerialDataBase.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\bin\Debug\SerialDataBase.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\bin\Debug\SerialDataBase.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.Properties.Resources.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.MainForm.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.FormDialog.resources
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\bin\Debug\SerialDataBase.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\bin\Debug\SerialDataBase.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\005_DB.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.MainForm.resources
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.FormDialog.resources
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.Properties.Resources.resources
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\005_DB.csproj.GenerateResource.Cache
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\bin\Debug\SerialDataBase.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\bin\Debug\SerialDataBase.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\005_DB.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.MainForm.resources
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.FormDialog.resources
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.Properties.Resources.resources
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\005_DB.csproj.GenerateResource.Cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\bin\Debug\SerialDataBase.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\bin\Debug\SerialDataBase.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\005_DB.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.MainForm.resources
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.FormDialog.resources
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.Properties.Resources.resources
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\005_DB.csproj.GenerateResource.Cache
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\001 - Serialization\005 - DB Сериализация\obj\Debug\SerialDataBase.pdb

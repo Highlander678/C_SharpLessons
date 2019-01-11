@@ -1,0 +1,44 @@
+D:\TPL\TPL\bin\Debug\TPL.exe
+D:\TPL\TPL\bin\Debug\TPL.pdb
+D:\TPL\TPL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TPL\TPL\obj\x86\Debug\TPL.exe
+D:\TPL\TPL\obj\x86\Debug\TPL.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\001_TPL\TPL\obj\x86\Debug\TPL.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\001_TPL\TPL\obj\x86\Debug\TPL.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\001_TPL\TPL\bin\Debug\TPL.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\001_TPL\TPL\bin\Debug\TPL.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\016_TPL\001_TPL\TPL\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\016_TPL\001_TPL\TPL\obj\x86\Debug\TPL.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\016_TPL\001_TPL\TPL\obj\x86\Debug\TPL.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\016_TPL\001_TPL\TPL\bin\Debug\TPL.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\016_TPL\001_TPL\TPL\bin\Debug\TPL.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\016_TPL\001_TPL\TPL\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\001 - TPL\TPL\bin\Debug\TPL.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\001 - TPL\TPL\bin\Debug\TPL.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\017 - TPL\017 - TPL\001 - TPL\TPL\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\001 - TPL\TPL\bin\Debug\TPL.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\001 - TPL\TPL\bin\Debug\TPL.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\017 - TPL\017 - TPL\001 - TPL\TPL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - TPL\017 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - TPL\017 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - TPL\015 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - TPL\015 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL\bin\Debug\TPL.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL\bin\Debug\TPL.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL\bin\Debug\TPL.exe.config
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL\bin\Debug\TPL.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL\bin\Debug\TPL.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL\obj\x86\Debug\001_TPL.csprojResolveAssemblyReference.cache
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL\obj\x86\Debug\TPL.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL\bin\Debug\TPL.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL\bin\Debug\TPL.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL\obj\x86\Debug\001_TPL.csprojResolveAssemblyReference.cache

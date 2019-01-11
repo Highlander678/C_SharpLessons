@@ -1,0 +1,26 @@
+D:\XML\XML16\bin\Debug\XML16.exe
+D:\XML\XML16\bin\Debug\XML16.pdb
+D:\XML\XML16\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XML\XML16\obj\x86\Debug\XML16.exe
+D:\XML\XML16\obj\x86\Debug\XML16.pdb
+D:\XML\XML16\bin\Debug\books.xml
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\005_XML\XML\XML16\obj\x86\Debug\XML16.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\005_XML\XML\XML16\obj\x86\Debug\XML16.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\005_XML\XML\XML16\bin\Debug\books.xml
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\005_XML\XML\XML16\bin\Debug\XML16.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\005_XML\XML\XML16\bin\Debug\XML16.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\005_XML\XML\XML16\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\C# Professional\005_XML\XML\XML16\obj\x86\Debug\XML16.exe
+D:\hDocuments\C# Courses\C# Professional\005_XML\XML\XML16\obj\x86\Debug\XML16.pdb
+D:\hDocuments\C# Courses\C# Professional\005_XML\XML\XML16\bin\Debug\books.xml
+D:\hDocuments\C# Courses\C# Professional\005_XML\XML\XML16\bin\Debug\XML16.exe
+D:\hDocuments\C# Courses\C# Professional\005_XML\XML\XML16\bin\Debug\XML16.pdb
+D:\hDocuments\C# Courses\C# Professional\005_XML\XML\XML16\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\004 - XML\XML\XML16\obj\x86\Debug\XML16.exe
+G:\hCBS\03 - C# Professional\004 - XML\XML\XML16\obj\x86\Debug\XML16.pdb
+G:\hCBS\03 - C# Professional\004 - XML\XML\XML16\bin\Debug\books.xml
+G:\hCBS\03 - C# Professional\004 - XML\XML\XML16\bin\Debug\XML16.exe
+G:\hCBS\03 - C# Professional\004 - XML\XML\XML16\bin\Debug\XML16.pdb
+G:\hCBS\03 - C# Professional\004 - XML\XML\XML16\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\005 - Работа с XML\005 - Работа с XML\001 - XML\XML16\obj\x86\Debug\XML16.exe
+G:\hCBS\03 - C# Professional\005 - Работа с XML\005 - Работа с XML\001 - XML\XML16\obj\x86\Debug\XML16.pdb

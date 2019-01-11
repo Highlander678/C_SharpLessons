@@ -1,0 +1,25 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\011_ManualResetEvent.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\011_ManualResetEvent.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\011_ManualResetEvent.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_Event\bin\Release\004_Event.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\004_Event.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\004_Event\obj\x86\Release\011_ManualResetEvent.csprojResolveAssemblyReference.cache

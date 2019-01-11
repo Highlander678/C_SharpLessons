@@ -22,3 +22,9 @@ C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\Yield3\bin\D
 C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\Yield3\obj\Debug\Yield3.exe
 C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\Yield3\obj\Debug\Yield3.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\015_Collections\002_Yield\Yield3\obj\Debug\Yield3.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\Yield3\bin\Debug\Yield3.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\Yield3\bin\Debug\Yield3.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\Yield3\obj\Debug\003_Yield.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\Yield3\obj\Debug\003_Yield.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\Yield3\obj\Debug\Yield3.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\Yield3\obj\Debug\Yield3.pdb

@@ -1,0 +1,18 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\bin\Debug\StreamReaderDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\bin\Debug\StreamReaderDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\bin\Debug\StreamReaderDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\bin\Debug\StreamReaderDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\bin\Debug\StreamReaderDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\bin\Debug\StreamReaderDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\002_StreamReader.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\StreamReaderDemo\obj\x86\Debug\StreamReaderDemo.pdb

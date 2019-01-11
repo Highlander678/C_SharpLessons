@@ -1,0 +1,2 @@
+D:\CSProVideo\010 - Версионность\010 - Версионность\002 - AdHoc\002_AdHocPolimorfizm\obj\Debug\AdHocPolimorfizm.exe
+D:\CSProVideo\010 - Версионность\010 - Версионность\002 - AdHoc\002_AdHocPolimorfizm\obj\Debug\AdHocPolimorfizm.pdb

@@ -1,0 +1,24 @@
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\FileSystemWatcherDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\FileSystemWatcherDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.exe.config
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\004_FileSystemWatcher.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.exe.config
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\FileSystemWatcherDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\FileSystemWatcherDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\004_FileSystemWatcher.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.exe.config
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\FileSystemWatcherDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\FileSystemWatcherDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\004_FileSystemWatcher.csprojResolveAssemblyReference.cache
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.exe.config
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\FileSystemWatcherDemo.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\FileSystemWatcherDemo.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\bin\Debug\FileSystemWatcherDemo.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileSystemWatcherDemo\obj\x86\Debug\004_FileSystemWatcher.csprojResolveAssemblyReference.cache

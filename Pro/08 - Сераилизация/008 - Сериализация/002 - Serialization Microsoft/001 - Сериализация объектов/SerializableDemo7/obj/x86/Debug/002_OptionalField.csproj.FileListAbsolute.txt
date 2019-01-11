@@ -1,0 +1,10 @@
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\bin\Debug\SerializableDemo6.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\bin\Debug\SerializableDemo6.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\obj\x86\Debug\SerializableDemo6.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\obj\x86\Debug\SerializableDemo6.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\obj\x86\Debug\SerializableDemo6.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\obj\x86\Debug\SerializableDemo6.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\obj\x86\Debug\SerializableDemo6.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\obj\x86\Debug\SerializableDemo6.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\bin\Debug\SerializableDemo6.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\001 - Сериализация объектов\SerializableDemo7\bin\Debug\SerializableDemo6.pdb

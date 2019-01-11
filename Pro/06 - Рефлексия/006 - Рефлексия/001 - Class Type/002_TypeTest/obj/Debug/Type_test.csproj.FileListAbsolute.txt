@@ -1,0 +1,25 @@
+D:\LESSONS STEP 1 GROUP\LESSON 014\002_Type_test\Type_test\obj\Debug\Type_test.exe
+D:\LESSONS STEP 1 GROUP\LESSON 014\002_Type_test\Type_test\obj\Debug\Type_test.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\Type_test.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\Type_test.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\001_TypeTest\Type_test\bin\Debug\Type_test.exe
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\001_TypeTest\Type_test\bin\Debug\Type_test.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\Type_test.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\Type_test.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\Type_test.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\Type_test.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\bin\Debug\Type_test.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\bin\Debug\Type_test.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\Type_test.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\Type_test.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\bin\Debug\Type_test.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\bin\Debug\Type_test.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\004_REFLECTION\001_TypeTest\Type_test\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\006_Reflection\001_TypeTest\Type_test\obj\Debug\Type_test.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\006_Reflection\001_TypeTest\Type_test\obj\Debug\Type_test.pdb
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\001_TypeTest\Type_test\obj\Debug\Type_test.exe
+D:\hDocuments\C# Courses\C# Professional\006_Reflection\001_TypeTest\Type_test\obj\Debug\Type_test.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006_Reflection\001_TypeTest\Type_test\obj\Debug\Type_test.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\006_Reflection\001_TypeTest\Type_test\obj\Debug\Type_test.pdb

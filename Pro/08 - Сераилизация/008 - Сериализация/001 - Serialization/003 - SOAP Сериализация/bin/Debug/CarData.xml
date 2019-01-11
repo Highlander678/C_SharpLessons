@@ -1,0 +1,15 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Mersedes id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializableWork/SerializableWork%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<mode>Lux</mode>
+<speed>250</speed>
+<name id="ref-3">G500</name>
+<radio href="#ref-4"/>
+<Car_x002B_speed>250</Car_x002B_speed>
+<Car_x002B_name href="#ref-3"/>
+<Car_x002B_radio href="#ref-4"/>
+</a1:Mersedes>
+<a1:Radio id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializableWork/SerializableWork%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Radio>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

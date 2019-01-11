@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ShoppingCatItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <productId>22</productId>
+  <price>50000</price>
+  <quantity>2</quantity>
+  <total>100000</total>
+</ShoppingCatItem>

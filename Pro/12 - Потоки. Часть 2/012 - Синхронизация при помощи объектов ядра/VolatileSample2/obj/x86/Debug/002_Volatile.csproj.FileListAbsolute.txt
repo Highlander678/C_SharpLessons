@@ -1,0 +1,8 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\VolatileSample2\obj\x86\Debug\VolatileSample2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\VolatileSample2\obj\x86\Debug\VolatileSample2.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample2\obj\x86\Debug\VolatileSample2.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample2\obj\x86\Debug\VolatileSample2.pdb
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample2\bin\Debug\VolatileSample2.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample2\bin\Debug\VolatileSample2.pdb
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample2\obj\x86\Debug\VolatileSample2.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample2\obj\x86\Debug\VolatileSample2.pdb

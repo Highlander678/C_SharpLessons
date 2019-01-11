@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Domains", "Domains\001_Domains.csproj", "{E450BB67-593B-45EA-9E0C-50231ACAB50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondAssembly_FOR_TEST", "SecondAssembly\SecondAssembly_FOR_TEST.csproj", "{F0DCE58A-C223-4D8B-956A-3458AAE37313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E450BB67-593B-45EA-9E0C-50231ACAB50E}.Debug|x86.ActiveCfg = Debug|x86
+		{E450BB67-593B-45EA-9E0C-50231ACAB50E}.Debug|x86.Build.0 = Debug|x86
+		{E450BB67-593B-45EA-9E0C-50231ACAB50E}.Release|x86.ActiveCfg = Release|x86
+		{E450BB67-593B-45EA-9E0C-50231ACAB50E}.Release|x86.Build.0 = Release|x86
+		{F0DCE58A-C223-4D8B-956A-3458AAE37313}.Debug|x86.ActiveCfg = Debug|x86
+		{F0DCE58A-C223-4D8B-956A-3458AAE37313}.Debug|x86.Build.0 = Debug|x86
+		{F0DCE58A-C223-4D8B-956A-3458AAE37313}.Release|x86.ActiveCfg = Release|x86
+		{F0DCE58A-C223-4D8B-956A-3458AAE37313}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

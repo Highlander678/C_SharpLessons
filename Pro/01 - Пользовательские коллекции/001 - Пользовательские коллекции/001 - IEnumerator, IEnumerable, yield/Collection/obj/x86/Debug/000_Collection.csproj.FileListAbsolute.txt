@@ -1,0 +1,10 @@
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\obj\x86\Debug\Collection.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\obj\x86\Debug\Collection.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\bin\Debug\Collection.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\bin\Debug\Collection.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\obj\x86\Debug\000_Collection.csprojResolveAssemblyReference.cache
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\obj\x86\Debug\Collection.exe
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\obj\x86\Debug\Collection.pdb
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\bin\Debug\Collection.exe
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\bin\Debug\Collection.pdb
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\Collection\obj\x86\Debug\000_Collection.csprojResolveAssemblyReference.cache

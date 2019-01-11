@@ -1,0 +1,5 @@
+D:\XML\XML10\bin\Debug\XML10.exe
+D:\XML\XML10\bin\Debug\XML10.pdb
+D:\XML\XML10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XML\XML10\obj\x86\Debug\XML10.exe
+D:\XML\XML10\obj\x86\Debug\XML10.pdb

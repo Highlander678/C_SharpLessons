@@ -1,0 +1,22 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.pdb
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.exe
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.pdb
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.exe
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.pdb
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.exe
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.pdb
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.exe
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\bin\Debug\11_Async_IsBackground.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.csprojResolveAssemblyReference.cache
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\11_Async_IsBackground\obj\x86\Debug\11_Async_IsBackground.pdb

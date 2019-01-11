@@ -1,0 +1,10 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\MutexSample\obj\x86\Debug\MutexSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\MutexSample\obj\x86\Debug\MutexSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\MutexSample\bin\Debug\MutexSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\MutexSample\bin\Debug\MutexSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\MutexSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\MutexSample\obj\x86\Debug\MutexSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\MutexSample\obj\x86\Debug\MutexSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\MutexSample\bin\Debug\MutexSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\MutexSample\bin\Debug\MutexSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\MutexSample\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.pdb

@@ -1,0 +1,4 @@
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\2_MutexSample\bin\Release\2_MutexSample.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\2_MutexSample\bin\Release\2_MutexSample.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\2_MutexSample\obj\x86\Release\2_MutexSample.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\2_MutexSample\obj\x86\Release\2_MutexSample.pdb

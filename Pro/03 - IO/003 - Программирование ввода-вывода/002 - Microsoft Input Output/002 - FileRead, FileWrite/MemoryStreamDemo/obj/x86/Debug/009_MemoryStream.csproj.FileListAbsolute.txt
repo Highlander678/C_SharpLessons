@@ -1,0 +1,15 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\bin\Debug\MemoryStreamDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\bin\Debug\MemoryStreamDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\bin\Debug\MemoryStreamDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\bin\Debug\MemoryStreamDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\002 - FileRead, FileWrite\MemoryStreamDemo\obj\x86\Debug\MemoryStreamDemo.pdb

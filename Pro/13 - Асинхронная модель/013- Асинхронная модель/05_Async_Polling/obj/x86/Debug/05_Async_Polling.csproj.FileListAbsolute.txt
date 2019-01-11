@@ -1,0 +1,39 @@
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\05_Async_Polling\bin\Debug\05_Async_Polling.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\05_Async_Polling\bin\Debug\05_Async_Polling.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\05_Async_Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\05_Async_Polling\bin\Debug\05_Async_Polling.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\05_Async_Polling\bin\Debug\05_Async_Polling.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\05_Async_Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\05_Async_Polling\bin\Debug\05_Async_Polling.exe
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\05_Async_Polling\bin\Debug\05_Async_Polling.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\05_Async_Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\05_Async_Polling\bin\Debug\05_Async_Polling.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\05_Async_Polling\bin\Debug\05_Async_Polling.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\05_Async_Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\bin\Debug\05_Async_Polling.exe
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\bin\Debug\05_Async_Polling.pdb
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\bin\Debug\05_Async_Polling.exe
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\bin\Debug\05_Async_Polling.pdb
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\bin\Debug\05_Async_Polling.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\bin\Debug\05_Async_Polling.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.csprojResolveAssemblyReference.cache
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\obj\x86\Debug\05_Async_Polling.pdb

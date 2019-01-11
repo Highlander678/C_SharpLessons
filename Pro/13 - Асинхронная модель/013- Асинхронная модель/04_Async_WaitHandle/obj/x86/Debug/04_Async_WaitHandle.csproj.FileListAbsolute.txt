@@ -1,0 +1,40 @@
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\04_Async_WaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\bin\Debug\04_Async_WaitHandle.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.csprojResolveAssemblyReference.cache
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\04_Async_WaitHandle\obj\x86\Debug\04_Async_WaitHandle.pdb

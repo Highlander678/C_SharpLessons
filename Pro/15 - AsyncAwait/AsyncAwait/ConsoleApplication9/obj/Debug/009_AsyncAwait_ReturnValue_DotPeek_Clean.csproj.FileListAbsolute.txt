@@ -1,0 +1,4 @@
+D:\AsyncAwait\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+D:\AsyncAwait\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+D:\AsyncAwait\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+D:\AsyncAwait\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

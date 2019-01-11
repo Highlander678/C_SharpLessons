@@ -1,0 +1,4 @@
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\bin\Release\09_FCL_Sample.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\bin\Release\09_FCL_Sample.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\obj\x86\Release\09_FCL_Sample.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\09_FCL_Sample\obj\x86\Release\09_FCL_Sample.pdb

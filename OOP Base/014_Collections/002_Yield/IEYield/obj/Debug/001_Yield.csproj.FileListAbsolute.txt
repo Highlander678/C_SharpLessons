@@ -32,3 +32,9 @@ C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\IEYield\obj\
 C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\IEYield\bin\Debug\IEYield.exe
 C:\Users\Alex CBS\Desktop\CS_Essential_RU\015_Collections\002_Yield\IEYield\bin\Debug\IEYield.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\015_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\IEYield\bin\Debug\IEYield.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\IEYield\bin\Debug\IEYield.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\IEYield\obj\Debug\001_Yield.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\IEYield\obj\Debug\001_Yield.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\IEYield\obj\Debug\IEYield.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\014_Collections\002_Yield\IEYield\obj\Debug\IEYield.pdb

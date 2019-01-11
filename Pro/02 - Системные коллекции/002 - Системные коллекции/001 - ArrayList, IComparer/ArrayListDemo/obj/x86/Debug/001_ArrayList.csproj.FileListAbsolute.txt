@@ -1,0 +1,53 @@
+D:\ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+D:\ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+D:\ArrayList\ArrayListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+D:\ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\001_Сбор_элементов_данных\001-004__ArrayList\ArrayListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\001_ArrayList.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\ArrayListDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\001 - ArrayList, IComparer\ArrayListDemo\obj\x86\Debug\001_ArrayList.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\bin\Release\GCBigObjects.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\bin\Release\GCBigObjects.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\obj\Release\GCBigObjects.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCBigObjects\obj\Release\GCBigObjects.pdb

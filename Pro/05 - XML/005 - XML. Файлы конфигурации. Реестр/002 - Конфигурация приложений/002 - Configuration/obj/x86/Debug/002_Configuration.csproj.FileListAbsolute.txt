@@ -1,0 +1,27 @@
+G:\hCBS\03 - C# Professional\002 - Конфигурация приложений\Configuration3\bin\Debug\Configuration3.exe.config
+G:\hCBS\03 - C# Professional\002 - Конфигурация приложений\Configuration3\obj\x86\Debug\Configuration3.exe
+G:\hCBS\03 - C# Professional\002 - Конфигурация приложений\Configuration3\obj\x86\Debug\Configuration3.pdb
+G:\hCBS\03 - C# Professional\002 - Конфигурация приложений\Configuration3\bin\Debug\Configuration3.exe
+G:\hCBS\03 - C# Professional\002 - Конфигурация приложений\Configuration3\bin\Debug\Configuration3.pdb
+G:\hCBS\03 - C# Professional\002 - Конфигурация приложений\Configuration3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\001 - Реестр и конфигурация приложений\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe.config
+G:\hCBS\03 - C# Professional\001 - Реестр и конфигурация приложений\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.exe
+G:\hCBS\03 - C# Professional\001 - Реестр и конфигурация приложений\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.pdb
+G:\hCBS\03 - C# Professional\001 - Реестр и конфигурация приложений\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe
+G:\hCBS\03 - C# Professional\001 - Реестр и конфигурация приложений\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.pdb
+G:\hCBS\03 - C# Professional\001 - Реестр и конфигурация приложений\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\[NOT READY YET]\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe.config
+G:\hCBS\03 - C# Professional\[NOT READY YET]\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe
+G:\hCBS\03 - C# Professional\[NOT READY YET]\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.pdb
+G:\hCBS\03 - C# Professional\[NOT READY YET]\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\[NOT READY YET]\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.exe
+G:\hCBS\03 - C# Professional\[NOT READY YET]\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe.config
+G:\hCBS\03 - C# Professional\003 - C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe.config
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\Configuration3.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\bin\Debug\Configuration3.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\002 - Конфигурация приложений\002 - Configuration\obj\x86\Debug\ResolveAssemblyReference.cache

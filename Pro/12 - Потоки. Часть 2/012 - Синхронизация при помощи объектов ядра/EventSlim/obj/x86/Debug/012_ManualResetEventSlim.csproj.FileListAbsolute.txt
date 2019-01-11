@@ -1,0 +1,4 @@
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\EventSlim\obj\x86\Debug\EventSlim.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\EventSlim\obj\x86\Debug\EventSlim.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\EventSlim\bin\Debug\EventSlim.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\EventSlim\bin\Debug\EventSlim.pdb

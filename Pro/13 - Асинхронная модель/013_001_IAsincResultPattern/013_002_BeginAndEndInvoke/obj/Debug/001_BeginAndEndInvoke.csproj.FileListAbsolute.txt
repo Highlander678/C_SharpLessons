@@ -1,0 +1,7 @@
+D:\BeginAndEndInvoke\bin\Debug\BeginAndEndInvoke.exe
+D:\BeginAndEndInvoke\bin\Debug\BeginAndEndInvoke.pdb
+D:\BeginAndEndInvoke\obj\Debug\001_BeginAndEndInvoke.csprojResolveAssemblyReference.cache
+D:\BeginAndEndInvoke\obj\Debug\BeginAndEndInvoke.exe
+D:\BeginAndEndInvoke\obj\Debug\BeginAndEndInvoke.pdb
+D:\CSProVideo\013 - Асинхронная модель\BeginAndEndInvoke\obj\Debug\BeginAndEndInvoke.exe
+D:\CSProVideo\013 - Асинхронная модель\BeginAndEndInvoke\obj\Debug\BeginAndEndInvoke.pdb

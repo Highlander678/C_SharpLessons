@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_ListGen", "ListGen\001_ListGen.csproj", "{280952C1-03A7-4FAD-877C-9030BDC402A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_QueueAndStackGens", "QueueAndStack\002_QueueAndStackGens.csproj", "{6194419C-4921-42DC-9E88-D9885E149F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_DictionaryGen", "DictionaryGen\003_DictionaryGen.csproj", "{99CE30AA-5EE7-42A2-BE2B-FBD2DCC22FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_SortedListGen", "SortedListGen\004_SortedListGen.csproj", "{781554A9-2F72-431F-9DA5-A9A861BE04C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_SortedDictionaryGen", "SortedDictionaryGen\005_SortedDictionaryGen.csproj", "{11273A80-B43A-42D9-BECD-9EF40CAFB368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_LinkedListGen", "LinkedListGen\006_LinkedListGen.csproj", "{3CECB6BD-C739-4053-8AE7-2124E13E67FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280952C1-03A7-4FAD-877C-9030BDC402A3}.Debug|x86.ActiveCfg = Debug|x86
+		{280952C1-03A7-4FAD-877C-9030BDC402A3}.Debug|x86.Build.0 = Debug|x86
+		{280952C1-03A7-4FAD-877C-9030BDC402A3}.Release|x86.ActiveCfg = Release|x86
+		{280952C1-03A7-4FAD-877C-9030BDC402A3}.Release|x86.Build.0 = Release|x86
+		{6194419C-4921-42DC-9E88-D9885E149F84}.Debug|x86.ActiveCfg = Debug|x86
+		{6194419C-4921-42DC-9E88-D9885E149F84}.Debug|x86.Build.0 = Debug|x86
+		{6194419C-4921-42DC-9E88-D9885E149F84}.Release|x86.ActiveCfg = Release|x86
+		{6194419C-4921-42DC-9E88-D9885E149F84}.Release|x86.Build.0 = Release|x86
+		{99CE30AA-5EE7-42A2-BE2B-FBD2DCC22FA0}.Debug|x86.ActiveCfg = Debug|x86
+		{99CE30AA-5EE7-42A2-BE2B-FBD2DCC22FA0}.Debug|x86.Build.0 = Debug|x86
+		{99CE30AA-5EE7-42A2-BE2B-FBD2DCC22FA0}.Release|x86.ActiveCfg = Release|x86
+		{99CE30AA-5EE7-42A2-BE2B-FBD2DCC22FA0}.Release|x86.Build.0 = Release|x86
+		{781554A9-2F72-431F-9DA5-A9A861BE04C3}.Debug|x86.ActiveCfg = Debug|x86
+		{781554A9-2F72-431F-9DA5-A9A861BE04C3}.Debug|x86.Build.0 = Debug|x86
+		{781554A9-2F72-431F-9DA5-A9A861BE04C3}.Release|x86.ActiveCfg = Release|x86
+		{781554A9-2F72-431F-9DA5-A9A861BE04C3}.Release|x86.Build.0 = Release|x86
+		{11273A80-B43A-42D9-BECD-9EF40CAFB368}.Debug|x86.ActiveCfg = Debug|x86
+		{11273A80-B43A-42D9-BECD-9EF40CAFB368}.Debug|x86.Build.0 = Debug|x86
+		{11273A80-B43A-42D9-BECD-9EF40CAFB368}.Release|x86.ActiveCfg = Release|x86
+		{11273A80-B43A-42D9-BECD-9EF40CAFB368}.Release|x86.Build.0 = Release|x86
+		{3CECB6BD-C739-4053-8AE7-2124E13E67FE}.Debug|x86.ActiveCfg = Debug|x86
+		{3CECB6BD-C739-4053-8AE7-2124E13E67FE}.Debug|x86.Build.0 = Debug|x86
+		{3CECB6BD-C739-4053-8AE7-2124E13E67FE}.Release|x86.ActiveCfg = Release|x86
+		{3CECB6BD-C739-4053-8AE7-2124E13E67FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

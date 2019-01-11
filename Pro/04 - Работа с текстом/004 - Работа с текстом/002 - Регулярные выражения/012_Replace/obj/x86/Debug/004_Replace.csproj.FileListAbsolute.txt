@@ -1,0 +1,24 @@
+D:\RegularExpressions\Replace\bin\Debug\Replace.exe
+D:\RegularExpressions\Replace\bin\Debug\Replace.pdb
+D:\RegularExpressions\Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RegularExpressions\Replace\obj\x86\Debug\Replace.exe
+D:\RegularExpressions\Replace\obj\x86\Debug\Replace.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\Replace.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\Replace.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\bin\Debug\Replace.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\bin\Debug\Replace.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\Replace.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\Replace.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\bin\Debug\Replace.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\bin\Debug\Replace.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\Replace.exe
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\Replace.pdb
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\bin\Debug\Replace.exe
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\bin\Debug\Replace.pdb
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\[C#]\002 - C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\Replace.exe
+D:\hDocuments\C# Courses\[C#]\002 - C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\Replace\obj\x86\Debug\Replace.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\011_Replace\obj\x86\Debug\Replace.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\011_Replace\obj\x86\Debug\Replace.pdb

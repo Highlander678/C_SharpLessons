@@ -1,0 +1,49 @@
+D:\Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\OrderDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\011_OrderDictionary.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\011_OrderDictionary.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\bin\Debug\OrderDictionaryDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\011_OrderDictionary.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\OrderDictionaryDemo\obj\x86\Debug\OrderDictionaryDemo.pdb

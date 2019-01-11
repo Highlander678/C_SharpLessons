@@ -1,0 +1,1 @@
+D:\AsyncAwait\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config

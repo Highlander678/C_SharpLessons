@@ -1,0 +1,9 @@
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\obj\Debug\012_RS232Event.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

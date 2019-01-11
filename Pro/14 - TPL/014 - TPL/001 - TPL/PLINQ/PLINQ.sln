@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_PLINQ", "PLINQ\001_PLINQ.csproj", "{A6D8E721-CA81-4E9B-B69D-893A8B0F1F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_PLINQ", "PLINQ2\002_PLINQ.csproj", "{7CD5FC0B-6E86-4D26-AFDC-383CD3C11248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_PLINQ", "PLINQ3\003_PLINQ.csproj", "{F92F47D2-4030-40CF-86B7-62DF7CF059AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D8E721-CA81-4E9B-B69D-893A8B0F1F81}.Debug|x86.ActiveCfg = Debug|x86
+		{A6D8E721-CA81-4E9B-B69D-893A8B0F1F81}.Debug|x86.Build.0 = Debug|x86
+		{A6D8E721-CA81-4E9B-B69D-893A8B0F1F81}.Release|x86.ActiveCfg = Release|x86
+		{A6D8E721-CA81-4E9B-B69D-893A8B0F1F81}.Release|x86.Build.0 = Release|x86
+		{7CD5FC0B-6E86-4D26-AFDC-383CD3C11248}.Debug|x86.ActiveCfg = Debug|x86
+		{7CD5FC0B-6E86-4D26-AFDC-383CD3C11248}.Debug|x86.Build.0 = Debug|x86
+		{7CD5FC0B-6E86-4D26-AFDC-383CD3C11248}.Release|x86.ActiveCfg = Release|x86
+		{7CD5FC0B-6E86-4D26-AFDC-383CD3C11248}.Release|x86.Build.0 = Release|x86
+		{F92F47D2-4030-40CF-86B7-62DF7CF059AD}.Debug|x86.ActiveCfg = Debug|x86
+		{F92F47D2-4030-40CF-86B7-62DF7CF059AD}.Debug|x86.Build.0 = Debug|x86
+		{F92F47D2-4030-40CF-86B7-62DF7CF059AD}.Release|x86.ActiveCfg = Release|x86
+		{F92F47D2-4030-40CF-86B7-62DF7CF059AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

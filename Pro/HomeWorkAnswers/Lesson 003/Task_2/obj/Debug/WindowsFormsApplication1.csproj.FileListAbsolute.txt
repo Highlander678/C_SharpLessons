@@ -1,0 +1,9 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

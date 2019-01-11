@@ -26,8 +26,8 @@ namespace Exceptions
         {
             try
             {
-                //throw new Exception("Exception");
-                throw new MyExceptionA("MyExceptionA");
+                throw new Exception("Exception");
+               // throw new MyExceptionA("MyExceptionA");
                 //throw new MyExceptionB("MyExceptionB");
             }
             catch (MyExceptionB e)

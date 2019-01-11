@@ -1,0 +1,12 @@
+D:\SettingsConfigurations\Configuration3\bin\Debug\Configuration3.exe.config
+D:\SettingsConfigurations\Configuration3\bin\Debug\Configuration3.exe
+D:\SettingsConfigurations\Configuration3\bin\Debug\Configuration3.pdb
+D:\SettingsConfigurations\Configuration3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SettingsConfigurations\Configuration3\obj\x86\Debug\Configuration3.exe
+D:\SettingsConfigurations\Configuration3\obj\x86\Debug\Configuration3.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration3\bin\Debug\Configuration3.exe.config
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration3\obj\x86\Debug\Configuration3.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration3\obj\x86\Debug\Configuration3.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration3\bin\Debug\Configuration3.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration3\bin\Debug\Configuration3.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration3\obj\x86\Debug\ResolveAssemblyReference.cache

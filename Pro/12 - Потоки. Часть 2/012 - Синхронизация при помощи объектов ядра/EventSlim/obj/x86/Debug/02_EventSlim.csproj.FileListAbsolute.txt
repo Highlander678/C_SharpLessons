@@ -1,0 +1,12 @@
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\EventSlim.exe
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\EventSlim.pdb
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\bin\Debug\EventSlim.exe
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\bin\Debug\EventSlim.pdb
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\EventSlim.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\EventSlim.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\bin\Debug\EventSlim.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\bin\Debug\EventSlim.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\EventSlim\obj\x86\Debug\EventSlim.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\EventSlim\obj\x86\Debug\EventSlim.pdb

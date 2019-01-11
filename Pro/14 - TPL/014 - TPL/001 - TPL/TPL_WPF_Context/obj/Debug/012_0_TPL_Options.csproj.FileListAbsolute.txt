@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL_WPF_Context\bin\Debug\TPL_WPF_Context.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL_WPF_Context\bin\Debug\TPL_WPF_Context.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL_WPF_Context\obj\Debug\TPL_WPF_Context.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL_WPF_Context\obj\Debug\TPL_WPF_Context.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL_WPF_Context\obj\Debug\012_0_TPL_Options.csprojResolveAssemblyReference.cache

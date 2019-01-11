@@ -1,0 +1,4 @@
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\02_Async\obj\x86\Debug\02_Async.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\02_Async\obj\x86\Debug\02_Async.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\02_Async\bin\Debug\02_Async.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\02_Async\bin\Debug\02_Async.pdb

@@ -1,0 +1,5 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\obj\Debug\001_GarbageCollector.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\bin\Debug\DriveInfoDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\bin\Debug\DriveInfoDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\DriveInfoDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\DriveInfoDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\DriveInfoDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\DriveInfoDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\bin\Debug\DriveInfoDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\bin\Debug\DriveInfoDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\DriveInfoDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\DriveInfoDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\bin\Debug\DriveInfoDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\bin\Debug\DriveInfoDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\DriveInfoDemo\obj\x86\Debug\004_DriveInfoDemo.csprojResolveAssemblyReference.cache

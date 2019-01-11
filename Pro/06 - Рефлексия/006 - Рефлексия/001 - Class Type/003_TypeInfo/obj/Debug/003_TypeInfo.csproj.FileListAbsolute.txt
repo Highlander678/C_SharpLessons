@@ -1,0 +1,18 @@
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.exe.config
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.exe
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.pdb
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.exe
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.pdb
+C:\Cources\C# Professional\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.exe.config
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.csprojResolveAssemblyReference.cache
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.exe.config
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.exe
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.pdb
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.exe
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\bin\Debug\003_TypeInfo.pdb
+D:\CSProVideo\006 - Рефлексия\006 - Рефлексия\001 - Class Type\003_TypeInfo\obj\Debug\003_TypeInfo.csprojResolveAssemblyReference.cache

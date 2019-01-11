@@ -1,0 +1,18 @@
+C:\Users\Dmitriy\Desktop\Lesson 002\Task_4\bin\Debug\Task_4.exe.config
+C:\Users\Dmitriy\Desktop\Lesson 002\Task_4\bin\Debug\Task_4.exe
+C:\Users\Dmitriy\Desktop\Lesson 002\Task_4\bin\Debug\Task_4.pdb
+C:\Users\Dmitriy\Desktop\Lesson 002\Task_4\obj\Debug\Task_4.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Lesson 002\Task_4\obj\Debug\Task_4.exe
+C:\Users\Dmitriy\Desktop\Lesson 002\Task_4\obj\Debug\Task_4.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 002\Task_4\bin\Debug\Task_4.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 002\Task_4\obj\Debug\Task_4.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 002\Task_4\obj\Debug\Task_4.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 002\Task_4\bin\Debug\Task_4.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 002\Task_4\bin\Debug\Task_4.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 002\Task_4\obj\Debug\Task_4.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 002\Task_4\bin\Debug\Task_4.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 002\Task_4\obj\Debug\Task_4.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 002\Task_4\obj\Debug\Task_4.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 002\Task_4\bin\Debug\Task_4.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 002\Task_4\bin\Debug\Task_4.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 002\Task_4\obj\Debug\Task_4.csprojResolveAssemblyReference.cache

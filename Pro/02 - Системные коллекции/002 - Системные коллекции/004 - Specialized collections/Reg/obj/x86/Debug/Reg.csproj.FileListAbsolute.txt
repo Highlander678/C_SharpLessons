@@ -1,0 +1,5 @@
+D:\BitArrayDemo\Reg\bin\Debug\Reg.exe
+D:\BitArrayDemo\Reg\bin\Debug\Reg.pdb
+D:\BitArrayDemo\Reg\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BitArrayDemo\Reg\obj\x86\Debug\Reg.exe
+D:\BitArrayDemo\Reg\obj\x86\Debug\Reg.pdb

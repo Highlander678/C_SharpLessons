@@ -1,0 +1,10 @@
+<ListOfBooks>
+  <Book>
+    <Title FontSize ="8">Title-1</Title>
+    <Price>50</Price>
+  </Book>
+  <Book>
+    <Title FontSize ="15340">Title-2</Title>
+    <Price>150</Price>
+  </Book>
+</ListOfBooks>

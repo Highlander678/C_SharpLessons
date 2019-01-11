@@ -1,0 +1,9 @@
+D:\AsyncAwait\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\AsyncAwait\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\AsyncAwait\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\AsyncAwait\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication4\obj\Debug\004_AsyncAwait.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\alex\documents\visual studio 2013\Projects\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csprojResolveAssemblyReference.cache
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.pdb

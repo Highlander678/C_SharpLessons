@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Thread_Join", "ThreadSample\001_Thread_Join.csproj", "{FD451FEE-25BF-4DA9-8295-B54828F116C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Thread_Join", "ThreadSampleJoin\002_Thread_Join.csproj", "{836AF1C7-AD18-4627-AAED-359E81D78B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Thread", "ThreadSampleMul\003_Thread.csproj", "{8BC04D6E-A54A-44D5-A36A-5885FFB684C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD451FEE-25BF-4DA9-8295-B54828F116C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD451FEE-25BF-4DA9-8295-B54828F116C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD451FEE-25BF-4DA9-8295-B54828F116C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD451FEE-25BF-4DA9-8295-B54828F116C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836AF1C7-AD18-4627-AAED-359E81D78B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836AF1C7-AD18-4627-AAED-359E81D78B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836AF1C7-AD18-4627-AAED-359E81D78B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836AF1C7-AD18-4627-AAED-359E81D78B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC04D6E-A54A-44D5-A36A-5885FFB684C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC04D6E-A54A-44D5-A36A-5885FFB684C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC04D6E-A54A-44D5-A36A-5885FFB684C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC04D6E-A54A-44D5-A36A-5885FFB684C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

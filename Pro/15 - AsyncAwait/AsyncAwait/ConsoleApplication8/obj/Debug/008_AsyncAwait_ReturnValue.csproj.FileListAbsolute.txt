@@ -1,0 +1,5 @@
+D:\AsyncAwait\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+D:\AsyncAwait\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+D:\AsyncAwait\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+D:\AsyncAwait\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+D:\AsyncAwait\ConsoleApplication8\obj\Debug\008_AsyncAwait_ReturnValue.csprojResolveAssemblyReference.cache

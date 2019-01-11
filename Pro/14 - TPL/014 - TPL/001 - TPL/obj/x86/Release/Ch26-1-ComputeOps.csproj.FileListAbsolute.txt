@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\obj\x86\Release\Ch26-1-ComputeOps.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\bin\Release\Ch26-1-ComputeOps.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\bin\Release\Ch26-1-ComputeOps.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\obj\x86\Release\Ch26-1-ComputeOps.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\obj\x86\Release\Ch26-1-ComputeOps.pdb

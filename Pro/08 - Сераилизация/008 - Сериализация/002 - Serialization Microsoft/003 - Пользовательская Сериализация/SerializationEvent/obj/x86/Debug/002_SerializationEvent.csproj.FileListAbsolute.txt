@@ -1,0 +1,16 @@
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\SerializationEvent.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\SerializationEvent.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\SerializationEvent.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\SerializationEvent.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\bin\Debug\SerializationEvent.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\bin\Debug\SerializationEvent.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\bin\Debug\SerializationEvent.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\bin\Debug\SerializationEvent.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\002_SerializationEvent.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\SerializationEvent.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\SerializationEvent.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\SerializationEvent.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\SerializationEvent.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\bin\Debug\SerializationEvent.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\bin\Debug\SerializationEvent.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\SerializationEvent\obj\x86\Debug\002_SerializationEvent.csprojResolveAssemblyReference.cache

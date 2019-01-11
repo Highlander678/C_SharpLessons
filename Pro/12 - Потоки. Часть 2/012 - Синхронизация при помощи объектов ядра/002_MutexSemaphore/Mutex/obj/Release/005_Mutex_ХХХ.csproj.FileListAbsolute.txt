@@ -1,0 +1,2 @@
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Mutex\obj\Release\ConsoleApplication1.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\002_MutexSemaphore\Mutex\obj\Release\ConsoleApplication1.pdb

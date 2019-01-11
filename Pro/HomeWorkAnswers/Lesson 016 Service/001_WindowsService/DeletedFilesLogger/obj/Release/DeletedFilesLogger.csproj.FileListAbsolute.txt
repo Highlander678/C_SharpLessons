@@ -1,0 +1,30 @@
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\bin\Release\DeletedFilesLogger.exe.config
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\bin\Release\DeletedFilesLogger.exe
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\bin\Release\DeletedFilesLogger.pdb
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\MainWindow.baml
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\MainWindow.g.cs
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\App.g.cs
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger_MarkupCompile.cache
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.g.resources
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.Properties.Resources.resources
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.csproj.GenerateResource.Cache
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.exe
+G:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\bin\Release\DeletedFilesLogger.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\bin\Release\DeletedFilesLogger.exe
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\bin\Release\DeletedFilesLogger.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\MainWindow.baml
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\MainWindow.g.cs
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\App.g.cs
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger_MarkupCompile.cache
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.g.resources
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.Properties.Resources.resources
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.csproj.GenerateResource.Cache
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.exe
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\001_WindowsService\DeletedFilesLogger\bin\Release\DeletedFilesLogger.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\new\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017 Service\001_WindowsService\DeletedFilesLogger\bin\Release\DeletedFilesLogger.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017 Service\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 017 Service\001_WindowsService\DeletedFilesLogger\obj\Release\DeletedFilesLogger.pdb

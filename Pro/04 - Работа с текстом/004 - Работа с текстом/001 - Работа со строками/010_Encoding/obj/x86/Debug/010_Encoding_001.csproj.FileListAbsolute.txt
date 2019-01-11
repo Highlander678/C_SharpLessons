@@ -1,0 +1,37 @@
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\010_Encoding\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.exe
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.exe
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\010_Encoding_001.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\010_Encoding_001.csprojResolveAssemblyReference.cache
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\008_Encoding.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\bin\Debug\008_Encoding.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\010_Encoding\obj\x86\Debug\010_Encoding_001.csprojResolveAssemblyReference.cache

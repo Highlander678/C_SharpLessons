@@ -1,0 +1,13 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL15\bin\Release\TPL15.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL15\bin\Release\TPL15.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL15\obj\x86\Release\TPL15.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL15\obj\x86\Release\TPL15.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL15\obj\x86\Release\TPL15.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL15\obj\x86\Release\TPL15.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL15\bin\Release\TPL15.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL15\bin\Release\TPL15.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL15\obj\x86\Release\TPL15.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL15\obj\x86\Release\TPL15.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL15\bin\Release\TPL15.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL15\bin\Release\TPL15.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL15\obj\x86\Release\015_Parallel.For.csprojResolveAssemblyReference.cache

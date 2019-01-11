@@ -1,0 +1,59 @@
+D:\Dictionary\SortedListDemo\bin\Debug\SortedListDemo.exe
+D:\Dictionary\SortedListDemo\bin\Debug\SortedListDemo.pdb
+D:\Dictionary\SortedListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+D:\Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\bin\Debug\SortedListDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\bin\Debug\SortedListDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\bin\Debug\SortedListDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\bin\Debug\SortedListDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\bin\Debug\SortedListDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\bin\Debug\SortedListDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\007_SortedList.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\007_SortedList.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\007_SortedList.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\007_SortedList.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\bin\Debug\SortedListDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\007_SortedList.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\SortedListDemo\obj\x86\Debug\SortedListDemo.pdb

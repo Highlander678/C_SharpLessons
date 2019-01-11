@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<MyButton xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SerialID="button" Length="10">
+  <Pos>
+    <X>20</X>
+    <Y>30</Y>
+  </Pos>
+  <List>
+    <Element>Element 0</Element>
+    <Element>Element 1</Element>
+    <Element>Element 2</Element>
+    <Element>Element 3</Element>
+    <Element>Element 4</Element>
+    <Element>Element 5</Element>
+    <Element>Element 6</Element>
+    <Element>Element 7</Element>
+    <Element>Element 8</Element>
+    <Element>Element 9</Element>
+  </List>
+</MyButton>

@@ -21,3 +21,9 @@ D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\C
 D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
 D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ResolveAssemblyReference.cache
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\005_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\006_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\006_Conversion\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\006_Conversion\ConsoleApplication2\obj\Debug\002_Implicit.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\006_Conversion\ConsoleApplication2\obj\Debug\002_Implicit.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\006_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\006_Conversion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,7 @@
+D:\AsyncAwait\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+D:\AsyncAwait\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication8\obj\Debug\008_Task_ReturnValue.csprojResolveAssemblyReference.cache

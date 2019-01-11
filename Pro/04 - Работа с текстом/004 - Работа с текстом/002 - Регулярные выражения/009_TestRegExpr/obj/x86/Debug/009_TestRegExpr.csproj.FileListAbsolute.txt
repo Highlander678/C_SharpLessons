@@ -1,0 +1,23 @@
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_TestRegExpr\bin\Debug\TestRegExpr.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_TestRegExpr\bin\Debug\TestRegExpr.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+G:\hCBS\03 - C# Professional\[NOT READY YET]\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\bin\Debug\TestRegExpr.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\bin\Debug\TestRegExpr.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\bin\Debug\TestRegExpr.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\bin\Debug\TestRegExpr.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\009_TestRegExpr\obj\x86\Debug\TestRegExpr.pdb

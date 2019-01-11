@@ -32,7 +32,7 @@ namespace Threads
             }
 
             // Завершить работу вторичного потока
-            //thread.IsBackground = true;
+            thread.IsBackground = true;
         }
     }
 }

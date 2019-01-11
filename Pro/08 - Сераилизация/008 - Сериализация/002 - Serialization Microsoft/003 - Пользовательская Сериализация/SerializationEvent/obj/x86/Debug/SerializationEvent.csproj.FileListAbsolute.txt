@@ -1,0 +1,5 @@
+D:\CustomSerialization\SerializationEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CustomSerialization\SerializationEvent\bin\Debug\SerializationEvent.exe
+D:\CustomSerialization\SerializationEvent\bin\Debug\SerializationEvent.pdb
+D:\CustomSerialization\SerializationEvent\obj\x86\Debug\SerializationEvent.exe
+D:\CustomSerialization\SerializationEvent\obj\x86\Debug\SerializationEvent.pdb

@@ -1,0 +1,4 @@
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\bin\Debug\3_RegistredWaitHandle.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\bin\Debug\3_RegistredWaitHandle.pdb

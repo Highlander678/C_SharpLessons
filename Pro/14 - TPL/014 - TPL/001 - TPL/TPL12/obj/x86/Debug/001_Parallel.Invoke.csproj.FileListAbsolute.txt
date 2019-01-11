@@ -1,0 +1,5 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL12\bin\Debug\TPL12.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL12\bin\Debug\TPL12.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL12\obj\x86\Debug\001_Parallel.Invoke.csprojResolveAssemblyReference.cache
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL12\obj\x86\Debug\TPL12.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL12\obj\x86\Debug\TPL12.pdb

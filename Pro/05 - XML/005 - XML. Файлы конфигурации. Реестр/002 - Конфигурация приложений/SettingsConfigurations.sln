@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Configuration", "002 - Configuration\001_Configuration.csproj", "{B91F7676-CC42-41AB-BE45-26B2BE52AE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Configuration", "003 - Configuration\002_Configuration.csproj", "{25532A39-50A7-4031-8BD2-F1FECCB62BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfPlacingWindow", "SelfPlacingWindow\SelfPlacingWindow.csproj", "{0A652F6F-19FA-4191-8C09-1E97BAF3FE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91F7676-CC42-41AB-BE45-26B2BE52AE52}.Debug|x86.ActiveCfg = Debug|x86
+		{B91F7676-CC42-41AB-BE45-26B2BE52AE52}.Debug|x86.Build.0 = Debug|x86
+		{B91F7676-CC42-41AB-BE45-26B2BE52AE52}.Release|x86.ActiveCfg = Release|x86
+		{B91F7676-CC42-41AB-BE45-26B2BE52AE52}.Release|x86.Build.0 = Release|x86
+		{25532A39-50A7-4031-8BD2-F1FECCB62BAB}.Debug|x86.ActiveCfg = Debug|x86
+		{25532A39-50A7-4031-8BD2-F1FECCB62BAB}.Debug|x86.Build.0 = Debug|x86
+		{25532A39-50A7-4031-8BD2-F1FECCB62BAB}.Release|x86.ActiveCfg = Release|x86
+		{25532A39-50A7-4031-8BD2-F1FECCB62BAB}.Release|x86.Build.0 = Release|x86
+		{0A652F6F-19FA-4191-8C09-1E97BAF3FE60}.Debug|x86.ActiveCfg = Debug|x86
+		{0A652F6F-19FA-4191-8C09-1E97BAF3FE60}.Debug|x86.Build.0 = Debug|x86
+		{0A652F6F-19FA-4191-8C09-1E97BAF3FE60}.Release|x86.ActiveCfg = Release|x86
+		{0A652F6F-19FA-4191-8C09-1E97BAF3FE60}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

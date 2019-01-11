@@ -1,0 +1,8 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\bin\Release\AdditionTask.exe.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\bin\Release\AdditionTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\bin\Release\AdditionTask.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Release\AdditionTask.Form1.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Release\AdditionTask.Properties.Resources.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Release\AdditionTask.csproj.GenerateResource.Cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Release\AdditionTask.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 017\AdditionTask\obj\Release\AdditionTask.pdb

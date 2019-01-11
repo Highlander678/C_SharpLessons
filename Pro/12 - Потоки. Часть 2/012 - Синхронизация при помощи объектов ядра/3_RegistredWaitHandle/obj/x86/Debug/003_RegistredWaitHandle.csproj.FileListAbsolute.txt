@@ -1,0 +1,10 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\3_RegistredWaitHandle\bin\Debug\3_RegistredWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\3_RegistredWaitHandle\bin\Debug\3_RegistredWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\3_RegistredWaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\3_RegistredWaitHandle\bin\Debug\3_RegistredWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\3_RegistredWaitHandle\bin\Debug\3_RegistredWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache

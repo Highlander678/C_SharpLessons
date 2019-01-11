@@ -1,0 +1,17 @@
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\011_Replace\obj\x86\Debug\Replace.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\011_Replace\obj\x86\Debug\Replace.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\012_Replace\obj\x86\Debug\Replace.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\012_Replace\obj\x86\Debug\Replace.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\012_Replace\bin\Debug\Replace.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\012_Replace\bin\Debug\Replace.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\012_Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\bin\Debug\Replace.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\bin\Debug\Replace.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\obj\x86\Debug\Replace.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\obj\x86\Debug\Replace.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\bin\Debug\Replace.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\bin\Debug\Replace.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\obj\x86\Debug\Replace.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\002 - Регулярные выражения\012_Replace\obj\x86\Debug\Replace.pdb

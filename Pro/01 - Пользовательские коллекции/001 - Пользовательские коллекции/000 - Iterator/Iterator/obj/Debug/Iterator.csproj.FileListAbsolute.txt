@@ -1,0 +1,48 @@
+D:\Iterator\Iterator\bin\Debug\Iterator.exe
+D:\Iterator\Iterator\bin\Debug\Iterator.pdb
+D:\Iterator\Iterator\obj\Debug\ResolveAssemblyReference.cache
+D:\Iterator\Iterator\obj\Debug\Iterator.exe
+D:\Iterator\Iterator\obj\Debug\Iterator.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\016_Iterator\001_Iterator\Iterator\obj\Debug\Iterator.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\016_Iterator\001_Iterator\Iterator\obj\Debug\Iterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\016_Iterator\001_Iterator\Iterator\obj\Debug\Iterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\016_Iterator\001_Iterator\Iterator\obj\Debug\Iterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\016_Iterator\001_Iterator\Iterator\bin\Debug\Iterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\016_Iterator\001_Iterator\Iterator\bin\Debug\Iterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\016_Iterator\001_Iterator\Iterator\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\Iterator\Iterator\obj\Debug\Iterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\Iterator\Iterator\obj\Debug\Iterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\Iterator\Iterator\bin\Debug\Iterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\Iterator\Iterator\bin\Debug\Iterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\Iterator\Iterator\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\Iterator\Iterator\obj\Debug\Iterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\Iterator\Iterator\obj\Debug\Iterator.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\Iterator\Iterator\obj\Debug\Iterator.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\001_Collections\Iterator\Iterator\obj\Debug\Iterator.pdb
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - Iterator\Iterator\obj\Debug\Iterator.exe
+G:\hCBS\03 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - Iterator\Iterator\obj\Debug\Iterator.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - Iterator\Iterator\obj\Debug\Iterator.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - Iterator\Iterator\obj\Debug\Iterator.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - Iterator\Iterator\obj\Debug\Iterator.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - Iterator\Iterator\obj\Debug\Iterator.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\003 - Iterator\Iterator\obj\Debug\Iterator.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - Iterator\Iterator\obj\Debug\Iterator.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.exe
+D:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\bin\Debug\Iterator.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\bin\Debug\Iterator.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.exe
+D:\CSProVideo\001 - Пользовательские коллекции\001 - Пользовательские коллекции\000 - Iterator\Iterator\obj\Debug\Iterator.pdb

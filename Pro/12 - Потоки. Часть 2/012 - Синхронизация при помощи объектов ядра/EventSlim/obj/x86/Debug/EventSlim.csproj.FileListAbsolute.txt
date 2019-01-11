@@ -1,0 +1,5 @@
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\bin\Debug\EventSlim.exe
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\bin\Debug\EventSlim.pdb
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\EventSlim.exe
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\EventSlim\obj\x86\Debug\EventSlim.pdb

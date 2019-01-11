@@ -1,0 +1,4 @@
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Release\1_EventWaitHandle.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\obj\x86\Release\1_EventWaitHandle.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\bin\Release\1_EventWaitHandle.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\1_EventWaitHandle\bin\Release\1_EventWaitHandle.pdb

@@ -6,3 +6,8 @@ D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads5\b
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads5\bin\Release\Threads5.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads5\obj\x86\Release\Threads5.exe
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\014_Threads\001_Threads\Threads5\obj\x86\Release\Threads5.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads5\bin\Release\Threads5.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads5\bin\Release\Threads5.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads5\obj\x86\Release\005_Threads.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads5\obj\x86\Release\Threads5.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\013_Threads\001_Threads\Threads5\obj\x86\Release\Threads5.pdb

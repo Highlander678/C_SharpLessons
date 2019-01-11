@@ -1,0 +1,36 @@
+D:\BitArrayDemo\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.exe
+D:\BitArrayDemo\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.pdb
+D:\BitArrayDemo\StringDictionaryDemo6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BitArrayDemo\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.exe
+D:\BitArrayDemo\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\004_Применение_специализированных_наборов\001-010_Specialized\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\bin\Debug\StringDictionaryDemo6.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\004 - Specialized collections\StringDictionaryDemo6\obj\x86\Debug\StringDictionaryDemo6.pdb

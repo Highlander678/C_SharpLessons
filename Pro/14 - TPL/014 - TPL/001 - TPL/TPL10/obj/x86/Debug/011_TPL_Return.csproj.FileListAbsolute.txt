@@ -1,0 +1,5 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL10\obj\x86\Debug\TPL10.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL10\obj\x86\Debug\TPL10.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL10\bin\Debug\TPL10.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL10\bin\Debug\TPL10.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL10\obj\x86\Debug\011_TPL_Return.csprojResolveAssemblyReference.cache

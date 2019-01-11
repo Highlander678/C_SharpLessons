@@ -18,3 +18,9 @@ d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential old\0
 D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.exe
 D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\018_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\017_Linq\001_Anonymous\Anonymous2\bin\Debug\Anonymous2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\017_Linq\001_Anonymous\Anonymous2\bin\Debug\Anonymous2.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\017_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\002_Anonymous.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\017_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\002_Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\017_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\017_Linq\001_Anonymous\Anonymous2\obj\x86\Debug\Anonymous2.pdb

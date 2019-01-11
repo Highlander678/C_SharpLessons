@@ -1,0 +1,50 @@
+D:\SerializationXML\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+D:\SerializationXML\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+D:\SerializationXML\SerializationDataSet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SerializationXML\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+D:\SerializationXML\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\005_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\005_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\005_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\005_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\005_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\008_Serialization\70-536_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\008_Serialization\70-536_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\008_Serialization\70-536_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\008_Serialization\70-536_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\008_Serialization\70-536_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008_Serialization\70-536_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008_Serialization\70-536_Сериализация\002_Сериализация_XML\001-005_SerializationXML\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\002 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\002 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Сериализация Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\005_SerializationDataSet.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\SerializationDataSet.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\bin\Debug\SerializationDataSet.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\002 - XML Сериализация\SerializationDataSet\obj\x86\Debug\005_SerializationDataSet.csprojResolveAssemblyReference.cache

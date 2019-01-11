@@ -1,0 +1,7 @@
+D:\Work\Lessons\C# Professional v3\Потоки\Конструкции пользовательского режима\VolatileSample\VolatileSample\obj\x86\Release\VolatileSample.exe
+D:\Work\Lessons\C# Professional v3\Потоки\Конструкции пользовательского режима\VolatileSample\VolatileSample\obj\x86\Release\VolatileSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\01_Конструкции пользовательского режима\01_VolatileSample\VolatileSample\obj\x86\Release\VolatileSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\01_Конструкции пользовательского режима\01_VolatileSample\VolatileSample\obj\x86\Release\VolatileSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\01_Конструкции пользовательского режима\01_VolatileSample\VolatileSample\bin\Release\VolatileSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\01_Конструкции пользовательского режима\01_VolatileSample\VolatileSample\bin\Release\VolatileSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\01_Конструкции пользовательского режима\01_VolatileSample\VolatileSample\obj\x86\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.exe
+D:\002_AsyncAwaitSml\obj\Debug\002_AsyncAwaitSml.pdb
+D:\AsyncAwait\obj\Debug\002_AsyncAwaitSml.exe
+D:\AsyncAwait\obj\Debug\002_AsyncAwaitSml.pdb
+D:\AsyncAwait\bin\Debug\002_AsyncAwaitSml.exe
+D:\AsyncAwait\bin\Debug\002_AsyncAwaitSml.pdb
+D:\AsyncAwait\obj\Debug\777_AsyncAwait_Continuation_DotPeek.csprojResolveAssemblyReference.cache
+D:\AsyncAwait\ConsoleApplication777\obj\Debug\002_AsyncAwaitSml.exe
+D:\AsyncAwait\ConsoleApplication777\obj\Debug\002_AsyncAwaitSml.pdb
+D:\AsyncAwait\ConsoleApplication777\bin\Debug\002_AsyncAwaitSml.exe
+D:\AsyncAwait\ConsoleApplication777\bin\Debug\002_AsyncAwaitSml.pdb
+D:\AsyncAwait\ConsoleApplication777\obj\Debug\777_AsyncAwait_Continuation_DotPeek.csprojResolveAssemblyReference.cache
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication777\obj\Debug\002_AsyncAwaitSml.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication777\obj\Debug\002_AsyncAwaitSml.pdb

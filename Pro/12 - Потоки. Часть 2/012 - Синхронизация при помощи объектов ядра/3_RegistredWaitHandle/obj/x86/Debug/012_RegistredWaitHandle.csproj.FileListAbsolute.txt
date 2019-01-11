@@ -1,0 +1,7 @@
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.exe
+C:\Cources\C# 3. Professional NEW\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\3_RegistredWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\bin\Debug\3_RegistredWaitHandle.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\bin\Debug\3_RegistredWaitHandle.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\3_RegistredWaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache

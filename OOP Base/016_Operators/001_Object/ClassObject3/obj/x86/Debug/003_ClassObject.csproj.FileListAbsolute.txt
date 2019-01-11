@@ -28,3 +28,9 @@ C:\Users\Alex CBS\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject3\
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject3\obj\x86\Debug\ClassObject3.exe
 C:\Users\Alex\Desktop\CS_Essential_RU\017_Operators\001_Object\ClassObject3\obj\x86\Debug\ClassObject3.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\017_Operators\001_Object\ClassObject3\obj\x86\Debug\ClassObject3.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject3\bin\Debug\ClassObject3.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject3\bin\Debug\ClassObject3.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject3\obj\x86\Debug\003_ClassObject.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject3\obj\x86\Debug\003_ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject3\obj\x86\Debug\ClassObject3.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\001_Object\ClassObject3\obj\x86\Debug\ClassObject3.pdb

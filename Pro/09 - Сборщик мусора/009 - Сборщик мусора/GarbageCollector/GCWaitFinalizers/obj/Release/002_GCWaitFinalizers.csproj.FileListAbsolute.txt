@@ -1,0 +1,4 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCWaitFinalizers\bin\Release\GCWaitFinalizers.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCWaitFinalizers\bin\Release\GCWaitFinalizers.pdb
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCWaitFinalizers\obj\Release\GCWaitFinalizers.exe
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\GCWaitFinalizers\obj\Release\GCWaitFinalizers.pdb

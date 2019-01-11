@@ -1,0 +1,19 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\Task_1\bin\Debug\Task_1.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\Task_1\obj\Debug\Task_1.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 008\lesson 011\Task_1\obj\Debug\Task_1.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.exe
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\Task_1\bin\Debug\Task_1.exe
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Student\Desktop\New folder\C# Professional\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\Task_1\bin\Debug\Task_1.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\Task_1\bin\Debug\Task_1.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.exe
+G:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 011\Task_1\obj\Debug\Task_1.pdb

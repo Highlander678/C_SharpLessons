@@ -1,0 +1,5 @@
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\bin\Debug\1_EventWaitHandle.exe
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\bin\Debug\1_EventWaitHandle.pdb
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.exe
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\01_Events\1_EventWaitHandle\obj\x86\Debug\1_EventWaitHandle.pdb

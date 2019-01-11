@@ -6,10 +6,10 @@ namespace ClassObject
 {
     class MyClass
     {
-        public override int GetHashCode()
-        {            
-            return 1234567890;
-        }
+        //public override int GetHashCode()
+        //{            
+        //    return 1234567890;
+        //}
     }
 
     class Program

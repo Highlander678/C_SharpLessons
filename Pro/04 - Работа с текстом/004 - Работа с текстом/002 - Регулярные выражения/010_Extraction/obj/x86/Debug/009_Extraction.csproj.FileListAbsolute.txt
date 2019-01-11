@@ -1,0 +1,2 @@
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_Extraction\obj\x86\Debug\Extraction.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\009_Extraction\obj\x86\Debug\Extraction.pdb

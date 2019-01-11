@@ -22,3 +22,8 @@ d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\016_Exceptions\001_Exceptions\Ex
 D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions14\obj\x86\Debug\Exceptions14.exe
 D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions14\obj\x86\Debug\Exceptions14.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions14\obj\x86\Debug\Exceptions14.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions14\bin\Debug\Exceptions14.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions14\bin\Debug\Exceptions14.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions14\obj\x86\Debug\014_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions14\obj\x86\Debug\Exceptions14.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions14\obj\x86\Debug\Exceptions14.pdb

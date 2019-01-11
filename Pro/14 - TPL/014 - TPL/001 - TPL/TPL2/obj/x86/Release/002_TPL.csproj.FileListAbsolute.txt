@@ -1,0 +1,14 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL2\bin\Release\TPL2.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL2\bin\Release\TPL2.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL2\obj\x86\Release\TPL2.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL2\obj\x86\Release\TPL2.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL2\obj\x86\Release\002_TPL.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL2\bin\Release\TPL2.exe.CodeAnalysisLog.xml
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL2\bin\Release\TPL2.exe.lastcodeanalysissucceeded
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL2\bin\Release\TPL2.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL2\bin\Release\TPL2.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL2\obj\x86\Release\002_TPL.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL2\obj\x86\Release\TPL2.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL2\obj\x86\Release\TPL2.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL2\obj\x86\Release\TPL2.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\014 - TPL\014 - TPL\001 - TPL\TPL2\obj\x86\Release\TPL2.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_AdHocPolimorfizm", "001_AdHocPolimorfizm\001_AdHocPolimorfizm.csproj", "{0F5E5571-36FE-4CAA-870D-246871865D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_AdHocPolimorfizm", "002_AdHocPolimorfizm\000_AdHocPolimorfizm.csproj", "{2F351A48-AFE8-4A54-A29C-2A18384A609B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F5E5571-36FE-4CAA-870D-246871865D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5E5571-36FE-4CAA-870D-246871865D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5E5571-36FE-4CAA-870D-246871865D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5E5571-36FE-4CAA-870D-246871865D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F351A48-AFE8-4A54-A29C-2A18384A609B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F351A48-AFE8-4A54-A29C-2A18384A609B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F351A48-AFE8-4A54-A29C-2A18384A609B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F351A48-AFE8-4A54-A29C-2A18384A609B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Collection\Collection4\obj\x86\Debug\Collection4.exe
+D:\Collection\Collection4\obj\x86\Debug\Collection4.pdb
+D:\Collection\Collection4\bin\Debug\Collection4.exe
+D:\Collection\Collection4\bin\Debug\Collection4.pdb
+D:\Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\002_Collection\Collection4\obj\x86\Debug\Collection4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\002_Collection\Collection4\obj\x86\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\002_Collection\Collection4\bin\Debug\Collection4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\002_Collection\Collection4\bin\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\001_Collections\002_Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection4\obj\x86\Debug\Collection4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection4\obj\x86\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection4\bin\Debug\Collection4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection4\bin\Debug\Collection4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\001_Collections\002_Collection\Collection4\obj\x86\Debug\ResolveAssemblyReference.cache

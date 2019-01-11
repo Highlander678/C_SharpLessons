@@ -22,7 +22,7 @@ namespace Threads
             {
                 Console.WriteLine(new string(' ', 15) + thread.Name + " " + counter);
                 // Приостанавливаем выполнение текущего потока.
-                Thread.Sleep(1000);
+               // Thread.Sleep(1000);
             }           
         }
 
@@ -47,7 +47,7 @@ namespace Threads
             {
                 Console.WriteLine(primaryThread.Name + " " + counter);
                 // Приостанавливаем выполнение текущего потока.
-                Thread.Sleep(1500);
+                //Thread.Sleep(1500);
             }
 
             // Delay.

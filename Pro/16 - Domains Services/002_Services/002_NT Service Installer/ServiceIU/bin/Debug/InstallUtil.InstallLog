@@ -1,0 +1,1093 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\hDocuments\C# Courses\C# Professional\[WCF]\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe assembly's progress.
+The file is located at D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsService.exe assembly's progress.
+The file is located at D:\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_2\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_2\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_2\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_2\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_2\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_2\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.exe.
+Данный файл находится в D:\CBS_LESSONS\CBS_LESSONS\MCTS_70_536\Course 70-536\008_Домены_приложений_и_службы\003_Создание_служб_Windows\Ex_1\MonitorWebSite\bin\Debug\MonitorWebSite.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe.
+Данный файл находится в D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки D:\WindowsServices.exe.
+Данный файл находится в D:\WindowsServices.InstallLog.
+
+Удаление из системы выполнено.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+An exception occurred during the Install phase.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+An exception occurred during the Install phase.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+An exception occurred during the Install phase.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+An exception occurred during the Install phase.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+An exception occurred during the Install phase.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\WindowsServices.exe assembly's progress.
+The file is located at D:\WindowsServices.InstallLog.
+
+The uninstall has completed.

@@ -1,0 +1,12 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\bin\Debug\FileInfoDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\bin\Debug\FileInfoDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\obj\x86\Debug\FileInfoDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - Программирование ввода-вывода\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\obj\x86\Debug\FileInfoDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\obj\x86\Debug\FileInfoDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\obj\x86\Debug\FileInfoDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\bin\Debug\FileInfoDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\bin\Debug\FileInfoDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\obj\x86\Debug\FileInfoDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfoDemo\obj\x86\Debug\FileInfoDemo.pdb

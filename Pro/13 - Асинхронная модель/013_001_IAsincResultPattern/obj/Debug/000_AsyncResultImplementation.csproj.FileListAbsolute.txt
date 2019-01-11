@@ -1,0 +1,10 @@
+D:\IAsincResult new\obj\Debug\AsyncResultImpl.exe
+D:\IAsincResult new\obj\Debug\AsyncResultImpl.pdb
+D:\IAsincResult new\bin\Debug\AsyncResultImpl.exe
+D:\IAsincResult new\bin\Debug\AsyncResultImpl.pdb
+D:\IAsincResult new\obj\Debug\000_AsyncResultImplementation.csprojResolveAssemblyReference.cache
+D:\CSProVideo\013 - Асинхронная модель\013_001_IAsincResultPattern\obj\Debug\AsyncResultImpl.exe
+D:\CSProVideo\013 - Асинхронная модель\013_001_IAsincResultPattern\obj\Debug\AsyncResultImpl.pdb
+D:\CSProVideo\013 - Асинхронная модель\013_001_IAsincResultPattern\bin\Debug\AsyncResultImpl.exe
+D:\CSProVideo\013 - Асинхронная модель\013_001_IAsincResultPattern\bin\Debug\AsyncResultImpl.pdb
+D:\CSProVideo\013 - Асинхронная модель\013_001_IAsincResultPattern\obj\Debug\000_AsyncResultImplementation.csprojResolveAssemblyReference.cache

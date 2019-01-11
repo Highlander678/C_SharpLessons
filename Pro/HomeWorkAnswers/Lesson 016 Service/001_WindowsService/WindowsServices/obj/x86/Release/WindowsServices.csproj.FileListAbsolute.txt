@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\New folder\017_Домены приложений. NT-службы\004_NT_Services\001_WindowsService\WindowsServices\bin\Release\WindowsServices.exe.config
+C:\Users\Student\Desktop\New folder\017_Домены приложений. NT-службы\004_NT_Services\001_WindowsService\WindowsServices\bin\Release\WindowsServices.exe
+C:\Users\Student\Desktop\New folder\017_Домены приложений. NT-службы\004_NT_Services\001_WindowsService\WindowsServices\bin\Release\WindowsServices.pdb
+C:\Users\Student\Desktop\New folder\017_Домены приложений. NT-службы\004_NT_Services\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.MyService.resources
+C:\Users\Student\Desktop\New folder\017_Домены приложений. NT-службы\004_NT_Services\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\New folder\017_Домены приложений. NT-службы\004_NT_Services\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.exe
+C:\Users\Student\Desktop\New folder\017_Домены приложений. NT-службы\004_NT_Services\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Release\WindowsServices.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Release\WindowsServices.exe
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\bin\Release\WindowsServices.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.MyService.resources
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.csproj.GenerateResource.Cache
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.exe
+F:\QA курсов и разработка\Prof HomeAnswers\001_WindowsService\WindowsServices\obj\x86\Release\WindowsServices.pdb

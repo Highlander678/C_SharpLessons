@@ -1,0 +1,10 @@
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\001_Attributes\bin\Release\001_Attributes.exe
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\001_Attributes\bin\Release\001_Attributes.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\001_Attributes\obj\x86\Release\001_Attributes.exe
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\001_Attributes\obj\x86\Release\001_Attributes.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\001_Attributes\obj\x86\Release\001_Attributes.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\001_Attributes\obj\x86\Release\001_Attributes.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\001_Attributes\obj\x86\Release\001_Attributes.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\001_Attributes\bin\Release\001_Attributes.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\001_Attributes\bin\Release\001_Attributes.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\007 - Атрибуты\007 - Атрибуты\001_Attributes\obj\x86\Release\001_Attributes.csprojResolveAssemblyReference.cache

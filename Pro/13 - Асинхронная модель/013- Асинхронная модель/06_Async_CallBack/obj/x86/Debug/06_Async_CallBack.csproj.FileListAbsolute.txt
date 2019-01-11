@@ -1,0 +1,41 @@
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\06_Async_CallBack\bin\Debug\06_Async_CallBack.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\06_Async_CallBack\bin\Debug\06_Async_CallBack.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\06_Async_CallBack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\Async\AsyncMethods\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\06_Async_CallBack\bin\Debug\06_Async_CallBack.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\06_Async_CallBack\bin\Debug\06_Async_CallBack.pdb
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\06_Async_CallBack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+D:\Work\Lessons\C# Professional v3\014 - Асинхронная модель\014 - Асинхронная модель\02_AsyncMethods\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\06_Async_CallBack\bin\Debug\06_Async_CallBack.exe
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\06_Async_CallBack\bin\Debug\06_Async_CallBack.pdb
+D:\My Trainings\ASP.NET Professional\003_Async_Pages\001_AsyncMethods\06_Async_CallBack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\06_Async_CallBack\bin\Debug\06_Async_CallBack.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\06_Async_CallBack\bin\Debug\06_Async_CallBack.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\001_AsyncMethods\06_Async_CallBack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\bin\Debug\06_Async_CallBack.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\bin\Debug\06_Async_CallBack.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\bin\Debug\06_Async_CallBack.exe
+C:\Cources\C# Professional\014 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\bin\Debug\06_Async_CallBack.pdb
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\bin\Debug\06_Async_CallBack.exe
+C:\Cources\C# Professional\013 - Асинхронная модель\002- Асинхронная модель\06_Async_CallBack\bin\Debug\06_Async_CallBack.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\06_Async_CallBack\bin\Debug\06_Async_CallBack.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\06_Async_CallBack\bin\Debug\06_Async_CallBack.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.csprojResolveAssemblyReference.cache
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\06_Async_CallBack\obj\x86\Debug\06_Async_CallBack.pdb

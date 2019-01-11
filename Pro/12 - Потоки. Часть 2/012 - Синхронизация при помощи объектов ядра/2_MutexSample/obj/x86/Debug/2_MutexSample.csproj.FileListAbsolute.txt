@@ -1,0 +1,7 @@
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\03_Mutex\2_MutexSample\bin\Debug\2_MutexSample.exe
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\03_Mutex\2_MutexSample\bin\Debug\2_MutexSample.pdb
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\03_Mutex\2_MutexSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\03_Mutex\2_MutexSample\obj\x86\Debug\2_MutexSample.exe
+D:\Work\Lessons\C# Professional v3\Потоки\02_Конструкции режима ядра\03_Mutex\2_MutexSample\obj\x86\Debug\2_MutexSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\2_MutexSample\obj\x86\Debug\2_MutexSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\02_Конструкции режима ядра\03_Mutex\2_MutexSample\obj\x86\Debug\2_MutexSample.pdb

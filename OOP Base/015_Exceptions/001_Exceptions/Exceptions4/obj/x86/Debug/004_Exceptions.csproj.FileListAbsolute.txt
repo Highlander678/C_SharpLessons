@@ -31,3 +31,9 @@ D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exce
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions4\bin\Debug\Exceptions4.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions4\obj\x86\Debug\004_Exceptions.csprojResolveAssemblyReference.cache
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\016_Exceptions\001_Exceptions\Exceptions4\obj\x86\Debug\Exceptions4.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions4\bin\Debug\Exceptions4.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions4\bin\Debug\Exceptions4.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions4\obj\x86\Debug\004_Exceptions.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions4\obj\x86\Debug\004_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions4\obj\x86\Debug\Exceptions4.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\015_Exceptions\001_Exceptions\Exceptions4\obj\x86\Debug\Exceptions4.pdb

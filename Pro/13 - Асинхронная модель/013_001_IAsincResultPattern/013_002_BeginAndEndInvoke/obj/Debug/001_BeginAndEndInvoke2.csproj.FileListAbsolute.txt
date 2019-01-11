@@ -1,0 +1,2 @@
+D:\CSProVideo\013 - Асинхронная модель\013_001_IAsincResultPattern\013_002_BeginAndEndInvoke\obj\Debug\BeginAndEndInvoke.exe
+D:\CSProVideo\013 - Асинхронная модель\013_001_IAsincResultPattern\013_002_BeginAndEndInvoke\obj\Debug\BeginAndEndInvoke.pdb

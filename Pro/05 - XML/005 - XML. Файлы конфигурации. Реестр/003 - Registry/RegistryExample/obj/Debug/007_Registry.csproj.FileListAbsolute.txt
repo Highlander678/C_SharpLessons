@@ -1,0 +1,3 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Работа с реестром в .NET\RegistryExample\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Работа с реестром в .NET\RegistryExample\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Работа с реестром в .NET\RegistryExample\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources

@@ -1,0 +1,24 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\001_Volatile.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\001_Volatile.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\012 - Потоки. Синхронизация\012 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\001_Volatile.csprojResolveAssemblyReference.cache
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\VolatileSample\obj\x86\Release\VolatileSample.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\VolatileSample\bin\Release\VolatileSample.pdb

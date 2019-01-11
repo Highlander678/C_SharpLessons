@@ -1,0 +1,22 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\bin\Debug\CreateDirectory.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\bin\Debug\CreateDirectory.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\bin\Debug\CreateDirectory.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\bin\Debug\CreateDirectory.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\003_CreateDirectory.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\bin\Debug\CreateDirectory.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\bin\Debug\CreateDirectory.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\003_CreateDirectory.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\CreateDirectory.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\bin\Debug\CreateDirectory.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\bin\Debug\CreateDirectory.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\004 - Isolated Storage\CreateDirectory\obj\x86\Debug\003_CreateDirectory.csprojResolveAssemblyReference.cache

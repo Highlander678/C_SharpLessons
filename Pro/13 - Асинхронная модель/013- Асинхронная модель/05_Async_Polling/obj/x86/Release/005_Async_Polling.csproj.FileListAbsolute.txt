@@ -1,0 +1,4 @@
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\bin\Release\05_Async_Polling.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\bin\Release\05_Async_Polling.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\obj\x86\Release\05_Async_Polling.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\05_Async_Polling\obj\x86\Release\05_Async_Polling.pdb

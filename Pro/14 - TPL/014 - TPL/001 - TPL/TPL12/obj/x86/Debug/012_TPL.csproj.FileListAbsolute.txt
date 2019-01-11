@@ -1,0 +1,5 @@
+D:\TPL\TPL12\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TPL\TPL12\bin\Debug\TPL12.exe
+D:\TPL\TPL12\bin\Debug\TPL12.pdb
+D:\TPL\TPL12\obj\x86\Debug\TPL12.exe
+D:\TPL\TPL12\obj\x86\Debug\TPL12.pdb

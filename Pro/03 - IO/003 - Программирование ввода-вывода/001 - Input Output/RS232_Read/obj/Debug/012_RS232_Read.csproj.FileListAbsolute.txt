@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\RS232_Read\bin\Debug\RS232_Read.exe.config
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\RS232_Read\bin\Debug\RS232_Read.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\RS232_Read\bin\Debug\RS232_Read.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\RS232_Read\obj\Debug\RS232_Read.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\001 - Input Output\RS232_Read\obj\Debug\RS232_Read.pdb

@@ -23,3 +23,10 @@ C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\o
 C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\bin\Debug\Cloning2.exe
 C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\bin\Debug\Cloning2.pdb
 C:\Users\Student\Downloads\C# Essential\016_Operators\003_Performance\Cloning2\obj\Debug\002_CloningWithConstructor.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\003_Performance\Cloning2\bin\Debug\Cloning2.exe.config
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\003_Performance\Cloning2\bin\Debug\Cloning2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\003_Performance\Cloning2\bin\Debug\Cloning2.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\003_Performance\Cloning2\obj\Debug\002_CloningWithConstructor.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\003_Performance\Cloning2\obj\Debug\002_CloningWithConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\003_Performance\Cloning2\obj\Debug\Cloning2.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\016_Operators\003_Performance\Cloning2\obj\Debug\Cloning2.pdb

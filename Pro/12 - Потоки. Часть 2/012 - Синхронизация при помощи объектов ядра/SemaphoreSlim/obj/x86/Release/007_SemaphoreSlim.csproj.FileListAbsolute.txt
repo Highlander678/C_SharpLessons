@@ -1,0 +1,4 @@
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\obj\x86\Release\SemaphoreSlimSample.pdb
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.exe
+D:\CSProVideo\012 - Потоки. Часть 2\012 - Синхронизация при помощи объектов ядра\SemaphoreSlim\bin\Release\SemaphoreSlimSample.pdb

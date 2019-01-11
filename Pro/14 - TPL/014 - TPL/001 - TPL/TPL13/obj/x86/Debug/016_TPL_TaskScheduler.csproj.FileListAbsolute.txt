@@ -1,0 +1,5 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL13\obj\x86\Debug\TPL13.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL13\obj\x86\Debug\TPL13.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL13\bin\Debug\TPL13.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL13\bin\Debug\TPL13.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\TPL13\obj\x86\Debug\016_TPL_TaskScheduler.csprojResolveAssemblyReference.cache

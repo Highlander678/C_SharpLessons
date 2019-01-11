@@ -31,3 +31,9 @@ C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events4\bin\Debu
 C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events4\obj\x86\Debug\Events4.exe
 C:\Users\Alex CBS\Desktop\CS_Essential_RU\013_Events\001_Events\Events4\obj\x86\Debug\Events4.pdb
 D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\013_Events\001_Events\Events4\obj\x86\Debug\Events4.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\012_Events\001_Events\Events4\bin\Debug\Events4.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\012_Events\001_Events\Events4\bin\Debug\Events4.pdb
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\012_Events\001_Events\Events4\obj\x86\Debug\004_Events.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\012_Events\001_Events\Events4\obj\x86\Debug\004_Events.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\012_Events\001_Events\Events4\obj\x86\Debug\Events4.exe
+C:\Users\Adm\Documents\C++\GitREPO\OOP Base\012_Events\001_Events\Events4\obj\x86\Debug\Events4.pdb

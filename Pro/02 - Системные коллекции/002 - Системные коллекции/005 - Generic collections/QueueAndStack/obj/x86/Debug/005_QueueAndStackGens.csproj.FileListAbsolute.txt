@@ -1,0 +1,35 @@
+D:\GenericsCollections\QueueAndStack\bin\Debug\QueueAndStack.exe
+D:\GenericsCollections\QueueAndStack\bin\Debug\QueueAndStack.pdb
+D:\GenericsCollections\QueueAndStack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+D:\GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\bin\Debug\QueueAndStack.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\bin\Debug\QueueAndStack.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\bin\Debug\QueueAndStack.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\bin\Debug\QueueAndStack.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\005_Обобщенные_наборы\001-010_GenericsCollections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+G:\hCBS\03 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\bin\Debug\QueueAndStack.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\bin\Debug\QueueAndStack.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\bin\Debug\QueueAndStack.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\bin\Debug\QueueAndStack.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\bin\Debug\QueueAndStack.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\bin\Debug\QueueAndStack.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb

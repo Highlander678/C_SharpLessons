@@ -1,0 +1,10 @@
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\obj\x86\Debug\LinkedListGen.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\obj\x86\Debug\LinkedListGen.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\bin\Debug\LinkedListGen.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\bin\Debug\LinkedListGen.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\obj\x86\Debug\006_LinkedListGen.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\obj\x86\Debug\LinkedListGen.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\bin\Debug\LinkedListGen.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\bin\Debug\LinkedListGen.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\obj\x86\Debug\006_LinkedListGen.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\LinkedListGen\obj\x86\Debug\LinkedListGen.pdb

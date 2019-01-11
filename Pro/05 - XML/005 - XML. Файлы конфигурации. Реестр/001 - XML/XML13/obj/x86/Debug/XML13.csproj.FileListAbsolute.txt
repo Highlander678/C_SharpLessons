@@ -1,0 +1,5 @@
+D:\XML\XML13\bin\Debug\XML13.exe
+D:\XML\XML13\bin\Debug\XML13.pdb
+D:\XML\XML13\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XML\XML13\obj\x86\Debug\XML13.exe
+D:\XML\XML13\obj\x86\Debug\XML13.pdb

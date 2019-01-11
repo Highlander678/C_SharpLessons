@@ -1,0 +1,20 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\bin\Debug\004_CultureInfo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\bin\Debug\004_CultureInfo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.exe
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\bin\Debug\004_CultureInfo.exe
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\bin\Debug\004_CultureInfo.pdb
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\bin\Debug\004_CultureInfo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\bin\Debug\004_CultureInfo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.csprojResolveAssemblyReference.cache
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\bin\Debug\004_CultureInfo.exe
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\bin\Debug\004_CultureInfo.pdb
+D:\CSProVideo\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\004_CultureInfo\obj\x86\Debug\004_CultureInfo.csprojResolveAssemblyReference.cache

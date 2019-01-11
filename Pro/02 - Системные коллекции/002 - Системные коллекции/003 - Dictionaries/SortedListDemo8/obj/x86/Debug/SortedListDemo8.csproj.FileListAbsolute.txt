@@ -1,0 +1,5 @@
+D:\Dictionary\SortedListDemo8\bin\Debug\SortedListDemo8.exe
+D:\Dictionary\SortedListDemo8\bin\Debug\SortedListDemo8.pdb
+D:\Dictionary\SortedListDemo8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dictionary\SortedListDemo8\obj\x86\Debug\SortedListDemo8.exe
+D:\Dictionary\SortedListDemo8\obj\x86\Debug\SortedListDemo8.pdb

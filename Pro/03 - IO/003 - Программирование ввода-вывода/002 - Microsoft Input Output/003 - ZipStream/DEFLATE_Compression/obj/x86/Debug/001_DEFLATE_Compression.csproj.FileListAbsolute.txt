@@ -1,0 +1,17 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\bin\Debug\DEFLATE_Compression.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\bin\Debug\DEFLATE_Compression.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\bin\Debug\DEFLATE_Compression.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\bin\Debug\DEFLATE_Compression.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\obj\x86\Debug\DEFLATE_Compression.pdb
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\bin\Debug\DEFLATE_Compression.exe
+D:\CSProVideo\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\003 - ZipStream\DEFLATE_Compression\bin\Debug\DEFLATE_Compression.pdb

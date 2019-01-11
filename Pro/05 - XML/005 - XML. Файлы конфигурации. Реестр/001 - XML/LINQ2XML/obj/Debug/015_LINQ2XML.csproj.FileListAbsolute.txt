@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\LINQ2XML\bin\Debug\LINQ2XML.exe.config
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\LINQ2XML\obj\Debug\LINQ2XML.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\LINQ2XML\obj\Debug\LINQ2XML.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\LINQ2XML\bin\Debug\LINQ2XML.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\LINQ2XML\bin\Debug\LINQ2XML.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\LINQ2XML\obj\Debug\015_LINQ2XML.csprojResolveAssemblyReference.cache

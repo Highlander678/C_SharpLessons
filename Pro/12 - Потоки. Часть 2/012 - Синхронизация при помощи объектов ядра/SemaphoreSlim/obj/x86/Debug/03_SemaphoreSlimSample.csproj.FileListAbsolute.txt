@@ -1,0 +1,12 @@
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\bin\Debug\SemaphoreSlimSample.exe
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\bin\Debug\SemaphoreSlimSample.pdb
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\obj\x86\Debug\SemaphoreSlimSample.exe
+D:\Work\Lessons\C# Professional v3\Потоки\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\obj\x86\Debug\SemaphoreSlimSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\obj\x86\Debug\SemaphoreSlimSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\obj\x86\Debug\SemaphoreSlimSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\bin\Debug\SemaphoreSlimSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\bin\Debug\SemaphoreSlimSample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\SC Pro DIMA\013 - Потоки. Часть 2\013 - Синхронизация\03_Гибридные конструкции\01_SimpleHybridLock\SemaphoreSlim\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\SemaphoreSlim\obj\x86\Debug\SemaphoreSlimSample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\013 - Потоки. Часть 2\013 - Синх-ция при помощи объектов ядра\SemaphoreSlim\obj\x86\Debug\SemaphoreSlimSample.pdb

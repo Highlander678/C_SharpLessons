@@ -1,0 +1,42 @@
+D:\Dictionary\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.exe
+D:\Dictionary\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.pdb
+D:\Dictionary\ListDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+D:\Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\004_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\002_Collections\70-536_Наборы_и_обобщения\003_Работа_со_словарями\001-011_Dictionary\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+C:\Users\Oleg\Documents\Work\CyberBionic\Courses\Current\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+C:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\bin\Debug\ListDictionaryDemo.pdb
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\009_ListDictionary.csprojResolveAssemblyReference.cache
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.exe
+D:\CSProVideo\002 - Системные коллекции\002 - Системные коллекции\003 - Dictionaries\ListDictionaryDemo\obj\x86\Debug\ListDictionaryDemo.pdb

@@ -1,0 +1,4 @@
+D:\CSProVideo\016_Domains and NT Services\001_Domains\001_Domains\Domains2\obj\x86\Debug\Domains2.exe
+D:\CSProVideo\016_Domains and NT Services\001_Domains\001_Domains\Domains2\obj\x86\Debug\Domains2.pdb
+D:\CSProVideo\016_Domains and NT Services\001_Domains\001_Domains\Domains2\bin\Debug\Domains2.exe
+D:\CSProVideo\016_Domains and NT Services\001_Domains\001_Domains\Domains2\bin\Debug\Domains2.pdb

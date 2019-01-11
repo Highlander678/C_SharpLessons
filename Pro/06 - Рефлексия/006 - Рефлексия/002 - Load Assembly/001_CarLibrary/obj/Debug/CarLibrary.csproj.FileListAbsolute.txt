@@ -1,0 +1,10 @@
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CarLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+D:\CBS_LESSONS\CBS_CS_Professional\004_REFLECTION\000_CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CarLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\004_REFLECTION\000_CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb

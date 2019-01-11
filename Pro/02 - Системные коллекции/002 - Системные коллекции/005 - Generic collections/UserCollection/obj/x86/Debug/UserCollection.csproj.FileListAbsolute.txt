@@ -1,0 +1,5 @@
+D:\GenericsCollections\UserCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GenericsCollections\UserCollection\bin\Debug\UserCollection.exe
+D:\GenericsCollections\UserCollection\bin\Debug\UserCollection.pdb
+D:\GenericsCollections\UserCollection\obj\x86\Debug\UserCollection.exe
+D:\GenericsCollections\UserCollection\obj\x86\Debug\UserCollection.pdb

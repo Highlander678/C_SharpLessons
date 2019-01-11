@@ -1,0 +1,12 @@
+D:\SettingsConfigurations\Configuration4\bin\Debug\Configuration4.exe.config
+D:\SettingsConfigurations\Configuration4\obj\x86\Debug\Configuration4.exe
+D:\SettingsConfigurations\Configuration4\obj\x86\Debug\Configuration4.pdb
+D:\SettingsConfigurations\Configuration4\bin\Debug\Configuration4.exe
+D:\SettingsConfigurations\Configuration4\bin\Debug\Configuration4.pdb
+D:\SettingsConfigurations\Configuration4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration4\bin\Debug\Configuration4.exe.config
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration4\obj\x86\Debug\Configuration4.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration4\obj\x86\Debug\Configuration4.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration4\bin\Debug\Configuration4.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration4\bin\Debug\Configuration4.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\009_Установка_и_конфигурирование_приложений\001_Настройка_и_конфигурации\001-009_SettingsConfigurations\Configuration4\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\obj\x86\Debug\CustomSerialization.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\obj\x86\Debug\CustomSerialization.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\obj\x86\Debug\CustomSerialization.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\obj\x86\Debug\CustomSerialization.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\bin\Debug\CustomSerialization.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\bin\Debug\CustomSerialization.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\obj\x86\Debug\CustomSerialization.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\obj\x86\Debug\CustomSerialization.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\obj\x86\Debug\CustomSerialization.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\CustomSerialization\obj\x86\Debug\CustomSerialization.pdb

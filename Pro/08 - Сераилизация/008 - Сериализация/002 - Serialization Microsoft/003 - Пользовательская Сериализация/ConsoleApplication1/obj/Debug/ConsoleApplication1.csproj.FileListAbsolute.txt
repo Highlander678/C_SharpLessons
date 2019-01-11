@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\002 - Serialization Microsoft\003 - Пользовательская Сериализация\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

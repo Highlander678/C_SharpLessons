@@ -1,0 +1,10 @@
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\bin\Release\SimpleLock.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\bin\Release\SimpleLock.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Release\SimpleLock.exe
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Release\SimpleLock.pdb
+C:\Cources\C# Professional\013 - Потоки. Часть 2\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Release\015_HybridLock.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Release\SimpleLock.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Release\SimpleLock.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SimpleLock\bin\Release\SimpleLock.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SimpleLock\bin\Release\SimpleLock.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\SimpleLock\obj\x86\Release\015_HybridLock.csprojResolveAssemblyReference.cache

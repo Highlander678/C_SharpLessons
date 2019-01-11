@@ -4,7 +4,7 @@
 
 namespace Operators
 {
-    public struct Point : IComparable
+    public struct Point //: IComparable
     {
         // Координаты точки.
         private int x, y;
@@ -33,9 +33,10 @@ namespace Operators
         public static bool operator >=(Point p1, Point p2)
         {
             return (p1.CompareTo(p2) >= 0);
+            
         }
 
-
+        
         // Реализация интерфейса IComparable.
 
         public int CompareTo(object obj)

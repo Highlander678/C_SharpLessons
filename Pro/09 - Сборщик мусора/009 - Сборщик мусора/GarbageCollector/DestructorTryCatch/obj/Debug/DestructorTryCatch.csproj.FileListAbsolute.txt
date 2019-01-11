@@ -1,0 +1,1 @@
+D:\VIDEO CSH Professional\001 - Сборщик мусора\009 - Сборщик мусора\GarbageCollector\DestructorTryCatch\bin\Debug\DestructorTryCatch.exe.config

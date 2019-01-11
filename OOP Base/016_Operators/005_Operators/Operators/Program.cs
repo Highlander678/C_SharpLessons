@@ -46,6 +46,7 @@ namespace Operators
 
             Console.WriteLine("c = {0}", c);
 
+
             // Delay.
             Console.ReadKey();
         }

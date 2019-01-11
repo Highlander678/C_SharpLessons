@@ -1,0 +1,44 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\bin\Debug\Task_3.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\MainWindow.baml
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\MainWindow.g.cs
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\App.g.cs
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\Task_3_MarkupCompile.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.g.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.csproj.GenerateResource.Cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\bin\Debug\Task_3.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\bin\Debug\Task_3.exe
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\bin\Debug\Task_3.pdb
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\MainWindow.baml
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\MainWindow.g.cs
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\App.g.cs
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\Task_3_MarkupCompile.cache
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.g.resources
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.csproj.GenerateResource.Cache
+F:\QA курсов и разработка\Prof HomeAnswers\Home Work\Lesson 003\Task_3\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\Task_3.exe
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\Task_3.pdb
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\bin\Debug\Task_3.exe
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\Task_3_MarkupCompile.cache
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\Task_3.g.resources
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\Student\Desktop\New folder\Lesson 003\Task_3\obj\Debug\Task_3.csproj.GenerateResource.Cache
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 003\Task_3\bin\Debug\Task_3.exe.config
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.exe
+F:\QA курсов и разработка\Prof HomeAnswers\new\Home Work\Lesson 003\Task_3\obj\Debug\Task_3.pdb

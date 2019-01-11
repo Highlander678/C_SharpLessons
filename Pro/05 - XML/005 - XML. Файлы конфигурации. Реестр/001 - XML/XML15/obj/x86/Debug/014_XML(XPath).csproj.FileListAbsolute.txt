@@ -1,0 +1,7 @@
+G:\hCBS\03 - C# Professional\004 - XML\XML\014_XML(XPath)\bin\Debug\014_XML(XPath).exe
+G:\hCBS\03 - C# Professional\004 - XML\XML\014_XML(XPath)\bin\Debug\014_XML(XPath).pdb
+G:\hCBS\03 - C# Professional\004 - XML\XML\014_XML(XPath)\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\004 - XML\XML\014_XML(XPath)\obj\x86\Debug\014_XML(XPath).exe
+G:\hCBS\03 - C# Professional\004 - XML\XML\014_XML(XPath)\obj\x86\Debug\014_XML(XPath).pdb
+G:\hCBS\03 - C# Professional\005 - Работа с XML\005 - Работа с XML\001 - XML\014_XML(XPath)\obj\x86\Debug\014_XML(XPath).exe
+G:\hCBS\03 - C# Professional\005 - Работа с XML\005 - Работа с XML\001 - XML\014_XML(XPath)\obj\x86\Debug\014_XML(XPath).pdb

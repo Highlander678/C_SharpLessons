@@ -1,0 +1,5 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 006\Task_1\bin\Debug\Task_1.dll
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 006\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 006\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 006\Task_1\obj\Debug\Task_1.dll
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 006\Task_1\obj\Debug\Task_1.pdb

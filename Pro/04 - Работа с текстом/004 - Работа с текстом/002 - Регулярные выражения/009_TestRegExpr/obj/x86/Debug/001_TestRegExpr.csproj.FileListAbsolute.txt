@@ -1,0 +1,18 @@
+D:\RegularExpressions\TestRegExpr\bin\Debug\TestRegExpr.exe
+D:\RegularExpressions\TestRegExpr\bin\Debug\TestRegExpr.pdb
+D:\RegularExpressions\TestRegExpr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+D:\RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+D:\CBS_LESSONS\MCTS_70_536\Course 70-536\003_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\bin\Debug\TestRegExpr.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\bin\Debug\TestRegExpr.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+D:\hDocuments\C# Courses\C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+D:\hDocuments\C# Courses\[C#]\002 - C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+D:\hDocuments\C# Courses\[C#]\002 - C# Professional\004_Text\70-536_Поиск_изменение_и_перекодирование_текста\001_Построение_регулярных_выражений\001-004_RegularExpressions\TestRegExpr\obj\x86\Debug\TestRegExpr.pdb
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\012_TestRegExpr\obj\x86\Debug\TestRegExpr.exe
+G:\hCBS\03 - C# Professional\002 - Работа со строками. RegEx. Кодирование строк\002 - Регулярные выражения\012_TestRegExpr\obj\x86\Debug\TestRegExpr.pdb

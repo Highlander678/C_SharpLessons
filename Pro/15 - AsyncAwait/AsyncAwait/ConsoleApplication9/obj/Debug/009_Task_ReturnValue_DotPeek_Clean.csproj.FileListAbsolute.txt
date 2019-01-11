@@ -1,0 +1,4 @@
+D:\AsyncAwait\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+D:\AsyncAwait\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

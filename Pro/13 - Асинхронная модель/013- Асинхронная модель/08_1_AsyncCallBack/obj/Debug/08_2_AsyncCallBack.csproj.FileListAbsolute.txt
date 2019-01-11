@@ -1,0 +1,9 @@
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\bin\Debug\08_1_AsyncCallBack.exe.config
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\bin\Debug\08_1_AsyncCallBack.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\bin\Debug\08_1_AsyncCallBack.pdb
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\obj\Debug\08_2_AsyncCallBack.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\obj\Debug\08_1_AsyncCallBack.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\obj\Debug\08_1_AsyncCallBack.pdb
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\bin\Debug\08_1_AsyncCallBack.exe.config
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\obj\Debug\08_1_AsyncCallBack.exe
+D:\CSProVideo\013 - Асинхронная модель\013- Асинхронная модель\08_1_AsyncCallBack\obj\Debug\08_1_AsyncCallBack.pdb

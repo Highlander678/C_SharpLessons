@@ -1,0 +1,5 @@
+D:\Work\Lessons\C# Professional v3\Потоки\Конструкции пользовательского режима\VolatileSample\VolatileSample2\bin\Release\VolatileSample2.exe
+D:\Work\Lessons\C# Professional v3\Потоки\Конструкции пользовательского режима\VolatileSample\VolatileSample2\bin\Release\VolatileSample2.pdb
+D:\Work\Lessons\C# Professional v3\Потоки\Конструкции пользовательского режима\VolatileSample\VolatileSample2\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Work\Lessons\C# Professional v3\Потоки\Конструкции пользовательского режима\VolatileSample\VolatileSample2\obj\x86\Release\VolatileSample2.exe
+D:\Work\Lessons\C# Professional v3\Потоки\Конструкции пользовательского режима\VolatileSample\VolatileSample2\obj\x86\Release\VolatileSample2.pdb

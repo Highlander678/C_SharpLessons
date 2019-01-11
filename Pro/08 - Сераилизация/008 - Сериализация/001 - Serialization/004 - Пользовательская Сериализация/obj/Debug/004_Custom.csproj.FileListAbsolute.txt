@@ -1,0 +1,34 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\004 - Пользовательская Сериализация\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\008 - Сериализация\008 - Сериализация\001 - Примеры Сериализации\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\004 - Пользовательская Сериализация\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.exe
+d:\-=!!!InWork!!!=-\Lessons\003 - C# Professional\008 - Сериализация\008 - Сериализация\002 - Примеры Сериализации\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\004_Custom.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.exe
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.pdb
+C:\Cources\C# Professional\008 - Сериализация\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\004_Custom.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\UserSerialWork.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.exe
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\bin\Debug\UserSerialWork.pdb
+D:\CSProVideo\008 - Сериализация\008 - Сериализация\001 - Serialization\004 - Пользовательская Сериализация\obj\Debug\004_Custom.csprojResolveAssemblyReference.cache

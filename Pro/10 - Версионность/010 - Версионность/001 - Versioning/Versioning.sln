@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Versioning", "001_Versioning\001_Versioning.csproj", "{79D46AFC-25AC-442A-A5A8-44D69E58B446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Versioning", "002_Versioning\002_Versioning.csproj", "{5E307ADE-3758-4376-A625-006A94CA3B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Versioning", "004_Versioning\004_Versioning.csproj", "{BBFA1390-DDD8-45BF-B0FB-39C527650806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Versioning", "005_Versioning\005_Versioning.csproj", "{95DCB9A3-DCDE-4183-99F2-7DD218A27D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Versioning", "006_Versioning\006_Versioning.csproj", "{F674A664-77CC-4D3B-A6F1-ED1B58F02B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Versioning", "007_Versioning\007_Versioning.csproj", "{F1205E7B-28A9-4225-BACE-A3EFB5C650E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Versioning", "008_Versioning\008_Versioning.csproj", "{808A1273-70D4-4552-90B0-64535A4CCD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Versioning", "009_Versioning\009_Versioning.csproj", "{03623284-FC54-4211-893F-08504DB6FF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D46AFC-25AC-442A-A5A8-44D69E58B446}.Debug|x86.ActiveCfg = Debug|x86
+		{79D46AFC-25AC-442A-A5A8-44D69E58B446}.Debug|x86.Build.0 = Debug|x86
+		{79D46AFC-25AC-442A-A5A8-44D69E58B446}.Release|x86.ActiveCfg = Release|x86
+		{79D46AFC-25AC-442A-A5A8-44D69E58B446}.Release|x86.Build.0 = Release|x86
+		{5E307ADE-3758-4376-A625-006A94CA3B48}.Debug|x86.ActiveCfg = Debug|x86
+		{5E307ADE-3758-4376-A625-006A94CA3B48}.Debug|x86.Build.0 = Debug|x86
+		{5E307ADE-3758-4376-A625-006A94CA3B48}.Release|x86.ActiveCfg = Release|x86
+		{5E307ADE-3758-4376-A625-006A94CA3B48}.Release|x86.Build.0 = Release|x86
+		{BBFA1390-DDD8-45BF-B0FB-39C527650806}.Debug|x86.ActiveCfg = Debug|x86
+		{BBFA1390-DDD8-45BF-B0FB-39C527650806}.Debug|x86.Build.0 = Debug|x86
+		{BBFA1390-DDD8-45BF-B0FB-39C527650806}.Release|x86.ActiveCfg = Release|x86
+		{BBFA1390-DDD8-45BF-B0FB-39C527650806}.Release|x86.Build.0 = Release|x86
+		{95DCB9A3-DCDE-4183-99F2-7DD218A27D84}.Debug|x86.ActiveCfg = Debug|x86
+		{95DCB9A3-DCDE-4183-99F2-7DD218A27D84}.Debug|x86.Build.0 = Debug|x86
+		{95DCB9A3-DCDE-4183-99F2-7DD218A27D84}.Release|x86.ActiveCfg = Release|x86
+		{95DCB9A3-DCDE-4183-99F2-7DD218A27D84}.Release|x86.Build.0 = Release|x86
+		{F674A664-77CC-4D3B-A6F1-ED1B58F02B0D}.Debug|x86.ActiveCfg = Debug|x86
+		{F674A664-77CC-4D3B-A6F1-ED1B58F02B0D}.Debug|x86.Build.0 = Debug|x86
+		{F674A664-77CC-4D3B-A6F1-ED1B58F02B0D}.Release|x86.ActiveCfg = Release|x86
+		{F674A664-77CC-4D3B-A6F1-ED1B58F02B0D}.Release|x86.Build.0 = Release|x86
+		{F1205E7B-28A9-4225-BACE-A3EFB5C650E8}.Debug|x86.ActiveCfg = Debug|x86
+		{F1205E7B-28A9-4225-BACE-A3EFB5C650E8}.Debug|x86.Build.0 = Debug|x86
+		{F1205E7B-28A9-4225-BACE-A3EFB5C650E8}.Release|x86.ActiveCfg = Release|x86
+		{F1205E7B-28A9-4225-BACE-A3EFB5C650E8}.Release|x86.Build.0 = Release|x86
+		{808A1273-70D4-4552-90B0-64535A4CCD37}.Debug|x86.ActiveCfg = Debug|x86
+		{808A1273-70D4-4552-90B0-64535A4CCD37}.Debug|x86.Build.0 = Debug|x86
+		{808A1273-70D4-4552-90B0-64535A4CCD37}.Release|x86.ActiveCfg = Release|x86
+		{808A1273-70D4-4552-90B0-64535A4CCD37}.Release|x86.Build.0 = Release|x86
+		{03623284-FC54-4211-893F-08504DB6FF37}.Debug|x86.ActiveCfg = Debug|x86
+		{03623284-FC54-4211-893F-08504DB6FF37}.Debug|x86.Build.0 = Debug|x86
+		{03623284-FC54-4211-893F-08504DB6FF37}.Release|x86.ActiveCfg = Release|x86
+		{03623284-FC54-4211-893F-08504DB6FF37}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

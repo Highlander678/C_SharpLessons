@@ -1,0 +1,334 @@
+﻿Выполняется установка сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Выполняется фиксация сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Выполняется фиксация сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Выполняется фиксация сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Выполняется фиксация сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Устанавливается служба llllllllll...
+Служба llllllllll успешно установлена.
+Создается исходный EventLog llllllllll в журнале Application...
+Выполняется фиксация сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Выполняется удаление сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Выполняется удаление источника EventLog llllllllll.
+Выполняется удаление службы llllllllll из системы...
+Служба llllllllll успешно удалена из системы.
+Выполняется установка сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Устанавливается служба ===== TEST SERVICE =====...
+Служба ===== TEST SERVICE ===== успешно установлена.
+Создается исходный EventLog ===== TEST SERVICE ===== в журнале Application...
+Выполняется фиксация сборки 'D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Выполняется удаление источника EventLog ===== TEST SERVICE =====.
+Выполняется удаление службы ===== TEST SERVICE ===== из системы...
+Служба ===== TEST SERVICE ===== успешно удалена из системы.
+Выполняется установка сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Устанавливается служба ===== TEST SERVICE =====...
+Служба ===== TEST SERVICE ===== успешно установлена.
+Создается исходный EventLog ===== TEST SERVICE ===== в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Выполняется установка сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Устанавливается служба ===== TEST SERVICE =====...
+Создается исходный EventLog ===== TEST SERVICE ===== в журнале Application...
+Выполняется откат для сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Восстанавливается исходное состояние журнала событий для источника ===== TEST SERVICE =====.
+Выполняется установка сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Устанавливается служба ===== TEST SERVICE =====...
+Создается исходный EventLog ===== TEST SERVICE ===== в журнале Application...
+Выполняется откат для сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Восстанавливается исходное состояние журнала событий для источника ===== TEST SERVICE =====.
+Выполняется установка сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Устанавливается служба ===== TEST SERVICE =====...
+Создается исходный EventLog ===== TEST SERVICE ===== в журнале Application...
+Выполняется откат для сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Восстанавливается исходное состояние журнала событий для источника ===== TEST SERVICE =====.
+Выполняется удаление сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Выполняется удаление источника EventLog ===== TEST SERVICE =====.
+Выполняется удаление службы ===== TEST SERVICE ===== из системы...
+Служба ===== TEST SERVICE ===== успешно удалена из системы.
+Попытка останова службы ===== TEST SERVICE =====.
+Выполняется установка сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Устанавливается служба ===== TEST SERVICE =====...
+Служба ===== TEST SERVICE ===== успешно установлена.
+Создается исходный EventLog ===== TEST SERVICE ===== в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Выполняется удаление источника EventLog ===== TEST SERVICE =====.
+Выполняется удаление службы ===== TEST SERVICE ===== из системы...
+Служба ===== TEST SERVICE ===== успешно удалена из системы.
+Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Installing service ===== TEST SERVICE =====...
+Creating EventLog source ===== TEST SERVICE ===== in log Application...
+Rolling back assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Restoring event log to previous state for source ===== TEST SERVICE =====.
+Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Installing service ===== TEST SERVICE =====...
+Creating EventLog source ===== TEST SERVICE ===== in log Application...
+Rolling back assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Restoring event log to previous state for source ===== TEST SERVICE =====.
+Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe assembly.
+Committing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe assembly.
+Uninstalling assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe assembly.
+Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe assembly.
+Committing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe assembly.
+Committing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Installing service ===== TEST SERVICE =====...
+Service ===== TEST SERVICE ===== has been successfully installed.
+Creating EventLog source ===== TEST SERVICE ===== in log Application...
+Committing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Uninstalling assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Removing EventLog source ===== TEST SERVICE =====.
+Service ===== TEST SERVICE ===== is being removed from the system...
+Service ===== TEST SERVICE ===== was successfully removed from the system.
+Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Installing service ===== TEST SERVICE =====...
+Service ===== TEST SERVICE ===== has been successfully installed.
+Creating EventLog source ===== TEST SERVICE ===== in log Application...
+Committing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Uninstalling assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Removing EventLog source ===== TEST SERVICE =====.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Removing EventLog source ===== TEST SERVICE =====.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Removing EventLog source ===== TEST SERVICE =====.
+Service ===== TEST SERVICE ===== is being removed from the system...
+Service ===== TEST SERVICE ===== was successfully removed from the system.
+Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Installing service ===== TEST SERVICE =====...
+Service ===== TEST SERVICE ===== has been successfully installed.
+Creating EventLog source ===== TEST SERVICE ===== in log Application...
+Committing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Uninstalling assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+Removing EventLog source ===== TEST SERVICE =====.
+Service ===== TEST SERVICE ===== is being removed from the system...
+Service ===== TEST SERVICE ===== was successfully removed from the system.

@@ -1,0 +1,7 @@
+D:\AsyncAwait\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+D:\AsyncAwait\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+D:\AsyncAwait\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\AsyncAwait\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\AsyncAwait\ConsoleApplication7\obj\Debug\007_Task_ReturnValue.csprojResolveAssemblyReference.cache
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+D:\CSProVideo\015 - AsyncAwait\AsyncAwait\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

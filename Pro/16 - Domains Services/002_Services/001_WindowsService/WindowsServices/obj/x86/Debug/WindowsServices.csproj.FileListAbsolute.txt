@@ -1,0 +1,27 @@
+D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.exe
+D:\WindowsServices\WindowsServices\bin\Debug\WindowsServices.pdb
+D:\WindowsServices\WindowsServices\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsServices\WindowsServices\obj\x86\Debug\WindowsServices.exe
+D:\WindowsServices\WindowsServices\obj\x86\Debug\WindowsServices.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\015 - Домены приложений. NT-службы\015  - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\ARCHIVE\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.exe
+D:\COURSES\CS\ARCHIVE\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.pdb
+D:\COURSES\CS\ARCHIVE\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+D:\COURSES\CS\ARCHIVE\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.pdb
+D:\COURSES\CS\ARCHIVE\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.exe
+D:\COURSES\CS\CS_Professional_RU\CS_Professional_RU\017 - Домены приложений. NT-службы\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.pdb
+D:\CSProVideo\016_Domains and NT Services\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.exe
+D:\CSProVideo\016_Domains and NT Services\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.pdb
+D:\CSProVideo\016_Domains and NT Services\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.exe
+D:\CSProVideo\016_Domains and NT Services\002_Services\001_WindowsService\WindowsServices\bin\Debug\WindowsServices.pdb
+D:\CSProVideo\016_Domains and NT Services\002_Services\001_WindowsService\WindowsServices\obj\x86\Debug\WindowsServices.csprojResolveAssemblyReference.cache

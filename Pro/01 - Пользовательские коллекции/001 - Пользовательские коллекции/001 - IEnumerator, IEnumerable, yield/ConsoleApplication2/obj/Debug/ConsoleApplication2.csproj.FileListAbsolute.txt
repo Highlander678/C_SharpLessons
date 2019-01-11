@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Cources\C# Professional\001 - Пользовательские коллекции\001 - Пользовательские коллекции\001 - IEnumerator, IEnumerable, yield\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

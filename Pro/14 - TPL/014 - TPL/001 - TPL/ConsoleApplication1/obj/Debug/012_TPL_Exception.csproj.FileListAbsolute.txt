@@ -1,0 +1,5 @@
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication1\obj\Debug\012_TPL_Exception.csprojResolveAssemblyReference.cache
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CSProVideo\014 - TPL\014 - TPL\001 - TPL\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

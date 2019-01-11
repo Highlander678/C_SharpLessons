@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ListOfBooks xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Book>
+    <Price>500</Price>
+    <Title FontSize="8">Title-1</Title>
+  </Book>
+  <Book>
+    <Price>1500</Price>
+    <Title FontSize="10">Title-2</Title>
+  </Book>
+</ListOfBooks>
