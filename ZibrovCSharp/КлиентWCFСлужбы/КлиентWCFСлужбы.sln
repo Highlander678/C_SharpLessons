@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "КлиентWCFСлужбы", "КлиентWCFСлужбы\КлиентWCFСлужбы.csproj", "{EBB7D5AA-DFA7-40F9-BFF2-F4863E6BF2FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB7D5AA-DFA7-40F9-BFF2-F4863E6BF2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB7D5AA-DFA7-40F9-BFF2-F4863E6BF2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB7D5AA-DFA7-40F9-BFF2-F4863E6BF2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB7D5AA-DFA7-40F9-BFF2-F4863E6BF2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

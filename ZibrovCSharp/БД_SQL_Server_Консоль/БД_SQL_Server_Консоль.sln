@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "БД_SQL_Server_Консоль", "БД_SQL_Server_Консоль\БД_SQL_Server_Консоль.csproj", "{477EBE3C-DA85-43CA-A8F6-153DF5791B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477EBE3C-DA85-43CA-A8F6-153DF5791B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477EBE3C-DA85-43CA-A8F6-153DF5791B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477EBE3C-DA85-43CA-A8F6-153DF5791B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477EBE3C-DA85-43CA-A8F6-153DF5791B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

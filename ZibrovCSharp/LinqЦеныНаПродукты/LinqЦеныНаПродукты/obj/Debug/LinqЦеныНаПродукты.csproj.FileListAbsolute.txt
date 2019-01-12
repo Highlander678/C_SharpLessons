@@ -1,0 +1,6 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqЦеныНаПродукты\bin\Debug\LinqЦеныНаПродукты.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqЦеныНаПродукты\bin\Debug\LinqЦеныНаПродукты.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqЦеныНаПродукты\bin\Debug\LinqЦеныНаПродукты.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqЦеныНаПродукты\obj\Debug\LinqЦеныНаПродукты.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqЦеныНаПродукты\obj\Debug\LinqЦеныНаПродукты.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqЦеныНаПродукты\obj\Debug\LinqЦеныНаПродукты.csprojResolveAssemblyReference.cache

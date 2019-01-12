@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\bin\Debug\ВебКлиентForex.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\bin\Debug\ВебКлиентForex.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\bin\Debug\ВебКлиентForex.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\obj\Debug\ВебКлиентForex.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\obj\Debug\ВебКлиентForex.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\obj\Debug\ВебКлиентForex.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\obj\Debug\ВебКлиентForex.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\obj\Debug\ВебКлиентForex.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентForex\obj\Debug\ВебКлиентForex.pdb

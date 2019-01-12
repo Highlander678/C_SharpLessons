@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfПроигрыватель.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="Сетка" Loaded="Сетка_Loaded">
+        <StackPanel x:Name="Ст1">
+        <MediaElement x:Name="Медиа" MediaEnded="Медиа_MediaEnded"/>
+        <StackPanel x:Name="Ст2">
+            <Button x:Name="Кн1" Content="Button" Click="Кн1_Click"/>
+            <Button x:Name="Кн2" Content="Button" Click="Кн2_Click"/>
+            <Button x:Name="Кн3" Content="Button" Click="Кн3_Click"/>
+            <TextBlock x:Name="ТБ"  Text="TextBlock"/>
+            <Slider x:Name="Сл" ValueChanged="Сл_ValueChanged"/>
+        </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

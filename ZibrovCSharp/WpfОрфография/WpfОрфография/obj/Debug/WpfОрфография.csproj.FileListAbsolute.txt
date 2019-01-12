@@ -1,0 +1,14 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfОрфография\bin\Debug\WpfОрфография.exe.config
+d:\_CS_11\WpfОрфография\WpfОрфография\bin\Debug\WpfОрфография.exe.config
+d:\_CS_11\WpfОрфография\WpfОрфография\bin\Debug\WpfОрфография.exe
+d:\_CS_11\WpfОрфография\WpfОрфография\bin\Debug\WpfОрфография.pdb
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\WpfОрфография.csprojResolveAssemblyReference.cache
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\MainWindow.baml
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\MainWindow.g.cs
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\App.g.cs
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\WpfОрфография_MarkupCompile.cache
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\WpfОрфография.g.resources
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\WpfОрфография.Properties.Resources.resources
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\WpfОрфография.csproj.GenerateResource.Cache
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\WpfОрфография.exe
+d:\_CS_11\WpfОрфография\WpfОрфография\obj\Debug\WpfОрфография.pdb

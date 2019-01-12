@@ -1,0 +1,17 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Split\bin\Debug\Split.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Split\obj\Debug\Split.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Split\obj\Debug\Split.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Split\obj\Debug\Split.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Split\bin\Debug\Split.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Split\bin\Debug\Split.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Split\obj\Debug\Split.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Split\obj\Debug\Split.pdb
+d:\_CS_11\Split\Split\bin\Debug\Split.exe.config
+d:\_CS_11\Split\Split\obj\Debug\Split.exe
+d:\_CS_11\Split\Split\obj\Debug\Split.pdb
+d:\_CS_11\Split\Split\bin\Debug\Split.exe
+d:\_CS_11\Split\Split\bin\Debug\Split.pdb
+d:\_CS_11\Split\Split\obj\Debug\Split.csprojResolveAssemblyReference.cache
+d:\_CS_11\Split\Split\obj\Debug\Split.Form1.resources
+d:\_CS_11\Split\Split\obj\Debug\Split.Properties.Resources.resources
+d:\_CS_11\Split\Split\obj\Debug\Split.csproj.GenerateResource.Cache

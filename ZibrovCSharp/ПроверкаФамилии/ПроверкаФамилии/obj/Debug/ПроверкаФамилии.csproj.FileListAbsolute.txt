@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаФамилии\bin\Debug\ПроверкаФамилии.exe.config
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\bin\Debug\ПроверкаФамилии.exe.config
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\bin\Debug\ПроверкаФамилии.exe
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\bin\Debug\ПроверкаФамилии.pdb
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\obj\Debug\ПроверкаФамилии.csprojResolveAssemblyReference.cache
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\obj\Debug\ПроверкаФамилии.Form1.resources
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\obj\Debug\ПроверкаФамилии.Properties.Resources.resources
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\obj\Debug\ПроверкаФамилии.csproj.GenerateResource.Cache
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\obj\Debug\ПроверкаФамилии.exe
+d:\_CS_11\ПроверкаФамилии\ПроверкаФамилии\obj\Debug\ПроверкаФамилии.pdb

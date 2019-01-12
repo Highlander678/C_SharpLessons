@@ -1,0 +1,5 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ConsoleMessageBox\bin\Debug\ConsoleMessageBox.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ConsoleMessageBox\bin\Debug\ConsoleMessageBox.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ConsoleMessageBox\bin\Debug\ConsoleMessageBox.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ConsoleMessageBox\obj\Debug\ConsoleMessageBox.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ConsoleMessageBox\obj\Debug\ConsoleMessageBox.pdb

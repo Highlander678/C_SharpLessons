@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаSaveBMP\bin\Debug\БуферОбменаSaveBMP.exe.config
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\bin\Debug\БуферОбменаSaveBMP.exe.config
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\obj\Debug\БуферОбменаSaveBMP.csprojResolveAssemblyReference.cache
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\obj\Debug\БуферОбменаSaveBMP.Form1.resources
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\obj\Debug\БуферОбменаSaveBMP.Properties.Resources.resources
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\obj\Debug\БуферОбменаSaveBMP.csproj.GenerateResource.Cache
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\bin\Debug\БуферОбменаSaveBMP.exe
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\bin\Debug\БуферОбменаSaveBMP.pdb
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\obj\Debug\БуферОбменаSaveBMP.exe
+d:\_CS_11\БуферОбменаSaveBMP\БуферОбменаSaveBMP\obj\Debug\БуферОбменаSaveBMP.pdb

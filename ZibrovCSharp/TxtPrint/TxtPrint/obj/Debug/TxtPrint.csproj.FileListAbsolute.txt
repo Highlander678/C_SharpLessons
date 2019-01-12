@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtPrint\bin\Debug\TxtPrint.exe.config
+d:\_CS_11\TxtPrint\TxtPrint\bin\Debug\TxtPrint.exe.config
+d:\_CS_11\TxtPrint\TxtPrint\bin\Debug\TxtPrint.exe
+d:\_CS_11\TxtPrint\TxtPrint\bin\Debug\TxtPrint.pdb
+d:\_CS_11\TxtPrint\TxtPrint\obj\Debug\TxtPrint.csprojResolveAssemblyReference.cache
+d:\_CS_11\TxtPrint\TxtPrint\obj\Debug\TxtPrint.Form1.resources
+d:\_CS_11\TxtPrint\TxtPrint\obj\Debug\TxtPrint.Properties.Resources.resources
+d:\_CS_11\TxtPrint\TxtPrint\obj\Debug\TxtPrint.csproj.GenerateResource.Cache
+d:\_CS_11\TxtPrint\TxtPrint\obj\Debug\TxtPrint.exe
+d:\_CS_11\TxtPrint\TxtPrint\obj\Debug\TxtPrint.pdb

@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Help\bin\Debug\Help.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Help\bin\Debug\Help.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Help\bin\Debug\Help.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Help\obj\Debug\Help.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Help\obj\Debug\Help.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Help\obj\Debug\Help.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Help\obj\Debug\Help.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Help\obj\Debug\Help.pdb

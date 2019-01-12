@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентMorpher\bin\Debug\ВебКлиентMorpher.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентMorpher\bin\Debug\ВебКлиентMorpher.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентMorpher\bin\Debug\ВебКлиентMorpher.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентMorpher\obj\Debug\ВебКлиентMorpher.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентMorpher\obj\Debug\ВебКлиентMorpher.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентMorpher\obj\Debug\ВебКлиентMorpher.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентMorpher\obj\Debug\ВебКлиентMorpher.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентMorpher\obj\Debug\ВебКлиентMorpher.pdb

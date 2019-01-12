@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="WpfПереходы.exe" publicKeyToken="ba2fab87dd17af2d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WpfПереходы" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="WpfПереходы.exe" parameters="" />
+    <hostInBrowser xmlns="urn:schemas-microsoft-com:asm.v3" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="Internet" Description="Default rights given to Internet applications" ID="Custom" SameSite="site">
+          <IPermission version="1" class="System.Security.Permissions.FileDialogPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Access="Open" />
+          <IPermission UserQuota="1024000" version="1" class="System.Security.Permissions.IsolatedStorageFilePermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Allowed="ApplicationIsolationByUser" />
+          <IPermission version="1" class="System.Security.Permissions.SecurityPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Flags="Execution" />
+          <IPermission version="1" class="System.Security.Permissions.UIPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Clipboard="OwnClipboard" Window="SafeTopLevelWindows" />
+          <IPermission version="1" class="System.Drawing.Printing.PrintingPermission, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Level="SafePrinting" />
+          <IPermission version="1" class="System.Security.Permissions.MediaPermission, WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Audio="SafeAudio" Image="SafeImage" Video="SafeVideo" />
+          <IPermission version="1" class="System.Security.Permissions.WebBrowserPermission, WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Level="Safe" />
+        </PermissionSet>
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WpfПереходы.exe" size="14336">
+      <assemblyIdentity name="WpfПереходы" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>P2jnSNP3JkWLV96qvwZakzr3HWihPyoVRL+wqTQYXQg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Vic\Вик" issuerKeyHash="ec163f2497dde9ac2947b4c0fc26edb37edc6a18" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7YF1Jo3kpQPhKTiZYw6amkWyvZI=</DigestValue></Reference></SignedInfo><SignatureValue>YhQbG4o3Gd9zqAGZonWbHEMAdjoXV8Y6WkFrtQHDg5JDRDm1CsdjdHdWKNaKUlhpFV8RJnSXxMkwi3mVKWEpyetxM9q3hAlhhNxNZxtVgNXTZxPLErHqw87N18jo7+tRihFVuCi9Ou6aXwxjiDu1BvzkFjKfscijQ+yaHYO8tYw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rMUPJKrRn/4oVM1AgoIDv4VXEosqaFNt5ebktzwc7yJd6IGia1BV/8BL63m25q8J6r06KYOq+eQ63ouBeHlXjQhZjcyHcKDzFlg5RBipmew08NXfKQLz8q5P8pmYGzZSKNVpQGnex0pJ2qstSNVbvqSTRbd+ez5r8lfmDJoRBCc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1bd9e8ebb617442b100a830111a8c5be18da2cdbd44d2b5d2ddf0aeba5cc8390" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="WpfПереходы.exe" publicKeyToken="ba2fab87dd17af2d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Vic\Вик</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>WkJws65GTp1NlnrDSRJAOIbj84U=</DigestValue></Reference></SignedInfo><SignatureValue>Ax4Lm4+eYoFvzxLq1kb03/9AeKHuTUmRYuWQHuYKlB7ipHmybi9O7Vpi6GoqoZblSr8fVC7H895+nUIcjeZf8lpJgv0eSpO6nmYlufZ3dd06KFCzrQk5lmxY1FomMS2SpMw9TmnL0zXC8maDks97UhRVHhO+9He/DeNE2y1vyGw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>kulB2Eh++bL/UKhaih7vK6IlqSezswH/KlieeNDf8sBp347apnqtCVyLRjvyC5G240mWVBqwShalzjTEBuyiL4IysffYcyi5/NRRhEP8AEov9lILL2C9wKQ5rHiDdPY6Bvq2vTN3LcCNtTdvtPERwtaxl1HLhXFODJtK79G2x8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBtTCCAR6gAwIBAgIQQ3QPi0ZkY6ZNcvAcaIsytTANBgkqhkiG9w0BAQUFADAZMRcwFQYDVQQDHg4AVgBpAGMAXAQSBDgEOjAeFw0xMjA1MTAxNDQ0NTNaFw0xMzA1MTAyMDQ0NTNaMBkxFzAVBgNVBAMeDgBWAGkAYwBcBBIEOAQ6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsxQ8kqtGf/ihUzUCCggO/hVcSiypoU23l5uS3PBzvIl3ogaJrUFX/wEvrebbmrwnqvTopg6r55Drei4F4eVeNCFmNzIdwoPMWWDlEGKmZ7DTw1d8pAvPyrk/ymZgbNlIo1WlAad7HSknaqy1I1Vu+pJNFt357PmvyV+YMmhEEJwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAI46f/ZUqYl8OI3PZgi0UVSw36msqfGvf6r5KrE+7wAMLRnArbZv7NfbSn+gBC1AW8R1Q6srsvbOq2pQPCFl5qx+EIt9wgGmFrHpw3mHlTnCWlbqMpi0Qc6fph3OHy9fDGyLnPmBwlO3AJFp6D6UftKD1eZnNqb3lEclkwMVI0ec</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

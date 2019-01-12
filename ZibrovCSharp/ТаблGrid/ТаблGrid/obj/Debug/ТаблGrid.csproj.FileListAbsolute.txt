@@ -1,0 +1,16 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблGrid\bin\Debug\ТаблGrid.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблGrid\bin\Debug\ТаблGrid.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблGrid\bin\Debug\ТаблGrid.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблGrid\obj\Debug\ТаблGrid.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблGrid\obj\Debug\ТаблGrid.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблGrid\obj\Debug\ТаблGrid.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблGrid\obj\Debug\ТаблGrid.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблGrid\obj\Debug\ТаблGrid.pdb
+d:\_CS_11\ТаблGrid\ТаблGrid\bin\Debug\ТаблGrid.exe.config
+d:\_CS_11\ТаблGrid\ТаблGrid\obj\Debug\ТаблGrid.exe
+d:\_CS_11\ТаблGrid\ТаблGrid\obj\Debug\ТаблGrid.pdb
+d:\_CS_11\ТаблGrid\ТаблGrid\bin\Debug\ТаблGrid.exe
+d:\_CS_11\ТаблGrid\ТаблGrid\bin\Debug\ТаблGrid.pdb
+d:\_CS_11\ТаблGrid\ТаблGrid\obj\Debug\ТаблGrid.Form1.resources
+d:\_CS_11\ТаблGrid\ТаблGrid\obj\Debug\ТаблGrid.Properties.Resources.resources
+d:\_CS_11\ТаблGrid\ТаблGrid\obj\Debug\ТаблGrid.csproj.GenerateResource.Cache

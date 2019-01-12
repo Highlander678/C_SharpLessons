@@ -1,0 +1,6 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискXmlЭлемента2\bin\Debug\ПоискXmlЭлемента2.exe.config
+d:\_CS_11\ПоискXmlЭлемента2\ПоискXmlЭлемента2\bin\Debug\ПоискXmlЭлемента2.exe.config
+d:\_CS_11\ПоискXmlЭлемента2\ПоискXmlЭлемента2\bin\Debug\ПоискXmlЭлемента2.exe
+d:\_CS_11\ПоискXmlЭлемента2\ПоискXmlЭлемента2\bin\Debug\ПоискXmlЭлемента2.pdb
+d:\_CS_11\ПоискXmlЭлемента2\ПоискXmlЭлемента2\obj\Debug\ПоискXmlЭлемента2.exe
+d:\_CS_11\ПоискXmlЭлемента2\ПоискXmlЭлемента2\obj\Debug\ПоискXmlЭлемента2.pdb

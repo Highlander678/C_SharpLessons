@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Создать_PDF_граф_2", "Создать_PDF_граф_2\Создать_PDF_граф_2.csproj", "{72E1C064-AD6F-46AA-ACDB-C13178DD2389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E1C064-AD6F-46AA-ACDB-C13178DD2389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E1C064-AD6F-46AA-ACDB-C13178DD2389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E1C064-AD6F-46AA-ACDB-C13178DD2389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E1C064-AD6F-46AA-ACDB-C13178DD2389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

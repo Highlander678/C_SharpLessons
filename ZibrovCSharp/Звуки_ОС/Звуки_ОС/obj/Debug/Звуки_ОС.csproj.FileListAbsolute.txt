@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Звуки_ОС\bin\Debug\Звуки_ОС.exe.config
+d:\_CS_11\Звуки_ОС\Звуки_ОС\bin\Debug\Звуки_ОС.exe.config
+d:\_CS_11\Звуки_ОС\Звуки_ОС\bin\Debug\Звуки_ОС.exe
+d:\_CS_11\Звуки_ОС\Звуки_ОС\bin\Debug\Звуки_ОС.pdb
+d:\_CS_11\Звуки_ОС\Звуки_ОС\obj\Debug\Звуки_ОС.Form1.resources
+d:\_CS_11\Звуки_ОС\Звуки_ОС\obj\Debug\Звуки_ОС.Properties.Resources.resources
+d:\_CS_11\Звуки_ОС\Звуки_ОС\obj\Debug\Звуки_ОС.csproj.GenerateResource.Cache
+d:\_CS_11\Звуки_ОС\Звуки_ОС\obj\Debug\Звуки_ОС.exe
+d:\_CS_11\Звуки_ОС\Звуки_ОС\obj\Debug\Звуки_ОС.pdb

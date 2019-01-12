@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Корень\bin\Debug\Корень.exe.config
+d:\_CS_11\Корень\Корень\bin\Debug\Корень.exe.config
+d:\_CS_11\Корень\Корень\bin\Debug\Корень.exe
+d:\_CS_11\Корень\Корень\bin\Debug\Корень.pdb
+d:\_CS_11\Корень\Корень\obj\Debug\Корень.Form1.resources
+d:\_CS_11\Корень\Корень\obj\Debug\Корень.Properties.Resources.resources
+d:\_CS_11\Корень\Корень\obj\Debug\Корень.csproj.GenerateResource.Cache
+d:\_CS_11\Корень\Корень\obj\Debug\Корень.exe
+d:\_CS_11\Корень\Корень\obj\Debug\Корень.pdb

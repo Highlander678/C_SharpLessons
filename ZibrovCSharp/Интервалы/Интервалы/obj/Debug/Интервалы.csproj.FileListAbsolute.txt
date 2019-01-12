@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Интервалы\bin\Debug\Интервалы.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Интервалы\obj\Debug\Интервалы.csprojResolveAssemblyReference.cache
+d:\_CS_11\Интервалы\Интервалы\bin\Debug\Интервалы.exe.config
+d:\_CS_11\Интервалы\Интервалы\obj\Debug\Интервалы.csprojResolveAssemblyReference.cache
+d:\_CS_11\Интервалы\Интервалы\bin\Debug\Интервалы.exe
+d:\_CS_11\Интервалы\Интервалы\bin\Debug\Интервалы.pdb
+d:\_CS_11\Интервалы\Интервалы\obj\Debug\Интервалы.exe
+d:\_CS_11\Интервалы\Интервалы\obj\Debug\Интервалы.pdb

@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблВвод\bin\Debug\ТаблВвод.exe.config
+d:\_CS_11\ТаблВвод\ТаблВвод\bin\Debug\ТаблВвод.exe.config
+d:\_CS_11\ТаблВвод\ТаблВвод\bin\Debug\ТаблВвод.exe
+d:\_CS_11\ТаблВвод\ТаблВвод\bin\Debug\ТаблВвод.pdb
+d:\_CS_11\ТаблВвод\ТаблВвод\obj\Debug\ТаблВвод.csprojResolveAssemblyReference.cache
+d:\_CS_11\ТаблВвод\ТаблВвод\obj\Debug\ТаблВвод.Form1.resources
+d:\_CS_11\ТаблВвод\ТаблВвод\obj\Debug\ТаблВвод.Properties.Resources.resources
+d:\_CS_11\ТаблВвод\ТаблВвод\obj\Debug\ТаблВвод.csproj.GenerateResource.Cache
+d:\_CS_11\ТаблВвод\ТаблВвод\obj\Debug\ТаблВвод.exe
+d:\_CS_11\ТаблВвод\ТаблВвод\obj\Debug\ТаблВвод.pdb

@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\НоваяКнопка\bin\Debug\НоваяКнопка.exe.config
+d:\_CS_11\НоваяКнопка\НоваяКнопка\bin\Debug\НоваяКнопка.exe.config
+d:\_CS_11\НоваяКнопка\НоваяКнопка\bin\Debug\НоваяКнопка.exe
+d:\_CS_11\НоваяКнопка\НоваяКнопка\bin\Debug\НоваяКнопка.pdb
+d:\_CS_11\НоваяКнопка\НоваяКнопка\obj\Debug\НоваяКнопка.Form1.resources
+d:\_CS_11\НоваяКнопка\НоваяКнопка\obj\Debug\НоваяКнопка.Properties.Resources.resources
+d:\_CS_11\НоваяКнопка\НоваяКнопка\obj\Debug\НоваяКнопка.csproj.GenerateResource.Cache
+d:\_CS_11\НоваяКнопка\НоваяКнопка\obj\Debug\НоваяКнопка.exe
+d:\_CS_11\НоваяКнопка\НоваяКнопка\obj\Debug\НоваяКнопка.pdb
+d:\_CS_11\НоваяКнопка\НоваяКнопка\obj\Debug\НоваяКнопка.csprojResolveAssemblyReference.cache

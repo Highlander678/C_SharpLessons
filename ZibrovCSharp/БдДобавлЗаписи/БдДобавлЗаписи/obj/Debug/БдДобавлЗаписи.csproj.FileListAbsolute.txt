@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БдДобавлЗаписи\bin\Debug\БдДобавлЗаписи.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\БдДобавлЗаписи\bin\Debug\БдДобавлЗаписи.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БдДобавлЗаписи\bin\Debug\БдДобавлЗаписи.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\БдДобавлЗаписи\obj\Debug\БдДобавлЗаписи.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БдДобавлЗаписи\obj\Debug\БдДобавлЗаписи.pdb
+d:\_CS_11\БдДобавлЗаписи\БдДобавлЗаписи\bin\Debug\БдДобавлЗаписи.exe.config
+d:\_CS_11\БдДобавлЗаписи\БдДобавлЗаписи\obj\Debug\БдДобавлЗаписи.exe
+d:\_CS_11\БдДобавлЗаписи\БдДобавлЗаписи\obj\Debug\БдДобавлЗаписи.pdb
+d:\_CS_11\БдДобавлЗаписи\БдДобавлЗаписи\bin\Debug\БдДобавлЗаписи.exe
+d:\_CS_11\БдДобавлЗаписи\БдДобавлЗаписи\bin\Debug\БдДобавлЗаписи.pdb

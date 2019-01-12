@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПростоTimer\bin\Debug\ПростоTimer.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ПростоTimer\bin\Debug\ПростоTimer.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПростоTimer\bin\Debug\ПростоTimer.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ПростоTimer\obj\Debug\ПростоTimer.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПростоTimer\obj\Debug\ПростоTimer.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПростоTimer\obj\Debug\ПростоTimer.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ПростоTimer\obj\Debug\ПростоTimer.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПростоTimer\obj\Debug\ПростоTimer.pdb

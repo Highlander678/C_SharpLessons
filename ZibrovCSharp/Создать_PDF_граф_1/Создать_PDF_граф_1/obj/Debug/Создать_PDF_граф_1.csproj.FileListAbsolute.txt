@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_граф_1\bin\Debug\Создать_PDF_граф_1.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_граф_1\bin\Debug\Создать_PDF_граф_1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_граф_1\bin\Debug\Создать_PDF_граф_1.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_граф_1\bin\Debug\itextsharp.dll
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_граф_1\obj\Debug\Создать_PDF_граф_1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_граф_1\obj\Debug\Создать_PDF_граф_1.pdb
+d:\_CS_11\Создать_PDF_граф_1\Создать_PDF_граф_1\bin\Debug\Создать_PDF_граф_1.exe.config
+d:\_CS_11\Создать_PDF_граф_1\Создать_PDF_граф_1\obj\Debug\Создать_PDF_граф_1.exe
+d:\_CS_11\Создать_PDF_граф_1\Создать_PDF_граф_1\obj\Debug\Создать_PDF_граф_1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаСумма\ВебСлужбаСумма\bin\ВебСлужбаСумма.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаСумма\ВебСлужбаСумма\bin\ВебСлужбаСумма.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаСумма\ВебСлужбаСумма\obj\Debug\ВебСлужбаСумма.csprojResolveAssemblyReference.cache
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаСумма\ВебСлужбаСумма\obj\Debug\ВебСлужбаСумма.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаСумма\ВебСлужбаСумма\obj\Debug\ВебСлужбаСумма.pdb
+d:\_CS_11\ВебСлужбаСумма\ВебСлужбаСумма\bin\ВебСлужбаСумма.dll
+d:\_CS_11\ВебСлужбаСумма\ВебСлужбаСумма\bin\ВебСлужбаСумма.pdb
+d:\_CS_11\ВебСлужбаСумма\ВебСлужбаСумма\obj\Debug\ВебСлужбаСумма.csprojResolveAssemblyReference.cache
+d:\_CS_11\ВебСлужбаСумма\ВебСлужбаСумма\obj\Debug\ВебСлужбаСумма.dll
+d:\_CS_11\ВебСлужбаСумма\ВебСлужбаСумма\obj\Debug\ВебСлужбаСумма.pdb

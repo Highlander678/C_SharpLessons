@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ACADЭлементарныйЧертеж\bin\Debug\ACADЭлементарныйЧертеж.exe.config
+d:\_CS_11\ACADЭлементарныйЧертеж\ACADЭлементарныйЧертеж\bin\Debug\ACADЭлементарныйЧертеж.exe.config
+d:\_CS_11\ACADЭлементарныйЧертеж\ACADЭлементарныйЧертеж\obj\Debug\ACADЭлементарныйЧертеж.csproj.ResolveComReference.cache
+d:\_CS_11\ACADЭлементарныйЧертеж\ACADЭлементарныйЧертеж\bin\Debug\ACADЭлементарныйЧертеж.exe
+d:\_CS_11\ACADЭлементарныйЧертеж\ACADЭлементарныйЧертеж\bin\Debug\ACADЭлементарныйЧертеж.pdb
+d:\_CS_11\ACADЭлементарныйЧертеж\ACADЭлементарныйЧертеж\obj\Debug\ACADЭлементарныйЧертеж.csprojResolveAssemblyReference.cache
+d:\_CS_11\ACADЭлементарныйЧертеж\ACADЭлементарныйЧертеж\obj\Debug\ACADЭлементарныйЧертеж.exe
+d:\_CS_11\ACADЭлементарныйЧертеж\ACADЭлементарныйЧертеж\obj\Debug\ACADЭлементарныйЧертеж.pdb

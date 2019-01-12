@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Комби\bin\Debug\Комби.exe.config
+d:\_CS_11\Комби\Комби\bin\Debug\Комби.exe.config
+d:\_CS_11\Комби\Комби\bin\Debug\Комби.exe
+d:\_CS_11\Комби\Комби\bin\Debug\Комби.pdb
+d:\_CS_11\Комби\Комби\obj\Debug\Комби.csprojResolveAssemblyReference.cache
+d:\_CS_11\Комби\Комби\obj\Debug\Комби.Form1.resources
+d:\_CS_11\Комби\Комби\obj\Debug\Комби.Properties.Resources.resources
+d:\_CS_11\Комби\Комби\obj\Debug\Комби.csproj.GenerateResource.Cache
+d:\_CS_11\Комби\Комби\obj\Debug\Комби.exe
+d:\_CS_11\Комби\Комби\obj\Debug\Комби.pdb

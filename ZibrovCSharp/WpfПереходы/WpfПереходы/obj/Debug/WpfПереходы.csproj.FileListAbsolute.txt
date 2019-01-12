@@ -1,0 +1,34 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\bin\Debug\WpfПереходы.exe.manifest
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\bin\Debug\WpfПереходы.xbap
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\bin\Debug\WpfПереходы.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\bin\Debug\WpfПереходы.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\Page1.baml
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\Page1.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\App.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы_MarkupCompile.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы.g.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы.TrustInfo.xml
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы.exe.manifest
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы.xbap
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПереходы\obj\Debug\WpfПереходы.pdb
+d:\_CS_11\WpfПереходы\WpfПереходы\bin\Debug\WpfПереходы.exe.manifest
+d:\_CS_11\WpfПереходы\WpfПереходы\bin\Debug\WpfПереходы.xbap
+d:\_CS_11\WpfПереходы\WpfПереходы\bin\Debug\WpfПереходы.exe
+d:\_CS_11\WpfПереходы\WpfПереходы\bin\Debug\WpfПереходы.pdb
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\Page1.baml
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\Page1.g.cs
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\App.g.cs
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы_MarkupCompile.cache
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы.g.resources
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы.Properties.Resources.resources
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы.csproj.GenerateResource.Cache
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы.TrustInfo.xml
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы.exe.manifest
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы.xbap
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы.exe
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\WpfПереходы.pdb
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\Page2.baml
+d:\_CS_11\WpfПереходы\WpfПереходы\obj\Debug\Page2.g.cs

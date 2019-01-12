@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\FlashWeb\bin\Debug\FlashWeb.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\FlashWeb\bin\Debug\FlashWeb.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\FlashWeb\bin\Debug\FlashWeb.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\FlashWeb\obj\Debug\FlashWeb.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\FlashWeb\obj\Debug\FlashWeb.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\FlashWeb\obj\Debug\FlashWeb.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\FlashWeb\obj\Debug\FlashWeb.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\FlashWeb\obj\Debug\FlashWeb.pdb

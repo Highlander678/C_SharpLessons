@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqСписок\bin\Debug\LinqСписок.exe.config
+d:\_CS_11\LinqСписок\LinqСписок\bin\Debug\LinqСписок.exe.config
+d:\_CS_11\LinqСписок\LinqСписок\obj\Debug\LinqСписок.csprojResolveAssemblyReference.cache
+d:\_CS_11\LinqСписок\LinqСписок\obj\Debug\LinqСписок.Form1.resources
+d:\_CS_11\LinqСписок\LinqСписок\obj\Debug\LinqСписок.Properties.Resources.resources
+d:\_CS_11\LinqСписок\LinqСписок\obj\Debug\LinqСписок.csproj.GenerateResource.Cache
+d:\_CS_11\LinqСписок\LinqСписок\bin\Debug\LinqСписок.exe
+d:\_CS_11\LinqСписок\LinqСписок\bin\Debug\LinqСписок.pdb
+d:\_CS_11\LinqСписок\LinqСписок\obj\Debug\LinqСписок.exe
+d:\_CS_11\LinqСписок\LinqСписок\obj\Debug\LinqСписок.pdb

@@ -1,0 +1,16 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблWebHTM\bin\Debug\ТаблWebHTM.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблWebHTM\obj\Debug\ТаблWebHTM.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблWebHTM\obj\Debug\ТаблWebHTM.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблWebHTM\obj\Debug\ТаблWebHTM.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблWebHTM\bin\Debug\ТаблWebHTM.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблWebHTM\bin\Debug\ТаблWebHTM.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблWebHTM\obj\Debug\ТаблWebHTM.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблWebHTM\obj\Debug\ТаблWebHTM.pdb
+d:\_CS_11\ТаблWebHTM\ТаблWebHTM\bin\Debug\ТаблWebHTM.exe.config
+d:\_CS_11\ТаблWebHTM\ТаблWebHTM\obj\Debug\ТаблWebHTM.exe
+d:\_CS_11\ТаблWebHTM\ТаблWebHTM\obj\Debug\ТаблWebHTM.pdb
+d:\_CS_11\ТаблWebHTM\ТаблWebHTM\obj\Debug\ТаблWebHTM.Form1.resources
+d:\_CS_11\ТаблWebHTM\ТаблWebHTM\obj\Debug\ТаблWebHTM.Properties.Resources.resources
+d:\_CS_11\ТаблWebHTM\ТаблWebHTM\obj\Debug\ТаблWebHTM.csproj.GenerateResource.Cache
+d:\_CS_11\ТаблWebHTM\ТаблWebHTM\bin\Debug\ТаблWebHTM.exe
+d:\_CS_11\ТаблWebHTM\ТаблWebHTM\bin\Debug\ТаблWebHTM.pdb

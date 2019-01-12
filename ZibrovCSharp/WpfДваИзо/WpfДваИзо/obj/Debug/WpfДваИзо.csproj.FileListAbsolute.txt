@@ -1,0 +1,16 @@
+d:\_CS_11\WpfДваИзо\WpfДваИзо\bin\Debug\WpfДваИзо.exe.manifest
+d:\_CS_11\WpfДваИзо\WpfДваИзо\bin\Debug\WpfДваИзо.xbap
+d:\_CS_11\WpfДваИзо\WpfДваИзо\bin\Debug\WpfДваИзо.exe
+d:\_CS_11\WpfДваИзо\WpfДваИзо\bin\Debug\WpfДваИзо.pdb
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\Page1.baml
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\Page1.g.cs
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\App.g.cs
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо_MarkupCompile.cache
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо.g.resources
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо.Properties.Resources.resources
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо.csproj.GenerateResource.Cache
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо.TrustInfo.xml
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо.exe.manifest
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо.xbap
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо.exe
+d:\_CS_11\WpfДваИзо\WpfДваИзо\obj\Debug\WpfДваИзо.pdb

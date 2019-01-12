@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\bin\Debug\ExcelПи.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\bin\Debug\ExcelПи.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\bin\Debug\ExcelПи.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\obj\Debug\ExcelПи.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\obj\Debug\ExcelПи.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\obj\Debug\ExcelПи.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\obj\Debug\ExcelПи.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\obj\Debug\ExcelПи.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПи\obj\Debug\ExcelПи.pdb

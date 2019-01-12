@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БдАдаптерGridView\bin\Debug\БдАдаптерGridView.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\БдАдаптерGridView\bin\Debug\БдАдаптерGridView.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БдАдаптерGridView\bin\Debug\БдАдаптерGridView.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\БдАдаптерGridView\obj\Debug\БдАдаптерGridView.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\БдАдаптерGridView\obj\Debug\БдАдаптерGridView.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\БдАдаптерGridView\obj\Debug\БдАдаптерGridView.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БдАдаптерGridView\obj\Debug\БдАдаптерGridView.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БдАдаптерGridView\obj\Debug\БдАдаптерGridView.pdb

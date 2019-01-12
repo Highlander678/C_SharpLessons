@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\bin\Debug\Орфография1.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\bin\Debug\Орфография1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\bin\Debug\Орфография1.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\obj\Debug\Орфография1.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\obj\Debug\Орфография1.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\obj\Debug\Орфография1.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\obj\Debug\Орфография1.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\obj\Debug\Орфография1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Орфография1\obj\Debug\Орфография1.pdb

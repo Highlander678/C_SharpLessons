@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\bin\Debug\ВводКаталогаКоординат.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\bin\Debug\ВводКаталогаКоординат.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\bin\Debug\ВводКаталогаКоординат.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.pdb
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\bin\Debug\ВводКаталогаКоординат.exe.config
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.exe
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.pdb
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\bin\Debug\ВводКаталогаКоординат.exe
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\bin\Debug\ВводКаталогаКоординат.pdb
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.csprojResolveAssemblyReference.cache
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.Form1.resources
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.Properties.Resources.resources
+d:\_CS_11\ВводКаталогаКоординат\ВводКаталогаКоординат\obj\Debug\ВводКаталогаКоординат.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\bin\Debug\Вкладки.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\obj\Debug\Вкладки.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\obj\Debug\Вкладки.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\obj\Debug\Вкладки.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\obj\Debug\Вкладки.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\bin\Debug\Вкладки.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\bin\Debug\Вкладки.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\obj\Debug\Вкладки.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Вкладки\obj\Debug\Вкладки.pdb
+d:\_CS_11\Вкладки\Вкладки\bin\Debug\Вкладки.exe.config
+d:\_CS_11\Вкладки\Вкладки\obj\Debug\Вкладки.exe
+d:\_CS_11\Вкладки\Вкладки\obj\Debug\Вкладки.pdb
+d:\_CS_11\Вкладки\Вкладки\bin\Debug\Вкладки.exe
+d:\_CS_11\Вкладки\Вкладки\bin\Debug\Вкладки.pdb
+d:\_CS_11\Вкладки\Вкладки\obj\Debug\Вкладки.csprojResolveAssemblyReference.cache
+d:\_CS_11\Вкладки\Вкладки\obj\Debug\Вкладки.Form1.resources
+d:\_CS_11\Вкладки\Вкладки\obj\Debug\Вкладки.Properties.Resources.resources
+d:\_CS_11\Вкладки\Вкладки\obj\Debug\Вкладки.csproj.GenerateResource.Cache

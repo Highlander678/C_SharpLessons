@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqЦеныНаПродукты", "LinqЦеныНаПродукты\LinqЦеныНаПродукты.csproj", "{D3BD9CF6-245C-4262-A70C-1F762C460188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BD9CF6-245C-4262-A70C-1F762C460188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BD9CF6-245C-4262-A70C-1F762C460188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BD9CF6-245C-4262-A70C-1F762C460188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BD9CF6-245C-4262-A70C-1F762C460188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

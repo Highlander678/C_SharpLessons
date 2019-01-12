@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискСтрокВXml\bin\Debug\ПоискСтрокВXml.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискСтрокВXml\bin\Debug\ПоискСтрокВXml.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискСтрокВXml\bin\Debug\ПоискСтрокВXml.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискСтрокВXml\obj\Debug\ПоискСтрокВXml.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискСтрокВXml\obj\Debug\ПоискСтрокВXml.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискСтрокВXml\obj\Debug\ПоискСтрокВXml.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискСтрокВXml\obj\Debug\ПоискСтрокВXml.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПоискСтрокВXml\obj\Debug\ПоискСтрокВXml.pdb

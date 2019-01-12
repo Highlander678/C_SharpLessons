@@ -1,0 +1,5 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблКорней\bin\Debug\ТаблКорней.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблКорней\bin\Debug\ТаблКорней.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблКорней\bin\Debug\ТаблКорней.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблКорней\obj\Debug\ТаблКорней.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблКорней\obj\Debug\ТаблКорней.pdb

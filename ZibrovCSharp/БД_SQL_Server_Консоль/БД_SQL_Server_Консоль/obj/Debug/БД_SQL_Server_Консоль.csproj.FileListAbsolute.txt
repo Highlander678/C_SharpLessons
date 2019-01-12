@@ -1,0 +1,7 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БД_SQL_Server_Консоль\bin\Debug\БД_SQL_Server_Консоль.exe.config
+d:\_CS_11\БД_SQL_Server_Консоль\БД_SQL_Server_Консоль\bin\Debug\БД_SQL_Server_Консоль.exe.config
+d:\_CS_11\БД_SQL_Server_Консоль\БД_SQL_Server_Консоль\bin\Debug\БД_SQL_Server_Консоль.exe
+d:\_CS_11\БД_SQL_Server_Консоль\БД_SQL_Server_Консоль\bin\Debug\БД_SQL_Server_Консоль.pdb
+d:\_CS_11\БД_SQL_Server_Консоль\БД_SQL_Server_Консоль\obj\Debug\БД_SQL_Server_Консоль.csprojResolveAssemblyReference.cache
+d:\_CS_11\БД_SQL_Server_Консоль\БД_SQL_Server_Консоль\obj\Debug\БД_SQL_Server_Консоль.exe
+d:\_CS_11\БД_SQL_Server_Консоль\БД_SQL_Server_Консоль\obj\Debug\БД_SQL_Server_Консоль.pdb

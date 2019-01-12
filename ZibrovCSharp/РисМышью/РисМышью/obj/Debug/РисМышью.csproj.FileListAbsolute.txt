@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\bin\Debug\РисМышью.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\bin\Debug\РисМышью.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\bin\Debug\РисМышью.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\obj\Debug\РисМышью.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\obj\Debug\РисМышью.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\obj\Debug\РисМышью.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\obj\Debug\РисМышью.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\obj\Debug\РисМышью.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\РисМышью\obj\Debug\РисМышью.pdb
+d:\_CS_11\РисМышью\РисМышью\bin\Debug\РисМышью.exe.config
+d:\_CS_11\РисМышью\РисМышью\obj\Debug\РисМышью.exe
+d:\_CS_11\РисМышью\РисМышью\obj\Debug\РисМышью.pdb
+d:\_CS_11\РисМышью\РисМышью\bin\Debug\РисМышью.exe
+d:\_CS_11\РисМышью\РисМышью\bin\Debug\РисМышью.pdb
+d:\_CS_11\РисМышью\РисМышью\obj\Debug\РисМышью.csprojResolveAssemblyReference.cache
+d:\_CS_11\РисМышью\РисМышью\obj\Debug\РисМышью.Form1.resources
+d:\_CS_11\РисМышью\РисМышью\obj\Debug\РисМышью.Properties.Resources.resources
+d:\_CS_11\РисМышью\РисМышью\obj\Debug\РисМышью.csproj.GenerateResource.Cache

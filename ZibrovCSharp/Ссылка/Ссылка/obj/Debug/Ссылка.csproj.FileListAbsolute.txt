@@ -1,0 +1,8 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Ссылка\Ссылка\bin\Ссылка.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Ссылка\Ссылка\bin\Ссылка.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Ссылка\Ссылка\obj\Debug\Ссылка.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Ссылка\Ссылка\obj\Debug\Ссылка.pdb
+d:\_CS_11\Ссылка\Ссылка\bin\Ссылка.dll
+d:\_CS_11\Ссылка\Ссылка\bin\Ссылка.pdb
+d:\_CS_11\Ссылка\Ссылка\obj\Debug\Ссылка.dll
+d:\_CS_11\Ссылка\Ссылка\obj\Debug\Ссылка.pdb

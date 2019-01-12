@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\First\bin\Debug\First.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\First\bin\Debug\First.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\First\bin\Debug\First.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\First\obj\Debug\First.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\First\obj\Debug\First.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\First\obj\Debug\First.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\First\obj\Debug\First.pdb
+d:\_CS_11\First\First\bin\Debug\First.exe.config
+d:\_CS_11\First\First\obj\Debug\First.exe
+d:\_CS_11\First\First\obj\Debug\First.pdb
+d:\_CS_11\First\First\bin\Debug\First.exe
+d:\_CS_11\First\First\bin\Debug\First.pdb
+d:\_CS_11\First\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+d:\_CS_11\First\First\obj\Debug\First.Form1.resources
+d:\_CS_11\First\First\obj\Debug\First.Properties.Resources.resources
+d:\_CS_11\First\First\obj\Debug\First.csproj.GenerateResource.Cache

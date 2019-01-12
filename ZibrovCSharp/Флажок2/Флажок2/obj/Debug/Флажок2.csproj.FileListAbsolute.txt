@@ -1,0 +1,11 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок2\bin\Debug\Флажок2.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок2\obj\Debug\Флажок2.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок2\obj\Debug\Флажок2.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок2\obj\Debug\Флажок2.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок2\bin\Debug\Флажок2.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок2\bin\Debug\Флажок2.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок2\obj\Debug\Флажок2.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок2\obj\Debug\Флажок2.pdb
+d:\_CS_11\Флажок2\Флажок2\bin\Debug\Флажок2.exe.config
+d:\_CS_11\Флажок2\Флажок2\obj\Debug\Флажок2.exe
+d:\_CS_11\Флажок2\Флажок2\obj\Debug\Флажок2.pdb

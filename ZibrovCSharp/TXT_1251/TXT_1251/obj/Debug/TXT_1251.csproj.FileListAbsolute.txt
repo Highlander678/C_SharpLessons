@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\bin\Debug\TXT_1251.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\bin\Debug\TXT_1251.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\bin\Debug\TXT_1251.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\obj\Debug\TXT_1251.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\obj\Debug\TXT_1251.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\obj\Debug\TXT_1251.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\obj\Debug\TXT_1251.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\obj\Debug\TXT_1251.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\TXT_1251\obj\Debug\TXT_1251.pdb
+d:\_CS_11\TXT_1251\TXT_1251\bin\Debug\TXT_1251.exe.config
+d:\_CS_11\TXT_1251\TXT_1251\obj\Debug\TXT_1251.exe
+d:\_CS_11\TXT_1251\TXT_1251\obj\Debug\TXT_1251.pdb
+d:\_CS_11\TXT_1251\TXT_1251\bin\Debug\TXT_1251.exe
+d:\_CS_11\TXT_1251\TXT_1251\bin\Debug\TXT_1251.pdb
+d:\_CS_11\TXT_1251\TXT_1251\obj\Debug\TXT_1251.csprojResolveAssemblyReference.cache
+d:\_CS_11\TXT_1251\TXT_1251\obj\Debug\TXT_1251.Form1.resources
+d:\_CS_11\TXT_1251\TXT_1251\obj\Debug\TXT_1251.Properties.Resources.resources
+d:\_CS_11\TXT_1251\TXT_1251\obj\Debug\TXT_1251.csproj.GenerateResource.Cache

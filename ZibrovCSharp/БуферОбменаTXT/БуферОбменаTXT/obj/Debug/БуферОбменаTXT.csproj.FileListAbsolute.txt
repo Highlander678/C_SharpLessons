@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\bin\Debug\БуферОбменаTXT.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\bin\Debug\БуферОбменаTXT.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\bin\Debug\БуферОбменаTXT.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\obj\Debug\БуферОбменаTXT.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\obj\Debug\БуферОбменаTXT.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\obj\Debug\БуферОбменаTXT.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\obj\Debug\БуферОбменаTXT.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\obj\Debug\БуферОбменаTXT.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаTXT\obj\Debug\БуферОбменаTXT.pdb

@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьBMPфайла\bin\Debug\ПечатьBMPфайла.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьBMPфайла\bin\Debug\ПечатьBMPфайла.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьBMPфайла\bin\Debug\ПечатьBMPфайла.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьBMPфайла\obj\Debug\ПечатьBMPфайла.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьBMPфайла\obj\Debug\ПечатьBMPфайла.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьBMPфайла\obj\Debug\ПечатьBMPфайла.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьBMPфайла\obj\Debug\ПечатьBMPфайла.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьBMPфайла\obj\Debug\ПечатьBMPфайла.pdb

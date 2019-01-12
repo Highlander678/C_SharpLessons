@@ -1,0 +1,4 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Передача2\Передача2\bin\Передача2.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Передача2\Передача2\bin\Передача2.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Передача2\Передача2\obj\Debug\Передача2.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Передача2\Передача2\obj\Debug\Передача2.pdb

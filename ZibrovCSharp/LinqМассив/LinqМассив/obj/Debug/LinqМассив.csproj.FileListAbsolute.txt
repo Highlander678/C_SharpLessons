@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМассив\bin\Debug\LinqМассив.exe.config
+d:\_CS_11\LinqМассив\LinqМассив\bin\Debug\LinqМассив.exe.config
+d:\_CS_11\LinqМассив\LinqМассив\bin\Debug\LinqМассив.exe
+d:\_CS_11\LinqМассив\LinqМассив\bin\Debug\LinqМассив.pdb
+d:\_CS_11\LinqМассив\LinqМассив\obj\Debug\LinqМассив.csprojResolveAssemblyReference.cache
+d:\_CS_11\LinqМассив\LinqМассив\obj\Debug\LinqМассив.Form1.resources
+d:\_CS_11\LinqМассив\LinqМассив\obj\Debug\LinqМассив.Properties.Resources.resources
+d:\_CS_11\LinqМассив\LinqМассив\obj\Debug\LinqМассив.csproj.GenerateResource.Cache
+d:\_CS_11\LinqМассив\LinqМассив\obj\Debug\LinqМассив.exe
+d:\_CS_11\LinqМассив\LinqМассив\obj\Debug\LinqМассив.pdb

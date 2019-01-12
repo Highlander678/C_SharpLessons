@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Табл_HTM\bin\Debug\Табл_HTM.exe.config
+d:\_CS_11\Табл_HTM\Табл_HTM\bin\Debug\Табл_HTM.exe.config
+d:\_CS_11\Табл_HTM\Табл_HTM\bin\Debug\Табл_HTM.exe
+d:\_CS_11\Табл_HTM\Табл_HTM\bin\Debug\Табл_HTM.pdb
+d:\_CS_11\Табл_HTM\Табл_HTM\obj\Debug\Табл_HTM.csprojResolveAssemblyReference.cache
+d:\_CS_11\Табл_HTM\Табл_HTM\obj\Debug\Табл_HTM.Form1.resources
+d:\_CS_11\Табл_HTM\Табл_HTM\obj\Debug\Табл_HTM.Properties.Resources.resources
+d:\_CS_11\Табл_HTM\Табл_HTM\obj\Debug\Табл_HTM.csproj.GenerateResource.Cache
+d:\_CS_11\Табл_HTM\Табл_HTM\obj\Debug\Табл_HTM.exe
+d:\_CS_11\Табл_HTM\Табл_HTM\obj\Debug\Табл_HTM.pdb

@@ -1,0 +1,5 @@
+d:\_CS_11\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+d:\_CS_11\Counter\Counter\bin\Counter.dll
+d:\_CS_11\Counter\Counter\bin\Counter.pdb
+d:\_CS_11\Counter\Counter\obj\Debug\Counter.dll
+d:\_CS_11\Counter\Counter\obj\Debug\Counter.pdb

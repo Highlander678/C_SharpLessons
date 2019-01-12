@@ -1,0 +1,12 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\bin\Debug\MatlabВызов.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\bin\Debug\MatlabВызов.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\bin\Debug\MatlabВызов.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\obj\Debug\MatlabВызов.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\obj\Debug\MatlabВызов.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\obj\Debug\MatlabВызов.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\obj\Debug\MatlabВызов.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\obj\Debug\MatlabВызов.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabВызов\obj\Debug\MatlabВызов.pdb
+d:\_CS_11\MatlabВызов\MatlabВызов\bin\Debug\MatlabВызов.exe.config
+d:\_CS_11\MatlabВызов\MatlabВызов\obj\Debug\MatlabВызов.exe
+d:\_CS_11\MatlabВызов\MatlabВызов\obj\Debug\MatlabВызов.pdb

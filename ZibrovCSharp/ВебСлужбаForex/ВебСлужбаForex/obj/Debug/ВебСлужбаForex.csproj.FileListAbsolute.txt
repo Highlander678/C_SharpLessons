@@ -1,0 +1,5 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаForex\ВебСлужбаForex\bin\ВебСлужбаForex.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаForex\ВебСлужбаForex\bin\ВебСлужбаForex.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаForex\ВебСлужбаForex\obj\Debug\ВебСлужбаForex.csprojResolveAssemblyReference.cache
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаForex\ВебСлужбаForex\obj\Debug\ВебСлужбаForex.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебСлужбаForex\ВебСлужбаForex\obj\Debug\ВебСлужбаForex.pdb

@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаЧисла\bin\Debug\ПроверкаЧисла.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаЧисла\bin\Debug\ПроверкаЧисла.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаЧисла\bin\Debug\ПроверкаЧисла.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаЧисла\obj\Debug\ПроверкаЧисла.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаЧисла\obj\Debug\ПроверкаЧисла.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаЧисла\obj\Debug\ПроверкаЧисла.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаЧисла\obj\Debug\ПроверкаЧисла.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПроверкаЧисла\obj\Debug\ПроверкаЧисла.pdb

@@ -1,0 +1,6 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БДDataReader\bin\Debug\БДDataReader.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\БДDataReader\bin\Debug\БДDataReader.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БДDataReader\bin\Debug\БДDataReader.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\БДDataReader\obj\Debug\БДDataReader.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БДDataReader\obj\Debug\БДDataReader.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БДDataReader\obj\Debug\БДDataReader.pdb

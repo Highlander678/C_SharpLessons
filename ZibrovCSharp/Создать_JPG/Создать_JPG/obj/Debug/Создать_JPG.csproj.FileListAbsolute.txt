@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_JPG\bin\Debug\Создать_JPG.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_JPG\bin\Debug\Создать_JPG.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_JPG\bin\Debug\Создать_JPG.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_JPG\obj\Debug\Создать_JPG.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_JPG\obj\Debug\Создать_JPG.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_JPG\obj\Debug\Создать_JPG.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_JPG\obj\Debug\Создать_JPG.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_JPG\obj\Debug\Создать_JPG.pdb

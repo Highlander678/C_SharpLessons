@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Hover\bin\Debug\Hover.exe.config
+d:\_CS_11\Hover\Hover\bin\Debug\Hover.exe.config
+d:\_CS_11\Hover\Hover\bin\Debug\Hover.exe
+d:\_CS_11\Hover\Hover\bin\Debug\Hover.pdb
+d:\_CS_11\Hover\Hover\obj\Debug\Hover.csprojResolveAssemblyReference.cache
+d:\_CS_11\Hover\Hover\obj\Debug\Hover.Form1.resources
+d:\_CS_11\Hover\Hover\obj\Debug\Hover.Properties.Resources.resources
+d:\_CS_11\Hover\Hover\obj\Debug\Hover.csproj.GenerateResource.Cache
+d:\_CS_11\Hover\Hover\obj\Debug\Hover.exe
+d:\_CS_11\Hover\Hover\obj\Debug\Hover.pdb

@@ -1,0 +1,39 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\MainWindow.baml
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\MainWindow.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\App.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\WpfПроигрыватель_MarkupCompile.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.g.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.pdb
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.exe.config
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.exe
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.pdb
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.exe
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.pdb
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.csprojResolveAssemblyReference.cache
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\MainWindow.baml
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\MainWindow.g.cs
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\App.g.cs
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель_MarkupCompile.cache
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.g.resources
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.Properties.Resources.resources
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.csproj.GenerateResource.Cache
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.exe.config
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.exe
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.pdb
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.exe
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\bin\Debug\WpfПроигрыватель.pdb
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.csprojResolveAssemblyReference.cache
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\MainWindow.baml
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\MainWindow.g.cs
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\App.g.cs
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель_MarkupCompile.cache
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.g.resources
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.Properties.Resources.resources
+d:\_CS_11\WpfПроигрыватель\WpfПроигрыватель\obj\Debug\WpfПроигрыватель.csproj.GenerateResource.Cache

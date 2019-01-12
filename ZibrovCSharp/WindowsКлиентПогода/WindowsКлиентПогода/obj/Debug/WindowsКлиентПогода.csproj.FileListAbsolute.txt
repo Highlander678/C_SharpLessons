@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\WindowsКлиентПогода\bin\Debug\WindowsКлиентПогода.exe.config
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\bin\Debug\WindowsКлиентПогода.exe.config
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\obj\Debug\WindowsКлиентПогода.csprojResolveAssemblyReference.cache
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\obj\Debug\WindowsКлиентПогода.Form1.resources
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\obj\Debug\WindowsКлиентПогода.Properties.Resources.resources
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\obj\Debug\WindowsКлиентПогода.csproj.GenerateResource.Cache
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\bin\Debug\WindowsКлиентПогода.exe
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\bin\Debug\WindowsКлиентПогода.pdb
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\obj\Debug\WindowsКлиентПогода.exe
+d:\_CS_11\WindowsКлиентПогода\WindowsКлиентПогода\obj\Debug\WindowsКлиентПогода.pdb

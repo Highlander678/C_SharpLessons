@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета2\bin\Debug\ВыборЦвета2.exe.config
+d:\_CS_11\ВыборЦвета2\ВыборЦвета2\bin\Debug\ВыборЦвета2.exe.config
+d:\_CS_11\ВыборЦвета2\ВыборЦвета2\bin\Debug\ВыборЦвета2.exe
+d:\_CS_11\ВыборЦвета2\ВыборЦвета2\bin\Debug\ВыборЦвета2.pdb
+d:\_CS_11\ВыборЦвета2\ВыборЦвета2\obj\Debug\ВыборЦвета2.Form1.resources
+d:\_CS_11\ВыборЦвета2\ВыборЦвета2\obj\Debug\ВыборЦвета2.Properties.Resources.resources
+d:\_CS_11\ВыборЦвета2\ВыборЦвета2\obj\Debug\ВыборЦвета2.csproj.GenerateResource.Cache
+d:\_CS_11\ВыборЦвета2\ВыборЦвета2\obj\Debug\ВыборЦвета2.exe
+d:\_CS_11\ВыборЦвета2\ВыборЦвета2\obj\Debug\ВыборЦвета2.pdb

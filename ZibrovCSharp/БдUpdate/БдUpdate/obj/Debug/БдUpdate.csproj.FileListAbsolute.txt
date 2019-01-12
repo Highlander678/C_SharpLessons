@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\bin\Debug\БдUpdate.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\bin\Debug\БдUpdate.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\bin\Debug\БдUpdate.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\obj\Debug\БдUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\obj\Debug\БдUpdate.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\obj\Debug\БдUpdate.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\obj\Debug\БдUpdate.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\obj\Debug\БдUpdate.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БдUpdate\obj\Debug\БдUpdate.pdb

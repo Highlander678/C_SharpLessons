@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\bin\Debug\БуферОбменаBitmap.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\bin\Debug\БуферОбменаBitmap.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\bin\Debug\БуферОбменаBitmap.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.pdb
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\bin\Debug\БуферОбменаBitmap.exe.config
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.exe
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.pdb
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\bin\Debug\БуферОбменаBitmap.exe
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\bin\Debug\БуферОбменаBitmap.pdb
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.csprojResolveAssemblyReference.cache
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.Form1.resources
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.Properties.Resources.resources
+d:\_CS_11\БуферОбменаBitmap\БуферОбменаBitmap\obj\Debug\БуферОбменаBitmap.csproj.GenerateResource.Cache

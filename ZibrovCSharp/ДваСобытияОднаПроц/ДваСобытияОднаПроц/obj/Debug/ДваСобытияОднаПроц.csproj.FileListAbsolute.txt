@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\bin\Debug\ДваСобытияОднаПроц.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\bin\Debug\ДваСобытияОднаПроц.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\bin\Debug\ДваСобытияОднаПроц.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.pdb
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\bin\Debug\ДваСобытияОднаПроц.exe.config
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.exe
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.pdb
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\bin\Debug\ДваСобытияОднаПроц.exe
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\bin\Debug\ДваСобытияОднаПроц.pdb
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.csprojResolveAssemblyReference.cache
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.Form1.resources
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.Properties.Resources.resources
+d:\_CS_11\ДваСобытияОднаПроц\ДваСобытияОднаПроц\obj\Debug\ДваСобытияОднаПроц.csproj.GenerateResource.Cache

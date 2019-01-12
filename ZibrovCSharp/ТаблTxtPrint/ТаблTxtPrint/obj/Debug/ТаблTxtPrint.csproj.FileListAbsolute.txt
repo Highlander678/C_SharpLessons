@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблTxtPrint\bin\Debug\ТаблTxtPrint.exe.config
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\bin\Debug\ТаблTxtPrint.exe.config
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\obj\Debug\ТаблTxtPrint.csprojResolveAssemblyReference.cache
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\obj\Debug\ТаблTxtPrint.Form1.resources
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\obj\Debug\ТаблTxtPrint.Properties.Resources.resources
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\obj\Debug\ТаблTxtPrint.csproj.GenerateResource.Cache
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\bin\Debug\ТаблTxtPrint.exe
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\bin\Debug\ТаблTxtPrint.pdb
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\obj\Debug\ТаблTxtPrint.exe
+d:\_CS_11\ТаблTxtPrint\ТаблTxtPrint\obj\Debug\ТаблTxtPrint.pdb

@@ -1,0 +1,7 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БдСоздТаблицы\bin\Debug\БдСоздТаблицы.exe.config
+d:\_CS_11\БдСоздТаблицы\БдСоздТаблицы\bin\Debug\БдСоздТаблицы.exe.config
+d:\_CS_11\БдСоздТаблицы\БдСоздТаблицы\bin\Debug\БдСоздТаблицы.exe
+d:\_CS_11\БдСоздТаблицы\БдСоздТаблицы\bin\Debug\БдСоздТаблицы.pdb
+d:\_CS_11\БдСоздТаблицы\БдСоздТаблицы\obj\Debug\БдСоздТаблицы.csprojResolveAssemblyReference.cache
+d:\_CS_11\БдСоздТаблицы\БдСоздТаблицы\obj\Debug\БдСоздТаблицы.exe
+d:\_CS_11\БдСоздТаблицы\БдСоздТаблицы\obj\Debug\БдСоздТаблицы.pdb

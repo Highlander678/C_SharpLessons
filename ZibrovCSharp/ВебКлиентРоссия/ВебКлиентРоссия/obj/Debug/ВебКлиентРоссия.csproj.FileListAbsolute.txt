@@ -1,0 +1,5 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентРоссия\ВебКлиентРоссия\bin\ВебКлиентРоссия.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентРоссия\ВебКлиентРоссия\bin\ВебКлиентРоссия.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентРоссия\ВебКлиентРоссия\obj\Debug\ВебКлиентРоссия.csprojResolveAssemblyReference.cache
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентРоссия\ВебКлиентРоссия\obj\Debug\ВебКлиентРоссия.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентРоссия\ВебКлиентРоссия\obj\Debug\ВебКлиентРоссия.pdb

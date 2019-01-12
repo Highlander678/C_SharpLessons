@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ХэшGridView\bin\Debug\ХэшGridView.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ХэшGridView\obj\Debug\ХэшGridView.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ХэшGridView\obj\Debug\ХэшGridView.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ХэшGridView\obj\Debug\ХэшGridView.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ХэшGridView\bin\Debug\ХэшGridView.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ХэшGridView\bin\Debug\ХэшGridView.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ХэшGridView\obj\Debug\ХэшGridView.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ХэшGridView\obj\Debug\ХэшGridView.pdb

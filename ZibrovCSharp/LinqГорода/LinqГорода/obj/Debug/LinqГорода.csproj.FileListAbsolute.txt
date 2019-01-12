@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqГорода\bin\Debug\LinqГорода.exe.config
+d:\_CS_11\LinqГорода\LinqГорода\bin\Debug\LinqГорода.exe.config
+d:\_CS_11\LinqГорода\LinqГорода\bin\Debug\LinqГорода.exe
+d:\_CS_11\LinqГорода\LinqГорода\bin\Debug\LinqГорода.pdb
+d:\_CS_11\LinqГорода\LinqГорода\obj\Debug\LinqГорода.csprojResolveAssemblyReference.cache
+d:\_CS_11\LinqГорода\LinqГорода\obj\Debug\LinqГорода.Form1.resources
+d:\_CS_11\LinqГорода\LinqГорода\obj\Debug\LinqГорода.Properties.Resources.resources
+d:\_CS_11\LinqГорода\LinqГорода\obj\Debug\LinqГорода.csproj.GenerateResource.Cache
+d:\_CS_11\LinqГорода\LinqГорода\obj\Debug\LinqГорода.exe
+d:\_CS_11\LinqГорода\LinqГорода\obj\Debug\LinqГорода.pdb

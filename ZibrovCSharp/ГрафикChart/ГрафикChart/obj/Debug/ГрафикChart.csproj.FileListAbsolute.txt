@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ГрафикChart\bin\Debug\ГрафикChart.exe.config
+d:\_CS_11\ГрафикChart\ГрафикChart\bin\Debug\ГрафикChart.exe.config
+d:\_CS_11\ГрафикChart\ГрафикChart\obj\Debug\ГрафикChart.csprojResolveAssemblyReference.cache
+d:\_CS_11\ГрафикChart\ГрафикChart\obj\Debug\ГрафикChart.Form1.resources
+d:\_CS_11\ГрафикChart\ГрафикChart\obj\Debug\ГрафикChart.Properties.Resources.resources
+d:\_CS_11\ГрафикChart\ГрафикChart\obj\Debug\ГрафикChart.csproj.GenerateResource.Cache
+d:\_CS_11\ГрафикChart\ГрафикChart\bin\Debug\ГрафикChart.exe
+d:\_CS_11\ГрафикChart\ГрафикChart\bin\Debug\ГрафикChart.pdb
+d:\_CS_11\ГрафикChart\ГрафикChart\obj\Debug\ГрафикChart.exe
+d:\_CS_11\ГрафикChart\ГрафикChart\obj\Debug\ГрафикChart.pdb

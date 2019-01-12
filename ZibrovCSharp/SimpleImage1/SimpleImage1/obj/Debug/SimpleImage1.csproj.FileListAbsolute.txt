@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage1\bin\Debug\SimpleImage1.exe.config
+d:\_CS_11\SimpleImage1\SimpleImage1\bin\Debug\SimpleImage1.exe.config
+d:\_CS_11\SimpleImage1\SimpleImage1\obj\Debug\SimpleImage1.csprojResolveAssemblyReference.cache
+d:\_CS_11\SimpleImage1\SimpleImage1\obj\Debug\SimpleImage1.Form1.resources
+d:\_CS_11\SimpleImage1\SimpleImage1\obj\Debug\SimpleImage1.Properties.Resources.resources
+d:\_CS_11\SimpleImage1\SimpleImage1\obj\Debug\SimpleImage1.csproj.GenerateResource.Cache
+d:\_CS_11\SimpleImage1\SimpleImage1\bin\Debug\SimpleImage1.exe
+d:\_CS_11\SimpleImage1\SimpleImage1\bin\Debug\SimpleImage1.pdb
+d:\_CS_11\SimpleImage1\SimpleImage1\obj\Debug\SimpleImage1.exe
+d:\_CS_11\SimpleImage1\SimpleImage1\obj\Debug\SimpleImage1.pdb

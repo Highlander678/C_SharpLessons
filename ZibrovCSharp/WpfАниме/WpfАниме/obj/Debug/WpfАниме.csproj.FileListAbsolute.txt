@@ -1,0 +1,17 @@
+d:\_CS_11\WpfАниме\WpfАниме\bin\Debug\WpfАниме.exe.manifest
+d:\_CS_11\WpfАниме\WpfАниме\bin\Debug\WpfАниме.xbap
+d:\_CS_11\WpfАниме\WpfАниме\bin\Debug\WpfАниме.exe
+d:\_CS_11\WpfАниме\WpfАниме\bin\Debug\WpfАниме.pdb
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.csprojResolveAssemblyReference.cache
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\Page1.baml
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\Page1.g.cs
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\App.g.cs
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме_MarkupCompile.cache
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.g.resources
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.Properties.Resources.resources
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.csproj.GenerateResource.Cache
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.TrustInfo.xml
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.exe.manifest
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.xbap
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.exe
+d:\_CS_11\WpfАниме\WpfАниме\obj\Debug\WpfАниме.pdb

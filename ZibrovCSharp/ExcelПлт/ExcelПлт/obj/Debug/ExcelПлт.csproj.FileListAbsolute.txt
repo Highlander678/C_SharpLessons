@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\bin\Debug\ExcelПлт.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\bin\Debug\ExcelПлт.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\bin\Debug\ExcelПлт.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\obj\Debug\ExcelПлт.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\obj\Debug\ExcelПлт.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\obj\Debug\ExcelПлт.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\obj\Debug\ExcelПлт.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\obj\Debug\ExcelПлт.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelПлт\obj\Debug\ExcelПлт.csprojResolveAssemblyReference.cache

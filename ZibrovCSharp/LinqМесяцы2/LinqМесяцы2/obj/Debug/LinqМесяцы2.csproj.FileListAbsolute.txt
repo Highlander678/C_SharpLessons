@@ -1,0 +1,6 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы2\bin\Debug\LinqМесяцы2.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы2\obj\Debug\LinqМесяцы2.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы2\bin\Debug\LinqМесяцы2.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы2\bin\Debug\LinqМесяцы2.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы2\obj\Debug\LinqМесяцы2.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы2\obj\Debug\LinqМесяцы2.pdb

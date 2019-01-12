@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БДСоздание\bin\Debug\БДСоздание.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\БДСоздание\bin\Debug\БДСоздание.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БДСоздание\bin\Debug\БДСоздание.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\БДСоздание\obj\Debug\БДСоздание.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БДСоздание\obj\Debug\Interop.ADOX.dll
+C:\Users\Вик\AppData\Local\Temporary Projects\БДСоздание\obj\Debug\БДСоздание.csproj.ResolveComReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\БДСоздание\obj\Debug\БДСоздание.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БДСоздание\obj\Debug\БДСоздание.pdb

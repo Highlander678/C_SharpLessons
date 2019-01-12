@@ -1,0 +1,6 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_Табл_2\bin\Debug\Создать_PDF_Табл_2.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_Табл_2\bin\Debug\Создать_PDF_Табл_2.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_Табл_2\bin\Debug\Создать_PDF_Табл_2.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_Табл_2\bin\Debug\itextsharp.dll
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_Табл_2\obj\Debug\Создать_PDF_Табл_2.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_Табл_2\obj\Debug\Создать_PDF_Табл_2.pdb

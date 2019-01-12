@@ -1,0 +1,12 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\bin\Debug\WpfГрадиент.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\bin\Debug\WpfГрадиент.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\bin\Debug\WpfГрадиент.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\MainWindow.baml
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\MainWindow.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\App.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\WpfГрадиент_MarkupCompile.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\WpfГрадиент.g.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\WpfГрадиент.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\WpfГрадиент.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\WpfГрадиент.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfГрадиент\obj\Debug\WpfГрадиент.pdb

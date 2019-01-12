@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\bin\Debug\СобытияКлавиатуры.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\bin\Debug\СобытияКлавиатуры.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\bin\Debug\СобытияКлавиатуры.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\obj\Debug\СобытияКлавиатуры.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\obj\Debug\СобытияКлавиатуры.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\obj\Debug\СобытияКлавиатуры.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\obj\Debug\СобытияКлавиатуры.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\obj\Debug\СобытияКлавиатуры.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\СобытияКлавиатуры\obj\Debug\СобытияКлавиатуры.pdb

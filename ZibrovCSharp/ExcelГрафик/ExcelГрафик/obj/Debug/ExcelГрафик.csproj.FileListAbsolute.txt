@@ -1,0 +1,5 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelГрафик\bin\Debug\ExcelГрафик.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelГрафик\bin\Debug\ExcelГрафик.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelГрафик\bin\Debug\ExcelГрафик.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelГрафик\obj\Debug\ExcelГрафик.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelГрафик\obj\Debug\ExcelГрафик.pdb

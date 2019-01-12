@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\RtfРедактор\bin\Debug\RtfРедактор.exe.config
+d:\_CS_11\RtfРедактор\RtfРедактор\bin\Debug\RtfРедактор.exe.config
+d:\_CS_11\RtfРедактор\RtfРедактор\bin\Debug\RtfРедактор.exe
+d:\_CS_11\RtfРедактор\RtfРедактор\bin\Debug\RtfРедактор.pdb
+d:\_CS_11\RtfРедактор\RtfРедактор\obj\Debug\RtfРедактор.csprojResolveAssemblyReference.cache
+d:\_CS_11\RtfРедактор\RtfРедактор\obj\Debug\RtfРедактор.Form1.resources
+d:\_CS_11\RtfРедактор\RtfРедактор\obj\Debug\RtfРедактор.Properties.Resources.resources
+d:\_CS_11\RtfРедактор\RtfРедактор\obj\Debug\RtfРедактор.csproj.GenerateResource.Cache
+d:\_CS_11\RtfРедактор\RtfРедактор\obj\Debug\RtfРедактор.exe
+d:\_CS_11\RtfРедактор\RtfРедактор\obj\Debug\RtfРедактор.pdb

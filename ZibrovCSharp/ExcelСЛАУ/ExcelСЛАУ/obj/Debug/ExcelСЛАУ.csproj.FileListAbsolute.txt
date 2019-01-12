@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ExcelСЛАУ\bin\Debug\ExcelСЛАУ.exe.config
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\bin\Debug\ExcelСЛАУ.exe.config
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\bin\Debug\ExcelСЛАУ.exe
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\bin\Debug\ExcelСЛАУ.pdb
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\obj\Debug\ExcelСЛАУ.csprojResolveAssemblyReference.cache
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\obj\Debug\ExcelСЛАУ.Form1.resources
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\obj\Debug\ExcelСЛАУ.Properties.Resources.resources
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\obj\Debug\ExcelСЛАУ.csproj.GenerateResource.Cache
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\obj\Debug\ExcelСЛАУ.exe
+d:\_CS_11\ExcelСЛАУ\ExcelСЛАУ\obj\Debug\ExcelСЛАУ.pdb

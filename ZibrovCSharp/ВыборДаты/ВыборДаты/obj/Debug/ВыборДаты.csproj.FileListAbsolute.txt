@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборДаты\bin\Debug\ВыборДаты.exe.config
+d:\_CS_11\ВыборДаты\ВыборДаты\bin\Debug\ВыборДаты.exe.config
+d:\_CS_11\ВыборДаты\ВыборДаты\bin\Debug\ВыборДаты.exe
+d:\_CS_11\ВыборДаты\ВыборДаты\bin\Debug\ВыборДаты.pdb
+d:\_CS_11\ВыборДаты\ВыборДаты\obj\Debug\ВыборДаты.csprojResolveAssemblyReference.cache
+d:\_CS_11\ВыборДаты\ВыборДаты\obj\Debug\ВыборДаты.Form1.resources
+d:\_CS_11\ВыборДаты\ВыборДаты\obj\Debug\ВыборДаты.Properties.Resources.resources
+d:\_CS_11\ВыборДаты\ВыборДаты\obj\Debug\ВыборДаты.csproj.GenerateResource.Cache
+d:\_CS_11\ВыборДаты\ВыборДаты\obj\Debug\ВыборДаты.exe
+d:\_CS_11\ВыборДаты\ВыборДаты\obj\Debug\ВыборДаты.pdb

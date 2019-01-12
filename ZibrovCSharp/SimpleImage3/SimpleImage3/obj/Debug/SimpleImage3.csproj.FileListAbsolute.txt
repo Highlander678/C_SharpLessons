@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage3\bin\Debug\SimpleImage3.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage3\bin\Debug\SimpleImage3.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage3\bin\Debug\SimpleImage3.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage3\obj\Debug\SimpleImage3.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage3\obj\Debug\SimpleImage3.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage3\obj\Debug\SimpleImage3.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage3\obj\Debug\SimpleImage3.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\SimpleImage3\obj\Debug\SimpleImage3.pdb

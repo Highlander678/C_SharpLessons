@@ -1,0 +1,7 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqСоздатьXML-документ\bin\Debug\LinqСоздатьXML-документ.exe.config
+d:\_CS_11\LinqСоздатьXML-документ\LinqСоздатьXML-документ\bin\Debug\LinqСоздатьXML-документ.exe.config
+d:\_CS_11\LinqСоздатьXML-документ\LinqСоздатьXML-документ\bin\Debug\LinqСоздатьXML-документ.exe
+d:\_CS_11\LinqСоздатьXML-документ\LinqСоздатьXML-документ\bin\Debug\LinqСоздатьXML-документ.pdb
+d:\_CS_11\LinqСоздатьXML-документ\LinqСоздатьXML-документ\obj\Debug\LinqСоздатьXML-документ.csprojResolveAssemblyReference.cache
+d:\_CS_11\LinqСоздатьXML-документ\LinqСоздатьXML-документ\obj\Debug\LinqСоздатьXML-документ.exe
+d:\_CS_11\LinqСоздатьXML-документ\LinqСоздатьXML-документ\obj\Debug\LinqСоздатьXML-документ.pdb

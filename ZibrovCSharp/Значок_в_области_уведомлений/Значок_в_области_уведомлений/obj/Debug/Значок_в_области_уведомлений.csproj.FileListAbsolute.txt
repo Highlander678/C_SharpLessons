@@ -1,0 +1,16 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Значок_в_области_уведомлений\bin\Debug\Значок_в_области_уведомлений.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Значок_в_области_уведомлений\bin\Debug\Значок_в_области_уведомлений.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Значок_в_области_уведомлений\bin\Debug\Значок_в_области_уведомлений.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.pdb
+d:\_CS_11\Значок_в_области_уведомлений\Значок_в_области_уведомлений\bin\Debug\Значок_в_области_уведомлений.exe.config
+d:\_CS_11\Значок_в_области_уведомлений\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.exe
+d:\_CS_11\Значок_в_области_уведомлений\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.pdb
+d:\_CS_11\Значок_в_области_уведомлений\Значок_в_области_уведомлений\bin\Debug\Значок_в_области_уведомлений.exe
+d:\_CS_11\Значок_в_области_уведомлений\Значок_в_области_уведомлений\bin\Debug\Значок_в_области_уведомлений.pdb
+d:\_CS_11\Значок_в_области_уведомлений\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.Form1.resources
+d:\_CS_11\Значок_в_области_уведомлений\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.Properties.Resources.resources
+d:\_CS_11\Значок_в_области_уведомлений\Значок_в_области_уведомлений\obj\Debug\Значок_в_области_уведомлений.csproj.GenerateResource.Cache

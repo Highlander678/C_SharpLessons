@@ -1,0 +1,17 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ВоздШар\bin\Debug\ВоздШар.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ВоздШар\bin\Debug\ВоздШар.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВоздШар\bin\Debug\ВоздШар.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ВоздШар\obj\Debug\ВоздШар.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВоздШар\obj\Debug\ВоздШар.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВоздШар\obj\Debug\ВоздШар.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВоздШар\obj\Debug\ВоздШар.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВоздШар\obj\Debug\ВоздШар.pdb
+d:\_CS_11\ВоздШар\ВоздШар\bin\Debug\ВоздШар.exe.config
+d:\_CS_11\ВоздШар\ВоздШар\obj\Debug\ВоздШар.exe
+d:\_CS_11\ВоздШар\ВоздШар\obj\Debug\ВоздШар.pdb
+d:\_CS_11\ВоздШар\ВоздШар\bin\Debug\ВоздШар.exe
+d:\_CS_11\ВоздШар\ВоздШар\bin\Debug\ВоздШар.pdb
+d:\_CS_11\ВоздШар\ВоздШар\obj\Debug\ВоздШар.csprojResolveAssemblyReference.cache
+d:\_CS_11\ВоздШар\ВоздШар\obj\Debug\ВоздШар.Form1.resources
+d:\_CS_11\ВоздШар\ВоздШар\obj\Debug\ВоздШар.Properties.Resources.resources
+d:\_CS_11\ВоздШар\ВоздШар\obj\Debug\ВоздШар.csproj.GenerateResource.Cache

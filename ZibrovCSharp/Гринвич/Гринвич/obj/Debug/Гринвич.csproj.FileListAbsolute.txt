@@ -1,0 +1,17 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Гринвич\bin\Debug\Гринвич.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Гринвич\bin\Debug\Гринвич.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Гринвич\bin\Debug\Гринвич.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Гринвич\obj\Debug\Гринвич.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Гринвич\obj\Debug\Гринвич.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Гринвич\obj\Debug\Гринвич.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Гринвич\obj\Debug\Гринвич.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Гринвич\obj\Debug\Гринвич.pdb
+d:\_CS_11\Гринвич\Гринвич\bin\Debug\Гринвич.exe.config
+d:\_CS_11\Гринвич\Гринвич\obj\Debug\Гринвич.exe
+d:\_CS_11\Гринвич\Гринвич\obj\Debug\Гринвич.pdb
+d:\_CS_11\Гринвич\Гринвич\bin\Debug\Гринвич.exe
+d:\_CS_11\Гринвич\Гринвич\bin\Debug\Гринвич.pdb
+d:\_CS_11\Гринвич\Гринвич\obj\Debug\Гринвич.csprojResolveAssemblyReference.cache
+d:\_CS_11\Гринвич\Гринвич\obj\Debug\Гринвич.Form1.resources
+d:\_CS_11\Гринвич\Гринвич\obj\Debug\Гринвич.Properties.Resources.resources
+d:\_CS_11\Гринвич\Гринвич\obj\Debug\Гринвич.csproj.GenerateResource.Cache

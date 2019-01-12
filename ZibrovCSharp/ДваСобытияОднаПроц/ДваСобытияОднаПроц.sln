@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДваСобытияОднаПроц", "ДваСобытияОднаПроц\ДваСобытияОднаПроц.csproj", "{E3580073-B4D4-4D39-8E6D-E9F1BD6399CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3580073-B4D4-4D39-8E6D-E9F1BD6399CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3580073-B4D4-4D39-8E6D-E9F1BD6399CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3580073-B4D4-4D39-8E6D-E9F1BD6399CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3580073-B4D4-4D39-8E6D-E9F1BD6399CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

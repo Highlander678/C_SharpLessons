@@ -1,0 +1,13 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\bin\Debug\WpfТекстНаВидео.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\bin\Debug\WpfТекстНаВидео.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\bin\Debug\WpfТекстНаВидео.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\WpfТекстНаВидео.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\MainWindow.baml
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\MainWindow.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\App.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\WpfТекстНаВидео_MarkupCompile.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\WpfТекстНаВидео.g.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\WpfТекстНаВидео.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\WpfТекстНаВидео.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\WpfТекстНаВидео.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfТекстНаВидео\obj\Debug\WpfТекстНаВидео.pdb

@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\obj\Debug\Калькулятор.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Калькулятор\obj\Debug\Калькулятор.pdb
+d:\_CS_11\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+d:\_CS_11\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+d:\_CS_11\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+d:\_CS_11\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+d:\_CS_11\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+d:\_CS_11\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojResolveAssemblyReference.cache
+d:\_CS_11\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+d:\_CS_11\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+d:\_CS_11\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache

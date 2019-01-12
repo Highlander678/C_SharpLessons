@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://morpher.ru/webservices/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://morpher.ru/webservices/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://morpher.ru/webservices/">
+      <s:element name="PropisRUB">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="summa" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PropisRUBResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PropisRUBResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetForms">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="s" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetFormsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetFormsResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Soglasovat">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="n" type="s:unsignedInt" />
+            <s:element minOccurs="0" maxOccurs="1" name="s" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SoglasovatResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SoglasovatResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="ArrayOfString" nillable="true" type="tns:ArrayOfString" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="PropisRUBSoapIn">
+    <wsdl:part name="parameters" element="tns:PropisRUB" />
+  </wsdl:message>
+  <wsdl:message name="PropisRUBSoapOut">
+    <wsdl:part name="parameters" element="tns:PropisRUBResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetFormsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetForms" />
+  </wsdl:message>
+  <wsdl:message name="GetFormsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetFormsResponse" />
+  </wsdl:message>
+  <wsdl:message name="SoglasovatSoapIn">
+    <wsdl:part name="parameters" element="tns:Soglasovat" />
+  </wsdl:message>
+  <wsdl:message name="SoglasovatSoapOut">
+    <wsdl:part name="parameters" element="tns:SoglasovatResponse" />
+  </wsdl:message>
+  <wsdl:message name="PropisRUBHttpGetIn">
+    <wsdl:part name="summa" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="PropisRUBHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetFormsHttpGetIn">
+    <wsdl:part name="s" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetFormsHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfString" />
+  </wsdl:message>
+  <wsdl:message name="SoglasovatHttpGetIn">
+    <wsdl:part name="n" type="s:string" />
+    <wsdl:part name="s" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="SoglasovatHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="PropisRUBHttpPostIn">
+    <wsdl:part name="summa" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="PropisRUBHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetFormsHttpPostIn">
+    <wsdl:part name="s" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetFormsHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfString" />
+  </wsdl:message>
+  <wsdl:message name="SoglasovatHttpPostIn">
+    <wsdl:part name="n" type="s:string" />
+    <wsdl:part name="s" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="SoglasovatHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:portType name="MorpherSoap">
+    <wsdl:operation name="PropisRUB">
+      <wsdl:input message="tns:PropisRUBSoapIn" />
+      <wsdl:output message="tns:PropisRUBSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetForms">
+      <wsdl:input message="tns:GetFormsSoapIn" />
+      <wsdl:output message="tns:GetFormsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Soglasovat">
+      <wsdl:input message="tns:SoglasovatSoapIn" />
+      <wsdl:output message="tns:SoglasovatSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="MorpherHttpGet">
+    <wsdl:operation name="PropisRUB">
+      <wsdl:input message="tns:PropisRUBHttpGetIn" />
+      <wsdl:output message="tns:PropisRUBHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetForms">
+      <wsdl:input message="tns:GetFormsHttpGetIn" />
+      <wsdl:output message="tns:GetFormsHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Soglasovat">
+      <wsdl:input message="tns:SoglasovatHttpGetIn" />
+      <wsdl:output message="tns:SoglasovatHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="MorpherHttpPost">
+    <wsdl:operation name="PropisRUB">
+      <wsdl:input message="tns:PropisRUBHttpPostIn" />
+      <wsdl:output message="tns:PropisRUBHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetForms">
+      <wsdl:input message="tns:GetFormsHttpPostIn" />
+      <wsdl:output message="tns:GetFormsHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Soglasovat">
+      <wsdl:input message="tns:SoglasovatHttpPostIn" />
+      <wsdl:output message="tns:SoglasovatHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MorpherSoap" type="tns:MorpherSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="PropisRUB">
+      <soap:operation soapAction="http://morpher.ru/webservices/PropisRUB" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetForms">
+      <soap:operation soapAction="http://morpher.ru/webservices/GetForms" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Soglasovat">
+      <soap:operation soapAction="http://morpher.ru/webservices/Soglasovat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MorpherSoap12" type="tns:MorpherSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="PropisRUB">
+      <soap12:operation soapAction="http://morpher.ru/webservices/PropisRUB" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetForms">
+      <soap12:operation soapAction="http://morpher.ru/webservices/GetForms" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Soglasovat">
+      <soap12:operation soapAction="http://morpher.ru/webservices/Soglasovat" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MorpherHttpGet" type="tns:MorpherHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="PropisRUB">
+      <http:operation location="/PropisRUB" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetForms">
+      <http:operation location="/GetForms" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Soglasovat">
+      <http:operation location="/Soglasovat" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MorpherHttpPost" type="tns:MorpherHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="PropisRUB">
+      <http:operation location="/PropisRUB" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetForms">
+      <http:operation location="/GetForms" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Soglasovat">
+      <http:operation location="/Soglasovat" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Morpher">
+    <wsdl:port name="MorpherSoap" binding="tns:MorpherSoap">
+      <soap:address location="http://www.morpher.ru/WebServices/Morpher.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MorpherSoap12" binding="tns:MorpherSoap12">
+      <soap12:address location="http://www.morpher.ru/WebServices/Morpher.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MorpherHttpGet" binding="tns:MorpherHttpGet">
+      <http:address location="http://www.morpher.ru/WebServices/Morpher.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MorpherHttpPost" binding="tns:MorpherHttpPost">
+      <http:address location="http://www.morpher.ru/WebServices/Morpher.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

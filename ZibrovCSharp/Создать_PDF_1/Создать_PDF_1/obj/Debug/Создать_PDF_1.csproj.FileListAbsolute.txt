@@ -1,0 +1,7 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_1\bin\Debug\Создать_PDF_1.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_1\bin\Debug\Создать_PDF_1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_1\bin\Debug\Создать_PDF_1.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_1\bin\Debug\itextsharp.dll
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_1\obj\Debug\Создать_PDF_1.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_1\obj\Debug\Создать_PDF_1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_1\obj\Debug\Создать_PDF_1.pdb

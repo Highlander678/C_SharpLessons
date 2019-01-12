@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfОрфография.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="Сетка" Loaded="Сетка_Loaded">
+        <TextBox x:Name="ТекстПоле" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

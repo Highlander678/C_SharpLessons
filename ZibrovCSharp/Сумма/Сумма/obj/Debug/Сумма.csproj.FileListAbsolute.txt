@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Сумма\bin\Debug\Сумма.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Сумма\bin\Debug\Сумма.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Сумма\bin\Debug\Сумма.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Сумма\obj\Debug\Сумма.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Сумма\obj\Debug\Сумма.pdb
+d:\_CS_11\Сумма\Сумма\bin\Debug\Сумма.exe.config
+d:\_CS_11\Сумма\Сумма\obj\Debug\Сумма.exe
+d:\_CS_11\Сумма\Сумма\obj\Debug\Сумма.pdb
+d:\_CS_11\Сумма\Сумма\bin\Debug\Сумма.exe
+d:\_CS_11\Сумма\Сумма\bin\Debug\Сумма.pdb

@@ -1,0 +1,10 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Summa\Summa\bin\Summa.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Summa\Summa\bin\Summa.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Summa\Summa\obj\Debug\Summa.csprojResolveAssemblyReference.cache
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Summa\Summa\obj\Debug\Summa.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Summa\Summa\obj\Debug\Summa.pdb
+d:\_CS_11\Summa\Summa\bin\Summa.dll
+d:\_CS_11\Summa\Summa\bin\Summa.pdb
+d:\_CS_11\Summa\Summa\obj\Debug\Summa.csprojResolveAssemblyReference.cache
+d:\_CS_11\Summa\Summa\obj\Debug\Summa.dll
+d:\_CS_11\Summa\Summa\obj\Debug\Summa.pdb

@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\bin\Debug\MatlabСлау.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\obj\Debug\MatlabСлау.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\obj\Debug\MatlabСлау.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\obj\Debug\MatlabСлау.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\bin\Debug\MatlabСлау.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\bin\Debug\MatlabСлау.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\obj\Debug\MatlabСлау.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\obj\Debug\MatlabСлау.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\MatlabСлау\obj\Debug\MatlabСлау.csprojResolveAssemblyReference.cache

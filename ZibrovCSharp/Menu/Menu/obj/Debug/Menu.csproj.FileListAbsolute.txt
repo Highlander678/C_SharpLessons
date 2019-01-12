@@ -1,0 +1,8 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Menu\Menu\bin\Menu.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Menu\Menu\bin\Menu.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Menu\Menu\obj\Debug\Menu.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Menu\Menu\obj\Debug\Menu.pdb
+d:\_CS_11\Menu\Menu\bin\Menu.dll
+d:\_CS_11\Menu\Menu\bin\Menu.pdb
+d:\_CS_11\Menu\Menu\obj\Debug\Menu.dll
+d:\_CS_11\Menu\Menu\obj\Debug\Menu.pdb

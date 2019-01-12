@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблTxt\bin\Debug\ТаблTxt.exe.config
+d:\_CS_11\ТаблTxt\ТаблTxt\bin\Debug\ТаблTxt.exe.config
+d:\_CS_11\ТаблTxt\ТаблTxt\bin\Debug\ТаблTxt.exe
+d:\_CS_11\ТаблTxt\ТаблTxt\bin\Debug\ТаблTxt.pdb
+d:\_CS_11\ТаблTxt\ТаблTxt\obj\Debug\ТаблTxt.csprojResolveAssemblyReference.cache
+d:\_CS_11\ТаблTxt\ТаблTxt\obj\Debug\ТаблTxt.Form1.resources
+d:\_CS_11\ТаблTxt\ТаблTxt\obj\Debug\ТаблTxt.Properties.Resources.resources
+d:\_CS_11\ТаблTxt\ТаблTxt\obj\Debug\ТаблTxt.csproj.GenerateResource.Cache
+d:\_CS_11\ТаблTxt\ТаблTxt\obj\Debug\ТаблTxt.exe
+d:\_CS_11\ТаблTxt\ТаблTxt\obj\Debug\ТаблTxt.pdb

@@ -1,0 +1,13 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\РисФигур\bin\Debug\РисФигур.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\РисФигур\obj\Debug\РисФигур.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\РисФигур\obj\Debug\РисФигур.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\РисФигур\obj\Debug\РисФигур.csproj.GenerateResource.Cache
+d:\_CS_11\РисФигур\РисФигур\bin\Debug\РисФигур.exe.config
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.Form1.resources
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.Properties.Resources.resources
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.csproj.GenerateResource.Cache
+d:\_CS_11\РисФигур\РисФигур\bin\Debug\РисФигур.exe
+d:\_CS_11\РисФигур\РисФигур\bin\Debug\РисФигур.pdb
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.exe
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.pdb
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.csprojResolveAssemblyReference.cache

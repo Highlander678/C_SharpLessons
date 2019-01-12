@@ -1,0 +1,5 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Cookie\Cookie\bin\Cookie.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Cookie\Cookie\bin\Cookie.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Cookie\Cookie\obj\Debug\Cookie.csprojResolveAssemblyReference.cache
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Cookie\Cookie\obj\Debug\Cookie.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Cookie\Cookie\obj\Debug\Cookie.pdb

@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\График\bin\Debug\График.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\График\obj\Debug\График.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\График\obj\Debug\График.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\График\obj\Debug\График.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\График\obj\Debug\График.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\График\bin\Debug\График.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\График\bin\Debug\График.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\График\obj\Debug\График.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\График\obj\Debug\График.pdb
+d:\_CS_11\График\График\bin\Debug\График.exe.config
+d:\_CS_11\График\График\obj\Debug\График.exe
+d:\_CS_11\График\График\obj\Debug\График.pdb
+d:\_CS_11\График\График\bin\Debug\График.exe
+d:\_CS_11\График\График\bin\Debug\График.pdb
+d:\_CS_11\График\График\obj\Debug\График.csprojResolveAssemblyReference.cache
+d:\_CS_11\График\График\obj\Debug\График.Form1.resources
+d:\_CS_11\График\График\obj\Debug\График.Properties.Resources.resources
+d:\_CS_11\График\График\obj\Debug\График.csproj.GenerateResource.Cache

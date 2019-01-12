@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\bin\Debug\ВебКлиентСумма.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\bin\Debug\ВебКлиентСумма.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\bin\Debug\ВебКлиентСумма.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\obj\Debug\ВебКлиентСумма.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\obj\Debug\ВебКлиентСумма.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\obj\Debug\ВебКлиентСумма.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\obj\Debug\ВебКлиентСумма.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\obj\Debug\ВебКлиентСумма.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВебКлиентСумма\obj\Debug\ВебКлиентСумма.pdb

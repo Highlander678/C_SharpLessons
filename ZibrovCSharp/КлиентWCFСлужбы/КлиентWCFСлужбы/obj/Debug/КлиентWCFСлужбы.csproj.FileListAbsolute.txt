@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\bin\Debug\КлиентWCFСлужбы.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\bin\Debug\КлиентWCFСлужбы.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\bin\Debug\КлиентWCFСлужбы.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\obj\Debug\КлиентWCFСлужбы.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\obj\Debug\КлиентWCFСлужбы.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\obj\Debug\КлиентWCFСлужбы.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\obj\Debug\КлиентWCFСлужбы.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\obj\Debug\КлиентWCFСлужбы.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\КлиентWCFСлужбы\obj\Debug\КлиентWCFСлужбы.pdb

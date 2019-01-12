@@ -1,0 +1,5 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ГостеваяКнига\ГостеваяКнига\bin\ГостеваяКнига.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ГостеваяКнига\ГостеваяКнига\bin\ГостеваяКнига.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ГостеваяКнига\ГостеваяКнига\obj\Debug\ГостеваяКнига.csprojResolveAssemblyReference.cache
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ГостеваяКнига\ГостеваяКнига\obj\Debug\ГостеваяКнига.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ГостеваяКнига\ГостеваяКнига\obj\Debug\ГостеваяКнига.pdb

@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТаблицаWord\bin\Debug\ТаблицаWord.exe.config
+d:\_CS_11\ТаблицаWord\ТаблицаWord\bin\Debug\ТаблицаWord.exe.config
+d:\_CS_11\ТаблицаWord\ТаблицаWord\bin\Debug\ТаблицаWord.exe
+d:\_CS_11\ТаблицаWord\ТаблицаWord\bin\Debug\ТаблицаWord.pdb
+d:\_CS_11\ТаблицаWord\ТаблицаWord\obj\Debug\ТаблицаWord.csprojResolveAssemblyReference.cache
+d:\_CS_11\ТаблицаWord\ТаблицаWord\obj\Debug\ТаблицаWord.Form1.resources
+d:\_CS_11\ТаблицаWord\ТаблицаWord\obj\Debug\ТаблицаWord.Properties.Resources.resources
+d:\_CS_11\ТаблицаWord\ТаблицаWord\obj\Debug\ТаблицаWord.csproj.GenerateResource.Cache
+d:\_CS_11\ТаблицаWord\ТаблицаWord\obj\Debug\ТаблицаWord.exe
+d:\_CS_11\ТаблицаWord\ТаблицаWord\obj\Debug\ТаблицаWord.pdb

@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Месяцы\bin\Debug\Месяцы.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Месяцы\bin\Debug\Месяцы.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Месяцы\bin\Debug\Месяцы.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Месяцы\obj\Debug\Месяцы.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Месяцы\obj\Debug\Месяцы.pdb
+d:\_CS_11\Месяцы\Месяцы\bin\Debug\Месяцы.exe.config
+d:\_CS_11\Месяцы\Месяцы\obj\Debug\Месяцы.exe
+d:\_CS_11\Месяцы\Месяцы\obj\Debug\Месяцы.pdb
+d:\_CS_11\Месяцы\Месяцы\bin\Debug\Месяцы.exe
+d:\_CS_11\Месяцы\Месяцы\bin\Debug\Месяцы.pdb

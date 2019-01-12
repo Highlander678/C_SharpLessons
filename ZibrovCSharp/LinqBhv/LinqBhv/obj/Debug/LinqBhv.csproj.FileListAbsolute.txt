@@ -1,0 +1,7 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqBhv\bin\Debug\LinqBhv.exe.config
+d:\_CS_11\LinqBhv\LinqBhv\bin\Debug\LinqBhv.exe.config
+d:\_CS_11\LinqBhv\LinqBhv\bin\Debug\LinqBhv.exe
+d:\_CS_11\LinqBhv\LinqBhv\bin\Debug\LinqBhv.pdb
+d:\_CS_11\LinqBhv\LinqBhv\obj\Debug\LinqBhv.csprojResolveAssemblyReference.cache
+d:\_CS_11\LinqBhv\LinqBhv\obj\Debug\LinqBhv.exe
+d:\_CS_11\LinqBhv\LinqBhv\obj\Debug\LinqBhv.pdb

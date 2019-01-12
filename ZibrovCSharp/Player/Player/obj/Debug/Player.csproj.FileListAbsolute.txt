@@ -1,0 +1,19 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Player\bin\Debug\Player.exe.config
+c:\Users\Вик\Documents\Visual Studio 11\Projects\Player\Player\bin\Debug\Player.exe.config
+c:\Users\Вик\Documents\Visual Studio 11\Projects\Player\Player\obj\Debug\Interop.WMPLib.dll
+c:\Users\Вик\Documents\Visual Studio 11\Projects\Player\Player\obj\Debug\AxInterop.WMPLib.dll
+c:\Users\Вик\Documents\Visual Studio 11\Projects\Player\Player\obj\Debug\Player.csproj.ResolveComReference.cache
+d:\_CS_11\Player\Player\bin\Debug\Player.exe.config
+d:\_CS_11\Player\Player\obj\Debug\Interop.WMPLib.dll
+d:\_CS_11\Player\Player\obj\Debug\AxInterop.WMPLib.dll
+d:\_CS_11\Player\Player\obj\Debug\Player.csproj.ResolveComReference.cache
+d:\_CS_11\Player\Player\bin\Debug\Player.exe
+d:\_CS_11\Player\Player\bin\Debug\Player.pdb
+d:\_CS_11\Player\Player\bin\Debug\Interop.WMPLib.dll
+d:\_CS_11\Player\Player\bin\Debug\AxInterop.WMPLib.dll
+d:\_CS_11\Player\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+d:\_CS_11\Player\Player\obj\Debug\Player.Form1.resources
+d:\_CS_11\Player\Player\obj\Debug\Player.Properties.Resources.resources
+d:\_CS_11\Player\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+d:\_CS_11\Player\Player\obj\Debug\Player.exe
+d:\_CS_11\Player\Player\obj\Debug\Player.pdb

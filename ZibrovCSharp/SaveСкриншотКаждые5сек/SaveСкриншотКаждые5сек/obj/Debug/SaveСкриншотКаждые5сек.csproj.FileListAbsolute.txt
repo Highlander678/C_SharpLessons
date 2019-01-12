@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\bin\Debug\SaveСкриншотКаждые5сек.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\obj\Debug\SaveСкриншотКаждые5сек.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\obj\Debug\SaveСкриншотКаждые5сек.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\obj\Debug\SaveСкриншотКаждые5сек.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\obj\Debug\SaveСкриншотКаждые5сек.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\bin\Debug\SaveСкриншотКаждые5сек.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\bin\Debug\SaveСкриншотКаждые5сек.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\obj\Debug\SaveСкриншотКаждые5сек.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\SaveСкриншотКаждые5сек\obj\Debug\SaveСкриншотКаждые5сек.pdb

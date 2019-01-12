@@ -1,0 +1,16 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета1\bin\Debug\ВыборЦвета1.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета1\obj\Debug\ВыборЦвета1.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета1\obj\Debug\ВыборЦвета1.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета1\obj\Debug\ВыборЦвета1.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета1\bin\Debug\ВыборЦвета1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета1\bin\Debug\ВыборЦвета1.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета1\obj\Debug\ВыборЦвета1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ВыборЦвета1\obj\Debug\ВыборЦвета1.pdb
+d:\_CS_11\ВыборЦвета1\ВыборЦвета1\bin\Debug\ВыборЦвета1.exe.config
+d:\_CS_11\ВыборЦвета1\ВыборЦвета1\obj\Debug\ВыборЦвета1.exe
+d:\_CS_11\ВыборЦвета1\ВыборЦвета1\obj\Debug\ВыборЦвета1.pdb
+d:\_CS_11\ВыборЦвета1\ВыборЦвета1\bin\Debug\ВыборЦвета1.exe
+d:\_CS_11\ВыборЦвета1\ВыборЦвета1\bin\Debug\ВыборЦвета1.pdb
+d:\_CS_11\ВыборЦвета1\ВыборЦвета1\obj\Debug\ВыборЦвета1.Form1.resources
+d:\_CS_11\ВыборЦвета1\ВыборЦвета1\obj\Debug\ВыборЦвета1.Properties.Resources.resources
+d:\_CS_11\ВыборЦвета1\ВыборЦвета1\obj\Debug\ВыборЦвета1.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\bin\Debug\Флажок1.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\obj\Debug\Флажок1.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\obj\Debug\Флажок1.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\obj\Debug\Флажок1.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\obj\Debug\Флажок1.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\bin\Debug\Флажок1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\bin\Debug\Флажок1.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\obj\Debug\Флажок1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Флажок1\obj\Debug\Флажок1.pdb
+d:\_CS_11\Флажок1\Флажок1\bin\Debug\Флажок1.exe.config
+d:\_CS_11\Флажок1\Флажок1\obj\Debug\Флажок1.exe
+d:\_CS_11\Флажок1\Флажок1\obj\Debug\Флажок1.pdb
+d:\_CS_11\Флажок1\Флажок1\bin\Debug\Флажок1.exe
+d:\_CS_11\Флажок1\Флажок1\bin\Debug\Флажок1.pdb
+d:\_CS_11\Флажок1\Флажок1\obj\Debug\Флажок1.csprojResolveAssemblyReference.cache
+d:\_CS_11\Флажок1\Флажок1\obj\Debug\Флажок1.Form1.resources
+d:\_CS_11\Флажок1\Флажок1\obj\Debug\Флажок1.Properties.Resources.resources
+d:\_CS_11\Флажок1\Флажок1\obj\Debug\Флажок1.csproj.GenerateResource.Cache

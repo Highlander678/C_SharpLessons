@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\bin\Debug\Паспорт.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\bin\Debug\Паспорт.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\bin\Debug\Паспорт.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\obj\Debug\Паспорт.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\obj\Debug\Паспорт.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\obj\Debug\Паспорт.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\obj\Debug\Паспорт.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\obj\Debug\Паспорт.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Паспорт\obj\Debug\Паспорт.pdb

@@ -1,0 +1,8 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\tab\tab\bin\tab.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\tab\tab\bin\tab.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\tab\tab\obj\Debug\tab.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\tab\tab\obj\Debug\tab.pdb
+d:\_CS_11\tab\tab\bin\tab.dll
+d:\_CS_11\tab\tab\bin\tab.pdb
+d:\_CS_11\tab\tab\obj\Debug\tab.dll
+d:\_CS_11\tab\tab\obj\Debug\tab.pdb

@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\bin\Debug\AltPrintScreen.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\bin\Debug\AltPrintScreen.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\bin\Debug\AltPrintScreen.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\obj\Debug\AltPrintScreen.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\obj\Debug\AltPrintScreen.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\obj\Debug\AltPrintScreen.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\obj\Debug\AltPrintScreen.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\obj\Debug\AltPrintScreen.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\AltPrintScreen\obj\Debug\AltPrintScreen.pdb
+d:\_CS_11\AltPrintScreen\AltPrintScreen\bin\Debug\AltPrintScreen.exe.config
+d:\_CS_11\AltPrintScreen\AltPrintScreen\obj\Debug\AltPrintScreen.exe
+d:\_CS_11\AltPrintScreen\AltPrintScreen\obj\Debug\AltPrintScreen.pdb
+d:\_CS_11\AltPrintScreen\AltPrintScreen\bin\Debug\AltPrintScreen.exe
+d:\_CS_11\AltPrintScreen\AltPrintScreen\bin\Debug\AltPrintScreen.pdb
+d:\_CS_11\AltPrintScreen\AltPrintScreen\obj\Debug\AltPrintScreen.csprojResolveAssemblyReference.cache
+d:\_CS_11\AltPrintScreen\AltPrintScreen\obj\Debug\AltPrintScreen.Form1.resources
+d:\_CS_11\AltPrintScreen\AltPrintScreen\obj\Debug\AltPrintScreen.Properties.Resources.resources
+d:\_CS_11\AltPrintScreen\AltPrintScreen\obj\Debug\AltPrintScreen.csproj.GenerateResource.Cache

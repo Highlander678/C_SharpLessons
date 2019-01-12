@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\bin\Debug\ПрозрачныйТреугольник.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\bin\Debug\ПрозрачныйТреугольник.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\bin\Debug\ПрозрачныйТреугольник.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.pdb
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\bin\Debug\ПрозрачныйТреугольник.exe.config
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.exe
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.pdb
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.csprojResolveAssemblyReference.cache
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.Form1.resources
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.Properties.Resources.resources
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\obj\Debug\ПрозрачныйТреугольник.csproj.GenerateResource.Cache
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\bin\Debug\ПрозрачныйТреугольник.exe
+d:\_CS_11\ПрозрачныйТреугольник\ПрозрачныйТреугольник\bin\Debug\ПрозрачныйТреугольник.pdb

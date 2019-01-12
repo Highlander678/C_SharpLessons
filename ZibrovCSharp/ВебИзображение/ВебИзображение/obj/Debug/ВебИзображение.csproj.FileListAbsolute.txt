@@ -1,0 +1,10 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебИзображение\ВебИзображение\bin\ВебИзображение.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебИзображение\ВебИзображение\bin\ВебИзображение.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебИзображение\ВебИзображение\obj\Debug\ВебИзображение.csprojResolveAssemblyReference.cache
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебИзображение\ВебИзображение\obj\Debug\ВебИзображение.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебИзображение\ВебИзображение\obj\Debug\ВебИзображение.pdb
+d:\_CS_11\ВебИзображение\ВебИзображение\bin\ВебИзображение.dll
+d:\_CS_11\ВебИзображение\ВебИзображение\bin\ВебИзображение.pdb
+d:\_CS_11\ВебИзображение\ВебИзображение\obj\Debug\ВебИзображение.csprojResolveAssemblyReference.cache
+d:\_CS_11\ВебИзображение\ВебИзображение\obj\Debug\ВебИзображение.dll
+d:\_CS_11\ВебИзображение\ВебИзображение\obj\Debug\ВебИзображение.pdb

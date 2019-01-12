@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПечатьЭллипса\bin\Debug\ПечатьЭллипса.exe.config
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\bin\Debug\ПечатьЭллипса.exe.config
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\bin\Debug\ПечатьЭллипса.exe
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\bin\Debug\ПечатьЭллипса.pdb
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\obj\Debug\ПечатьЭллипса.csprojResolveAssemblyReference.cache
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\obj\Debug\ПечатьЭллипса.Form1.resources
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\obj\Debug\ПечатьЭллипса.Properties.Resources.resources
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\obj\Debug\ПечатьЭллипса.csproj.GenerateResource.Cache
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\obj\Debug\ПечатьЭллипса.exe
+d:\_CS_11\ПечатьЭллипса\ПечатьЭллипса\obj\Debug\ПечатьЭллипса.pdb

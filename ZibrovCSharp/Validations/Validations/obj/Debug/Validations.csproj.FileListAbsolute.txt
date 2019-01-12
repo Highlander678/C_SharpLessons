@@ -1,0 +1,5 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Validations\Validations\obj\Debug\Validations.csprojResolveAssemblyReference.cache
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Validations\Validations\bin\Validations.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Validations\Validations\bin\Validations.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Validations\Validations\obj\Debug\Validations.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Validations\Validations\obj\Debug\Validations.pdb

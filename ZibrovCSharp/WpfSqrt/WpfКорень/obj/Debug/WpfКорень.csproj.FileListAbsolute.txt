@@ -1,0 +1,34 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\Page1.baml
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\Page1.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\App.g.cs
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень_MarkupCompile.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.g.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\bin\Debug\WpfКорень.exe.manifest
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\bin\Debug\WpfКорень.xbap
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\bin\Debug\WpfКорень.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\bin\Debug\WpfКорень.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.TrustInfo.xml
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.exe.manifest
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.xbap
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\WpfКорень\obj\Debug\WpfКорень.pdb
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\bin\Debug\WpfКорень.exe.manifest
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\bin\Debug\WpfКорень.xbap
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\bin\Debug\WpfКорень.exe
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\bin\Debug\WpfКорень.pdb
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.csprojResolveAssemblyReference.cache
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\Page1.baml
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\Page1.g.cs
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\App.g.cs
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень_MarkupCompile.cache
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.g.resources
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.Properties.Resources.resources
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.csproj.GenerateResource.Cache
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.TrustInfo.xml
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.exe.manifest
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.xbap
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.exe
+c:\Users\Вик\Documents\Visual Studio 11\Projects\WpfКорень\WpfКорень\obj\Debug\WpfКорень.pdb

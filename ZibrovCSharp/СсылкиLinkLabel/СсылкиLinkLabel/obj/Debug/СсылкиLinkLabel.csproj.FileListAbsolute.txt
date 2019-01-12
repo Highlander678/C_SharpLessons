@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\СсылкиLinkLabel\bin\Debug\СсылкиLinkLabel.exe.config
+d:\_CS_11\СсылкиLinkLabel\СсылкиLinkLabel\bin\Debug\СсылкиLinkLabel.exe.config
+d:\_CS_11\СсылкиLinkLabel\СсылкиLinkLabel\obj\Debug\СсылкиLinkLabel.Form1.resources
+d:\_CS_11\СсылкиLinkLabel\СсылкиLinkLabel\obj\Debug\СсылкиLinkLabel.Properties.Resources.resources
+d:\_CS_11\СсылкиLinkLabel\СсылкиLinkLabel\obj\Debug\СсылкиLinkLabel.csproj.GenerateResource.Cache
+d:\_CS_11\СсылкиLinkLabel\СсылкиLinkLabel\bin\Debug\СсылкиLinkLabel.exe
+d:\_CS_11\СсылкиLinkLabel\СсылкиLinkLabel\bin\Debug\СсылкиLinkLabel.pdb
+d:\_CS_11\СсылкиLinkLabel\СсылкиLinkLabel\obj\Debug\СсылкиLinkLabel.exe
+d:\_CS_11\СсылкиLinkLabel\СсылкиLinkLabel\obj\Debug\СсылкиLinkLabel.pdb

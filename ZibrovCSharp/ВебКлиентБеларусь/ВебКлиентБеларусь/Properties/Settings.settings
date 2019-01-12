@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ВебКлиентБеларусь.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ВебКлиентБеларусь_by_nbrb_www_ExRates" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.nbrb.by/Services/ExRates.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,16 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры+ТчкOrЗпт\bin\Debug\ТолькоЦифры+ТчкOrЗпт.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры+ТчкOrЗпт\bin\Debug\ТолькоЦифры+ТчкOrЗпт.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры+ТчкOrЗпт\bin\Debug\ТолькоЦифры+ТчкOrЗпт.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры_ТчкOrЗпт.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры_ТчкOrЗпт.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры+ТчкOrЗпт.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры+ТчкOrЗпт.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры+ТчкOrЗпт.pdb
+d:\_CS_11\ТолькоЦифры+ТчкOrЗпт\ТолькоЦифры+ТчкOrЗпт\bin\Debug\ТолькоЦифры+ТчкOrЗпт.exe.config
+d:\_CS_11\ТолькоЦифры+ТчкOrЗпт\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры+ТчкOrЗпт.exe
+d:\_CS_11\ТолькоЦифры+ТчкOrЗпт\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры+ТчкOrЗпт.pdb
+d:\_CS_11\ТолькоЦифры+ТчкOrЗпт\ТолькоЦифры+ТчкOrЗпт\bin\Debug\ТолькоЦифры+ТчкOrЗпт.exe
+d:\_CS_11\ТолькоЦифры+ТчкOrЗпт\ТолькоЦифры+ТчкOrЗпт\bin\Debug\ТолькоЦифры+ТчкOrЗпт.pdb
+d:\_CS_11\ТолькоЦифры+ТчкOrЗпт\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры_ТчкOrЗпт.Form1.resources
+d:\_CS_11\ТолькоЦифры+ТчкOrЗпт\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры_ТчкOrЗпт.Properties.Resources.resources
+d:\_CS_11\ТолькоЦифры+ТчкOrЗпт\ТолькоЦифры+ТчкOrЗпт\obj\Debug\ТолькоЦифры+ТчкOrЗпт.csproj.GenerateResource.Cache

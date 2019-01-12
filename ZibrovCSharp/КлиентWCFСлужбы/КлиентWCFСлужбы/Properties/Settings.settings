@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="КлиентWCFСлужбы.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="КлиентWCFСлужбы_localhost_Service1" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1299/Service1.svc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

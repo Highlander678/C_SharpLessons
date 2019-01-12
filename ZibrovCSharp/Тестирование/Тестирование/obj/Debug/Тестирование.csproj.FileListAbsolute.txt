@@ -1,0 +1,18 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\bin\Debug\Тестирование.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\bin\Debug\Тестирование.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\bin\Debug\Тестирование.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\obj\Debug\Тестирование.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\obj\Debug\Тестирование.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\obj\Debug\Тестирование.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\obj\Debug\Тестирование.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\obj\Debug\Тестирование.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Тестирование\obj\Debug\Тестирование.pdb
+d:\_CS_11\Тестирование\Тестирование\bin\Debug\Тестирование.exe.config
+d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.exe
+d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.pdb
+d:\_CS_11\Тестирование\Тестирование\bin\Debug\Тестирование.exe
+d:\_CS_11\Тестирование\Тестирование\bin\Debug\Тестирование.pdb
+d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.csprojResolveAssemblyReference.cache
+d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.Form1.resources
+d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.Properties.Resources.resources
+d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.csproj.GenerateResource.Cache

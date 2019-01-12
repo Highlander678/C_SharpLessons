@@ -1,0 +1,12 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_2\bin\Debug\Создать_PDF_2.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_2\bin\Debug\Создать_PDF_2.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_2\bin\Debug\Создать_PDF_2.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_2\bin\Debug\itextsharp.dll
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_2\obj\Debug\Создать_PDF_2.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_2\obj\Debug\Создать_PDF_2.pdb
+d:\_CS_12\Создать_PDF_2\Создать_PDF_2\bin\Debug\Создать_PDF_2.exe.config
+d:\_CS_12\Создать_PDF_2\Создать_PDF_2\obj\Debug\Создать_PDF_2.exe
+d:\_CS_12\Создать_PDF_2\Создать_PDF_2\obj\Debug\Создать_PDF_2.pdb
+d:\_CS_12\Создать_PDF_2\Создать_PDF_2\bin\Debug\Создать_PDF_2.exe
+d:\_CS_12\Создать_PDF_2\Создать_PDF_2\bin\Debug\Создать_PDF_2.pdb
+d:\_CS_12\Создать_PDF_2\Создать_PDF_2\obj\Debug\Создать_PDF_2.csprojResolveAssemblyReference.cache

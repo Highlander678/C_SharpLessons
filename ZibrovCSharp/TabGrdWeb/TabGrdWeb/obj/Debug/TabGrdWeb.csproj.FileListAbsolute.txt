@@ -1,0 +1,4 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\TabGrdWeb\TabGrdWeb\bin\TabGrdWeb.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\TabGrdWeb\TabGrdWeb\bin\TabGrdWeb.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\TabGrdWeb\TabGrdWeb\obj\Debug\TabGrdWeb.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\TabGrdWeb\TabGrdWeb\obj\Debug\TabGrdWeb.pdb

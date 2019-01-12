@@ -1,0 +1,12 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\PlayerТолькоЗвук\bin\Debug\PlayerТолькоЗвук.exe.config
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\bin\Debug\PlayerТолькоЗвук.exe.config
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\bin\Debug\PlayerТолькоЗвук.exe
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\bin\Debug\PlayerТолькоЗвук.pdb
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\obj\Debug\PlayerТолькоЗвук.csprojResolveAssemblyReference.cache
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\obj\Debug\Interop.WMPLib.dll
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\obj\Debug\PlayerТолькоЗвук.csproj.ResolveComReference.cache
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\obj\Debug\PlayerТолькоЗвук.Form1.resources
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\obj\Debug\PlayerТолькоЗвук.Properties.Resources.resources
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\obj\Debug\PlayerТолькоЗвук.csproj.GenerateResource.Cache
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\obj\Debug\PlayerТолькоЗвук.exe
+d:\_CS_11\PlayerТолькоЗвук\PlayerТолькоЗвук\obj\Debug\PlayerТолькоЗвук.pdb

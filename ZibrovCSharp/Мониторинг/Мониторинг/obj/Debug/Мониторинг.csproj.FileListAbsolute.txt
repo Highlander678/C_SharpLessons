@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\bin\Debug\Мониторинг.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\bin\Debug\Мониторинг.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\bin\Debug\Мониторинг.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\obj\Debug\Мониторинг.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\obj\Debug\Мониторинг.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\obj\Debug\Мониторинг.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\obj\Debug\Мониторинг.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\obj\Debug\Мониторинг.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Мониторинг\obj\Debug\Мониторинг.pdb

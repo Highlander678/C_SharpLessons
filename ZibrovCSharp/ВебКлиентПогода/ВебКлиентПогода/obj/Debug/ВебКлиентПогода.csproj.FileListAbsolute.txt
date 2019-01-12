@@ -1,0 +1,4 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентПогода\ВебКлиентПогода\bin\ВебКлиентПогода.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентПогода\ВебКлиентПогода\bin\ВебКлиентПогода.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентПогода\ВебКлиентПогода\obj\Debug\ВебКлиентПогода.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ВебКлиентПогода\ВебКлиентПогода\obj\Debug\ВебКлиентПогода.pdb

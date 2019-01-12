@@ -1,0 +1,12 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\bin\Debug\ReadWriteBin.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\bin\Debug\ReadWriteBin.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\bin\Debug\ReadWriteBin.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\obj\Debug\ReadWriteBin.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\obj\Debug\ReadWriteBin.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\obj\Debug\ReadWriteBin.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\obj\Debug\ReadWriteBin.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\obj\Debug\ReadWriteBin.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ReadWriteBin\obj\Debug\ReadWriteBin.pdb
+d:\_CS_11\ReadWriteBin\ReadWriteBin\bin\Debug\ReadWriteBin.exe.config
+d:\_CS_11\ReadWriteBin\ReadWriteBin\obj\Debug\ReadWriteBin.exe
+d:\_CS_11\ReadWriteBin\ReadWriteBin\obj\Debug\ReadWriteBin.pdb

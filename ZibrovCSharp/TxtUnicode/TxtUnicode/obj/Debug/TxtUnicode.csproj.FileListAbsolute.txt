@@ -1,0 +1,12 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\bin\Debug\TxtUnicode.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\bin\Debug\TxtUnicode.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\bin\Debug\TxtUnicode.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\obj\Debug\TxtUnicode.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\obj\Debug\TxtUnicode.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\obj\Debug\TxtUnicode.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\obj\Debug\TxtUnicode.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\obj\Debug\TxtUnicode.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\TxtUnicode\obj\Debug\TxtUnicode.pdb
+d:\_CS_11\TxtUnicode\TxtUnicode\bin\Debug\TxtUnicode.exe.config
+d:\_CS_11\TxtUnicode\TxtUnicode\obj\Debug\TxtUnicode.exe
+d:\_CS_11\TxtUnicode\TxtUnicode\obj\Debug\TxtUnicode.pdb

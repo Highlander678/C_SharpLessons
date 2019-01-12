@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Пгм-ноВызватьКликКнопки\bin\Debug\Пгм-ноВызватьКликКнопки.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\Пгм-ноВызватьКликКнопки\obj\Debug\Пгм_ноВызватьКликКнопки.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Пгм-ноВызватьКликКнопки\obj\Debug\Пгм_ноВызватьКликКнопки.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\Пгм-ноВызватьКликКнопки\obj\Debug\Пгм-ноВызватьКликКнопки.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\Пгм-ноВызватьКликКнопки\bin\Debug\Пгм-ноВызватьКликКнопки.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Пгм-ноВызватьКликКнопки\bin\Debug\Пгм-ноВызватьКликКнопки.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\Пгм-ноВызватьКликКнопки\obj\Debug\Пгм-ноВызватьКликКнопки.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\Пгм-ноВызватьКликКнопки\obj\Debug\Пгм-ноВызватьКликКнопки.pdb

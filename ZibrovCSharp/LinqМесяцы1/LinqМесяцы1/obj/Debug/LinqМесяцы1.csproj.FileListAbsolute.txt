@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы1\bin\Debug\LinqМесяцы1.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы1\bin\Debug\LinqМесяцы1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы1\bin\Debug\LinqМесяцы1.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы1\obj\Debug\LinqМесяцы1.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\LinqМесяцы1\obj\Debug\LinqМесяцы1.pdb
+d:\_CS_11\LinqМесяцы1\LinqМесяцы1\bin\Debug\LinqМесяцы1.exe.config
+d:\_CS_11\LinqМесяцы1\LinqМесяцы1\obj\Debug\LinqМесяцы1.exe
+d:\_CS_11\LinqМесяцы1\LinqМесяцы1\obj\Debug\LinqМесяцы1.pdb
+d:\_CS_11\LinqМесяцы1\LinqМесяцы1\bin\Debug\LinqМесяцы1.exe
+d:\_CS_11\LinqМесяцы1\LinqМесяцы1\bin\Debug\LinqМесяцы1.pdb

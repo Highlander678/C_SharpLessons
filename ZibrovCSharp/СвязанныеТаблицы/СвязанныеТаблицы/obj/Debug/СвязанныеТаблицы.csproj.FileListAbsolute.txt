@@ -1,0 +1,10 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\СвязанныеТаблицы\bin\Debug\СвязанныеТаблицы.exe.config
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\bin\Debug\СвязанныеТаблицы.exe.config
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\obj\Debug\СвязанныеТаблицы.csprojResolveAssemblyReference.cache
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\obj\Debug\СвязанныеТаблицы.Form1.resources
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\obj\Debug\СвязанныеТаблицы.Properties.Resources.resources
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\obj\Debug\СвязанныеТаблицы.csproj.GenerateResource.Cache
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\bin\Debug\СвязанныеТаблицы.exe
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\bin\Debug\СвязанныеТаблицы.pdb
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\obj\Debug\СвязанныеТаблицы.exe
+d:\_CS_11\СвязанныеТаблицы\СвязанныеТаблицы\obj\Debug\СвязанныеТаблицы.pdb

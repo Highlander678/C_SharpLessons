@@ -1,0 +1,5 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БдУдаленЗаписи\bin\Debug\БдУдаленЗаписи.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\БдУдаленЗаписи\bin\Debug\БдУдаленЗаписи.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БдУдаленЗаписи\bin\Debug\БдУдаленЗаписи.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\БдУдаленЗаписи\obj\Debug\БдУдаленЗаписи.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\БдУдаленЗаписи\obj\Debug\БдУдаленЗаписи.pdb

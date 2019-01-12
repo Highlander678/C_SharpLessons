@@ -1,0 +1,9 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\bin\Debug\ПеремещениеФормы.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\bin\Debug\ПеремещениеФормы.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\bin\Debug\ПеремещениеФормы.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\obj\Debug\ПеремещениеФормы.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\obj\Debug\ПеремещениеФормы.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\obj\Debug\ПеремещениеФормы.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\obj\Debug\ПеремещениеФормы.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\obj\Debug\ПеремещениеФормы.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ПеремещениеФормы\obj\Debug\ПеремещениеФормы.pdb

@@ -1,0 +1,5 @@
+d:\_CS_11\WCF-Служба\WCF-Служба\obj\Debug\WCF-Служба.csprojResolveAssemblyReference.cache
+d:\_CS_11\WCF-Служба\WCF-Служба\bin\WCF-Служба.dll
+d:\_CS_11\WCF-Служба\WCF-Служба\bin\WCF-Служба.pdb
+d:\_CS_11\WCF-Служба\WCF-Служба\obj\Debug\WCF-Служба.dll
+d:\_CS_11\WCF-Служба\WCF-Служба\obj\Debug\WCF-Служба.pdb

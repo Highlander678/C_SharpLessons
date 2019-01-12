@@ -1,0 +1,4 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ТекстНаклWeb\ТекстНаклWeb\bin\ТекстНаклWeb.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ТекстНаклWeb\ТекстНаклWeb\bin\ТекстНаклWeb.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ТекстНаклWeb\ТекстНаклWeb\obj\Debug\ТекстНаклWeb.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\ТекстНаклWeb\ТекстНаклWeb\obj\Debug\ТекстНаклWeb.pdb

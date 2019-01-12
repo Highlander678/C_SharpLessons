@@ -1,0 +1,2 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\БД_SQL_Server\bin\Debug\БД_SQL_Server.exe.config
+d:\_CS_11\БД_SQL_Server\БД_SQL_Server\bin\Debug\БД_SQL_Server.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры\bin\Debug\ТолькоЦифры.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры\bin\Debug\ТолькоЦифры.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры\bin\Debug\ТолькоЦифры.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры\obj\Debug\ТолькоЦифры.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры\obj\Debug\ТолькоЦифры.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры\obj\Debug\ТолькоЦифры.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры\obj\Debug\ТолькоЦифры.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ТолькоЦифры\obj\Debug\ТолькоЦифры.pdb

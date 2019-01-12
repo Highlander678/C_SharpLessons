@@ -1,0 +1,8 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\Создать_PDF_граф_2\bin\Debug\Создать_PDF_граф_2.exe.config
+d:\_CS_11\Создать_PDF_граф_2\Создать_PDF_граф_2\bin\Debug\Создать_PDF_граф_2.exe.config
+d:\_CS_11\Создать_PDF_граф_2\Создать_PDF_граф_2\bin\Debug\Создать_PDF_граф_2.exe
+d:\_CS_11\Создать_PDF_граф_2\Создать_PDF_граф_2\bin\Debug\Создать_PDF_граф_2.pdb
+d:\_CS_11\Создать_PDF_граф_2\Создать_PDF_граф_2\bin\Debug\itextsharp.dll
+d:\_CS_11\Создать_PDF_граф_2\Создать_PDF_граф_2\obj\Debug\Создать_PDF_граф_2.csprojResolveAssemblyReference.cache
+d:\_CS_11\Создать_PDF_граф_2\Создать_PDF_граф_2\obj\Debug\Создать_PDF_граф_2.exe
+d:\_CS_11\Создать_PDF_граф_2\Создать_PDF_граф_2\obj\Debug\Создать_PDF_граф_2.pdb

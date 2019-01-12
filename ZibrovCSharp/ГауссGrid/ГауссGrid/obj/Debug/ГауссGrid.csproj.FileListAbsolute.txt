@@ -1,0 +1,17 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\ГауссGrid\bin\Debug\ГауссGrid.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\ГауссGrid\bin\Debug\ГауссGrid.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ГауссGrid\bin\Debug\ГауссGrid.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\ГауссGrid\obj\Debug\ГауссGrid.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ГауссGrid\obj\Debug\ГауссGrid.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\ГауссGrid\obj\Debug\ГауссGrid.csproj.GenerateResource.Cache
+C:\Users\Вик\AppData\Local\Temporary Projects\ГауссGrid\obj\Debug\ГауссGrid.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\ГауссGrid\obj\Debug\ГауссGrid.pdb
+d:\_CS_11\ГауссGrid\ГауссGrid\bin\Debug\ГауссGrid.exe.config
+d:\_CS_11\ГауссGrid\ГауссGrid\obj\Debug\ГауссGrid.exe
+d:\_CS_11\ГауссGrid\ГауссGrid\obj\Debug\ГауссGrid.pdb
+d:\_CS_11\ГауссGrid\ГауссGrid\obj\Debug\ГауссGrid.csprojResolveAssemblyReference.cache
+d:\_CS_11\ГауссGrid\ГауссGrid\obj\Debug\ГауссGrid.Form1.resources
+d:\_CS_11\ГауссGrid\ГауссGrid\obj\Debug\ГауссGrid.Properties.Resources.resources
+d:\_CS_11\ГауссGrid\ГауссGrid\obj\Debug\ГауссGrid.csproj.GenerateResource.Cache
+d:\_CS_11\ГауссGrid\ГауссGrid\bin\Debug\ГауссGrid.exe
+d:\_CS_11\ГауссGrid\ГауссGrid\bin\Debug\ГауссGrid.pdb

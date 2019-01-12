@@ -1,0 +1,6 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\СсылкаНаVisualBasic\bin\Debug\СсылкаНаVisualBasic.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\СсылкаНаVisualBasic\bin\Debug\СсылкаНаVisualBasic.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\СсылкаНаVisualBasic\bin\Debug\СсылкаНаVisualBasic.pdb
+C:\Users\Вик\AppData\Local\Temporary Projects\СсылкаНаVisualBasic\obj\Debug\СсылкаНаVisualBasic.csprojResolveAssemblyReference.cache
+C:\Users\Вик\AppData\Local\Temporary Projects\СсылкаНаVisualBasic\obj\Debug\СсылкаНаVisualBasic.exe
+C:\Users\Вик\AppData\Local\Temporary Projects\СсылкаНаVisualBasic\obj\Debug\СсылкаНаVisualBasic.pdb

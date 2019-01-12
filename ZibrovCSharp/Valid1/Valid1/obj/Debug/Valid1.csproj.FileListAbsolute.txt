@@ -1,0 +1,4 @@
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Valid1\Valid1\bin\Valid1.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Valid1\Valid1\bin\Valid1.pdb
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Valid1\Valid1\obj\Debug\Valid1.dll
+C:\Users\Вик\Documents\Visual Studio 11\Projects\Valid1\Valid1\obj\Debug\Valid1.pdb
