@@ -16,3 +16,13 @@ d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тести
 d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.Form1.resources
 d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.Properties.Resources.resources
 d:\_CS_11\Тестирование\Тестирование\obj\Debug\Тестирование.csproj.GenerateResource.Cache
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\bin\Debug\Тестирование.exe.config
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\bin\Debug\Тестирование.exe
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\bin\Debug\Тестирование.pdb
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\obj\Debug\Тестирование.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\obj\Debug\Тестирование.Form1.resources
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\obj\Debug\Тестирование.Properties.Resources.resources
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\obj\Debug\Тестирование.csproj.GenerateResource.cache
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\obj\Debug\Тестирование.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\obj\Debug\Тестирование.exe
+C:\Users\Adm\Documents\C++\GitREPO\ZibrovCSharp\Тестирование\Тестирование\obj\Debug\Тестирование.pdb
