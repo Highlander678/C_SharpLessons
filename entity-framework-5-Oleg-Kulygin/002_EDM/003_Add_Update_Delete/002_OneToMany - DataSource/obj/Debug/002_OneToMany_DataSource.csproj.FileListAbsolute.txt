@@ -1,0 +1,13 @@
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\bin\Debug\002_OneToMany.exe.config
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\obj\Debug\002_OneToMany.exe
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\obj\Debug\002_OneToMany.pdb
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\bin\Debug\DBOneToMany.mdf
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\bin\Debug\DBOneToMany_log.ldf
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\bin\Debug\002_OneToMany.exe
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\bin\Debug\002_OneToMany.pdb
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\bin\Debug\EntityFramework.dll
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\bin\Debug\EntityFramework.xml
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\obj\Debug\002_OneToMany_DataSource.csprojResolveAssemblyReference.cache
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\obj\Debug\_002_OneToMany.Form1.resources
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\obj\Debug\_002_OneToMany.Properties.Resources.resources
+C:\Cources\EF\Lesson2\003_Add_Update_Delete\002_OneToMany - DataSource\obj\Debug\002_OneToMany_DataSource.csproj.GenerateResource.Cache

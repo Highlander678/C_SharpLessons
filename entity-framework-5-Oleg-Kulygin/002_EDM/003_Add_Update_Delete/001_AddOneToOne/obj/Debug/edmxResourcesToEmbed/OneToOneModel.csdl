@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="OneToOneModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="OneToOneModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employee" EntityType="OneToOneModel.Employee" />
+    <EntitySet Name="EmployeeInf" EntityType="OneToOneModel.EmployeeInf" />
+    <AssociationSet Name="EmployeeEmployeeInf" Association="OneToOneModel.EmployeeEmployeeInf">
+      <End EntitySet="Employee" Role="Employee" />
+      <End EntitySet="EmployeeInf" Role="EmployeeInf" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FirstName" Nullable="false" />
+    <Property Type="String" Name="LastName" Nullable="false" />
+    <NavigationProperty Name="EmployeeInf" Relationship="OneToOneModel.EmployeeEmployeeInf" FromRole="Employee" ToRole="EmployeeInf" />
+  </EntityType>
+  <EntityType Name="EmployeeInf">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" Type="Int32" />
+    <Property Name="Age" Nullable="false" Type="String" />
+    <Property Name="Gender" Nullable="false" Type="String" />
+    <Property Name="Phone" Nullable="false" Type="String" />
+    <NavigationProperty Name="Employee" Relationship="OneToOneModel.EmployeeEmployeeInf" FromRole="EmployeeInf" ToRole="Employee" />
+  </EntityType>
+  <Association Name="EmployeeEmployeeInf">
+    <End Type="OneToOneModel.Employee" Multiplicity="1" Role="Employee">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="OneToOneModel.EmployeeInf" Multiplicity="1" Role="EmployeeInf" />
+  </Association>
+</Schema>

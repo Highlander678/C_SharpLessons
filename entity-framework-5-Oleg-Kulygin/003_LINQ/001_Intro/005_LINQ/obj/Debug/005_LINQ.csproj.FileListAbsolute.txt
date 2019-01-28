@@ -1,0 +1,16 @@
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\bin\Debug\005_LINQ.exe.config
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\bin\Debug\005_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\bin\Debug\005_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\obj\Debug\005_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\obj\Debug\005_LINQ.pdb
+F:\CBS\EF\EF\Lesson3\005_LINQ\bin\Debug\005_LINQ.exe.config
+F:\CBS\EF\EF\Lesson3\005_LINQ\obj\Debug\005_LINQ.exe
+F:\CBS\EF\EF\Lesson3\005_LINQ\obj\Debug\005_LINQ.pdb
+F:\CBS\EF\EF\Lesson3\005_LINQ\bin\Debug\005_LINQ.exe
+F:\CBS\EF\EF\Lesson3\005_LINQ\bin\Debug\005_LINQ.pdb
+C:\Cources\EF\Lesson3\005_LINQ\bin\Debug\005_LINQ.exe.config
+C:\Cources\EF\Lesson3\005_LINQ\obj\Debug\005_LINQ.exe
+C:\Cources\EF\Lesson3\005_LINQ\obj\Debug\005_LINQ.pdb
+D:\Cources\EF\Lesson3\005_LINQ\bin\Debug\005_LINQ.exe.config
+D:\Cources\EF\Lesson3\005_LINQ\obj\Debug\005_LINQ.exe
+D:\Cources\EF\Lesson3\005_LINQ\obj\Debug\005_LINQ.pdb

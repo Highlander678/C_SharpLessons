@@ -1,0 +1,13 @@
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\bin\Debug\001_AddOneToOne.exe.config
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\obj\Debug\001_AddOneToOne.exe
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\obj\Debug\001_AddOneToOne.pdb
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\obj\Debug\001_OneToOne-1.csprojResolveAssemblyReference.cache
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\obj\Debug\_001_OneToOne.Form1.resources
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\obj\Debug\_001_OneToOne.Properties.Resources.resources
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\obj\Debug\001_OneToOne-1.csproj.GenerateResource.Cache
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\bin\Debug\DBOneToOne.mdf
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\bin\Debug\DBOneToOne_log.ldf
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\bin\Debug\001_AddOneToOne.exe
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\bin\Debug\001_AddOneToOne.pdb
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson2\003_Add_Update_Delete\001_AddOneToOne - Copy\bin\Debug\EntityFramework.xml

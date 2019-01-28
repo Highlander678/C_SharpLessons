@@ -1,0 +1,17 @@
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Release\001_EDMCodeGeneration.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Release\001_EDMCodeGeneration.exe
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Release\001_EDMCodeGeneration.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\obj\Release\001_EDMCodeGeneration.exe
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\obj\Release\001_EDMCodeGeneration.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Release\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Release\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Release\001_EDMCodeGeneration.exe.config
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\obj\Release\001_EDMCodeGeneration.exe
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\obj\Release\001_EDMCodeGeneration.pdb
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Release\001_EDMCodeGeneration.exe
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Release\001_EDMCodeGeneration.pdb
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Release\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Release\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\001_EDM\001_EDMCodeGeneration\bin\Release\001_EDMCodeGeneration.exe.config
+F:\CBS\EF\EF\Lesson2\001_EDM\001_EDMCodeGeneration\obj\Release\001_EDMCodeGeneration.exe
+F:\CBS\EF\EF\Lesson2\001_EDM\001_EDMCodeGeneration\obj\Release\001_EDMCodeGeneration.pdb

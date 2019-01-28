@@ -1,0 +1,10 @@
+D:\Cources\EF\Lesson3\008_LINQ\bin\Debug\008_LINQ.exe.config
+D:\Cources\EF\Lesson3\008_LINQ\obj\Debug\008_LINQ.exe
+D:\Cources\EF\Lesson3\008_LINQ\obj\Debug\008_LINQ.pdb
+D:\Cources\EF\Lesson3\001_Intro\008_LINQ\bin\Debug\008_LINQ.exe.config
+D:\Cources\EF\Lesson3\001_Intro\008_LINQ\obj\Debug\008_LINQ.exe
+D:\Cources\EF\Lesson3\001_Intro\008_LINQ\obj\Debug\008_LINQ.pdb
+D:\Cources\EF\Lesson3\001_Intro\008_LINQ\bin\Debug\008_LINQ.exe
+D:\Cources\EF\Lesson3\001_Intro\008_LINQ\bin\Debug\008_LINQ.pdb
+D:\Cources\EF\Lesson3\001_Intro\008_LINQ\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson3\001_Intro\008_LINQ\bin\Debug\EntityFramework.xml

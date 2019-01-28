@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdventureWorksLT2012Model" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AdventureWorksLT2012Entities" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+    <EntitySet Name="Customers" EntityType="AdventureWorksLT2012Model.Customer" />
+    <EntitySet Name="Products" EntityType="AdventureWorksLT2012Model.Product" />
+    <EntitySet Name="SalesOrderDetails" EntityType="AdventureWorksLT2012Model.SalesOrderDetail" />
+    <EntitySet Name="SalesOrderHeaders" EntityType="AdventureWorksLT2012Model.SalesOrderHeader" />
+    <AssociationSet Name="FK_SalesOrderHeader_Customer_CustomerID" Association="AdventureWorksLT2012Model.FK_SalesOrderHeader_Customer_CustomerID">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="SalesOrderHeader" EntitySet="SalesOrderHeaders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderDetail_Product_ProductID" Association="AdventureWorksLT2012Model.FK_SalesOrderDetail_Product_ProductID">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="SalesOrderDetail" EntitySet="SalesOrderDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" Association="AdventureWorksLT2012Model.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID">
+      <End Role="SalesOrderHeader" EntitySet="SalesOrderHeaders" />
+      <End Role="SalesOrderDetail" EntitySet="SalesOrderDetails" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Type="Int32" Name="CustomerID" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Boolean" Name="NameStyle" Nullable="false" />
+    <Property Type="String" Name="Title" MaxLength="8" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="MiddleName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Suffix" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CompanyName" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SalesPerson" MaxLength="256" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="EmailAddress" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Phone" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PasswordHash" Nullable="false" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="PasswordSalt" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" a:StoreGeneratedPattern="Computed" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" ConcurrencyMode="Fixed" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="SalesOrderHeaders" Relationship="AdventureWorksLT2012Model.FK_SalesOrderHeader_Customer_CustomerID" FromRole="Customer" ToRole="SalesOrderHeader" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Type="Int32" Name="ProductID" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ProductNumber" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Color" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="StandardCost" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="ListPrice" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="String" Name="Size" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="Weight" Precision="8" Scale="2" />
+    <Property Type="Int32" Name="ProductCategoryID" />
+    <Property Type="Int32" Name="ProductModelID" />
+    <Property Type="DateTime" Name="SellStartDate" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="SellEndDate" Precision="3" />
+    <Property Type="DateTime" Name="DiscontinuedDate" Precision="3" />
+    <Property Type="Binary" Name="ThumbNailPhoto" MaxLength="Max" FixedLength="false" />
+    <Property Type="String" Name="ThumbnailPhotoFileName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" a:StoreGeneratedPattern="Computed" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" ConcurrencyMode="Fixed" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="SalesOrderDetails" Relationship="AdventureWorksLT2012Model.FK_SalesOrderDetail_Product_ProductID" FromRole="Product" ToRole="SalesOrderDetail" />
+  </EntityType>
+  <EntityType Name="SalesOrderDetail">
+    <Key>
+      <PropertyRef Name="SalesOrderID" />
+      <PropertyRef Name="SalesOrderDetailID" />
+    </Key>
+    <Property Type="Int32" Name="SalesOrderID" Nullable="false" />
+    <Property Type="Int32" Name="SalesOrderDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int16" Name="OrderQty" Nullable="false" />
+    <Property Type="Int32" Name="ProductID" Nullable="false" />
+    <Property Type="Decimal" Name="UnitPrice" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="UnitPriceDiscount" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="LineTotal" Nullable="false" Precision="38" Scale="6" annotation:StoreGeneratedPattern="Computed" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" a:StoreGeneratedPattern="Computed" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" ConcurrencyMode="Fixed" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Product" Relationship="AdventureWorksLT2012Model.FK_SalesOrderDetail_Product_ProductID" FromRole="SalesOrderDetail" ToRole="Product" />
+    <NavigationProperty Name="SalesOrderHeader" Relationship="AdventureWorksLT2012Model.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" FromRole="SalesOrderDetail" ToRole="SalesOrderHeader" />
+  </EntityType>
+  <EntityType Name="SalesOrderHeader">
+    <Key>
+      <PropertyRef Name="SalesOrderID" />
+    </Key>
+    <Property Type="Int32" Name="SalesOrderID" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Byte" Name="RevisionNumber" Nullable="false" />
+    <Property Type="DateTime" Name="OrderDate" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="DueDate" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="ShipDate" Precision="3" />
+    <Property Type="Byte" Name="Status" Nullable="false" />
+    <Property Type="Boolean" Name="OnlineOrderFlag" Nullable="false" />
+    <Property Type="String" Name="SalesOrderNumber" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" annotation:StoreGeneratedPattern="Computed" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="PurchaseOrderNumber" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="AccountNumber" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CustomerID" Nullable="false" />
+    <Property Type="Int32" Name="ShipToAddressID" />
+    <Property Type="Int32" Name="BillToAddressID" />
+    <Property Type="String" Name="ShipMethod" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CreditCardApprovalCode" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="SubTotal" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="TaxAmt" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="Freight" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="TotalDue" Nullable="false" Precision="19" Scale="4" annotation:StoreGeneratedPattern="Computed" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="Comment" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" ConcurrencyMode="Fixed" a:StoreGeneratedPattern="Computed" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Customer" Relationship="AdventureWorksLT2012Model.FK_SalesOrderHeader_Customer_CustomerID" FromRole="SalesOrderHeader" ToRole="Customer" />
+    <NavigationProperty Name="SalesOrderDetails" Relationship="AdventureWorksLT2012Model.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" FromRole="SalesOrderHeader" ToRole="SalesOrderDetail" />
+  </EntityType>
+  <Association Name="FK_SalesOrderHeader_Customer_CustomerID">
+    <End Type="AdventureWorksLT2012Model.Customer" Role="Customer" Multiplicity="1" />
+    <End Type="AdventureWorksLT2012Model.SalesOrderHeader" Role="SalesOrderHeader" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="SalesOrderHeader">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderDetail_Product_ProductID">
+    <End Type="AdventureWorksLT2012Model.Product" Role="Product" Multiplicity="1" />
+    <End Type="AdventureWorksLT2012Model.SalesOrderDetail" Role="SalesOrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="SalesOrderDetail">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID">
+    <End Type="AdventureWorksLT2012Model.SalesOrderHeader" Role="SalesOrderHeader" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="AdventureWorksLT2012Model.SalesOrderDetail" Role="SalesOrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesOrderHeader">
+        <PropertyRef Name="SalesOrderID" />
+      </Principal>
+      <Dependent Role="SalesOrderDetail">
+        <PropertyRef Name="SalesOrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

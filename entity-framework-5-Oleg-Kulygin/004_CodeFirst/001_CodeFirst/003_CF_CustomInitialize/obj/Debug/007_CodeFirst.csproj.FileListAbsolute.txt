@@ -1,0 +1,22 @@
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.exe.config
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.exe
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.pdb
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.exe
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.pdb
+F:\CBS\EF\EF\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.exe.config
+F:\CBS\EF\EF\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.exe
+F:\CBS\EF\EF\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.pdb
+F:\CBS\EF\EF\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\EntityFramework.dll
+F:\CBS\EF\EF\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\EntityFramework.xml
+F:\CBS\EF\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.exe
+F:\CBS\EF\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.pdb
+C:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.exe.config
+C:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.exe
+C:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.pdb
+D:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.exe.config
+D:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.exe
+D:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.pdb

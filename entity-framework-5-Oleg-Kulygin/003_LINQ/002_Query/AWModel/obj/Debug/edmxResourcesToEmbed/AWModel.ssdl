@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SalesModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="SalesModelStoreContainer">
+    <EntitySet Name="Customers" EntityType="SalesModel.Store.Customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="LineItems" EntityType="SalesModel.Store.LineItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Orders" EntityType="SalesModel.Store.Orders" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_SalesOrderHeader_Customer_CustomerID" Association="SalesModel.Store.FK_SalesOrderHeader_Customer_CustomerID">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="SalesOrderHeader" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" Association="SalesModel.Store.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID">
+      <End Role="SalesOrderHeader" EntitySet="Orders" />
+      <End Role="SalesOrderDetail" EntitySet="LineItems" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" Nullable="true" MaxLength="8" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="MiddleName" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Suffix" Type="nvarchar" Nullable="true" MaxLength="10" />
+    <Property Name="Company" Type="nvarchar" Nullable="true" MaxLength="128" />
+    <Property Name="SalesPerson" Type="nvarchar" Nullable="true" MaxLength="256" />
+    <Property Name="EmailAddress" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" Nullable="true" MaxLength="25" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+    <Property Name="TimeStamp" Type="binary" StoreGeneratedPattern="Computed" Nullable="false" MaxLength="8" />
+  </EntityType>
+  <EntityType Name="LineItems">
+    <Key>
+      <PropertyRef Name="SalesOrderDetailID" />
+    </Key>
+    <Property Name="SalesOrderID" Type="int" Nullable="false" />
+    <Property Name="SalesOrderDetailID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OrderQty" Type="smallint" Nullable="false" />
+    <Property Name="ProductID" Type="int" Nullable="false" />
+    <Property Name="UnitPrice" Type="decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="UnitPriceDiscount" Type="decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="LineTotal" Type="decimal" StoreGeneratedPattern="Computed" Nullable="false" Precision="38" Scale="6" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="SalesOrderID" />
+    </Key>
+    <Property Name="SalesOrderID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OrderDate" Type="datetime" Nullable="false" />
+    <Property Name="DueDate" Type="datetime" Nullable="true" />
+    <Property Name="OnlineOrderFlag" Type="bit" Nullable="false" />
+    <Property Name="SalesOrderNumber" Type="nvarchar" StoreGeneratedPattern="Computed" Nullable="false" MaxLength="25" />
+    <Property Name="PurchaseOrderNumber" Type="nvarchar" Nullable="true" MaxLength="25" />
+    <Property Name="AccountNumber" Type="nvarchar" Nullable="true" MaxLength="15" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="BillToAddressID" Type="int" Nullable="true" />
+    <Property Name="CreditCardApprovalCode" Type="varchar" Nullable="true" MaxLength="15" />
+    <Property Name="SubTotal" Type="decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="Comment" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+    <Property Name="ShipDate" Type="datetime" Nullable="true" />
+  </EntityType>
+  <Association Name="FK_SalesOrderHeader_Customer_CustomerID">
+    <End Role="Customer" Type="SalesModel.Store.Customers" Multiplicity="1" />
+    <End Role="SalesOrderHeader" Type="SalesModel.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="SalesOrderHeader">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID">
+    <End Role="SalesOrderHeader" Type="SalesModel.Store.Orders" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="SalesOrderDetail" Type="SalesModel.Store.LineItems" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesOrderHeader">
+        <PropertyRef Name="SalesOrderID" />
+      </Principal>
+      <Dependent Role="SalesOrderDetail">
+        <PropertyRef Name="SalesOrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,60 @@
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\AWMOdel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\AWMOdel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\AWModel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\AWModel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\AWModel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\AWModel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\AWModel.dll
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\AWModel.pdb
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\EntityFramework.xml
+C:\Cources\EF\FOR TEACHER\My_Lesson3\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+C:\Cources\EF\FOR TEACHER\My_Lesson3\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+C:\Cources\EF\FOR TEACHER\My_Lesson3\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\AWModel.dll
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\EntityFramework.dll
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\AWModel.pdb
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\EntityFramework.xml
+C:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.csprojResolveAssemblyReference.cache
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.csprojResolveAssemblyReference.cache
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\AWModel.dll
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\EntityFramework.dll
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\AWModel.pdb
+D:\Cources\EF\My_Lesson3\AWModel\SimpleQueries\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson3\002_Query\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+D:\Cources\EF\Lesson3\002_Query\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+D:\Cources\EF\Lesson3\002_Query\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb

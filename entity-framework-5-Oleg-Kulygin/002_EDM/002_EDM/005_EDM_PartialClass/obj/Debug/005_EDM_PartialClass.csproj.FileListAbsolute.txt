@@ -1,0 +1,34 @@
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.exe
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.pdb
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe.config
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.pdb
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Debug\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Debug\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.exe
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.pdb
+F:\CBS\EF\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe.config
+F:\CBS\EF\EF\Lesson2\002_EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.exe
+F:\CBS\EF\EF\Lesson2\002_EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.pdb
+C:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe.config
+C:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.exe
+C:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.pdb
+C:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe
+C:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.pdb
+C:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\EntityFramework.dll
+C:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\EntityFramework.xml
+C:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.csprojResolveAssemblyReference.cache
+D:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe.config
+D:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.exe
+D:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.pdb
+D:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.exe
+D:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\005_EDM_PartialClass.pdb
+D:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson2\002_EDM\005_EDM_PartialClass\obj\Debug\005_EDM_PartialClass.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Release\002_EDM.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Release\002_EDM.exe
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Release\002_EDM.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Release\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Release\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Release\_002_EDM.Form1.resources
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Release\_002_EDM.Properties.Resources.resources
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Release\002_EDM.csproj.GenerateResource.Cache
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Release\002_EDM.exe
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Release\002_EDM.pdb

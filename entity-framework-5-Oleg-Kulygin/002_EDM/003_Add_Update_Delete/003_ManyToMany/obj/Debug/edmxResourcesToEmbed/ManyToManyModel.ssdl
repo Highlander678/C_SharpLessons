@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ManyToManyModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ManyToManyModelStoreContainer">
+    <EntitySet Name="Students" EntityType="ManyToManyModel.Store.Students" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Courses" EntityType="ManyToManyModel.Store.Courses" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="StudentsCourses" EntityType="ManyToManyModel.Store.StudentsCourses" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_StudentsCourses_Students" Association="ManyToManyModel.Store.FK_StudentsCourses_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="StudentsCourses" EntitySet="StudentsCourses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentsCourses_Courses" Association="ManyToManyModel.Store.FK_StudentsCourses_Courses">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="StudentsCourses" EntitySet="StudentsCourses" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StudentsCourses">
+    <Key>
+      <PropertyRef Name="Students_Id" />
+      <PropertyRef Name="Courses_Id" />
+    </Key>
+    <Property Name="Students_Id" Type="int" Nullable="false" />
+    <Property Name="Courses_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_StudentsCourses_Students">
+    <End Role="Students" Type="ManyToManyModel.Store.Students" Multiplicity="1" />
+    <End Role="StudentsCourses" Type="ManyToManyModel.Store.StudentsCourses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StudentsCourses">
+        <PropertyRef Name="Students_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentsCourses_Courses">
+    <End Role="StudentsCourses" Type="ManyToManyModel.Store.StudentsCourses" Multiplicity="*" />
+    <End Role="Courses" Type="ManyToManyModel.Store.Courses" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StudentsCourses">
+        <PropertyRef Name="Courses_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

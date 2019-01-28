@@ -1,0 +1,51 @@
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.exe.config
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.exe
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.pdb
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\CF.DataAccess.pdb
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\obj\Debug\006_CF_InsertDataIntoDB.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\obj\Debug\002_CF_CreateDB.exe
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\005_CF_Associations_ManyToMany\obj\Debug\002_CF_CreateDB.pdb
+F:\CBS\Entity Framework\Lesson5\006_CF_InsertDataIntoDB\006_InsertDataIntoDB\bin\Debug\002_CF_CreateDB.exe.config
+F:\CBS\Entity Framework\Lesson5\006_CF_InsertDataIntoDB\006_InsertDataIntoDB\obj\Debug\002_CF_CreateDB.exe
+F:\CBS\Entity Framework\Lesson5\006_CF_InsertDataIntoDB\006_InsertDataIntoDB\obj\Debug\002_CF_CreateDB.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.exe.config
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\obj\Debug\002_CF_CreateDB.exe
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\obj\Debug\002_CF_CreateDB.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.exe
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\CF.Data.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\CF.DataAccess.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\EntityFramework.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\CF.DataAccess.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\CF.Data.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\EntityFramework.xml
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\obj\Debug\006_CF_InsertDataIntoDB.csprojResolveAssemblyReference.cache
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.exe.config
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\obj\Debug\002_CF_CreateDB.exe
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\obj\Debug\002_CF_CreateDB.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.exe
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\CF.Data.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\CF.DataAccess.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\CF.DataAccess.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\CF.Data.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\005_CF_Associations_ManyToMany\obj\Debug\006_CF_InsertDataIntoDB.csprojResolveAssemblyReference.cache
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.exe.config
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\obj\Debug\002_CF_CreateDB.exe
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\obj\Debug\002_CF_CreateDB.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.exe
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\002_CF_CreateDB.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\CF.Data.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\CF.DataAccess.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\EntityFramework.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\CF.DataAccess.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\CF.Data.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\bin\Debug\EntityFramework.xml
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\005_CF_Associations_ManyToMany\obj\Debug\006_CF_InsertDataIntoDB.csprojResolveAssemblyReference.cache

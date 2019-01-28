@@ -1,0 +1,7 @@
+F:\CBS\Entity Framework\Lesson3\003_LINQ\009_LINQ\bin\Release\009_LINQ.exe.config
+F:\CBS\Entity Framework\Lesson3\003_LINQ\009_LINQ\bin\Release\009_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\009_LINQ\bin\Release\009_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\009_LINQ\bin\Release\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson3\003_LINQ\009_LINQ\bin\Release\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson3\003_LINQ\009_LINQ\obj\Release\009_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\009_LINQ\obj\Release\009_LINQ.pdb

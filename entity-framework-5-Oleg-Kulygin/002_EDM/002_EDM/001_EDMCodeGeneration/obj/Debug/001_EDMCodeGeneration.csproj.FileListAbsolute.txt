@@ -1,0 +1,35 @@
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.exe
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe.config
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.pdb
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Debug\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\bin\Debug\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.exe
+F:\CBS\EF\EF\Lesson2\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.pdb
+F:\CBS\EF\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe.config
+F:\CBS\EF\EF\Lesson2\002_EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.exe
+F:\CBS\EF\EF\Lesson2\002_EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.pdb
+C:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe.config
+C:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.exe
+C:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.pdb
+C:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe
+C:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.pdb
+C:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\EntityFramework.dll
+C:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\EntityFramework.xml
+C:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.csprojResolveAssemblyReference.cache
+D:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe.config
+D:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.exe
+D:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.pdb
+D:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.exe
+D:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\001_EDMCodeGeneration.pdb
+D:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson2\002_EDM\001_EDMCodeGeneration\obj\Debug\001_EDMCodeGeneration.csprojResolveAssemblyReference.cache

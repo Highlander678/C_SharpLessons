@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OneToOneModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="OneToOneModelStoreContainer">
+    <EntitySet Name="Employee" EntityType="OneToOneModel.Store.Employee" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EmployeeInf" EntityType="OneToOneModel.Store.EmployeeInf" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="EmployeeEmployeeInf" Association="OneToOneModel.Store.EmployeeEmployeeInf">
+      <End Role="Employee" EntitySet="Employee" />
+      <End Role="EmployeeInf" EntitySet="EmployeeInf" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="EmployeeInf_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmployeeInf">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Age" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Gender" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="EmployeeEmployeeInf">
+    <End Role="Employee" Type="OneToOneModel.Store.Employee" Multiplicity="*" />
+    <End Role="EmployeeInf" Type="OneToOneModel.Store.EmployeeInf" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="EmployeeInf">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="EmployeeInf_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

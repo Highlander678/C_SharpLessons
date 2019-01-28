@@ -1,0 +1,22 @@
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\bin\Release\004_EDM_SP.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\bin\Release\004_EDM_SP.exe
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\bin\Release\004_EDM_SP.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\bin\Release\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\bin\Release\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\obj\Release\_004_EDM_SP.Form1.resources
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\obj\Release\_004_EDM_SP.Properties.Resources.resources
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\obj\Release\004_EDM_SP.csproj.GenerateResource.Cache
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\obj\Release\004_EDM_SP.exe
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\obj\Release\004_EDM_SP.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\004_EDM_SP\obj\Release\004_EDM_SP.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\bin\Release\004_EDM_SP.exe.config
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\bin\Release\004_EDM_SP.exe
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\bin\Release\004_EDM_SP.pdb
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\bin\Release\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\bin\Release\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\obj\Release\004_EDM_SP.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\obj\Release\_004_EDM_SP.Form1.resources
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\obj\Release\_004_EDM_SP.Properties.Resources.resources
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\obj\Release\004_EDM_SP.csproj.GenerateResource.Cache
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\obj\Release\004_EDM_SP.exe
+F:\CBS\EF\EF\Lesson2\004_EDM_SP\obj\Release\004_EDM_SP.pdb

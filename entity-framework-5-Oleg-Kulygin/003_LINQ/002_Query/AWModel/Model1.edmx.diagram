@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8f8458daf13e41d5a96b9daa68d68dc8" Name="Diagram1" ZoomLevel="94">
+        <EntityTypeShape EntityType="AdventureWorksLT2012Model.Customer" Width="1.5" PointX="8.75" PointY="21.75" />
+        <EntityTypeShape EntityType="AdventureWorksLT2012Model.Product" Width="1.5" PointX="14.125" PointY="25.375" />
+        <EntityTypeShape EntityType="AdventureWorksLT2012Model.SalesOrderDetail" Width="1.5" PointX="14.125" PointY="21.625" />
+        <EntityTypeShape EntityType="AdventureWorksLT2012Model.SalesOrderHeader" Width="1.5" PointX="11.625" PointY="21.75" />
+        <AssociationConnector Association="AdventureWorksLT2012Model.FK_SalesOrderHeader_Customer_CustomerID" />
+        <AssociationConnector Association="AdventureWorksLT2012Model.FK_SalesOrderDetail_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorksLT2012Model.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

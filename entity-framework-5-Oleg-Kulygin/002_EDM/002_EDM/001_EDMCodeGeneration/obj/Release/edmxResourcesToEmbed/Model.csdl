@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CarsSet" EntityType="Model.Cars" />
+    <EntitySet Name="FactorySet" EntityType="Model.Factory" />
+    <AssociationSet Name="CarsFactory" Association="Model.CarsFactory">
+      <End Role="Cars" EntitySet="CarsSet" />
+      <End Role="Factory" EntitySet="FactorySet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Cars">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <Property Type="String" Name="Color" Nullable="false" />
+    <Property Type="Int32" Name="FactoryId" Nullable="false" />
+    <NavigationProperty Name="Factory" Relationship="Model.CarsFactory" FromRole="Cars" ToRole="Factory" />
+  </EntityType>
+  <EntityType Name="Factory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <Property Type="String" Name="Town" Nullable="false" />
+    <NavigationProperty Name="Cars" Relationship="Model.CarsFactory" FromRole="Factory" ToRole="Cars" />
+  </EntityType>
+  <Association Name="CarsFactory">
+    <End Type="Model.Cars" Role="Cars" Multiplicity="1" />
+    <End Type="Model.Factory" Role="Factory" Multiplicity="*" />
+  </Association>
+</Schema>

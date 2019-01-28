@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="OneToManyModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="OneToManyModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cars" EntityType="OneToManyModel.Car" />
+    <EntitySet Name="Models" EntityType="OneToManyModel.Model" />
+    <AssociationSet Name="CarsModels" Association="OneToManyModel.CarsModels">
+      <End Role="Cars" EntitySet="Cars" />
+      <End Role="Models" EntitySet="Models" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Car">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Factory" Nullable="false" />
+    <Property Type="String" Name="Country" Nullable="false" />
+    <NavigationProperty Name="Models" Relationship="OneToManyModel.CarsModels" FromRole="Cars" ToRole="Models" />
+  </EntityType>
+  <EntityType Name="Model">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <Property Type="String" Name="Color" Nullable="false" />
+    <Property Type="String" Name="Engine" Nullable="false" />
+    <NavigationProperty Name="Car" Relationship="OneToManyModel.CarsModels" FromRole="Models" ToRole="Cars" />
+  </EntityType>
+  <Association Name="CarsModels">
+    <End Type="OneToManyModel.Car" Role="Cars" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="OneToManyModel.Model" Role="Models" Multiplicity="*" />
+  </Association>
+</Schema>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_CF_CreateDB", "002_CF_CreateDB\001_CF_CreateDB.csproj", "{EB44DCEE-DCBB-448F-8236-72DA4EB90DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CF.Data", "CF.Data\CF.Data.csproj", "{E7DC1503-68FD-4475-AF24-2E1570BD996F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CF.DataAccess", "CF.DataAccess\CF.DataAccess.csproj", "{8EF57F70-0C74-4B7A-B8EE-EECF29363D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB44DCEE-DCBB-448F-8236-72DA4EB90DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB44DCEE-DCBB-448F-8236-72DA4EB90DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB44DCEE-DCBB-448F-8236-72DA4EB90DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB44DCEE-DCBB-448F-8236-72DA4EB90DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DC1503-68FD-4475-AF24-2E1570BD996F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DC1503-68FD-4475-AF24-2E1570BD996F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DC1503-68FD-4475-AF24-2E1570BD996F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DC1503-68FD-4475-AF24-2E1570BD996F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF57F70-0C74-4B7A-B8EE-EECF29363D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF57F70-0C74-4B7A-B8EE-EECF29363D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF57F70-0C74-4B7A-B8EE-EECF29363D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF57F70-0C74-4B7A-B8EE-EECF29363D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

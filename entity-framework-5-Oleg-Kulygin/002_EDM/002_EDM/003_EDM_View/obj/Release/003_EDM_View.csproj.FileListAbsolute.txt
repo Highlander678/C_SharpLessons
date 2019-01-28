@@ -1,0 +1,20 @@
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Release\003_EDM_View.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Release\003_EDM_View.exe
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Release\003_EDM_View.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Release\_003_EDM_View.Form1.resources
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Release\_003_EDM_View.Properties.Resources.resources
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Release\003_EDM_View.csproj.GenerateResource.Cache
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Release\003_EDM_View.exe
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Release\003_EDM_View.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Release\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Release\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Release\003_EDM_View.exe.config
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Release\003_EDM_View.exe
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Release\003_EDM_View.pdb
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Release\003_EDM_View.exe
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Release\003_EDM_View.pdb
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Release\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Release\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Release\_003_EDM_View.Form1.resources
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Release\_003_EDM_View.Properties.Resources.resources
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Release\003_EDM_View.csproj.GenerateResource.Cache

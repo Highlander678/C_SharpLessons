@@ -1,0 +1,18 @@
+F:\CBS\Entity Framework\Lesson3\003_LINQ\004_LINQ\bin\Debug\004_LINQ.exe.config
+F:\CBS\Entity Framework\Lesson3\003_LINQ\004_LINQ\bin\Debug\004_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\004_LINQ\bin\Debug\004_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\004_LINQ\obj\Debug\004_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\004_LINQ\obj\Debug\004_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\004_LINQ\obj\Debug\004_LINQ.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson3\004_LINQ\bin\Debug\004_LINQ.exe.config
+F:\CBS\EF\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.exe
+F:\CBS\EF\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.pdb
+F:\CBS\EF\EF\Lesson3\004_LINQ\bin\Debug\004_LINQ.exe
+F:\CBS\EF\EF\Lesson3\004_LINQ\bin\Debug\004_LINQ.pdb
+F:\CBS\EF\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.csprojResolveAssemblyReference.cache
+C:\Cources\EF\Lesson3\004_LINQ\bin\Debug\004_LINQ.exe.config
+C:\Cources\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.exe
+C:\Cources\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.pdb
+D:\Cources\EF\Lesson3\004_LINQ\bin\Debug\004_LINQ.exe.config
+D:\Cources\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.exe
+D:\Cources\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.pdb

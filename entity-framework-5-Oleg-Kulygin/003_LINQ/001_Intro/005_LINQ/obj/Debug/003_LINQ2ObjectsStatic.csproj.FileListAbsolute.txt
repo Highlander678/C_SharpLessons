@@ -1,0 +1,8 @@
+D:\Cources\EF\Lesson3\005_LINQ\bin\Debug\005_LINQ.exe.config
+D:\Cources\EF\Lesson3\005_LINQ\obj\Debug\005_LINQ.exe
+D:\Cources\EF\Lesson3\005_LINQ\obj\Debug\005_LINQ.pdb
+D:\Cources\EF\Lesson3\001_Intro\005_LINQ\bin\Debug\005_LINQ.exe.config
+D:\Cources\EF\Lesson3\001_Intro\005_LINQ\obj\Debug\005_LINQ.exe
+D:\Cources\EF\Lesson3\001_Intro\005_LINQ\obj\Debug\005_LINQ.pdb
+D:\Cources\EF\Lesson3\001_Intro\005_LINQ\bin\Debug\005_LINQ.exe
+D:\Cources\EF\Lesson3\001_Intro\005_LINQ\bin\Debug\005_LINQ.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="AdventureWorksLT2012" Class="LINQDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=AdventureWorksLT2012;Integrated Security=True" SettingsObjectName="_001_LINQ.Properties.Settings" SettingsPropertyName="AdventureWorksLT2012ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.PersonName" Member="PersonNames">
+    <Type Name="PersonName">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,10 @@
+F:\CBS\EF\EF\Lesson2\007_Delete\bin\Release\007_Delete.exe.config
+F:\CBS\EF\EF\Lesson2\007_Delete\bin\Release\007_Delete.exe
+F:\CBS\EF\EF\Lesson2\007_Delete\bin\Release\007_Delete.pdb
+F:\CBS\EF\EF\Lesson2\007_Delete\bin\Release\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\007_Delete\bin\Release\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\007_Delete\obj\Release\_007_Delete.Form1.resources
+F:\CBS\EF\EF\Lesson2\007_Delete\obj\Release\_007_Delete.Properties.Resources.resources
+F:\CBS\EF\EF\Lesson2\007_Delete\obj\Release\007_Delete.csproj.GenerateResource.Cache
+F:\CBS\EF\EF\Lesson2\007_Delete\obj\Release\007_Delete.exe
+F:\CBS\EF\EF\Lesson2\007_Delete\obj\Release\007_Delete.pdb

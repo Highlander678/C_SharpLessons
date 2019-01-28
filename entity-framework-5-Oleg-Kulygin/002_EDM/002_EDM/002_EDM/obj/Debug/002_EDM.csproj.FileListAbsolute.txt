@@ -1,0 +1,11 @@
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Debug\002_EDM.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Debug\002_EDM.exe
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Debug\002_EDM.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Debug\002_EDM.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Debug\_002_EDM.Form1.resources
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Debug\_002_EDM.Properties.Resources.resources
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Debug\002_EDM.csproj.GenerateResource.Cache
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Debug\002_EDM.exe
+F:\CBS\Entity Framework\Lesson2\EDM\002_EDM\obj\Debug\002_EDM.pdb

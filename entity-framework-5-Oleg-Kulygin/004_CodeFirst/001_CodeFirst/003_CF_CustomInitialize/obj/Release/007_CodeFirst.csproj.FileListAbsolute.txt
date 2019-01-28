@@ -1,0 +1,7 @@
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Release\007_CodeFirst.exe.config
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Release\007_CodeFirst.exe
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Release\007_CodeFirst.pdb
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Release\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\bin\Release\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\obj\Release\007_CodeFirst.exe
+F:\CBS\Entity Framework\Lesson5\002_CodeFirst\007_CodeFirst\obj\Release\007_CodeFirst.pdb

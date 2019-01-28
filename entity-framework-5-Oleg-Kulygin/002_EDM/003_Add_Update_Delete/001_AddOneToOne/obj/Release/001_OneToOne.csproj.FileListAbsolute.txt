@@ -1,0 +1,11 @@
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\bin\Release\DBOneToOne.mdf
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\bin\Release\DBOneToOne_log.ldf
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\bin\Release\001_AddOneToOne.exe.config
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\bin\Release\001_AddOneToOne.exe
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\bin\Release\001_AddOneToOne.pdb
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\bin\Release\EntityFramework.xml
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\obj\Release\_001_OneToOne.Form1.resources
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\obj\Release\_001_OneToOne.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\obj\Release\001_OneToOne.csproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\obj\Release\001_AddOneToOne.exe
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\obj\Release\001_AddOneToOne.pdb

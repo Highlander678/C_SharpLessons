@@ -1,0 +1,11 @@
+D:\Cources\EF\Lesson3\009_LINQ\bin\Debug\009_LINQ.exe.config
+D:\Cources\EF\Lesson3\009_LINQ\obj\Debug\009_LINQ.exe
+D:\Cources\EF\Lesson3\009_LINQ\obj\Debug\009_LINQ.pdb
+D:\Cources\EF\Lesson3\001_Intro\009_LINQ\bin\Debug\009_LINQ.exe.config
+D:\Cources\EF\Lesson3\001_Intro\009_LINQ\obj\Debug\009_LINQ.exe
+D:\Cources\EF\Lesson3\001_Intro\009_LINQ\obj\Debug\009_LINQ.pdb
+D:\Cources\EF\Lesson3\001_Intro\009_LINQ\bin\Debug\009_LINQ.exe
+D:\Cources\EF\Lesson3\001_Intro\009_LINQ\bin\Debug\009_LINQ.pdb
+D:\Cources\EF\Lesson3\001_Intro\009_LINQ\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson3\001_Intro\009_LINQ\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson3\001_Intro\009_LINQ\obj\Debug\006_LINQ2EF.csprojResolveAssemblyReference.cache

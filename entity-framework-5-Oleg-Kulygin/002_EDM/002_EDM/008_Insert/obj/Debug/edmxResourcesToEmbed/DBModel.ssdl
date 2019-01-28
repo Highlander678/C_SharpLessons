@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DBModelStoreContainer">
+    <EntitySet Name="PersonSet" EntityType="DBModel.Store.PersonSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Table" EntityType="DBModel.Store.Table" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_TablePerson" Association="DBModel.Store.FK_TablePerson">
+      <End Role="PersonSet" EntitySet="PersonSet" />
+      <End Role="Table" EntitySet="Table" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="PersonSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="BirthDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_TablePerson">
+    <End Role="PersonSet" Type="DBModel.Store.PersonSet" Multiplicity="1" />
+    <End Role="Table" Type="DBModel.Store.Table" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="PersonSet">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Table">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

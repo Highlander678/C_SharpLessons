@@ -1,0 +1,42 @@
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\AWMOdel\bin\Debug\AWMOdel.dll.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\AWMOdel\bin\Debug\AWMOdel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\AWMOdel\bin\Debug\AWMOdel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\AWMOdel\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\AWMOdel\obj\Debug\AWMOdel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\AWMOdel\obj\Debug\AWMOdel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\AWModel\bin\Debug\AWModel.dll.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\AWModel\bin\Debug\AWModel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\AWModel\bin\Debug\AWModel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\AWModel\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\AWModel\obj\Debug\AWModel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\AWModel\obj\Debug\AWModel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\AWModel\bin\Debug\AWModel.dll.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\AWModel\bin\Debug\AWModel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\AWModel\bin\Debug\AWModel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\AWModel\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\AWModel\obj\Debug\AWModel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\AWModel\obj\Debug\AWModel.pdb
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\AWModel\bin\Debug\AWModel.dll.config
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\AWModel\bin\Debug\AWModel.dll
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\AWModel\bin\Debug\AWModel.pdb
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\AWModel\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\AWModel\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\AWModel\obj\Debug\AWModel.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\AWModel\obj\Debug\AWModel.dll
+C:\Users\Oleg\Videos\MSDN\Pluralsight\Querying the Entity Framework\materials\ef-querying-module1-exercise-files\AWModel\AWModel\obj\Debug\AWModel.pdb
+C:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\AWModel.dll.config
+C:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\AWModel.dll
+C:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\AWModel.pdb
+C:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\EntityFramework.dll
+C:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\EntityFramework.xml
+C:\Cources\EF\My_Lesson3\AWModel\AWModel\obj\Debug\AWModel.csprojResolveAssemblyReference.cache
+C:\Cources\EF\My_Lesson3\AWModel\AWModel\obj\Debug\AWModel.dll
+C:\Cources\EF\My_Lesson3\AWModel\AWModel\obj\Debug\AWModel.pdb
+D:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\AWModel.dll.config
+D:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\AWModel.dll
+D:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\AWModel.pdb
+D:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\EntityFramework.dll
+D:\Cources\EF\My_Lesson3\AWModel\AWModel\bin\Debug\EntityFramework.xml
+D:\Cources\EF\My_Lesson3\AWModel\AWModel\obj\Debug\AWModel.dll
+D:\Cources\EF\My_Lesson3\AWModel\AWModel\obj\Debug\AWModel.pdb
+D:\Cources\EF\My_Lesson3\AWModel\AWModel\obj\Debug\AWModel.csprojResolveAssemblyReference.cache

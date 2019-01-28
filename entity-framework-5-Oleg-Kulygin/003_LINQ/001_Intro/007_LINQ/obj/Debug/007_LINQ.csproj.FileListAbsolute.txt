@@ -1,0 +1,32 @@
+F:\CBS\Entity Framework\Lesson3\003_LINQ\007_LINQ\bin\Debug\007_LINQ.exe.config
+F:\CBS\Entity Framework\Lesson3\003_LINQ\007_LINQ\bin\Debug\007_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\007_LINQ\bin\Debug\007_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\007_LINQ\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson3\003_LINQ\007_LINQ\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson3\003_LINQ\007_LINQ\obj\Debug\007_LINQ.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson3\003_LINQ\007_LINQ\obj\Debug\007_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\007_LINQ\obj\Debug\007_LINQ.pdb
+F:\CBS\EF\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.exe.config
+F:\CBS\EF\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.exe
+F:\CBS\EF\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.pdb
+F:\CBS\EF\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.exe
+F:\CBS\EF\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.pdb
+F:\CBS\EF\EF\Lesson3\007_LINQ\bin\Debug\EntityFramework.dll
+F:\CBS\EF\EF\Lesson3\007_LINQ\bin\Debug\EntityFramework.xml
+F:\CBS\EF\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.csprojResolveAssemblyReference.cache
+C:\Cources\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.exe.config
+C:\Cources\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.exe
+C:\Cources\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.pdb
+C:\Cources\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.exe
+C:\Cources\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.pdb
+C:\Cources\EF\Lesson3\007_LINQ\bin\Debug\EntityFramework.dll
+C:\Cources\EF\Lesson3\007_LINQ\bin\Debug\EntityFramework.xml
+C:\Cources\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.csprojResolveAssemblyReference.cache
+D:\Cources\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.exe.config
+D:\Cources\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.exe
+D:\Cources\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.pdb
+D:\Cources\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.exe
+D:\Cources\EF\Lesson3\007_LINQ\bin\Debug\007_LINQ.pdb
+D:\Cources\EF\Lesson3\007_LINQ\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson3\007_LINQ\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson3\007_LINQ\obj\Debug\007_LINQ.csprojResolveAssemblyReference.cache

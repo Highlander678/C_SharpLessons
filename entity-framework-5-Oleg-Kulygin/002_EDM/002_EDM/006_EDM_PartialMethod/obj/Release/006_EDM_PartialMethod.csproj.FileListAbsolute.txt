@@ -1,0 +1,7 @@
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\bin\Release\006_EDM_PartialMethod.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\bin\Release\006_EDM_PartialMethod.exe
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\bin\Release\006_EDM_PartialMethod.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\bin\Release\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\bin\Release\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\obj\Release\006_EDM_PartialMethod.exe
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\obj\Release\006_EDM_PartialMethod.pdb

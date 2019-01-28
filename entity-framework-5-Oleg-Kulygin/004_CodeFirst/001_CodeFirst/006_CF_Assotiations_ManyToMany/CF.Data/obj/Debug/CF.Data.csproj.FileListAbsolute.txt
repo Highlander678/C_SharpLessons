@@ -1,0 +1,76 @@
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.Data\bin\Debug\CF.Data.dll.config
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.Data\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.Data\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.Data\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.Data\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.Data\obj\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.Data\obj\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.Data\bin\Debug\CF.Data.dll.config
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.Data\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.Data\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.Data\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.Data\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.Data\obj\Debug\CF.Data.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.Data\obj\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.Data\obj\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.Data\bin\Debug\CF.Data.dll.config
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.Data\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.Data\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.Data\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.Data\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.Data\obj\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.Data\obj\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB - Copy\CF.Data\bin\Debug\CF.Data.dll.config
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB - Copy\CF.Data\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB - Copy\CF.Data\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB - Copy\CF.Data\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB - Copy\CF.Data\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB - Copy\CF.Data\obj\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB - Copy\CF.Data\obj\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables\CF.Data\bin\Debug\CF.Data.dll.config
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables\CF.Data\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables\CF.Data\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables\CF.Data\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables\CF.Data\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables\CF.Data\obj\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables\CF.Data\obj\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables - Copy\CF.Data\bin\Debug\CF.Data.dll.config
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables - Copy\CF.Data\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables - Copy\CF.Data\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables - Copy\CF.Data\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables - Copy\CF.Data\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables - Copy\CF.Data\obj\Debug\CF.Data.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables - Copy\CF.Data\obj\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\003_CF_ConfigTables - Copy\CF.Data\obj\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\CF.Data\bin\Debug\CF.Data.dll.config
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\CF.Data\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\CF.Data\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\CF.Data\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\CF.Data\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\CF.Data\obj\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\CF.Data\obj\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\004_CF_Associations_OneToMany - Copy\CF.Data\obj\Debug\CF.Data.csprojResolveAssemblyReference.cache
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\CF.Data.dll.config
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\CF.Data.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\CF.Data.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\EntityFramework.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\EntityFramework.xml
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\obj\Debug\CF.Data.csprojResolveAssemblyReference.cache
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\obj\Debug\CF.Data.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\obj\Debug\CF.Data.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\CF.Data.dll.config
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\CF.Data.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\CF.Data.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\obj\Debug\CF.Data.csprojResolveAssemblyReference.cache
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\obj\Debug\CF.Data.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\006_CF_InsertDataIntoDB\CF.Data\obj\Debug\CF.Data.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\CF.Data\bin\Debug\CF.Data.dll.config
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\CF.Data\bin\Debug\CF.Data.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\CF.Data\bin\Debug\CF.Data.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\CF.Data\bin\Debug\EntityFramework.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\CF.Data\bin\Debug\EntityFramework.xml
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\CF.Data\obj\Debug\CF.Data.csprojResolveAssemblyReference.cache
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\CF.Data\obj\Debug\CF.Data.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\006_CF_Assotiations_ManyToMany\CF.Data\obj\Debug\CF.Data.pdb

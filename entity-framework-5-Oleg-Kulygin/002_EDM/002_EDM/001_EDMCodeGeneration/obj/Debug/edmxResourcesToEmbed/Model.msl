@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="ModelContainer">
+    <EntitySetMapping Name="CarsSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model.Cars)">
+        <MappingFragment StoreEntitySet="CarsSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Color" ColumnName="Color" />
+          <ScalarProperty Name="FactoryId" ColumnName="FactoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FactorySet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model.Factory)">
+        <MappingFragment StoreEntitySet="FactorySet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Town" ColumnName="Town" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="CarsFactory" TypeName="Model.CarsFactory" StoreEntitySet="FactorySet">
+      <EndProperty Name="Cars">
+        <ScalarProperty Name="Id" ColumnName="Cars_Id" />
+      </EndProperty>
+      <EndProperty Name="Factory">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

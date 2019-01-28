@@ -1,0 +1,2 @@
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\bin\Debug\006_EDM_PartialMethod.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\006_EDM_PartialMethod\obj\Debug\006_EDM_PartialMethod.csprojResolveAssemblyReference.cache

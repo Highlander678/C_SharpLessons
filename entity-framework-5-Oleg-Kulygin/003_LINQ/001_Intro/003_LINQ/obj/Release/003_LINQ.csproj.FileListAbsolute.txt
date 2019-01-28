@@ -1,0 +1,11 @@
+F:\CBS\Entity Framework\Lesson3\003_LINQ\002_LINQ\bin\Release\002_LINQ.exe.config
+F:\CBS\Entity Framework\Lesson3\003_LINQ\002_LINQ\bin\Release\002_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\002_LINQ\bin\Release\002_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\002_LINQ\obj\Release\002_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\002_LINQ\obj\Release\002_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\003_LINQ\bin\Release\002_LINQ.exe.config
+F:\CBS\Entity Framework\Lesson3\003_LINQ\003_LINQ\bin\Release\002_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\003_LINQ\bin\Release\002_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\003_LINQ\obj\Release\002_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\003_LINQ\obj\Release\002_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\003_LINQ\obj\Release\003_LINQ.csprojResolveAssemblyReference.cache

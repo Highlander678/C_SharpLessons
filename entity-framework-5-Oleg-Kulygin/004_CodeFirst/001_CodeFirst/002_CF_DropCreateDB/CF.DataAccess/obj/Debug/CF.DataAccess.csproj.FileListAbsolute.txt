@@ -1,0 +1,72 @@
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll.config
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.pdb
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.pdb
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_CreateDB\CF.DataAccess\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll.config
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\bin\Debug\CF.DataAccess.dll.config
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\bin\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\bin\Debug\CF.DataAccess.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\obj\Debug\CF.DataAccess.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\obj\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\001_CF_CreateDB - Copy\CF.DataAccess\obj\Debug\CF.DataAccess.pdb
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll.config
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.pdb
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.Data.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.Data.pdb
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.csprojResolveAssemblyReference.cache
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.dll
+F:\CBS\Entity Framework\Lesson5\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll.config
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.Data.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\EntityFramework.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.Data.pdb
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\EntityFramework.xml
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.csprojResolveAssemblyReference.cache
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.dll
+C:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll.config
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.Data.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.Data.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.csprojResolveAssemblyReference.cache
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.dll
+D:\Cources\EF\Lesson5\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll.config
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.DataAccess.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.Data.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\EntityFramework.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\CF.Data.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\bin\Debug\EntityFramework.xml
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.csprojResolveAssemblyReference.cache
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.dll
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.pdb
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.Migrations.FirstNameIsRequired.resources
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\002_CF_DropCreateDB\CF.DataAccess\obj\Debug\CF.DataAccess.csproj.GenerateResource.Cache

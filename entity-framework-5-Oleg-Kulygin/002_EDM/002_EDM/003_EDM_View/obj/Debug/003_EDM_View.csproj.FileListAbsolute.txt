@@ -1,0 +1,47 @@
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Debug\003_EDM_View.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Debug\003_EDM_View.exe
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Debug\003_EDM_View.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Debug\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\bin\Debug\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Debug\_003_EDM_View.Form1.resources
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Debug\_003_EDM_View.Properties.Resources.resources
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Debug\003_EDM_View.csproj.GenerateResource.Cache
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Debug\003_EDM_View.exe
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Debug\003_EDM_View.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\003_EDM_View\obj\Debug\003_EDM_View.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Debug\003_EDM_View.exe.config
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Debug\003_EDM_View.exe
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Debug\003_EDM_View.pdb
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Debug\003_EDM_View.exe
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Debug\003_EDM_View.pdb
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Debug\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\003_EDM_View\bin\Debug\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Debug\003_EDM_View.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Debug\_003_EDM_View.Form1.resources
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Debug\_003_EDM_View.Properties.Resources.resources
+F:\CBS\EF\EF\Lesson2\003_EDM_View\obj\Debug\003_EDM_View.csproj.GenerateResource.Cache
+F:\CBS\EF\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\003_EDM_View.exe.config
+F:\CBS\EF\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.exe
+F:\CBS\EF\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.pdb
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\003_EDM_View.exe.config
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.exe
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.pdb
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\003_EDM_View.exe
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\003_EDM_View.pdb
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\EntityFramework.dll
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\EntityFramework.xml
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.csprojResolveAssemblyReference.cache
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\_003_EDM_View.Form1.resources
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\_003_EDM_View.Properties.Resources.resources
+C:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.csproj.GenerateResource.Cache
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\003_EDM_View.exe.config
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.exe
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.pdb
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\003_EDM_View.exe
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\003_EDM_View.pdb
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\EntityFramework.dll
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.csprojResolveAssemblyReference.cache
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\_003_EDM_View.Form1.resources
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\_003_EDM_View.Properties.Resources.resources
+D:\Cources\EF\Lesson2\002_EDM\003_EDM_View\obj\Debug\003_EDM_View.csproj.GenerateResource.Cache

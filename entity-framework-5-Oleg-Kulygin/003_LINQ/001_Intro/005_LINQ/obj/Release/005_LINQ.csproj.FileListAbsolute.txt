@@ -1,0 +1,5 @@
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\bin\Release\005_LINQ.exe.config
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\bin\Release\005_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\bin\Release\005_LINQ.pdb
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\obj\Release\005_LINQ.exe
+F:\CBS\Entity Framework\Lesson3\003_LINQ\005_LINQ\obj\Release\005_LINQ.pdb

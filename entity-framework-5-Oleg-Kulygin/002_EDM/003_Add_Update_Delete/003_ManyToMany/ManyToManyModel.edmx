@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ManyToManyModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ManyToManyModelStoreContainer">
+    <EntitySet Name="Students" EntityType="ManyToManyModel.Store.Students" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Courses" EntityType="ManyToManyModel.Store.Courses" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="StudentsCourses" EntityType="ManyToManyModel.Store.StudentsCourses" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_StudentsCourses_Students" Association="ManyToManyModel.Store.FK_StudentsCourses_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="StudentsCourses" EntitySet="StudentsCourses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentsCourses_Courses" Association="ManyToManyModel.Store.FK_StudentsCourses_Courses">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="StudentsCourses" EntitySet="StudentsCourses" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StudentsCourses">
+    <Key>
+      <PropertyRef Name="Students_Id" />
+      <PropertyRef Name="Courses_Id" />
+    </Key>
+    <Property Name="Students_Id" Type="int" Nullable="false" />
+    <Property Name="Courses_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_StudentsCourses_Students">
+    <End Role="Students" Type="ManyToManyModel.Store.Students" Multiplicity="1" />
+    <End Role="StudentsCourses" Type="ManyToManyModel.Store.StudentsCourses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StudentsCourses">
+        <PropertyRef Name="Students_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentsCourses_Courses">
+    <End Role="StudentsCourses" Type="ManyToManyModel.Store.StudentsCourses" Multiplicity="*" />
+    <End Role="Courses" Type="ManyToManyModel.Store.Courses" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StudentsCourses">
+        <PropertyRef Name="Courses_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ManyToManyModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="ManyToManyModelContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Students" EntityType="ManyToManyModel.Student" />
+          <EntitySet Name="Courses" EntityType="ManyToManyModel.Course" />
+          <AssociationSet Name="StudentsCourses" Association="ManyToManyModel.StudentsCourses">
+            <End Role="Students" EntitySet="Students" />
+            <End Role="Courses" EntitySet="Courses" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Student">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="FirstName" Nullable="false" />
+          <Property Type="String" Name="LastName" Nullable="false" />
+          <NavigationProperty Name="Courses" Relationship="ManyToManyModel.StudentsCourses" FromRole="Students" ToRole="Courses" />
+        </EntityType>
+        <EntityType Name="Course">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="Name" Nullable="false" />
+          <NavigationProperty Name="Students" Relationship="ManyToManyModel.StudentsCourses" FromRole="Courses" ToRole="Students" />
+        </EntityType>
+        <Association Name="StudentsCourses">
+          <End Type="ManyToManyModel.Student" Role="Students" Multiplicity="*" />
+          <End Type="ManyToManyModel.Course" Role="Courses" Multiplicity="*" />
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ManyToManyModelStoreContainer" CdmEntityContainer="ManyToManyModelContainer">
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="IsTypeOf(ManyToManyModel.Student)">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="IsTypeOf(ManyToManyModel.Course)">
+        <MappingFragment StoreEntitySet="Courses">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="StudentsCourses" TypeName="ManyToManyModel.StudentsCourses" StoreEntitySet="StudentsCourses">
+      <EndProperty Name="Students">
+        <ScalarProperty Name="Id" ColumnName="Students_Id" />
+      </EndProperty>
+      <EndProperty Name="Courses">
+        <ScalarProperty Name="Id" ColumnName="Courses_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

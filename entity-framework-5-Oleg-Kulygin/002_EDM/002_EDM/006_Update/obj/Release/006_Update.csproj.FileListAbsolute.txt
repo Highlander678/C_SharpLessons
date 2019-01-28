@@ -1,0 +1,10 @@
+F:\CBS\EF\EF\Lesson2\006_Update\bin\Release\006_Update.exe.config
+F:\CBS\EF\EF\Lesson2\006_Update\bin\Release\006_Update.exe
+F:\CBS\EF\EF\Lesson2\006_Update\bin\Release\006_Update.pdb
+F:\CBS\EF\EF\Lesson2\006_Update\bin\Release\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\006_Update\bin\Release\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\006_Update\obj\Release\_006_Update.Form1.resources
+F:\CBS\EF\EF\Lesson2\006_Update\obj\Release\_006_Update.Properties.Resources.resources
+F:\CBS\EF\EF\Lesson2\006_Update\obj\Release\006_Update.csproj.GenerateResource.Cache
+F:\CBS\EF\EF\Lesson2\006_Update\obj\Release\006_Update.exe
+F:\CBS\EF\EF\Lesson2\006_Update\obj\Release\006_Update.pdb

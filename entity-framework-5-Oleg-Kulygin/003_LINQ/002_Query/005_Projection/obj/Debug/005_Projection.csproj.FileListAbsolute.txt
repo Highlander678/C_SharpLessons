@@ -1,0 +1,10 @@
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\bin\Debug\005_Projection.exe.config
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\bin\Debug\005_Projection.exe
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\bin\Debug\005_Projection.pdb
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\bin\Debug\AWModel.dll
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\bin\Debug\EntityFramework.dll
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\bin\Debug\AWModel.pdb
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\bin\Debug\EntityFramework.xml
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\obj\Debug\005_Projection.csprojResolveAssemblyReference.cache
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\obj\Debug\005_Projection.exe
+D:\Cources\EF\My_Lesson3\AWModel\005_Projection\obj\Debug\005_Projection.pdb

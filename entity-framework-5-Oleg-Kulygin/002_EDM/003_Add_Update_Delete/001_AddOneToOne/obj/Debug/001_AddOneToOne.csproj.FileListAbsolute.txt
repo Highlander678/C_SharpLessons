@@ -1,0 +1,17 @@
+C:\Users\Alexander\AppData\Local\Temporary Projects\001_AddOneToOne\bin\Debug\001_AddOneToOne.exe.config
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\bin\Debug\001_AddOneToOne.exe.config
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\bin\Debug\001_AddOneToOne.exe
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\bin\Debug\001_AddOneToOne.pdb
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\bin\Debug\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\bin\Debug\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\obj\Debug\001_AddOneToOne.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\obj\Debug\_001_AddOneToOne.Form1.resources
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\obj\Debug\_001_AddOneToOne.Properties.Resources.resources
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\obj\Debug\001_AddOneToOne.csproj.GenerateResource.Cache
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\obj\Debug\001_AddOneToOne.exe
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\obj\Debug\001_AddOneToOne.pdb
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\bin\Debug\DBOneToOne.mdf
+F:\CBS\EF\EF\Lesson2\AddOneToOne\001_AddOneToOne\bin\Debug\DBOneToOne_log.ldf
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\bin\Debug\001_AddOneToOne.exe.config
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\obj\Debug\001_AddOneToOne.exe
+C:\Users\Alexander\Desktop\Add_Update_Delete\001_AddOneToOne\obj\Debug\001_AddOneToOne.pdb

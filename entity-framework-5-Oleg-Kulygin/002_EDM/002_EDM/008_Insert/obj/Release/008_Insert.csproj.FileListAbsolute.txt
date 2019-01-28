@@ -1,0 +1,13 @@
+F:\CBS\EF\EF\Lesson2\008_Insert\bin\Release\008_Insert.exe.config
+F:\CBS\EF\EF\Lesson2\008_Insert\bin\Release\008_Insert.exe
+F:\CBS\EF\EF\Lesson2\008_Insert\bin\Release\008_Insert.pdb
+F:\CBS\EF\EF\Lesson2\008_Insert\obj\Release\008_Insert.csprojResolveAssemblyReference.cache
+F:\CBS\EF\EF\Lesson2\008_Insert\obj\Release\_008_Insert.Form1.resources
+F:\CBS\EF\EF\Lesson2\008_Insert\obj\Release\_008_Insert.Properties.Resources.resources
+F:\CBS\EF\EF\Lesson2\008_Insert\obj\Release\008_Insert.csproj.GenerateResource.Cache
+F:\CBS\EF\EF\Lesson2\008_Insert\obj\Release\008_Insert.exe
+F:\CBS\EF\EF\Lesson2\008_Insert\obj\Release\008_Insert.pdb
+F:\CBS\EF\EF\Lesson2\008_Insert\bin\Release\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\008_Insert\bin\Release\EntityFramework.xml
+F:\CBS\EF\EF\Lesson2\008_Insert\bin\Release\DB.mdf
+F:\CBS\EF\EF\Lesson2\008_Insert\bin\Release\DB_log.ldf

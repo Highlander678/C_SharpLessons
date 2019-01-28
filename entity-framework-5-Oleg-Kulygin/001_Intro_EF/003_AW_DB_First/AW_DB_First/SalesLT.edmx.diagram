@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="88869b5bda884338856c68b89046c8df" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="AdventureWorksLT2012_DataModel.Address" Width="2" PointX="6.125" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksLT2012_DataModel.Customer" Width="1.5" PointX="6.125" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksLT2012_DataModel.CustomerAddress" Width="1.5" PointX="8.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksLT2012_DataModel.SalesOrderDetail" Width="1.875" PointX="0.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksLT2012_DataModel.SalesOrderHeader" Width="1.875" PointX="3.125" PointY="2.375" IsExpanded="true" />
+        <AssociationConnector Association="AdventureWorksLT2012_DataModel.FK_CustomerAddress_Address_AddressID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksLT2012_DataModel.FK_SalesOrderHeader_Address_BillTo_AddressID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksLT2012_DataModel.FK_SalesOrderHeader_Address_ShipTo_AddressID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksLT2012_DataModel.FK_CustomerAddress_Customer_CustomerID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksLT2012_DataModel.FK_SalesOrderHeader_Customer_CustomerID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksLT2012_DataModel.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

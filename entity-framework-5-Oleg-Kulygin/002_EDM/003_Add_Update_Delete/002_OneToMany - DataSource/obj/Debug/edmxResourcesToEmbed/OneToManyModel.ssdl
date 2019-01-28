@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OneToManyModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="OneToManyModelStoreContainer">
+    <EntitySet Name="Cars" EntityType="OneToManyModel.Store.Cars" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Models" EntityType="OneToManyModel.Store.Models" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="CarsModels" Association="OneToManyModel.Store.CarsModels">
+      <End Role="Cars" EntitySet="Cars" />
+      <End Role="Models" EntitySet="Models" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Cars">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Factory" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Country" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Models">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Color" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Engine" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Cars_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="CarsModels">
+    <End Role="Cars" Type="OneToManyModel.Store.Cars" Multiplicity="1" />
+    <End Role="Models" Type="OneToManyModel.Store.Models" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cars">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Models">
+        <PropertyRef Name="Cars_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

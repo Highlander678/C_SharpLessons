@@ -1,0 +1,13 @@
+D:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\bin\Debug\007_CodeFirst.exe.config
+D:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.exe
+D:\Cources\EF\Lesson5\002_CodeFirst\007_CodeFirst\obj\Debug\007_CodeFirst.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\003_CF_CustomInitialize\bin\Debug\007_CodeFirst.exe.config
+D:\Cources\EF\Lesson5\001_CodeFirst\003_CF_CustomInitialize\obj\Debug\007_CodeFirst.exe
+D:\Cources\EF\Lesson5\001_CodeFirst\003_CF_CustomInitialize\obj\Debug\007_CodeFirst.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\003_CF_CustomInitialize\bin\Debug\007_CodeFirst.exe
+D:\Cources\EF\Lesson5\001_CodeFirst\003_CF_CustomInitialize\bin\Debug\007_CodeFirst.pdb
+D:\Cources\EF\Lesson5\001_CodeFirst\003_CF_CustomInitialize\bin\Debug\EntityFramework.xml
+D:\Cources\EF\Lesson5\001_CodeFirst\003_CF_CustomInitialize\obj\Debug\003_IDatabaseInitializer.csprojResolveAssemblyReference.cache
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\003_CF_CustomInitialize\bin\Debug\007_CodeFirst.exe.config
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\003_CF_CustomInitialize\obj\Debug\007_CodeFirst.exe
+D:\Cources\EF\004_CodeFirst\001_CodeFirst\003_CF_CustomInitialize\obj\Debug\007_CodeFirst.pdb

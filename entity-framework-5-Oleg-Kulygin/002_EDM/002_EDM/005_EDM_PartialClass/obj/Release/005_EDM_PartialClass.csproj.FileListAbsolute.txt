@@ -1,0 +1,14 @@
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Release\005_EDM_PartialClass.exe.config
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Release\005_EDM_PartialClass.exe
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Release\005_EDM_PartialClass.pdb
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Release\EntityFramework.dll
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\bin\Release\EntityFramework.xml
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\obj\Release\005_EDM_PartialClass.exe
+F:\CBS\Entity Framework\Lesson2\EDM\005_EDM_PartialClass\obj\Release\005_EDM_PartialClass.pdb
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Release\005_EDM_PartialClass.exe.config
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\obj\Release\005_EDM_PartialClass.exe
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\obj\Release\005_EDM_PartialClass.pdb
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Release\005_EDM_PartialClass.exe
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Release\005_EDM_PartialClass.pdb
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Release\EntityFramework.dll
+F:\CBS\EF\EF\Lesson2\005_EDM_PartialClass\bin\Release\EntityFramework.xml

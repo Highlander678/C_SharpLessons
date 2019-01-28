@@ -1,0 +1,932 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AWModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AWEntities" p1:LazyLoadingEnabled="false">
+    <EntitySet Name="Attendees" EntityType="AWModel.Attendees" />
+    <EntitySet Name="CarsSet" EntityType="AWModel.CarsSet" />
+    <EntitySet Name="Customers" EntityType="AWModel.Customers" />
+    <EntitySet Name="FactorySet" EntityType="AWModel.FactorySet" />
+    <EntitySet Name="PersonName" EntityType="AWModel.PersonName" />
+    <EntitySet Name="ProductTests" EntityType="AWModel.ProductTests" />
+    <EntitySet Name="Address" EntityType="AWModel.Address" />
+    <EntitySet Name="Customer" EntityType="AWModel.Customer" />
+    <EntitySet Name="CustomerAddress" EntityType="AWModel.CustomerAddress" />
+    <EntitySet Name="Product" EntityType="AWModel.Product" />
+    <EntitySet Name="ProductCategory" EntityType="AWModel.ProductCategory" />
+    <EntitySet Name="ProductDescription" EntityType="AWModel.ProductDescription" />
+    <EntitySet Name="ProductModel" EntityType="AWModel.ProductModel" />
+    <EntitySet Name="ProductModelProductDescription" EntityType="AWModel.ProductModelProductDescription" />
+    <EntitySet Name="SalesOrderDetail" EntityType="AWModel.SalesOrderDetail" />
+    <EntitySet Name="SalesOrderHeader" EntityType="AWModel.SalesOrderHeader" />
+    <AssociationSet Name="FK_CarsFactory" Association="AWModel.FK_CarsFactory">
+      <End Role="CarsSet" EntitySet="CarsSet" />
+      <End Role="FactorySet" EntitySet="FactorySet" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductTestCustomer" Association="AWModel.FK_ProductTestCustomer">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="ProductTests" EntitySet="ProductTests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CustomerAddress_Address_AddressID" Association="AWModel.FK_CustomerAddress_Address_AddressID">
+      <End Role="Address" EntitySet="Address" />
+      <End Role="CustomerAddress" EntitySet="CustomerAddress" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderHeader_Address_BillTo_AddressID" Association="AWModel.FK_SalesOrderHeader_Address_BillTo_AddressID">
+      <End Role="Address" EntitySet="Address" />
+      <End Role="SalesOrderHeader" EntitySet="SalesOrderHeader" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderHeader_Address_ShipTo_AddressID" Association="AWModel.FK_SalesOrderHeader_Address_ShipTo_AddressID">
+      <End Role="Address" EntitySet="Address" />
+      <End Role="SalesOrderHeader" EntitySet="SalesOrderHeader" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CustomerAddress_Customer_CustomerID" Association="AWModel.FK_CustomerAddress_Customer_CustomerID">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="CustomerAddress" EntitySet="CustomerAddress" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderHeader_Customer_CustomerID" Association="AWModel.FK_SalesOrderHeader_Customer_CustomerID">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="SalesOrderHeader" EntitySet="SalesOrderHeader" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_ProductCategory_ProductCategoryID" Association="AWModel.FK_Product_ProductCategory_ProductCategoryID">
+      <End Role="ProductCategory" EntitySet="ProductCategory" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_ProductModel_ProductModelID" Association="AWModel.FK_Product_ProductModel_ProductModelID">
+      <End Role="ProductModel" EntitySet="ProductModel" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderDetail_Product_ProductID" Association="AWModel.FK_SalesOrderDetail_Product_ProductID">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="SalesOrderDetail" EntitySet="SalesOrderDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID" Association="AWModel.FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID">
+      <End Role="ProductCategory" EntitySet="ProductCategory" />
+      <End Role="ProductCategory1" EntitySet="ProductCategory" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID" Association="AWModel.FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID">
+      <End Role="ProductDescription" EntitySet="ProductDescription" />
+      <End Role="ProductModelProductDescription" EntitySet="ProductModelProductDescription" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductModelProductDescription_ProductModel_ProductModelID" Association="AWModel.FK_ProductModelProductDescription_ProductModel_ProductModelID">
+      <End Role="ProductModel" EntitySet="ProductModel" />
+      <End Role="ProductModelProductDescription" EntitySet="ProductModelProductDescription" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" Association="AWModel.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID">
+      <End Role="SalesOrderHeader" EntitySet="SalesOrderHeader" />
+      <End Role="SalesOrderDetail" EntitySet="SalesOrderDetail" />
+    </AssociationSet>
+    <EntitySet Name="Address1" EntityType="AWModel.Address1" />
+    <EntitySet Name="Customers1" EntityType="AWModel.Customer1" />
+    <EntitySet Name="CustomerAddress1" EntityType="AWModel.CustomerAddress1" />
+    <EntitySet Name="Product1" EntityType="AWModel.Product1" />
+    <EntitySet Name="ProductCategory1" EntityType="AWModel.ProductCategory1" />
+    <EntitySet Name="ProductDescription1" EntityType="AWModel.ProductDescription1" />
+    <EntitySet Name="ProductModel1" EntityType="AWModel.ProductModel1" />
+    <EntitySet Name="ProductModelProductDescription1" EntityType="AWModel.ProductModelProductDescription1" />
+    <EntitySet Name="SalesOrderDetail1" EntityType="AWModel.SalesOrderDetail1" />
+    <EntitySet Name="SalesOrderHeader1" EntityType="AWModel.SalesOrderHeader1" />
+    <AssociationSet Name="FK_CustomerAddress_Address_AddressID1" Association="AWModel.FK_CustomerAddress_Address_AddressID1">
+      <End Role="Address1" EntitySet="Address1" />
+      <End Role="CustomerAddress1" EntitySet="CustomerAddress1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderHeader_Address_BillTo_AddressID1" Association="AWModel.FK_SalesOrderHeader_Address_BillTo_AddressID1">
+      <End Role="Address1" EntitySet="Address1" />
+      <End Role="SalesOrderHeader1" EntitySet="SalesOrderHeader1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderHeader_Address_ShipTo_AddressID1" Association="AWModel.FK_SalesOrderHeader_Address_ShipTo_AddressID1">
+      <End Role="Address1" EntitySet="Address1" />
+      <End Role="SalesOrderHeader1" EntitySet="SalesOrderHeader1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CustomerAddress_Customer_CustomerID1" Association="AWModel.FK_CustomerAddress_Customer_CustomerID1">
+      <End Role="Customer1" EntitySet="Customers1" />
+      <End Role="CustomerAddress1" EntitySet="CustomerAddress1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderHeader_Customer_CustomerID1" Association="AWModel.FK_SalesOrderHeader_Customer_CustomerID1">
+      <End Role="Customer1" EntitySet="Customers1" />
+      <End Role="SalesOrderHeader1" EntitySet="SalesOrderHeader1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_ProductCategory_ProductCategoryID1" Association="AWModel.FK_Product_ProductCategory_ProductCategoryID1">
+      <End Role="ProductCategory1" EntitySet="ProductCategory1" />
+      <End Role="Product1" EntitySet="Product1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_ProductModel_ProductModelID1" Association="AWModel.FK_Product_ProductModel_ProductModelID1">
+      <End Role="ProductModel1" EntitySet="ProductModel1" />
+      <End Role="Product1" EntitySet="Product1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderDetail_Product_ProductID1" Association="AWModel.FK_SalesOrderDetail_Product_ProductID1">
+      <End Role="Product1" EntitySet="Product1" />
+      <End Role="SalesOrderDetail1" EntitySet="SalesOrderDetail1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID1" Association="AWModel.FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID1">
+      <End Role="ProductCategory1" EntitySet="ProductCategory1" />
+      <End Role="ProductCategory11" EntitySet="ProductCategory1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID1" Association="AWModel.FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID1">
+      <End Role="ProductDescription1" EntitySet="ProductDescription1" />
+      <End Role="ProductModelProductDescription1" EntitySet="ProductModelProductDescription1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductModelProductDescription_ProductModel_ProductModelID1" Association="AWModel.FK_ProductModelProductDescription_ProductModel_ProductModelID1">
+      <End Role="ProductModel1" EntitySet="ProductModel1" />
+      <End Role="ProductModelProductDescription1" EntitySet="ProductModelProductDescription1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID1" Association="AWModel.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID1">
+      <End Role="SalesOrderHeader1" EntitySet="SalesOrderHeader1" />
+      <End Role="SalesOrderDetail1" EntitySet="SalesOrderDetail1" />
+    </AssociationSet>
+    <EntitySet Name="C__MigrationHistory" EntityType="AWModel.C__MigrationHistory" />
+    <EntitySet Name="BuildVersions" EntityType="AWModel.BuildVersion" />
+    <EntitySet Name="Employees" EntityType="AWModel.Employee" />
+    <EntitySet Name="EmployeeInfs" EntityType="AWModel.EmployeeInf" />
+    <EntitySet Name="ErrorLogs" EntityType="AWModel.ErrorLog" />
+    <AssociationSet Name="FK_EmployeeInfEmployee" Association="AWModel.FK_EmployeeInfEmployee">
+      <End Role="Employee" EntitySet="Employees" />
+      <End Role="EmployeeInf" EntitySet="EmployeeInfs" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Attendees">
+    <Key>
+      <PropertyRef Name="AttendeeID" />
+    </Key>
+    <Property Name="AttendeeID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="LastName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="DateAdded" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="CarsSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Color" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FactoryId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="FactorySet" Relationship="AWModel.FK_CarsFactory" FromRole="CarsSet" ToRole="FactorySet" />
+  </EntityType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Nme" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="SName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="ProductTests" Relationship="AWModel.FK_ProductTestCustomer" FromRole="Customers" ToRole="ProductTests" />
+  </EntityType>
+  <EntityType Name="FactorySet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Town" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Cars_Id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CarsSet" Relationship="AWModel.FK_CarsFactory" FromRole="FactorySet" ToRole="CarsSet" />
+  </EntityType>
+  <EntityType Name="PersonName">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="FirstName" />
+      <PropertyRef Name="LastName" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="ProductTests">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Number" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Color" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Producer" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CustomerId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Customers" Relationship="AWModel.FK_ProductTestCustomer" FromRole="ProductTests" ToRole="Customers" />
+  </EntityType>
+  <EntityType Name="Address">
+    <Key>
+      <PropertyRef Name="AddressID" />
+    </Key>
+    <Property Name="AddressID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="AddressLine1" Type="String" Nullable="false" MaxLength="60" Unicode="true" FixedLength="false" />
+    <Property Name="AddressLine2" Type="String" MaxLength="60" Unicode="true" FixedLength="false" />
+    <Property Name="City" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="StateProvince" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CountryRegion" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="PostalCode" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="CustomerAddress" Relationship="AWModel.FK_CustomerAddress_Address_AddressID" FromRole="Address" ToRole="CustomerAddress" />
+    <NavigationProperty Name="SalesOrderHeader" Relationship="AWModel.FK_SalesOrderHeader_Address_BillTo_AddressID" FromRole="Address" ToRole="SalesOrderHeader" />
+    <NavigationProperty Name="SalesOrderHeader1" Relationship="AWModel.FK_SalesOrderHeader_Address_ShipTo_AddressID" FromRole="Address" ToRole="SalesOrderHeader" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="NameStyle" Type="Boolean" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Suffix" Type="String" MaxLength="10" Unicode="true" FixedLength="false" />
+    <Property Name="CompanyName" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="SalesPerson" Type="String" MaxLength="256" Unicode="true" FixedLength="false" />
+    <Property Name="EmailAddress" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Phone" Type="String" MaxLength="25" Unicode="true" FixedLength="false" />
+    <Property Name="PasswordHash" Type="String" Nullable="false" MaxLength="128" Unicode="false" FixedLength="false" />
+    <Property Name="PasswordSalt" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="CustomerAddress" Relationship="AWModel.FK_CustomerAddress_Customer_CustomerID" FromRole="Customer" ToRole="CustomerAddress" />
+    <NavigationProperty Name="SalesOrderHeader" Relationship="AWModel.FK_SalesOrderHeader_Customer_CustomerID" FromRole="Customer" ToRole="SalesOrderHeader" />
+  </EntityType>
+  <EntityType Name="CustomerAddress">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+      <PropertyRef Name="AddressID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int32" Nullable="false" />
+    <Property Name="AddressID" Type="Int32" Nullable="false" />
+    <Property Name="AddressType" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Address" Relationship="AWModel.FK_CustomerAddress_Address_AddressID" FromRole="CustomerAddress" ToRole="Address" />
+    <NavigationProperty Name="Customer" Relationship="AWModel.FK_CustomerAddress_Customer_CustomerID" FromRole="CustomerAddress" ToRole="Customer" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ProductNumber" Type="String" Nullable="false" MaxLength="25" Unicode="true" FixedLength="false" />
+    <Property Name="Color" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+    <Property Name="StandardCost" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="ListPrice" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="Size" Type="String" MaxLength="5" Unicode="true" FixedLength="false" />
+    <Property Name="Weight" Type="Decimal" Precision="8" Scale="2" />
+    <Property Name="ProductCategoryID" Type="Int32" />
+    <Property Name="ProductModelID" Type="Int32" />
+    <Property Name="SellStartDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="SellEndDate" Type="DateTime" Precision="3" />
+    <Property Name="DiscontinuedDate" Type="DateTime" Precision="3" />
+    <Property Name="ThumbNailPhoto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="ThumbnailPhotoFileName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="ProductCategory" Relationship="AWModel.FK_Product_ProductCategory_ProductCategoryID" FromRole="Product" ToRole="ProductCategory" />
+    <NavigationProperty Name="ProductModel" Relationship="AWModel.FK_Product_ProductModel_ProductModelID" FromRole="Product" ToRole="ProductModel" />
+    <NavigationProperty Name="SalesOrderDetail" Relationship="AWModel.FK_SalesOrderDetail_Product_ProductID" FromRole="Product" ToRole="SalesOrderDetail" />
+  </EntityType>
+  <EntityType Name="ProductCategory">
+    <Key>
+      <PropertyRef Name="ProductCategoryID" />
+    </Key>
+    <Property Name="ProductCategoryID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ParentProductCategoryID" Type="Int32" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Product" Relationship="AWModel.FK_Product_ProductCategory_ProductCategoryID" FromRole="ProductCategory" ToRole="Product" />
+    <NavigationProperty Name="ProductCategory1" Relationship="AWModel.FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID" FromRole="ProductCategory" ToRole="ProductCategory1" />
+    <NavigationProperty Name="ProductCategory2" Relationship="AWModel.FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID" FromRole="ProductCategory1" ToRole="ProductCategory" />
+  </EntityType>
+  <EntityType Name="ProductDescription">
+    <Key>
+      <PropertyRef Name="ProductDescriptionID" />
+    </Key>
+    <Property Name="ProductDescriptionID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="400" Unicode="true" FixedLength="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="ProductModelProductDescription" Relationship="AWModel.FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID" FromRole="ProductDescription" ToRole="ProductModelProductDescription" />
+  </EntityType>
+  <EntityType Name="ProductModel">
+    <Key>
+      <PropertyRef Name="ProductModelID" />
+    </Key>
+    <Property Name="ProductModelID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CatalogDescription" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Product" Relationship="AWModel.FK_Product_ProductModel_ProductModelID" FromRole="ProductModel" ToRole="Product" />
+    <NavigationProperty Name="ProductModelProductDescription" Relationship="AWModel.FK_ProductModelProductDescription_ProductModel_ProductModelID" FromRole="ProductModel" ToRole="ProductModelProductDescription" />
+  </EntityType>
+  <EntityType Name="ProductModelProductDescription">
+    <Key>
+      <PropertyRef Name="ProductModelID" />
+      <PropertyRef Name="ProductDescriptionID" />
+      <PropertyRef Name="Culture" />
+    </Key>
+    <Property Name="ProductModelID" Type="Int32" Nullable="false" />
+    <Property Name="ProductDescriptionID" Type="Int32" Nullable="false" />
+    <Property Name="Culture" Type="String" Nullable="false" MaxLength="6" Unicode="true" FixedLength="true" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="ProductDescription" Relationship="AWModel.FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID" FromRole="ProductModelProductDescription" ToRole="ProductDescription" />
+    <NavigationProperty Name="ProductModel" Relationship="AWModel.FK_ProductModelProductDescription_ProductModel_ProductModelID" FromRole="ProductModelProductDescription" ToRole="ProductModel" />
+  </EntityType>
+  <EntityType Name="SalesOrderDetail">
+    <Key>
+      <PropertyRef Name="SalesOrderID" />
+      <PropertyRef Name="SalesOrderDetailID" />
+    </Key>
+    <Property Name="SalesOrderID" Type="Int32" Nullable="false" />
+    <Property Name="SalesOrderDetailID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderQty" Type="Int16" Nullable="false" />
+    <Property Name="ProductID" Type="Int32" Nullable="false" />
+    <Property Name="UnitPrice" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="UnitPriceDiscount" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="LineTotal" Type="Decimal" Nullable="false" Precision="38" Scale="6" p1:StoreGeneratedPattern="Computed" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Product" Relationship="AWModel.FK_SalesOrderDetail_Product_ProductID" FromRole="SalesOrderDetail" ToRole="Product" />
+    <NavigationProperty Name="SalesOrderHeader" Relationship="AWModel.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" FromRole="SalesOrderDetail" ToRole="SalesOrderHeader" />
+  </EntityType>
+  <EntityType Name="SalesOrderHeader">
+    <Key>
+      <PropertyRef Name="SalesOrderID" />
+    </Key>
+    <Property Name="SalesOrderID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="RevisionNumber" Type="Byte" Nullable="false" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="DueDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ShipDate" Type="DateTime" Precision="3" />
+    <Property Name="Status" Type="Byte" Nullable="false" />
+    <Property Name="OnlineOrderFlag" Type="Boolean" Nullable="false" />
+    <Property Name="SalesOrderNumber" Type="String" Nullable="false" MaxLength="25" Unicode="true" FixedLength="false" p1:StoreGeneratedPattern="Computed" />
+    <Property Name="PurchaseOrderNumber" Type="String" MaxLength="25" Unicode="true" FixedLength="false" />
+    <Property Name="AccountNumber" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+    <Property Name="CustomerID" Type="Int32" Nullable="false" />
+    <Property Name="ShipToAddressID" Type="Int32" />
+    <Property Name="BillToAddressID" Type="Int32" />
+    <Property Name="ShipMethod" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreditCardApprovalCode" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="SubTotal" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="TaxAmt" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="Freight" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="TotalDue" Type="Decimal" Nullable="false" Precision="19" Scale="4" p1:StoreGeneratedPattern="Computed" />
+    <Property Name="Comment" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Address" Relationship="AWModel.FK_SalesOrderHeader_Address_BillTo_AddressID" FromRole="SalesOrderHeader" ToRole="Address" />
+    <NavigationProperty Name="Address1" Relationship="AWModel.FK_SalesOrderHeader_Address_ShipTo_AddressID" FromRole="SalesOrderHeader" ToRole="Address" />
+    <NavigationProperty Name="Customer" Relationship="AWModel.FK_SalesOrderHeader_Customer_CustomerID" FromRole="SalesOrderHeader" ToRole="Customer" />
+    <NavigationProperty Name="SalesOrderDetail" Relationship="AWModel.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" FromRole="SalesOrderHeader" ToRole="SalesOrderDetail" />
+  </EntityType>
+  <Association Name="FK_CarsFactory">
+    <End Role="CarsSet" Type="AWModel.CarsSet" Multiplicity="1" />
+    <End Role="FactorySet" Type="AWModel.FactorySet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CarsSet">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="FactorySet">
+        <PropertyRef Name="Cars_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductTestCustomer">
+    <End Role="Customers" Type="AWModel.Customers" Multiplicity="1" />
+    <End Role="ProductTests" Type="AWModel.ProductTests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductTests">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CustomerAddress_Address_AddressID">
+    <End Role="Address" Type="AWModel.Address" Multiplicity="1" />
+    <End Role="CustomerAddress" Type="AWModel.CustomerAddress" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address">
+        <PropertyRef Name="AddressID" />
+      </Principal>
+      <Dependent Role="CustomerAddress">
+        <PropertyRef Name="AddressID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderHeader_Address_BillTo_AddressID">
+    <End Role="Address" Type="AWModel.Address" Multiplicity="0..1" />
+    <End Role="SalesOrderHeader" Type="AWModel.SalesOrderHeader" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address">
+        <PropertyRef Name="AddressID" />
+      </Principal>
+      <Dependent Role="SalesOrderHeader">
+        <PropertyRef Name="BillToAddressID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderHeader_Address_ShipTo_AddressID">
+    <End Role="Address" Type="AWModel.Address" Multiplicity="0..1" />
+    <End Role="SalesOrderHeader" Type="AWModel.SalesOrderHeader" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address">
+        <PropertyRef Name="AddressID" />
+      </Principal>
+      <Dependent Role="SalesOrderHeader">
+        <PropertyRef Name="ShipToAddressID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CustomerAddress_Customer_CustomerID">
+    <End Role="Customer" Type="AWModel.Customer" Multiplicity="1" />
+    <End Role="CustomerAddress" Type="AWModel.CustomerAddress" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="CustomerAddress">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderHeader_Customer_CustomerID">
+    <End Role="Customer" Type="AWModel.Customer" Multiplicity="1" />
+    <End Role="SalesOrderHeader" Type="AWModel.SalesOrderHeader" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="SalesOrderHeader">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_ProductCategory_ProductCategoryID">
+    <End Role="ProductCategory" Type="AWModel.ProductCategory" Multiplicity="0..1" />
+    <End Role="Product" Type="AWModel.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategory">
+        <PropertyRef Name="ProductCategoryID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="ProductCategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_ProductModel_ProductModelID">
+    <End Role="ProductModel" Type="AWModel.ProductModel" Multiplicity="0..1" />
+    <End Role="Product" Type="AWModel.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductModel">
+        <PropertyRef Name="ProductModelID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="ProductModelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderDetail_Product_ProductID">
+    <End Role="Product" Type="AWModel.Product" Multiplicity="1" />
+    <End Role="SalesOrderDetail" Type="AWModel.SalesOrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="SalesOrderDetail">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID">
+    <End Role="ProductCategory" Type="AWModel.ProductCategory" Multiplicity="0..1" />
+    <End Role="ProductCategory1" Type="AWModel.ProductCategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategory">
+        <PropertyRef Name="ProductCategoryID" />
+      </Principal>
+      <Dependent Role="ProductCategory1">
+        <PropertyRef Name="ParentProductCategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID">
+    <End Role="ProductDescription" Type="AWModel.ProductDescription" Multiplicity="1" />
+    <End Role="ProductModelProductDescription" Type="AWModel.ProductModelProductDescription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductDescription">
+        <PropertyRef Name="ProductDescriptionID" />
+      </Principal>
+      <Dependent Role="ProductModelProductDescription">
+        <PropertyRef Name="ProductDescriptionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductModelProductDescription_ProductModel_ProductModelID">
+    <End Role="ProductModel" Type="AWModel.ProductModel" Multiplicity="1" />
+    <End Role="ProductModelProductDescription" Type="AWModel.ProductModelProductDescription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductModel">
+        <PropertyRef Name="ProductModelID" />
+      </Principal>
+      <Dependent Role="ProductModelProductDescription">
+        <PropertyRef Name="ProductModelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID">
+    <End Role="SalesOrderHeader" Type="AWModel.SalesOrderHeader" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="SalesOrderDetail" Type="AWModel.SalesOrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesOrderHeader">
+        <PropertyRef Name="SalesOrderID" />
+      </Principal>
+      <Dependent Role="SalesOrderDetail">
+        <PropertyRef Name="SalesOrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Address1">
+    <Key>
+      <PropertyRef Name="AddressID" />
+    </Key>
+    <Property Type="Int32" Name="AddressID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="AddressLine1" Nullable="false" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="AddressLine2" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="City" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="StateProvince" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CountryRegion" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PostalCode" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="CustomerAddresses" Relationship="AWModel.FK_CustomerAddress_Address_AddressID1" FromRole="Address1" ToRole="CustomerAddress1" />
+    <NavigationProperty Name="SalesOrderHeaders" Relationship="AWModel.FK_SalesOrderHeader_Address_BillTo_AddressID1" FromRole="Address1" ToRole="SalesOrderHeader1" />
+    <NavigationProperty Name="SalesOrderHeaders1" Relationship="AWModel.FK_SalesOrderHeader_Address_ShipTo_AddressID1" FromRole="Address1" ToRole="SalesOrderHeader1" />
+  </EntityType>
+  <EntityType Name="Customer1">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Type="Int32" Name="CustomerID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Boolean" Name="NameStyle" Nullable="false" />
+    <Property Type="String" Name="Title" MaxLength="8" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="MiddleName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Suffix" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CompanyName" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SalesPerson" MaxLength="256" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="EmailAddress" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Phone" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PasswordHash" Nullable="false" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="PasswordSalt" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="CustomerAddresses" Relationship="AWModel.FK_CustomerAddress_Customer_CustomerID1" FromRole="Customer1" ToRole="CustomerAddress1" />
+    <NavigationProperty Name="SalesOrderHeaders" Relationship="AWModel.FK_SalesOrderHeader_Customer_CustomerID1" FromRole="Customer1" ToRole="SalesOrderHeader1" />
+  </EntityType>
+  <EntityType Name="CustomerAddress1">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+      <PropertyRef Name="AddressID" />
+    </Key>
+    <Property Type="Int32" Name="CustomerID" Nullable="false" />
+    <Property Type="Int32" Name="AddressID" Nullable="false" />
+    <Property Type="String" Name="AddressType" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Address" Relationship="AWModel.FK_CustomerAddress_Address_AddressID1" FromRole="CustomerAddress1" ToRole="Address1" />
+    <NavigationProperty Name="Customer" Relationship="AWModel.FK_CustomerAddress_Customer_CustomerID1" FromRole="CustomerAddress1" ToRole="Customer1" />
+  </EntityType>
+  <EntityType Name="Product1">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Type="Int32" Name="ProductID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ProductNumber" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Color" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="StandardCost" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="ListPrice" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="String" Name="Size" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="Weight" Precision="8" Scale="2" />
+    <Property Type="Int32" Name="ProductCategoryID" />
+    <Property Type="Int32" Name="ProductModelID" />
+    <Property Type="DateTime" Name="SellStartDate" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="SellEndDate" Precision="3" />
+    <Property Type="DateTime" Name="DiscontinuedDate" Precision="3" />
+    <Property Type="Binary" Name="ThumbNailPhoto" MaxLength="Max" FixedLength="false" />
+    <Property Type="String" Name="ThumbnailPhotoFileName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="ProductCategory" Relationship="AWModel.FK_Product_ProductCategory_ProductCategoryID1" FromRole="Product1" ToRole="ProductCategory1" />
+    <NavigationProperty Name="ProductModel" Relationship="AWModel.FK_Product_ProductModel_ProductModelID1" FromRole="Product1" ToRole="ProductModel1" />
+    <NavigationProperty Name="SalesOrderDetails" Relationship="AWModel.FK_SalesOrderDetail_Product_ProductID1" FromRole="Product1" ToRole="SalesOrderDetail1" />
+  </EntityType>
+  <EntityType Name="ProductCategory1">
+    <Key>
+      <PropertyRef Name="ProductCategoryID" />
+    </Key>
+    <Property Type="Int32" Name="ProductCategoryID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ParentProductCategoryID" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Products" Relationship="AWModel.FK_Product_ProductCategory_ProductCategoryID1" FromRole="ProductCategory1" ToRole="Product1" />
+    <NavigationProperty Name="ProductCategory11" Relationship="AWModel.FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID1" FromRole="ProductCategory1" ToRole="ProductCategory11" />
+    <NavigationProperty Name="ProductCategory2" Relationship="AWModel.FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID1" FromRole="ProductCategory11" ToRole="ProductCategory1" />
+  </EntityType>
+  <EntityType Name="ProductDescription1">
+    <Key>
+      <PropertyRef Name="ProductDescriptionID" />
+    </Key>
+    <Property Type="Int32" Name="ProductDescriptionID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Description" Nullable="false" MaxLength="400" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="ProductModelProductDescriptions" Relationship="AWModel.FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID1" FromRole="ProductDescription1" ToRole="ProductModelProductDescription1" />
+  </EntityType>
+  <EntityType Name="ProductModel1">
+    <Key>
+      <PropertyRef Name="ProductModelID" />
+    </Key>
+    <Property Type="Int32" Name="ProductModelID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CatalogDescription" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Products" Relationship="AWModel.FK_Product_ProductModel_ProductModelID1" FromRole="ProductModel1" ToRole="Product1" />
+    <NavigationProperty Name="ProductModelProductDescriptions" Relationship="AWModel.FK_ProductModelProductDescription_ProductModel_ProductModelID1" FromRole="ProductModel1" ToRole="ProductModelProductDescription1" />
+  </EntityType>
+  <EntityType Name="ProductModelProductDescription1">
+    <Key>
+      <PropertyRef Name="ProductModelID" />
+      <PropertyRef Name="ProductDescriptionID" />
+      <PropertyRef Name="Culture" />
+    </Key>
+    <Property Type="Int32" Name="ProductModelID" Nullable="false" />
+    <Property Type="Int32" Name="ProductDescriptionID" Nullable="false" />
+    <Property Type="String" Name="Culture" Nullable="false" MaxLength="6" FixedLength="true" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="ProductDescription" Relationship="AWModel.FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID1" FromRole="ProductModelProductDescription1" ToRole="ProductDescription1" />
+    <NavigationProperty Name="ProductModel" Relationship="AWModel.FK_ProductModelProductDescription_ProductModel_ProductModelID1" FromRole="ProductModelProductDescription1" ToRole="ProductModel1" />
+  </EntityType>
+  <EntityType Name="SalesOrderDetail1">
+    <Key>
+      <PropertyRef Name="SalesOrderID" />
+      <PropertyRef Name="SalesOrderDetailID" />
+    </Key>
+    <Property Type="Int32" Name="SalesOrderID" Nullable="false" />
+    <Property Type="Int32" Name="SalesOrderDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int16" Name="OrderQty" Nullable="false" />
+    <Property Type="Int32" Name="ProductID" Nullable="false" />
+    <Property Type="Decimal" Name="UnitPrice" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="UnitPriceDiscount" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="LineTotal" Nullable="false" Precision="38" Scale="6" annotation:StoreGeneratedPattern="Computed" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Product" Relationship="AWModel.FK_SalesOrderDetail_Product_ProductID1" FromRole="SalesOrderDetail1" ToRole="Product1" />
+    <NavigationProperty Name="SalesOrderHeader" Relationship="AWModel.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID1" FromRole="SalesOrderDetail1" ToRole="SalesOrderHeader1" />
+  </EntityType>
+  <EntityType Name="SalesOrderHeader1">
+    <Key>
+      <PropertyRef Name="SalesOrderID" />
+    </Key>
+    <Property Type="Int32" Name="SalesOrderID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Byte" Name="RevisionNumber" Nullable="false" />
+    <Property Type="DateTime" Name="OrderDate" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="DueDate" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="ShipDate" Precision="3" />
+    <Property Type="Byte" Name="Status" Nullable="false" />
+    <Property Type="Boolean" Name="OnlineOrderFlag" Nullable="false" />
+    <Property Type="String" Name="SalesOrderNumber" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" annotation:StoreGeneratedPattern="Computed" />
+    <Property Type="String" Name="PurchaseOrderNumber" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="AccountNumber" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CustomerID" Nullable="false" />
+    <Property Type="Int32" Name="ShipToAddressID" />
+    <Property Type="Int32" Name="BillToAddressID" />
+    <Property Type="String" Name="ShipMethod" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CreditCardApprovalCode" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="SubTotal" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="TaxAmt" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="Freight" Nullable="false" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="TotalDue" Nullable="false" Precision="19" Scale="4" annotation:StoreGeneratedPattern="Computed" />
+    <Property Type="String" Name="Comment" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Guid" Name="rowguid" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Address" Relationship="AWModel.FK_SalesOrderHeader_Address_BillTo_AddressID1" FromRole="SalesOrderHeader1" ToRole="Address1" />
+    <NavigationProperty Name="Address1" Relationship="AWModel.FK_SalesOrderHeader_Address_ShipTo_AddressID1" FromRole="SalesOrderHeader1" ToRole="Address1" />
+    <NavigationProperty Name="Customer" Relationship="AWModel.FK_SalesOrderHeader_Customer_CustomerID1" FromRole="SalesOrderHeader1" ToRole="Customer1" />
+    <NavigationProperty Name="SalesOrderDetails" Relationship="AWModel.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID1" FromRole="SalesOrderHeader1" ToRole="SalesOrderDetail1" />
+  </EntityType>
+  <Association Name="FK_CustomerAddress_Address_AddressID1">
+    <End Type="AWModel.Address1" Role="Address1" Multiplicity="1" />
+    <End Type="AWModel.CustomerAddress1" Role="CustomerAddress1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address1">
+        <PropertyRef Name="AddressID" />
+      </Principal>
+      <Dependent Role="CustomerAddress1">
+        <PropertyRef Name="AddressID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderHeader_Address_BillTo_AddressID1">
+    <End Type="AWModel.Address1" Role="Address1" Multiplicity="0..1" />
+    <End Type="AWModel.SalesOrderHeader1" Role="SalesOrderHeader1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address1">
+        <PropertyRef Name="AddressID" />
+      </Principal>
+      <Dependent Role="SalesOrderHeader1">
+        <PropertyRef Name="BillToAddressID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderHeader_Address_ShipTo_AddressID1">
+    <End Type="AWModel.Address1" Role="Address1" Multiplicity="0..1" />
+    <End Type="AWModel.SalesOrderHeader1" Role="SalesOrderHeader1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address1">
+        <PropertyRef Name="AddressID" />
+      </Principal>
+      <Dependent Role="SalesOrderHeader1">
+        <PropertyRef Name="ShipToAddressID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CustomerAddress_Customer_CustomerID1">
+    <End Type="AWModel.Customer1" Role="Customer1" Multiplicity="1" />
+    <End Type="AWModel.CustomerAddress1" Role="CustomerAddress1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer1">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="CustomerAddress1">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderHeader_Customer_CustomerID1">
+    <End Type="AWModel.Customer1" Role="Customer1" Multiplicity="1" />
+    <End Type="AWModel.SalesOrderHeader1" Role="SalesOrderHeader1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer1">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="SalesOrderHeader1">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_ProductCategory_ProductCategoryID1">
+    <End Type="AWModel.ProductCategory1" Role="ProductCategory1" Multiplicity="0..1" />
+    <End Type="AWModel.Product1" Role="Product1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategory1">
+        <PropertyRef Name="ProductCategoryID" />
+      </Principal>
+      <Dependent Role="Product1">
+        <PropertyRef Name="ProductCategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_ProductModel_ProductModelID1">
+    <End Type="AWModel.ProductModel1" Role="ProductModel1" Multiplicity="0..1" />
+    <End Type="AWModel.Product1" Role="Product1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductModel1">
+        <PropertyRef Name="ProductModelID" />
+      </Principal>
+      <Dependent Role="Product1">
+        <PropertyRef Name="ProductModelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderDetail_Product_ProductID1">
+    <End Type="AWModel.Product1" Role="Product1" Multiplicity="1" />
+    <End Type="AWModel.SalesOrderDetail1" Role="SalesOrderDetail1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product1">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="SalesOrderDetail1">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductCategory_ProductCategory_ParentProductCategoryID_ProductCategoryID1">
+    <End Type="AWModel.ProductCategory1" Role="ProductCategory1" Multiplicity="0..1" />
+    <End Type="AWModel.ProductCategory1" Role="ProductCategory11" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategory1">
+        <PropertyRef Name="ProductCategoryID" />
+      </Principal>
+      <Dependent Role="ProductCategory11">
+        <PropertyRef Name="ParentProductCategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID1">
+    <End Type="AWModel.ProductDescription1" Role="ProductDescription1" Multiplicity="1" />
+    <End Type="AWModel.ProductModelProductDescription1" Role="ProductModelProductDescription1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductDescription1">
+        <PropertyRef Name="ProductDescriptionID" />
+      </Principal>
+      <Dependent Role="ProductModelProductDescription1">
+        <PropertyRef Name="ProductDescriptionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductModelProductDescription_ProductModel_ProductModelID1">
+    <End Type="AWModel.ProductModel1" Role="ProductModel1" Multiplicity="1" />
+    <End Type="AWModel.ProductModelProductDescription1" Role="ProductModelProductDescription1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductModel1">
+        <PropertyRef Name="ProductModelID" />
+      </Principal>
+      <Dependent Role="ProductModelProductDescription1">
+        <PropertyRef Name="ProductModelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID1">
+    <End Type="AWModel.SalesOrderHeader1" Role="SalesOrderHeader1" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="AWModel.SalesOrderDetail1" Role="SalesOrderDetail1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesOrderHeader1">
+        <PropertyRef Name="SalesOrderID" />
+      </Principal>
+      <Dependent Role="SalesOrderDetail1">
+        <PropertyRef Name="SalesOrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="C__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+    </Key>
+    <Property Type="String" Name="MigrationId" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Binary" Name="Model" Nullable="false" MaxLength="Max" FixedLength="false" />
+    <Property Type="String" Name="ProductVersion" Nullable="false" MaxLength="32" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="BuildVersion">
+    <Key>
+      <PropertyRef Name="SystemInformationID" />
+      <PropertyRef Name="Database_Version" />
+      <PropertyRef Name="VersionDate" />
+      <PropertyRef Name="ModifiedDate" />
+    </Key>
+    <Property Type="Byte" Name="SystemInformationID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Database_Version" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="VersionDate" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="EmployeeInfs" Relationship="AWModel.FK_EmployeeInfEmployee" FromRole="Employee" ToRole="EmployeeInf" />
+  </EntityType>
+  <EntityType Name="EmployeeInf">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Gender" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="Phone" Nullable="false" />
+    <Property Type="Int32" Name="Employee_Id" Nullable="false" />
+    <NavigationProperty Name="Employee" Relationship="AWModel.FK_EmployeeInfEmployee" FromRole="EmployeeInf" ToRole="Employee" />
+  </EntityType>
+  <EntityType Name="ErrorLog">
+    <Key>
+      <PropertyRef Name="ErrorLogID" />
+    </Key>
+    <Property Type="Int32" Name="ErrorLogID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="ErrorTime" Nullable="false" Precision="3" />
+    <Property Type="String" Name="UserName" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ErrorNumber" Nullable="false" />
+    <Property Type="Int32" Name="ErrorSeverity" />
+    <Property Type="Int32" Name="ErrorState" />
+    <Property Type="String" Name="ErrorProcedure" MaxLength="126" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ErrorLine" />
+    <Property Type="String" Name="ErrorMessage" Nullable="false" MaxLength="4000" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_EmployeeInfEmployee">
+    <End Type="AWModel.Employee" Role="Employee" Multiplicity="1" />
+    <End Type="AWModel.EmployeeInf" Role="EmployeeInf" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmployeeInf">
+        <PropertyRef Name="Employee_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

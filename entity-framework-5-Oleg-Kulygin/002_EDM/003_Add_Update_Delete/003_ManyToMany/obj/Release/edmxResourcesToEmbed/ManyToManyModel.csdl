@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ManyToManyModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ManyToManyModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Students" EntityType="ManyToManyModel.Students" />
+    <EntitySet Name="Courses" EntityType="ManyToManyModel.Courses" />
+    <AssociationSet Name="StudentsCourses" Association="ManyToManyModel.StudentsCourses">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Courses" EntitySet="Courses" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FirstName" Nullable="false" />
+    <Property Type="String" Name="LastName" Nullable="false" />
+    <NavigationProperty Name="Courses" Relationship="ManyToManyModel.StudentsCourses" FromRole="Students" ToRole="Courses" />
+  </EntityType>
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <NavigationProperty Name="Students" Relationship="ManyToManyModel.StudentsCourses" FromRole="Courses" ToRole="Students" />
+  </EntityType>
+  <Association Name="StudentsCourses">
+    <End Type="ManyToManyModel.Students" Role="Students" Multiplicity="*" />
+    <End Type="ManyToManyModel.Courses" Role="Courses" Multiplicity="*" />
+  </Association>
+</Schema>

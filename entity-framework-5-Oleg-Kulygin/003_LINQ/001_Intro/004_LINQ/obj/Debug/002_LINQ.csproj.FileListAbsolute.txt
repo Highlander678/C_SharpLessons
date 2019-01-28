@@ -1,0 +1,6 @@
+D:\Cources\EF\Lesson3\004_LINQ\bin\Debug\004_LINQ.exe.config
+D:\Cources\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.exe
+D:\Cources\EF\Lesson3\004_LINQ\obj\Debug\004_LINQ.pdb
+D:\Cources\EF\Lesson3\004_LINQ\bin\Debug\004_LINQ.exe
+D:\Cources\EF\Lesson3\004_LINQ\bin\Debug\004_LINQ.pdb
+D:\Cources\EF\Lesson3\004_LINQ\obj\Debug\002_LINQ.csprojResolveAssemblyReference.cache
