@@ -1,0 +1,9 @@
+D:\Facade\Facade\bin\Debug\Facade.exe
+D:\Facade\Facade\bin\Debug\Facade.pdb
+D:\Facade\Facade\obj\Debug\ResolveAssemblyReference.cache
+D:\Facade\Facade\obj\Debug\Facade.exe
+D:\Facade\Facade\obj\Debug\Facade.pdb
+D:\DEVELOP\DESIGN PATTERN\Structural СТРУКТУРНЫЕ\Facade\001_Facade\Facade\obj\Debug\Facade.exe
+D:\DEVELOP\DESIGN PATTERN\Structural СТРУКТУРНЫЕ\Facade\001_Facade\Facade\obj\Debug\Facade.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Facade\001_Facade\Facade\obj\Debug\Facade.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Facade\001_Facade\Facade\obj\Debug\Facade.pdb

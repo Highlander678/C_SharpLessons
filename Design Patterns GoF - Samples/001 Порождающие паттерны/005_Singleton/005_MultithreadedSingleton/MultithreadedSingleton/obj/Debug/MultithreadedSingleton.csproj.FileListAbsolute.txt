@@ -1,0 +1,10 @@
+D:\MultithreadedSingleton\MultithreadedSingleton\bin\Debug\MultithreadedSingleton.exe
+D:\MultithreadedSingleton\MultithreadedSingleton\bin\Debug\MultithreadedSingleton.pdb
+D:\MultithreadedSingleton\MultithreadedSingleton\obj\Debug\MultithreadedSingleton.csprojResolveAssemblyReference.cache
+D:\MultithreadedSingleton\MultithreadedSingleton\obj\Debug\MultithreadedSingleton.exe
+D:\MultithreadedSingleton\MultithreadedSingleton\obj\Debug\MultithreadedSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MultithreadedSingleton\obj\Debug\MultithreadedSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MultithreadedSingleton\obj\Debug\MultithreadedSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MultithreadedSingleton\bin\Debug\MultithreadedSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MultithreadedSingleton\bin\Debug\MultithreadedSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MultithreadedSingleton\obj\Debug\MultithreadedSingleton.csprojResolveAssemblyReference.cache

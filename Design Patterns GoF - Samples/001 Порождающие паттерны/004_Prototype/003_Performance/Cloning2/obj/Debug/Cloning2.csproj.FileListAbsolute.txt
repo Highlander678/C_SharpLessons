@@ -1,0 +1,5 @@
+D:\Cloning\Cloning2\bin\Debug\Cloning2.exe.config
+D:\Cloning\Cloning2\bin\Debug\Cloning2.exe
+D:\Cloning\Cloning2\bin\Debug\Cloning2.pdb
+D:\Cloning\Cloning2\obj\Debug\Cloning2.exe
+D:\Cloning\Cloning2\obj\Debug\Cloning2.pdb

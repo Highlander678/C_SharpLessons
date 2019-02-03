@@ -1,0 +1,14 @@
+D:\PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.exe.config
+D:\PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.csprojResolveAssemblyReference.cache
+D:\PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.exe
+D:\PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.pdb
+D:\PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.exe
+D:\PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\003_PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\003_PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\003_PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\003_PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\003_PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.csprojResolveAssemblyReference.cache

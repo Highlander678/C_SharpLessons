@@ -1,0 +1,11 @@
+D:\ObjectClass\ObjectClass\bin\Debug\ObjectClass.exe.config
+D:\ObjectClass\ObjectClass\bin\Debug\ObjectClass.exe
+D:\ObjectClass\ObjectClass\bin\Debug\ObjectClass.pdb
+D:\ObjectClass\ObjectClass\obj\Debug\ObjectClass.csprojResolveAssemblyReference.cache
+D:\ObjectClass\ObjectClass\obj\Debug\ObjectClass.exe
+D:\ObjectClass\ObjectClass\obj\Debug\ObjectClass.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\004_ObjectClass\ObjectClass\obj\Debug\ObjectClass.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\004_ObjectClass\ObjectClass\obj\Debug\ObjectClass.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\004_ObjectClass\ObjectClass\bin\Debug\ObjectClass.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\004_ObjectClass\ObjectClass\bin\Debug\ObjectClass.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\004_ObjectClass\ObjectClass\obj\Debug\ObjectClass.csprojResolveAssemblyReference.cache

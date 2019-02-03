@@ -1,0 +1,33 @@
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\008_Composite\001_Composite\Composite\obj\Debug\Composite.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\008_Composite\001_Composite\Composite\obj\Debug\Composite.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\008_Composite\001_Composite\Composite\bin\Debug\Composite.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\008_Composite\001_Composite\Composite\bin\Debug\Composite.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\008_Composite\001_Composite\Composite\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\008_Composite\001_Composite\Composite\obj\Debug\Composite.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\008_Composite\001_Composite\Composite\obj\Debug\Composite.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\obj\Debug\Composite.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\obj\Debug\Composite.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\bin\Debug\Composite.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\bin\Debug\Composite.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\obj\Debug\Composite.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\obj\Debug\Composite.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\bin\Debug\Composite.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\bin\Debug\Composite.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\008_Composite\001_Composite\Composite\obj\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\001_Composite\Composite\obj\Debug\Composite.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\001_Composite\Composite\obj\Debug\Composite.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\001_Composite\Composite\obj\Debug\Composite.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\001_Composite\Composite\obj\Debug\Composite.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\001_Composite\Composite\bin\Debug\Composite.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\001_Composite\Composite\bin\Debug\Composite.pdb
+D:\001_RecursionComposition\Composite\obj\Debug\Composite.exe
+D:\001_RecursionComposition\Composite\obj\Debug\Composite.pdb
+D:\001_RecursionComposition\Composite\bin\Debug\Composite.exe
+D:\001_RecursionComposition\Composite\bin\Debug\Composite.pdb
+D:\001_RecursionComposition\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\003_RecursionComposition\Composite\obj\Debug\Composite.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\003_RecursionComposition\Composite\obj\Debug\Composite.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\003_RecursionComposition\Composite\bin\Debug\Composite.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\003_RecursionComposition\Composite\bin\Debug\Composite.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\003_RecursionComposition\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Features\Features\bin\Debug\Features.exe.config
+D:\Features\Features\bin\Debug\Features.exe
+D:\Features\Features\bin\Debug\Features.pdb
+D:\Features\Features\obj\Debug\Features_1.csprojResolveAssemblyReference.cache
+D:\Features\Features\obj\Debug\Features.exe
+D:\Features\Features\obj\Debug\Features.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\005_Features\Features\bin\Debug\Features.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\005_Features\Features\obj\Debug\Features.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\005_Features\Features\obj\Debug\Features.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\005_Features\Features\bin\Debug\Features.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\005_Features\Features\bin\Debug\Features.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\005_Features\Features\obj\Debug\Features_1.csprojResolveAssemblyReference.cache

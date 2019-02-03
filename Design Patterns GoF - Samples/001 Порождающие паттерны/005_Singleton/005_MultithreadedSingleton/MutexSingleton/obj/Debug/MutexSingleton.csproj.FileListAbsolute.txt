@@ -1,0 +1,5 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MutexSingleton\bin\Debug\MutexSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MutexSingleton\bin\Debug\MutexSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MutexSingleton\obj\Debug\MutexSingleton.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MutexSingleton\obj\Debug\MutexSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_MultithreadedSingleton\MutexSingleton\obj\Debug\MutexSingleton.pdb

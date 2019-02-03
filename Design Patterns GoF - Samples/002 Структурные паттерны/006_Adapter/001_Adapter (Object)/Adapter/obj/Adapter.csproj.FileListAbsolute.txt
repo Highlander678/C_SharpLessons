@@ -1,0 +1,12 @@
+D:\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Adapter\Adapter\obj\Debug\ResolveAssemblyReference.cache
+D:\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\DEVELOP\DESIGN PATTERN\Structural СТРУКТУРНЫЕ\Adapter\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\DEVELOP\DESIGN PATTERN\Structural СТРУКТУРНЫЕ\Adapter\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Adapter\001_Adapter\Adapter\obj\Debug\Adapter.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Adapter\001_Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Adapter\001_Adapter\Adapter\bin\Debug\Adapter.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Adapter\001_Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Adapter\001_Adapter\Adapter\obj\Debug\ResolveAssemblyReference.cache

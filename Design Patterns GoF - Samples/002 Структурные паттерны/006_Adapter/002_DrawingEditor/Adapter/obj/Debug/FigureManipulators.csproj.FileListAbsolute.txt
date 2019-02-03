@@ -1,0 +1,29 @@
+c:\users\rise\documents\visual studio 2012\Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.pdb
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Properties.Resources.resources
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csproj.GenerateResource.Cache
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Form1.resources
+C:\Users\Rise\documents\visual studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.pdb
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Form1.resources
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Properties.Resources.resources
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Visual Studio Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+C:\Users\Student\Desktop\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+C:\Users\Student\Desktop\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.pdb
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Form1.resources
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csproj.GenerateResource.Cache

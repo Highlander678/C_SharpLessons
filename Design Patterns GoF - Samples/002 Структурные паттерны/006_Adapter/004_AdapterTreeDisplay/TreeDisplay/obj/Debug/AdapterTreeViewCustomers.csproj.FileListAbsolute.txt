@@ -1,0 +1,9 @@
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\bin\Debug\AdapterTreeViewCustomers.exe.config
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\bin\Debug\AdapterTreeViewCustomers.exe
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\bin\Debug\AdapterTreeViewCustomers.pdb
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\obj\Debug\AdapterTreeViewCustomers.Properties.Resources.resources
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\obj\Debug\AdapterTreeViewCustomers.csproj.GenerateResource.Cache
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\obj\Debug\AdapterTreeViewCustomers.exe
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\obj\Debug\AdapterTreeViewCustomers.pdb
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\obj\Debug\AdapterTreeViewCustomers.csprojResolveAssemblyReference.cache
+D:\AdapterTreeDisplay\AdapterTreeViewCustomers\obj\Debug\AdapterTreeViewCustomers.Form1.resources

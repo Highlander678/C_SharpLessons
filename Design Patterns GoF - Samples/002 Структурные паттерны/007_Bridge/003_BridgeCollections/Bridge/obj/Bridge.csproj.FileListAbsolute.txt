@@ -1,0 +1,12 @@
+D:\Bridge\Bridge\bin\Debug\Bridge.exe
+D:\Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\Bridge\Bridge\obj\Debug\ResolveAssemblyReference.cache
+D:\Bridge\Bridge\obj\Debug\Bridge.exe
+D:\Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\DEVELOP\DESIGN PATTERN\Structural СТРУКТУРНЫЕ\Bridge\Bridge\Bridge\obj\Debug\Bridge.exe
+D:\DEVELOP\DESIGN PATTERN\Structural СТРУКТУРНЫЕ\Bridge\Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Bridge\001_Bridge\Bridge\obj\Debug\Bridge.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Bridge\001_Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Bridge\001_Bridge\Bridge\bin\Debug\Bridge.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Bridge\001_Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Bridge\001_Bridge\Bridge\obj\Debug\ResolveAssemblyReference.cache

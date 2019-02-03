@@ -1,0 +1,13 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\TreeDisplay_2.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\TreeDisplay_2.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\bin\Debug\AdapterTreeViewCustomers.exe.manifest
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\bin\Debug\AdapterTreeViewCustomers.application
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\bin\Debug\AdapterTreeViewCustomers.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\bin\Debug\AdapterTreeViewCustomers.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.TrustInfo.xml
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.exe.manifest
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.application

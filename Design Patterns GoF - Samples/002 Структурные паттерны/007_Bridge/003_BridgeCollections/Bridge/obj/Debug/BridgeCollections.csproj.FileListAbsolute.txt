@@ -1,0 +1,7 @@
+D:\003_BridgeCollections\Bridge\bin\Debug\Bridge.exe
+D:\003_BridgeCollections\Bridge\bin\Debug\Bridge.pdb
+D:\003_BridgeCollections\Bridge\obj\Debug\BridgeCollections.csprojResolveAssemblyReference.cache
+D:\003_BridgeCollections\Bridge\obj\Debug\Bridge.exe
+D:\003_BridgeCollections\Bridge\obj\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\003_BridgeCollections\Bridge\obj\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\003_BridgeCollections\Bridge\obj\Debug\Bridge.pdb

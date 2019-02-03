@@ -1,0 +1,60 @@
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.pdb
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\Adapter.Form1.resources
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\Adapter.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\Adapter.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\FigureManipulators\obj\Debug\FigureManipulators.exe
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\FigureManipulators\obj\Debug\FigureManipulators.pdb
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\FigureManipulators\bin\Debug\Adapter.exe.config
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.exe
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.Form1.resources
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.exe
+C:\Users\Vladislav\Desktop\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.pdb
+G:\Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.exe.config
+G:\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.exe
+G:\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.pdb
+D:\PATTERNS\Students Samples\006_Adapter\Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.exe.config
+D:\PATTERNS\Students Samples\006_Adapter\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.exe
+D:\PATTERNS\Students Samples\006_Adapter\Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.pdb
+D:\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.exe.config
+D:\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.exe
+D:\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.pdb
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.exe.config
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.exe
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.pdb
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.exe
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\bin\Debug\Adapter.pdb
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.Form1.resources
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.Properties.Resources.resources
+D:\CBS\PATTERNS\Students Samples\006_Adapter\Motiv_Adapter_Vlad_Pokolenko\Adapter\obj\Debug\Adapter.csproj.GenerateResource.Cache
+D:\CBS\PATTERNS\New folder\006_Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\CBS\PATTERNS\New folder\006_Adapter\Adapter\obj\Debug\Adapter.exe
+D:\CBS\PATTERNS\New folder\006_Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\obj\Debug\Adapter.Form1.resources
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\obj\Debug\Adapter.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Паттерны\006_Adapter\Adapter\obj\Debug\Adapter.csproj.GenerateResource.Cache
+D:\PATTERNS\Motivations\006_Adapter\Adapter\obj\Debug\Adapter.exe
+D:\PATTERNS\Motivations\006_Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\PATTERNS\Motivations\006_Adapter\Adapter\bin\Debug\Adapter.exe
+D:\PATTERNS\Motivations\006_Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\PATTERNS\Motivations\006_Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Motivations\006_Adapter\Adapter\obj\Debug\Adapter.Form1.resources
+D:\PATTERNS\Motivations\006_Adapter\Adapter\obj\Debug\Adapter.Properties.Resources.resources
+D:\PATTERNS\Motivations\006_Adapter\Adapter\obj\Debug\Adapter.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\002_DrawingEditor\Adapter\obj\Debug\Adapter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\002_DrawingEditor\Adapter\obj\Debug\Adapter.pdb

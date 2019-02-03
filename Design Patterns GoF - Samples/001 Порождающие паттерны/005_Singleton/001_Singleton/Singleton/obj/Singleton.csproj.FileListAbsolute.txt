@@ -1,0 +1,12 @@
+D:\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Singleton\Singleton\obj\Debug\ResolveAssemblyReference.cache
+D:\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Singleton\001_Singleton\Singleton\obj\Debug\Singleton.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Singleton\001_Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Singleton\001_Singleton\Singleton\obj\Debug\Singleton.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Singleton\001_Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Singleton\001_Singleton\Singleton\bin\Debug\Singleton.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Singleton\001_Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Singleton\001_Singleton\Singleton\obj\Debug\ResolveAssemblyReference.cache

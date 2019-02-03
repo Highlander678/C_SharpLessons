@@ -1,0 +1,2 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\004_RegistSingleton\RegistSingleton\obj\Debug\RegistSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\004_RegistSingleton\RegistSingleton\obj\Debug\RegistSingleton.pdb

@@ -1,0 +1,10 @@
+D:\SerializationSingleton\SerializationSingleton\bin\Debug\SerializationSingleton.exe
+D:\SerializationSingleton\SerializationSingleton\bin\Debug\SerializationSingleton.pdb
+D:\SerializationSingleton\SerializationSingleton\obj\Debug\SerializationSingleton.csprojResolveAssemblyReference.cache
+D:\SerializationSingleton\SerializationSingleton\obj\Debug\SerializationSingleton.exe
+D:\SerializationSingleton\SerializationSingleton\obj\Debug\SerializationSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\006_SerializationSingleton\SerializationSingleton\obj\Debug\SerializationSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\006_SerializationSingleton\SerializationSingleton\obj\Debug\SerializationSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\006_SerializationSingleton\SerializationSingleton\bin\Debug\SerializationSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\006_SerializationSingleton\SerializationSingleton\bin\Debug\SerializationSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\006_SerializationSingleton\SerializationSingleton\obj\Debug\SerializationSingleton.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Cloning\Cloning\bin\Debug\Cloning.exe.config
+D:\Cloning\Cloning\bin\Debug\Cloning.exe
+D:\Cloning\Cloning\bin\Debug\Cloning.pdb
+D:\Cloning\Cloning\obj\Debug\Cloning.csprojResolveAssemblyReference.cache
+D:\Cloning\Cloning\obj\Debug\Cloning.exe
+D:\Cloning\Cloning\obj\Debug\Cloning.pdb

@@ -1,0 +1,9 @@
+D:\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\001_Adapter (Class)\Adapter\obj\Debug\Adapter.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\001_Adapter (Class)\Adapter\obj\Debug\Adapter.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\001_Adapter (Class)\Adapter\obj\Debug\Adapter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\001_Adapter (Class)\Adapter\obj\Debug\Adapter.pdb

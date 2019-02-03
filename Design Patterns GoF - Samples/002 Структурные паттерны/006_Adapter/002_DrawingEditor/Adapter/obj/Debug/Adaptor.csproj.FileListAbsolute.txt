@@ -1,0 +1,9 @@
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.pdb
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\Adaptor.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\Adaptor.Form1.resources
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\Adaptor.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\Adaptor.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+C:\Users\Vladislav\Desktop\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb

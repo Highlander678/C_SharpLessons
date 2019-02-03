@@ -1,0 +1,17 @@
+D:\Cloning\Cloning\bin\Debug\Cloning.exe.config
+D:\Cloning\Cloning\bin\Debug\Cloning.exe
+D:\Cloning\Cloning\bin\Debug\Cloning.pdb
+D:\Cloning\Cloning\obj\Debug\Cloning.exe
+D:\Cloning\Cloning\obj\Debug\Cloning.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning\bin\Debug\Cloning.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning\obj\Debug\Cloning.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning\obj\Debug\Cloning.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning\bin\Debug\Cloning.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning\bin\Debug\Cloning.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Замеры производительности клонирования\Cloning\obj\Debug\001_MemberwiseClone.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning\bin\Debug\Cloning.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning\obj\Debug\Cloning.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning\obj\Debug\Cloning.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning\bin\Debug\Cloning.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning\bin\Debug\Cloning.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_Performance\Cloning\obj\Debug\001_MemberwiseClone.csprojResolveAssemblyReference.cache

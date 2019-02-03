@@ -1,0 +1,25 @@
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\005_Singleton\001_Singleton\Singleton\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\001_Creational Порождающие\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\001_Creational Порождающие\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\001_Creational Порождающие\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\001_Creational Порождающие\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\001_Creational Порождающие\005_Singleton\001_Singleton\Singleton\obj\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\001_Singleton\Singleton\bin\Debug\Singleton.pdb

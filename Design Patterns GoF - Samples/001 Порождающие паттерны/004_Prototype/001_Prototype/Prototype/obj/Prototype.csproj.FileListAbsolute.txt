@@ -1,0 +1,12 @@
+D:\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\Prototype\Prototype\obj\Debug\ResolveAssemblyReference.cache
+D:\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Prototype\001_Prototype\Prototype\obj\Debug\Prototype.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Prototype\001_Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Prototype\001_Prototype\Prototype\obj\Debug\Prototype.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Prototype\001_Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Prototype\001_Prototype\Prototype\bin\Debug\Prototype.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Prototype\001_Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Prototype\001_Prototype\Prototype\obj\Debug\ResolveAssemblyReference.cache

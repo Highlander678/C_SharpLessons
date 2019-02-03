@@ -1,0 +1,10 @@
+D:\LazySingleton\LazySingleton\bin\Debug\LazySingleton.exe
+D:\LazySingleton\LazySingleton\bin\Debug\LazySingleton.pdb
+D:\LazySingleton\LazySingleton\obj\Debug\LazySingleton.csprojResolveAssemblyReference.cache
+D:\LazySingleton\LazySingleton\obj\Debug\LazySingleton.exe
+D:\LazySingleton\LazySingleton\obj\Debug\LazySingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\007_LazySingleton\LazySingleton\obj\Debug\LazySingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\007_LazySingleton\LazySingleton\obj\Debug\LazySingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\007_LazySingleton\LazySingleton\bin\Debug\LazySingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\007_LazySingleton\LazySingleton\bin\Debug\LazySingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\007_LazySingleton\LazySingleton\obj\Debug\LazySingleton.csprojResolveAssemblyReference.cache

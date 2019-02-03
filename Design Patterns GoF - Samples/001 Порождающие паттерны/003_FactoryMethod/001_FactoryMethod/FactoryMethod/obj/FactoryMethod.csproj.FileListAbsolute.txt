@@ -1,0 +1,19 @@
+D:\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\FactoryMethod\FactoryMethod\obj\Debug\ResolveAssemblyReference.cache
+D:\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\DEVELOP\DESIGN PATTERN\Creational\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\DEVELOP\DESIGN PATTERN\Creational\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\ResolveAssemblyReference.cache
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\001_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\001_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\001_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\001_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\001_FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\001_FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\FactoryMethod\001_FactoryMethod\FactoryMethod\obj\Debug\ResolveAssemblyReference.cache

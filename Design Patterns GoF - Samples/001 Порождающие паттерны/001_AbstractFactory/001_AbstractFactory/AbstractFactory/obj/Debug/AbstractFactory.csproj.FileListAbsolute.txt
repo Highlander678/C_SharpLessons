@@ -1,0 +1,25 @@
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\001_Creational ПОРОЖДАЮЩИЕ\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\001_Creational Порождающие\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\001_Creational Порождающие\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\CBS\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\CBS\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\001_AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

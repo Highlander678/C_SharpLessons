@@ -1,0 +1,16 @@
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\009_Decorator\001_Decorator\Decorator\bin\Debug\Decorator.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\009_Decorator\001_Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\009_Decorator\001_Decorator\Decorator\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\001_Decorator\Decorator\bin\Debug\Decorator.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\001_Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\001_Decorator\Decorator\obj\Debug\Decorator.pdb

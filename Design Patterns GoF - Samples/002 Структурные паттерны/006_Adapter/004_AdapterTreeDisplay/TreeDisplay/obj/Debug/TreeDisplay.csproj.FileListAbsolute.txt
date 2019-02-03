@@ -1,0 +1,42 @@
+D:\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.exe.config
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.exe
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.pdb
+D:\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.exe
+D:\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.pdb
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\TreeDisplay.csprojResolveAssemblyReference.cache
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.Form1.resources
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.Properties.Resources.resources
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\TreeDisplay.csproj.GenerateResource.Cache
+D:\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.exe.manifest
+D:\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.application
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.TrustInfo.xml
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.exe.manifest
+D:\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.application
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay2\obj\Debug\AdapterTreeViewCustomers.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.exe.manifest
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.application
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\TreeDisplay.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\TreeDisplay.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.TrustInfo.xml
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.exe.manifest
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.application
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.exe.manifest
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.application
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\bin\Debug\AdapterTreeViewCustomers.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\TreeDisplay.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\TreeDisplay.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.TrustInfo.xml
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.exe.manifest
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\006_Adapter\004_AdapterTreeDisplay\TreeDisplay\obj\Debug\AdapterTreeViewCustomers.application

@@ -1,0 +1,9 @@
+D:\Composite\Composite\obj\Debug\ResolveAssemblyReference.cache
+D:\Composite\Composite\bin\Debug\Composite.exe
+D:\Composite\Composite\bin\Debug\Composite.pdb
+D:\Composite\Composite\obj\Debug\Composite.exe
+D:\Composite\Composite\obj\Debug\Composite.pdb
+D:\DEVELOP\DESIGN PATTERN\Structural СТРУКТУРНЫЕ\Composite\Composite\Composite\obj\Debug\Composite.exe
+D:\DEVELOP\DESIGN PATTERN\Structural СТРУКТУРНЫЕ\Composite\Composite\Composite\obj\Debug\Composite.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Composite\001_Composite\Composite\obj\Debug\Composite.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Composite\001_Composite\Composite\obj\Debug\Composite.pdb

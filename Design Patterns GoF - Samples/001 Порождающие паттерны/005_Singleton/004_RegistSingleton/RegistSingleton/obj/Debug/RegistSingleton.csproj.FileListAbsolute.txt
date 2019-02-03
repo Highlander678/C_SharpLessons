@@ -1,0 +1,27 @@
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\MultiSingleton\RegistSingleton\bin\Debug\RegistSingleton.exe.config
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\MultiSingleton\RegistSingleton\bin\Debug\RegistSingleton.exe
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\MultiSingleton\RegistSingleton\bin\Debug\RegistSingleton.pdb
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\MultiSingleton\RegistSingleton\obj\Debug\RegistSingleton.exe
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\MultiSingleton\RegistSingleton\obj\Debug\RegistSingleton.pdb
+D:\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\bin\Debug\RegistSingleton.exe.config
+D:\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\obj\Debug\RegistSingleton.exe
+D:\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\obj\Debug\RegistSingleton.pdb
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\bin\Debug\RegistSingleton.exe.config
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\obj\Debug\RegistSingleton.exe
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\obj\Debug\RegistSingleton.pdb
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\bin\Debug\RegistSingleton.exe
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\bin\Debug\RegistSingleton.pdb
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\RegistSingleton\obj\Debug\RegistSingleton.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\003_InheritanceSingleton\RegistSingleton\bin\Debug\RegistSingleton.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\003_InheritanceSingleton\RegistSingleton\obj\Debug\RegistSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\003_InheritanceSingleton\RegistSingleton\obj\Debug\RegistSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\004_RegistSingleton\RegistSingleton\obj\Debug\RegistSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\004_RegistSingleton\RegistSingleton\obj\Debug\RegistSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\004_RegistSingleton\RegistSingleton\obj\Debug\RegistSingleton.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\004_RegistSingleton\RegistSingleton\bin\Debug\RegistSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\004_RegistSingleton\RegistSingleton\bin\Debug\RegistSingleton.pdb
+D:\004_RegistSingleton\RegistSingleton\obj\Debug\RegistSingleton.exe
+D:\004_RegistSingleton\RegistSingleton\obj\Debug\RegistSingleton.pdb
+D:\004_RegistSingleton\RegistSingleton\obj\Debug\RegistSingleton.csprojResolveAssemblyReference.cache
+D:\004_RegistSingleton\RegistSingleton\bin\Debug\RegistSingleton.exe
+D:\004_RegistSingleton\RegistSingleton\bin\Debug\RegistSingleton.pdb

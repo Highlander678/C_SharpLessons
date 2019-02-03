@@ -1,0 +1,21 @@
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\007_Bridge\001_Bridge\Bridge\bin\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\007_Bridge\001_Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\007_Bridge\001_Bridge\Bridge\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\001_Bridge\Bridge\bin\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\001_Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\001_Bridge\Bridge\obj\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\001_Bridge\Bridge\bin\Debug\Bridge.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\001_Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\001_Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\003_BridgeCollections\Bridge\obj\Debug\Bridge.exe
+D:\003_BridgeCollections\Bridge\obj\Debug\Bridge.pdb

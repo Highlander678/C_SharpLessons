@@ -1,0 +1,17 @@
+D:\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\AbstractFactory\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\AbstractFactory\001_AbstractFactory_AbsClasses\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache

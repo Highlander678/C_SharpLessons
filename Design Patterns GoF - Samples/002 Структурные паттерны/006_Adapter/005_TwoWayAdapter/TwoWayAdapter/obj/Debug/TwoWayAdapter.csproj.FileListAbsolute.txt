@@ -1,0 +1,5 @@
+D:\TwoWayAdapter\TwoWayAdapter\bin\Debug\TwoWayAdapter.exe
+D:\TwoWayAdapter\TwoWayAdapter\bin\Debug\TwoWayAdapter.pdb
+D:\TwoWayAdapter\TwoWayAdapter\obj\Debug\TwoWayAdapter.csprojResolveAssemblyReference.cache
+D:\TwoWayAdapter\TwoWayAdapter\obj\Debug\TwoWayAdapter.exe
+D:\TwoWayAdapter\TwoWayAdapter\obj\Debug\TwoWayAdapter.pdb

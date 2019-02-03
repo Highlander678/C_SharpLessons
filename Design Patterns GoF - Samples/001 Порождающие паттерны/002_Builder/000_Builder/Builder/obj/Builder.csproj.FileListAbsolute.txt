@@ -1,0 +1,22 @@
+D:\Builder\Builder\bin\Debug\Builder.exe
+D:\Builder\Builder\bin\Debug\Builder.pdb
+D:\Builder\Builder\obj\Debug\ResolveAssemblyReference.cache
+D:\Builder\Builder\obj\Debug\Builder.exe
+D:\Builder\Builder\obj\Debug\Builder.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Builder\Builder\Builder\obj\Debug\Builder.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Builder\Builder\Builder\obj\Debug\Builder.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\obj\Debug\Builder.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\obj\Debug\Builder.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\bin\Debug\Builder.exe
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\bin\Debug\Builder.pdb
+D:\DEVELOP\DESIGN PATTERN\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\obj\Debug\ResolveAssemblyReference.cache
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\obj\Debug\Builder.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\obj\Debug\Builder.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\bin\Debug\Builder.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\bin\Debug\Builder.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\001_Builder\Builder\obj\Debug\ResolveAssemblyReference.cache
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\000_Builder\Builder\obj\Debug\Builder.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\000_Builder\Builder\obj\Debug\Builder.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\000_Builder\Builder\bin\Debug\Builder.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\000_Builder\Builder\bin\Debug\Builder.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Creational ПОРОЖДАЮЩИЕ\Builder\000_Builder\Builder\obj\Debug\ResolveAssemblyReference.cache

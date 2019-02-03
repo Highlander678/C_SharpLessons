@@ -1,0 +1,20 @@
+c:\users\rise\documents\visual studio 2012\Projects\MultiSingleton\MultiSingleton\bin\Debug\MultiSingleton.exe.config
+c:\users\rise\documents\visual studio 2012\Projects\MultiSingleton\MultiSingleton\bin\Debug\MultiSingleton.exe
+c:\users\rise\documents\visual studio 2012\Projects\MultiSingleton\MultiSingleton\bin\Debug\MultiSingleton.pdb
+c:\users\rise\documents\visual studio 2012\Projects\MultiSingleton\MultiSingleton\obj\Debug\MultiSingleton.csprojResolveAssemblyReference.cache
+c:\users\rise\documents\visual studio 2012\Projects\MultiSingleton\MultiSingleton\obj\Debug\MultiSingleton.exe
+c:\users\rise\documents\visual studio 2012\Projects\MultiSingleton\MultiSingleton\obj\Debug\MultiSingleton.pdb
+D:\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\MultiSingleton\bin\Debug\MultiSingleton.exe.config
+D:\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\MultiSingleton\obj\Debug\MultiSingleton.exe
+D:\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\MultiSingleton\obj\Debug\MultiSingleton.pdb
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\MultiSingleton\bin\Debug\MultiSingleton.exe.config
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\MultiSingleton\obj\Debug\MultiSingleton.exe
+D:\CBS\PATTERNS\Students Samples\005_Singleton\MultiSingleton_A_Vasilishin\MultiSingleton\obj\Debug\MultiSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_Singleton\MultiSingleton\bin\Debug\MultiSingleton.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_Singleton\MultiSingleton\obj\Debug\MultiSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\005_Singleton\MultiSingleton\obj\Debug\MultiSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\002_MultySingleton\MultiSingleton\obj\Debug\MultiSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\002_MultySingleton\MultiSingleton\obj\Debug\MultiSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\002_MultySingleton\MultiSingleton\bin\Debug\MultiSingleton.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\002_MultySingleton\MultiSingleton\bin\Debug\MultiSingleton.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\005_Singleton\002_MultySingleton\MultiSingleton\obj\Debug\MultiSingleton.csprojResolveAssemblyReference.cache
